@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./atvtracka.zip</path>
+		<name>ATV Track (set 2)</name>
+		<playcount>1</playcount>
+		<lastplayed>20220703T200438</lastplayed>
+		<gametime>52</gametime>
+	</game>
+	<game>
+		<path>./gfootbal.zip</path>
+		<name>Gaelco Football</name>
+		<playcount>1</playcount>
+		<lastplayed>20220703T200853</lastplayed>
+		<gametime>210</gametime>
+	</game>
+	<game>
+		<path>./atvtrack.zip</path>
+		<name>ATV Track (set 1)</name>
+		<playcount>1</playcount>
+		<lastplayed>20220703T200342</lastplayed>
+		<gametime>33</gametime>
+	</game>
+	<game>
+		<path>./rriders.zip</path>
+		<name>Ring Riders (Software version v2.2)</name>
+		<playcount>1</playcount>
+		<lastplayed>20220703T200939</lastplayed>
+		<gametime>33</gametime>
+	</game>
+	<game>
+		<path>./tuningrc.zip</path>
+		<name>Gaelco Championship Tuning Race</name>
+		<playcount>1</playcount>
+		<lastplayed>20220703T200519</lastplayed>
+		<gametime>29</gametime>
+	</game>
+	<game>
+		<path>./tokyocop.zip</path>
+		<name>Tokyo Cop (US, dedicated version)</name>
+		<playcount>1</playcount>
+		<lastplayed>20220703T201003</lastplayed>
+		<gametime>17</gametime>
+	</game>
+	<game>
+		<path>./radikalb.zip</path>
+		<name>Radikal Bikers (Version 2.02)</name>
+		<playcount>1</playcount>
+		<lastplayed>20220703T200902</lastplayed>
+	</game>
+	<game>
+		<path>./footbpow.zip</path>
+		<name>Football Power (Version 1.2)</name>
+		<playcount>1</playcount>
+		<lastplayed>20220703T200446</lastplayed>
+	</game>
+	<game id="150286">
+		<path>./braveff.zip</path>
+		<name>Brave Firefighters</name>
+		<desc>Brave Firefighters is a forward moving 3-D simulator that delivers a game of unbelievable realism. Players are confronted with a number of exciting obstacles including realistic smoke, unexpected explosions, failling objects and of course, unpredictable conflagrations!</desc>
+		<image>./images/braveff-image.png</image>
+		<video>./videos/braveff-video.mp4</video>
+		<marquee>./images/braveff-marquee.png</marquee>
+		<thumbnail>./images/braveff-thumb.png</thumbnail>
+		<boxback>./images/braveff-boxback.png</boxback>
+		<releasedate>19990101T000000</releasedate>
+		<family>Real Life Career</family>
+		<arcadesystemname>sega</arcadesystemname>
+		<playcount>13</playcount>
+		<lastplayed>20220929T235809</lastplayed>
+		<md5>955b6e110661dd2bb9a81394e06d3041</md5>
+		<gametime>2043</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220720T170156" />
+	</game>
+	<game id="79256">
+		<path>./pharrier.zip</path>
+		<name>Planet Harriers</name>
+		<desc>Planet Harriers is a great 3-D sequel the players can choose between four characters and must run along the ground or fly through the air using the classic jetpack and gun under your arm to blast away at waves of oncoming creatures. Dodge the enemy's projectiles and destroy the boss creatures at the end of each level to go to next levels.
+
+When diplomacy fails, you get the call! You're the last hope! 
+
+The Planet is teetering on the brink of disaster! The forces of evil are at work trying to overthrow kind and gentle people. Only the Hyper Soldiers from Earth can keep the planet from falling under a future of domination and persecution! 
+
+Failure cannot be an option!!</desc>
+		<image>./images/pharrier-image.png</image>
+		<video>./videos/pharrier-video.mp4</video>
+		<marquee>./images/pharrier-marquee.png</marquee>
+		<thumbnail>./images/pharrier-thumb.png</thumbnail>
+		<boxback>./images/pharrier-boxback.png</boxback>
+		<releasedate>20000101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<family>Space Harrier</family>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1</players>
+		<playcount>17</playcount>
+		<lastplayed>20220930T001220</lastplayed>
+		<gametime>1525</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220720T170210" />
+	</game>
+	<game id="43014">
+		<path>./sgnascar.zip</path>
+		<name>Nascar Racing</name>
+		<desc>The game is based on the Winston Cup series (now "Sprint Cup"), with digitised versions of Talladega Superspeedway, Richmond International Raceway and Watkins Glen International (and a hidden "Team Sega" track, unlocked after 700 people play the game). Selectable cars include the Pontiac Grand Prix, the Ford Taurus, the Chevrolet Monte Carlo and the Pontiac Firebird.</desc>
+		<image>./images/sgnascar-image.png</image>
+		<video>./videos/sgnascar-video.mp4</video>
+		<marquee>./images/sgnascar-marquee.png</marquee>
+		<thumbnail>./images/sgnascar-thumb.png</thumbnail>
+		<boxback>./images/sgnascar-boxback.png</boxback>
+		<releasedate>20000101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1</players>
+		<playcount>7</playcount>
+		<lastplayed>20220930T001011</lastplayed>
+		<md5>6c3a4ff3b78cf0fc5ffab5d99718e9c8</md5>
+		<gametime>957</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220720T170210" />
+	</game>
+	<game id="43014">
+		<path>./sgnascaro.zip</path>
+		<name>Nascar Racing (Original)</name>
+		<desc>The game is based on the Winston Cup series (now "Sprint Cup"), with digitised versions of Talladega Superspeedway, Richmond International Raceway and Watkins Glen International (and a hidden "Team Sega" track, unlocked after 700 people play the game). Selectable cars include the Pontiac Grand Prix, the Ford Taurus, the Chevrolet Monte Carlo and the Pontiac Firebird.</desc>
+		<image>./images/sgnascaro-image.png</image>
+		<video>./videos/sgnascaro-video.mp4</video>
+		<marquee>./images/sgnascaro-marquee.png</marquee>
+		<thumbnail>./images/sgnascaro-thumb.png</thumbnail>
+		<boxback>./images/sgnascaro-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1</players>
+		<playcount>5</playcount>
+		<lastplayed>20220930T000812</lastplayed>
+		<md5>985cb728a2970f518b536003dc8adde4</md5>
+		<gametime>694</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220720T170349" />
+		<scrap name="ArcadeDB" date="20220720T170247" />
+	</game>
+	<game id="42431">
+		<path>./swracer.zip</path>
+		<name>Star Wars Racer Arcade</name>
+		<desc>Star Wars Racer Arcade is a Pod-racing game, based on the movie 'Star Wars Episode I The Phantom Menace'.</desc>
+		<image>./images/swracer-image.png</image>
+		<video>./videos/swracer-video.mp4</video>
+		<marquee>./images/swracer-marquee.png</marquee>
+		<thumbnail>./images/swracer-thumb.png</thumbnail>
+		<boxback>./images/swracer-boxback.png</boxback>
+		<releasedate>20010101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Star Wars Arcade</family>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1</players>
+		<playcount>22</playcount>
+		<lastplayed>20220930T002032</lastplayed>
+		<md5>e3879b25a5184f478889298078dfe58b</md5>
+		<gametime>2015</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220720T170135" />
+	</game>
+	<game id="39960">
+		<path>./airtrixo.zip</path>
+		<name>Air Trix (Original)</name>
+		<desc>Air Trix is an excellent trick-style skateboarding game. The player stands on and maneuvers a skateboard-style controller that allows the player character to perform tail grabs, spins and other moves.</desc>
+		<image>./images/airtrixo-image.png</image>
+		<video>./videos/airtrixo-video.mp4</video>
+		<marquee>./images/airtrixo-marquee.png</marquee>
+		<thumbnail>./images/airtrixo-thumb.png</thumbnail>
+		<manual>./manuals/airtrixo-manual.pdf</manual>
+		<boxback>./images/airtrixo-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Skateboard</genre>
+		<family>Sega Skateboarding</family>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1</players>
+		<playcount>11</playcount>
+		<lastplayed>20221004T104714</lastplayed>
+		<md5>9ef8eeb8681db973ec82a1dbabc44676</md5>
+		<gametime>1526</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220720T170438" />
+	</game>
+	<game id="39960">
+		<path>./airtrix.zip</path>
+		<name>Air Trix</name>
+		<desc>Air Trix is an excellent trick-style skateboarding game. The player stands on and maneuvers a skateboard-style controller that allows the player character to perform tail grabs, spins and other moves.</desc>
+		<image>./images/airtrix-image.png</image>
+		<video>./videos/airtrix-video.mp4</video>
+		<marquee>./images/airtrix-marquee.png</marquee>
+		<thumbnail>./images/airtrix-thumb.png</thumbnail>
+		<manual>./manuals/airtrix-manual.pdf</manual>
+		<boxback>./images/airtrix-boxback.png</boxback>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Skateboard</genre>
+		<family>Sega Skateboarding</family>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1</players>
+		<playcount>20</playcount>
+		<lastplayed>20221004T105242</lastplayed>
+		<md5>2b9c5f99ae189dbe6f687d5f4482d52f</md5>
+		<gametime>989</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220720T170156" />
+	</game>
+</gameList>
