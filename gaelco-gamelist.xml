@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./smashdrvb.zip</path>
+		<name>Smashing Drive (UK)</name>
+		<playcount>1</playcount>
+		<lastplayed>20220720T120618</lastplayed>
+		<gametime>351</gametime>
+	</game>
+	<game id="149742">
+		<path>./gfootbal.zip</path>
+		<name>Gaelco Football</name>
+		<desc>Gaelco Football is an arcade football game and a follow up to Football Power from the same developer. Like it's predecessor it has an actual ball attached to the cabinet that the player has to kick on to shoot, pass and tackle. The machine measures both the force and direction of the player's kick. In addition, the game is controlled with a joystick for movement and three buttons for additional actions such as changing the controlled player, blocking balls in defence and increasing the running speed. The game consists of three competition levels in single player as well as a single match mode for two players. On all competition levels the aim is to win all matches by getting through the elimination rounds. The easy level is a four team training league consisting of two elimination rounds (semi finals and finals). If there is a draw the match is decided with a round of penalties (three for each team). The medium level is a European cup consisting of four elimination rounds that works like the easy level. The hardest level is the European League which is a tournament in the style of Champions League which consists of four groups with four teams each who play both home and away. After these six games the two best go on to the next stage which consists of two elimination rounds with two matches in each. After that there is the cup final which decides the winner of the tournament. The total number of games in the European League is therefore eleven.</desc>
+		<image>./images/gfootbal-image.png</image>
+		<video>./videos/gfootbal-video.mp4</video>
+		<releasedate>20020101T000000</releasedate>
+		<arcadesystemname>gaelco</arcadesystemname>
+		<playcount>12</playcount>
+		<lastplayed>20220720T125216</lastplayed>
+		<md5>503cae0d799f254c47bb72d68fa27fac</md5>
+		<gametime>1329</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220720T124704" />
+	</game>
+	<game id="64287">
+		<path>./smashdrv.zip</path>
+		<name>Smashing Drive</name>
+		<desc>Smashing Drive puts you in the driver's seat of an insane, outrageous taxi on the busy streets of New York City. Your job is to simply race from point to point in the fastest time possible. The key to success in Smashing Drive lies in two features: crazy power-ups and hidden shortcuts. Almost all of the power-ups transform your taxi in some way that allows you to smash your way through traffic with ease. And the shortcuts usually involve crashing through the insides of buildings, like movie theaters and sports arenas.</desc>
+		<image>./images/smashdrv-image.png</image>
+		<video>./videos/smashdrv-video.mp4</video>
+		<marquee>./images/smashdrv-marquee.png</marquee>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Gaelco</developer>
+		<publisher>Gaelco</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<arcadesystemname>gaelco</arcadesystemname>
+		<playcount>10</playcount>
+		<lastplayed>20220729T102214</lastplayed>
+		<md5>b269842f9589a2cb17ae9e88f7ed3fa9</md5>
+		<gametime>747</gametime>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20220720T124635" />
+	</game>
+	<game id="40103">
+		<path>./atvtrack.zip</path>
+		<name>Atv Track</name>
+		<desc>A four-wheel motorcycle racing simulator with four different circuits and two selectable modes : Practice and Competition.</desc>
+		<image>./images/atvtrack-image.png</image>
+		<video>./videos/atvtrack-video.mp4</video>
+		<marquee>./images/atvtrack-marquee.png</marquee>
+		<thumbnail>./images/atvtrack-thumb.png</thumbnail>
+		<boxback>./images/atvtrack-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20020101T000000</releasedate>
+		<publisher>Gaelco</publisher>
+		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
+		<arcadesystemname>gaelco</arcadesystemname>
+		<players>1</players>
+		<hidden>true</hidden>
+		<playcount>8</playcount>
+		<lastplayed>20220720T122058</lastplayed>
+		<md5>033759ef626b436a8bab8b53a17d27f9</md5>
+		<gametime>704</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220720T124638" />
+	</game>
+	<game>
+		<path>./footbpow.zip</path>
+		<name>Football Power (Version 1.2)</name>
+		<desc>Arcade Video game published 23 years ago:
+
+Football Power (c) 1999 Gaelco.
+
+A soccer game where you actually kick a real ball in order to kick the ball in-game but for everything else there's buttons and a joystick.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4860&amp;o=2</desc>
+		<image>./images/footbpow-image.png</image>
+		<video>./videos/footbpow-video.mp4</video>
+		<marquee>./images/footbpow-marquee.png</marquee>
+		<thumbnail>./images/footbpow-thumb.png</thumbnail>
+		<fanart>./images/footbpow-fanart.jpg</fanart>
+		<boxback>./images/footbpow-boxback.png</boxback>
+		<rating>0.5</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Gaelco</developer>
+		<publisher>Gaelco</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>2</players>
+		<playcount>8</playcount>
+		<lastplayed>20220811T200146</lastplayed>
+		<md5>667ed3c7c20b9000e6540670a234dee9</md5>
+		<gametime>138</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220730T215220" />
+		<scrap name="ArcadeDB" date="20220730T215310" />
+	</game>
+	<game id="43237">
+		<path>./speedup.zip</path>
+		<name>Speed Up</name>
+		<desc>A racing game in which up to eight players (via linked cabinets) compete in a lap-based race around one of three testing courses. After each lap, the slowest car is eliminated and the game continues until only the winner remains. In the single-player game, the player competes against a field of A.I. controlled cars.
+
+Each player selects one car from the ten that are available, then chooses their preferred track (Beginner, Advanced or Expert). The action is fast and furious and the game can vary between one and nine laps, depending upon the number of rival players. An on-screen map in the upper right-hand corner of the display indicates the positions of all rival racers.</desc>
+		<image>./images/speedup-image.png</image>
+		<video>./videos/speedup-video.mp4</video>
+		<marquee>./images/speedup-marquee.png</marquee>
+		<thumbnail>./images/speedup-thumb.png</thumbnail>
+		<boxback>./images/speedup-boxback.png</boxback>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Gaelco</developer>
+		<publisher>Gaelco</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<arcadesystemname>gaelco</arcadesystemname>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20220811T195838</lastplayed>
+		<md5>9aa9cf61c9cfe4de2d7ff4242d20258d</md5>
+		<gametime>103</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220730T215206" />
+	</game>
+	<game id="42675">
+		<path>./radikalb.zip</path>
+		<name>Radikal Bikers</name>
+		<desc>A game set in a Mediterranean environment in which, for the first time, players have the chance to show off their motor-cycle skills in a typically Italian urban setting. The game is a competition between two pizza delivery couriers in a race to see who can deliver their pizza first. The urban circuit allows interaction with all kinds of elements: cars, vans, windows, fences, people, etc. To help you complete your mission, you can collect icons giving you more speed, power or time. Hidden shortcuts help you gain valuable seconds.
+
+You must choose from four pizza couriers each with his or her own particular abilities. There are three game levels: Margherita (easy), Capricciosa (medium) &amp; Diavolo (difficult). There are four different races at each level which allow you to show the other biker who has the most skill, daring and ability.</desc>
+		<image>./images/radikalb-image.png</image>
+		<video>./videos/radikalb-video.mp4</video>
+		<marquee>./images/radikalb-marquee.png</marquee>
+		<thumbnail>./images/radikalb-thumb.png</thumbnail>
+		<boxback>./images/radikalb-boxback.png</boxback>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Gaelco</developer>
+		<publisher>Gaelco</publisher>
+		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
+		<arcadesystemname>gaelco</arcadesystemname>
+		<players>1</players>
+		<playcount>3</playcount>
+		<lastplayed>20220811T195736</lastplayed>
+		<md5>1222b75c34a0b7b998504a93bb2186dd</md5>
+		<gametime>164</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220730T215218" />
+	</game>
+	<game id="149740">
+		<path>./surfplnt.zip</path>
+		<name>Surf Planet</name>
+		<desc>A 3-D snowboarding game.</desc>
+		<image>./images/surfplnt-image.png</image>
+		<video>./videos/surfplnt-video.mp4</video>
+		<marquee>./images/surfplnt-marquee.png</marquee>
+		<thumbnail>./images/surfplnt-thumb.png</thumbnail>
+		<boxback>./images/surfplnt-boxback.png</boxback>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<arcadesystemname>atari</arcadesystemname>
+		<playcount>4</playcount>
+		<lastplayed>20220811T195857</lastplayed>
+		<md5>09043801abc133d3ef5e4c1e1be0a063</md5>
+		<gametime>168</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220730T215204" />
+	</game>
+	<game>
+		<path>./footbpow11.zip</path>
+		<name>footbpow11</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game id="40103">
+		<path>./atvtracka.zip</path>
+		<name>ATV Track</name>
+		<desc>A four-wheel motorcycle racing simulator with four different circuits and two selectable modes : Practice and Competition.</desc>
+		<image>./images/atvtracka-image.png</image>
+		<video>./videos/atvtracka-video.mp4</video>
+		<marquee>./images/atvtracka-marquee.png</marquee>
+		<thumbnail>./images/atvtracka-thumb.png</thumbnail>
+		<boxback>./images/atvtracka-boxback.png</boxback>
+		<rating>0</rating>
+		<releasedate>20020101T000000</releasedate>
+		<publisher>Gaelco</publisher>
+		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
+		<arcadesystemname>gaelco</arcadesystemname>
+		<players>1</players>
+		<playcount>12</playcount>
+		<lastplayed>20221002T210201</lastplayed>
+		<md5>85de891229e45b4314346f633af1d557</md5>
+		<gametime>979</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220720T124634" />
+	</game>
+</gameList>
