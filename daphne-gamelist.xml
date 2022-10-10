@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="51173">
+		<path>./ace.daphne</path>
+		<name>Space Ace</name>
+		<desc>Space Ace is a laserdisc video game produced by Don Bluth Studios, Cinematronics and Advanced Microcomputer Systems (later renamed RDI Video Systems). It was unveiled in October 1983, just four months after the Dragon's Lair game, then released in Spring 1984, and like its predecessor featured film-quality animation played back from a laserdisc.
+
+The gameplay is also similar, requiring the player to move the joystick or press the fire button at key moments in the animated sequences to govern the hero's actions. However, the game's action was more varied with the player occasionally given the temporary option to either have the character he is controlling transform back into his adult form, or remain as a boy with different styles of challenges.</desc>
+		<image>./media/images/ace.png</image>
+		<video>./media/videos/ace.mp4</video>
+		<marquee>./images/ace-marquee.png</marquee>
+		<thumbnail>./images/ace-thumb.png</thumbnail>
+		<fanart>./images/ace-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>19840424T000000</releasedate>
+		<developer>Advanced Microcomputer Systems</developer>
+		<publisher>Cinematronics</publisher>
+		<genre>Platform / Run Jump</genre>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1</players>
+		<playcount>8</playcount>
+		<lastplayed>20191112T221839</lastplayed>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T074410" />
+	</game>
+	<game id="51166">
+		<path>./lair2.daphne</path>
+		<name>Dragon's Lair II : Time Warp</name>
+		<desc>Princess Daphne has been spirited away to a wrinkle in time by the Evil Wizard Mordroc who plans to force her into marriage. Only you, Dirk the Daring, can save her. Transported by a bumbling old time machine, you begin the rescue mission. But you must hurry, for once the Casket of Doom has opened, Mordroc will place the Death Ring upon Daphne's finger in marriage and she will be lost forever in the Time Warp!</desc>
+		<image>./media/images/lair2.png</image>
+		<video>./media/videos/lair2.mp4</video>
+		<marquee>./images/lair2-marquee.png</marquee>
+		<thumbnail>./images/lair2-thumb.png</thumbnail>
+		<fanart>./images/lair2-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>19910616T000000</releasedate>
+		<developer>Sullivan Bluth Interactive</developer>
+		<publisher>Leland Corporation</publisher>
+		<genre>Platform / Run Jump</genre>
+		<family>Dragon's Lair</family>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20220921T200645</lastplayed>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<gametime>84</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T074419" />
+	</game>
+	<game id="51165">
+		<path>./lair.daphne</path>
+		<name>Dragon's Lair</name>
+		<desc>Originally released in the arcades as a laserdisc game, Dragon's Lair is an interactive cartoon movie. Players control Dirk the Daring as he struggles his way through a dungeon to fight Singe, the Dragon, and rescue the beautiful Princess Daphne. The game consists of animated scenes, during which the player has to press direction buttons or the sword button in the right moment to trigger the next segment of the movie.</desc>
+		<image>./media/images/lair.png</image>
+		<video>./media/videos/lair.mp4</video>
+		<marquee>./images/lair-marquee.png</marquee>
+		<thumbnail>./images/lair-thumb.png</thumbnail>
+		<fanart>./images/lair-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>19830601T000000</releasedate>
+		<developer>Sullivan Bluth Interactive</developer>
+		<publisher>Cinematronics</publisher>
+		<genre>Platform / Run Jump</genre>
+		<family>Dragon's Lair</family>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>2</players>
+		<playcount>14</playcount>
+		<lastplayed>20221002T114314</lastplayed>
+		<gametime>305</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T074413" />
+	</game>
+	<game>
+		<path>./sdq.daphne</path>
+		<name>Super Don Quix-ote</name>
+		<desc>The idea for this animated laserdisc game comes from the movies and novels about Don Quixote, the legendary Spanish knight. In this game, the character looks very young and does not have a mustache. Also, he has a sword for a weapon and his faithful sidekick Sancho Panza follows him around although he does nothing to assist the hero.
+An assortment of mythical creatures including demons, dragons, skeletons and so on are encountered throughout the game. The game ends when Don Quixote kills the evil witch and rescues Isabella.</desc>
+		<image>./media/images/sdq.png</image>
+		<video>./media/videos/sdq.mp4</video>
+		<marquee>./images/sdq-marquee.png</marquee>
+		<thumbnail>./images/sdq-thumb.jpg</thumbnail>
+		<fanart>./images/sdq-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Universal Interactive</developer>
+		<publisher>Universal Interactive Inc.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T074423" />
+		<scrap name="TheGamesDB" date="20221002T114343" />
+		<scrap name="HfsDB" date="20220928T074522" />
+	</game>
+</gameList>
