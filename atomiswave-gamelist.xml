@@ -1,0 +1,753 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="37439">
+		<path>./kov7sprt.zip</path>
+		<name>Knights Of Valour - The Seven Spirits</name>
+		<desc>Knights of Valour is a side-scrolling Beat 'em up action arcade game released by International Games System in 1999. The plot is loosely adapted from the Chinese historical novel Romance of the Three Kingdoms and features the Five Tiger Generals, Zhuge Liang, Diaochan and others as playable characters. The gameplay involves the use of magical powers that are not featured in other games also based on the novel.</desc>
+		<image>./images/kov7sprt-image.png</image>
+		<video>./videos/kov7sprt-video.mp4</video>
+		<marquee>./images/kov7sprt-marquee.png</marquee>
+		<thumbnail>./images/kov7sprt-thumb.png</thumbnail>
+		<fanart>./images/kov7sprt-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight / 2.5D</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>a0cf419fab8199b0a1b3f65a4bc5cec4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180022" />
+	</game>
+	<game id="37427">
+		<path>./anmlbskt.zip</path>
+		<name>Animal Basket</name>
+		<desc>"Tamaire" is a game traditionally played by japanese elementary school children at sport festivals. It takes about 200 stuffed balls, 2 baskets and 2 poles to hold the baskets. Any number of children can participate. This is the videogame version of this japanese game !</desc>
+		<image>./images/anmlbskt-image.png</image>
+		<video>./videos/anmlbskt-video.mp4</video>
+		<marquee>./images/anmlbskt-marquee.png</marquee>
+		<thumbnail>./images/anmlbskt-thumb.png</thumbnail>
+		<fanart>./images/anmlbskt-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>MOSS</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Sports / Basketball</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220929T180146</lastplayed>
+		<md5>83072ed69985ce3017655a17263cfbdb</md5>
+		<gametime>77</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180022" />
+	</game>
+	<game id="37427">
+		<path>./anmlbskta.zip</path>
+		<name>Animal Basket</name>
+		<desc>"Tamaire" is a game traditionally played by japanese elementary school children at sport festivals. It takes about 200 stuffed balls, 2 baskets and 2 poles to hold the baskets. Any number of children can participate. This is the videogame version of this japanese game !</desc>
+		<image>./images/anmlbskta-image.png</image>
+		<video>./videos/anmlbskta-video.mp4</video>
+		<marquee>./images/anmlbskta-marquee.png</marquee>
+		<thumbnail>./images/anmlbskta-thumb.png</thumbnail>
+		<fanart>./images/anmlbskta-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>MOSS</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Sports / Basketball</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220929T180022</lastplayed>
+		<md5>939442c39089b860dfa17b8332800aa6</md5>
+		<gametime>77</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T175846" />
+	</game>
+	<game id="37428">
+		<path>./basschal.zip</path>
+		<name>Sega Bass Fishing Challenge</name>
+		<desc>Experience the exciting sport of fishing with Sega Bass Fishing Challenge, there are eight fishing spots to catch as many fish as possible!
+You can choose from fourteen different lures and participate in four tournaments, starting as an amateur, up to a Masters Classic tournament.</desc>
+		<image>./images/basschal-image.png</image>
+		<video>./videos/basschal-video.mp4</video>
+		<marquee>./images/basschal-marquee.png</marquee>
+		<thumbnail>./images/basschal-thumb.png</thumbnail>
+		<fanart>./images/basschal-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Fishing</genre>
+		<family>Get Bass - Sega Bass Fishing</family>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>c1c5e089c1bc1330d5c2f2262c5df2bd</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180022" />
+	</game>
+	<game id="37428">
+		<path>./basschalo.zip</path>
+		<name>Sega Bass Fishing Challenge</name>
+		<desc>Experience the exciting sport of fishing with Sega Bass Fishing Challenge, there are eight fishing spots to catch as many fish as possible!
+You can choose from fourteen different lures and participate in four tournaments, starting as an amateur, up to a Masters Classic tournament.</desc>
+		<image>./images/basschalo-image.png</image>
+		<video>./videos/basschalo-video.mp4</video>
+		<marquee>./images/basschalo-marquee.png</marquee>
+		<thumbnail>./images/basschalo-thumb.png</thumbnail>
+		<fanart>./images/basschalo-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Fishing</genre>
+		<family>Get Bass - Sega Bass Fishing</family>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>4c05da748c18d40b26d9cc3b53c47a5d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180028" />
+	</game>
+	<game id="150075">
+		<path>./blokpong.zip</path>
+		<name>Block Pong-pong</name>
+		<desc>Game derived from ping-pong where rackets are replaced by cards with cute animals.</desc>
+		<image>./images/blokpong-image.png</image>
+		<video>./videos/blokpong-video.mp4</video>
+		<marquee>./images/blokpong-marquee.png</marquee>
+		<thumbnail>./images/blokpong-thumb.png</thumbnail>
+		<fanart>./images/blokpong-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>MOSS</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Action / Breakout games</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>455774dcd78f659f5f186ca1a2cb4357</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180146" />
+	</game>
+	<game id="37429">
+		<path>./claychal.zip</path>
+		<name>Sega Clay Challenge</name>
+		<desc>An arcade target-practice game by Sega focused on the sport of clay pigeon shooting.</desc>
+		<image>./images/claychal-image.png</image>
+		<video>./videos/claychal-video.mp4</video>
+		<marquee>./images/claychal-marquee.png</marquee>
+		<thumbnail>./images/claychal-thumb.png</thumbnail>
+		<fanart>./images/claychal-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>d1e885529c550be7f4717dc6882b9911</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180146" />
+	</game>
+	<game id="37431">
+		<path>./dirtypig.zip</path>
+		<name>Dirty Pigskin Football</name>
+		<desc>This is Football with a twist. Rather than regularly suited up football players each with their own set of morals, we have got a completely unique cast of players who don't know the meaning of the word. One of the featured teams is: The prisoners, in their traditional orange jail overalls. Then we have: The Hitman group, a group of assassinsall dressed in black suits and dark glasses, pleasant right? These men are all just urging to get their hands dirty. In total there are 12 teams in this game, various venues to play at, and the game also features a cool 4-player simultaneous play mode. With a play system that is easy to use, Pigskin welcomes all level of player to join in the action.</desc>
+		<image>./images/dirtypig-image.png</image>
+		<video>./videos/dirtypig-video.mp4</video>
+		<marquee>./images/dirtypig-marquee.png</marquee>
+		<thumbnail>./images/dirtypig-thumb.png</thumbnail>
+		<fanart>./images/dirtypig-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Play Mechanix</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Sports / Football</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>9abb25f374e53222189c79b43f067b8b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180154" />
+	</game>
+	<game id="37432">
+		<path>./dolphin.zip</path>
+		<name>Dolphin Blue</name>
+		<desc>Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines.  Unfortunately, this arcade shoot-em-up was never ported to any home console.</desc>
+		<image>./images/dolphin-image.png</image>
+		<video>./videos/dolphin-video.mp4</video>
+		<marquee>./images/dolphin-marquee.png</marquee>
+		<thumbnail>./images/dolphin-thumb.png</thumbnail>
+		<fanart>./images/dolphin-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>1fc2018c8548953116f457a52f6569aa</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180358" />
+	</game>
+	<game id="37433">
+		<path>./fotns.zip</path>
+		<name>Fist Of The North Star</name>
+		<desc>Hokuto No Ken is probably one of the most interesting games on Atomiswave, both for its fast and brutal gameplay and for the charm of the characters and the story it represents.</desc>
+		<image>./images/fotns-image.png</image>
+		<video>./videos/fotns-video.mp4</video>
+		<marquee>./images/fotns-marquee.png</marquee>
+		<thumbnail>./images/fotns-thumb.png</thumbnail>
+		<fanart>./images/fotns-fanart.jpg</fanart>
+		<rating>0.95</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>85ebeb3feb9640fbd8caaedd15d33b3f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180358" />
+	</game>
+	<game id="37434">
+		<path>./ftspeed.zip</path>
+		<name>Faster Than Speed</name>
+		<desc>Enter the exciting street-racing world of FASTER THAN SPEED where the winner rules and the loser walks! Hit the street with the most addictive driving experience of your life! Pick from 8 customized rides. FASTER THAN SPEED will take your players into the exotic, dim-lit, back streets of over 6 tracks challenging the quickest, the fastest, the baddest, and the most stocked racer conquers the asphalt! To take down your challenger, you need to burn the street with a variety of high-speed tricks.</desc>
+		<image>./images/ftspeed-image.png</image>
+		<video>./videos/ftspeed-video.mp4</video>
+		<marquee>./images/ftspeed-marquee.png</marquee>
+		<thumbnail>./images/ftspeed-thumb.png</thumbnail>
+		<fanart>./images/ftspeed-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Race, Driving / Race 1st Pers. view</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1</players>
+		<md5>8dfdd9886d089fcdfa912c958658ca74</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180358" />
+	</game>
+	<game id="37435">
+		<path>./ggisuka.zip</path>
+		<name>Guilty Gear Isuka</name>
+		<desc>Guilty Gear Isuka introduces new characters, new arenas, and several new franchise firsts. Now, four players can brawl in two-on-two fighting or cooperatively against the computer AI. A new mode lets you customize your own character's appearance, moves, and combos with points earned during matches. Guilty Gear Isuka also features three new characters, all-new arenas, and a side-scrolling Action Game mode. Prove that you're skilled enough to win the tournament, and save humans from the Gear threat.</desc>
+		<image>./images/ggisuka-image.png</image>
+		<video>./videos/ggisuka-video.mp4</video>
+		<marquee>./images/ggisuka-marquee.png</marquee>
+		<thumbnail>./images/ggisuka-thumb.png</thumbnail>
+		<fanart>./images/ggisuka-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Guilty Gear</family>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>ff9f731c358f10e4e3aeda4f4e126c28</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180358" />
+	</game>
+	<game id="37436">
+		<path>./ggx15.zip</path>
+		<name>Guilty Gear X Ver. 1.5</name>
+		<desc>Taking place a few weeks after the first game. A new Commander Gear was discovered by the name Dizzy. Worried that a second War would start, another Holy Knights Tournament was started. The person who could capture and kill this Gear would be rewarded 500,000 World Dollars.</desc>
+		<image>./images/ggx15-image.png</image>
+		<video>./videos/ggx15-video.mp4</video>
+		<marquee>./images/ggx15-marquee.png</marquee>
+		<thumbnail>./images/ggx15-thumb.png</thumbnail>
+		<fanart>./images/ggx15-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Guilty Gear</family>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>7043453add5acc0f84626a7a82c39693</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180358" />
+	</game>
+	<game id="37437">
+		<path>./kofnw.zip</path>
+		<name>The King of Fighters Neowave</name>
+		<desc>The King of Fighters: Neowave is a 2D 3-on-3 fighting game in the King of Fighters series, featuring three gameplay styles and new hardware.</desc>
+		<image>./images/kofnw-image.png</image>
+		<video>./videos/kofnw-video.mp4</video>
+		<marquee>./images/kofnw-marquee.png</marquee>
+		<thumbnail>./images/kofnw-thumb.png</thumbnail>
+		<fanart>./images/kofnw-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SNK Playmore</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight / Versus</genre>
+		<family>The King of Fighters</family>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>27ea84ec0184702175932ce897a8cbef</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180433" />
+	</game>
+	<game id="37437">
+		<path>./kofnwj.zip</path>
+		<name>The King of Fighters Neowave</name>
+		<desc>The King of Fighters: Neowave is a 2D 3-on-3 fighting game in the King of Fighters series, featuring three gameplay styles and new hardware.</desc>
+		<image>./images/kofnwj-image.png</image>
+		<video>./videos/kofnwj-video.mp4</video>
+		<marquee>./images/kofnwj-marquee.png</marquee>
+		<thumbnail>./images/kofnwj-thumb.png</thumbnail>
+		<fanart>./images/kofnwj-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SNK Playmore</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight / Versus</genre>
+		<family>The King of Fighters</family>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>385cda1d408246e11e83848d203aeeaa</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220929T180457" />
+	</game>
+	<game id="37438">
+		<path>./kofxi.zip</path>
+		<name>The King of Fighters XI</name>
+		<desc>The eleventh game in the KOF series following The King of Fighters 2003. According to Sega: 'For over 10 years, the King of Fighters series has been the choice of game players around the world. The 11th team of fighters continues this tradition. KOF11 is suited for one to two players, with continuous buy-in. Choose from 33 fighters, including 4 new characters. A fifth control button was added to enhance your skills by delivering a devastating blow to your opponent, if hit at the right time. A New Skill Gauge performs a variety of tag-off moves and new attacks. A player can also custom construct a Three-Fighter Tag-Team by selecting three choice combatants.'</desc>
+		<image>./images/kofxi-image.png</image>
+		<video>./videos/kofxi-video.mp4</video>
+		<marquee>./images/kofxi-marquee.png</marquee>
+		<thumbnail>./images/kofxi-thumb.png</thumbnail>
+		<fanart>./images/kofxi-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>SNK Playmore</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<family>The King of Fighters</family>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180514" />
+	</game>
+	<game id="37440">
+		<path>./maxspeed.zip</path>
+		<name>Maximum Speed</name>
+		<desc>Maximum Speed is a driving game which includes a single player mode, and a 2 Player Head to Head mode, 6 different courses, and allows players to select either automatic or manual transmission. There are 3 different difficulty levels available to the player, which ensures that Maximum Speed remains enjoyable and appealing to a variety of players.
+
+Players can also choose from 3 distinctly different racing styles: Stock Car, Open Wheel Cart or Pickup Truck. Maximum Speed also features great 3D action graphics and steering wheel feedback, which both add a degree of realism of the game.</desc>
+		<image>./images/maxspeed-image.png</image>
+		<video>./videos/maxspeed-video.mp4</video>
+		<marquee>./images/maxspeed-marquee.png</marquee>
+		<thumbnail>./images/maxspeed-thumb.png</thumbnail>
+		<fanart>./images/maxspeed-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Race, Driving / Race 1st Pers. view</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1</players>
+		<md5>4e130cac24cb824a5366cf0bc0902f71</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180547" />
+	</game>
+	<game id="37441">
+		<path>./mslug6.zip</path>
+		<name>Metal Slug 6</name>
+		<desc>Metal Slug 6 returns to the Rebel-Martian alliance featured in Metal Slugs 2, X, and 3, but on a much broader scale. Rather than repeating the previous games' events of the Martians breaking the alliance and the Rebels assisting the player in turn, the player now teams up with the Rebels and Martians to combat an even greater threat.
+
+Metal Slug 6 introduces a new play mechanic dubbed the 'Weapon Stock System'. Two gun power-ups can now be carried at the same time. Players can switch between the two weapons, or simply put them both away in favor of the default weapon. When obtaining a new weapon power-up, it will automatically occupy the inactive slot, or, if both are holstered, replace the less recent weapon of the two.
+The score is now multiplied by powers of 2. The faster the speed at which enemies are killed, the higher the power, as a meter at the bottom of the screen shows. When it says "Max" enemies and destructible objects will drop coins for an extra high score.</desc>
+		<image>./images/mslug6-image.png</image>
+		<video>./videos/mslug6-video.mp4</video>
+		<marquee>./images/mslug6-marquee.png</marquee>
+		<thumbnail>./images/mslug6-thumb.png</thumbnail>
+		<fanart>./images/mslug6-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20060224T000000</releasedate>
+		<developer>SNK Playmore</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<family>Metal Slug</family>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>2</players>
+		<md5>b9ba25094997b67d7ade1f27cc6da47f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180607" />
+	</game>
+	<game id="37442">
+		<path>./ngbc.zip</path>
+		<name>NeoGeo Battle Coliseum</name>
+		<desc>NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.</desc>
+		<image>./images/ngbc-image.png</image>
+		<video>./videos/ngbc-video.mp4</video>
+		<marquee>./images/ngbc-marquee.png</marquee>
+		<thumbnail>./images/ngbc-thumb.png</thumbnail>
+		<fanart>./images/ngbc-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20050727T000000</releasedate>
+		<developer>SNK Playmore</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180628" />
+	</game>
+	<game id="37442">
+		<path>./ngbcj.zip</path>
+		<name>NeoGeo Battle Coliseum</name>
+		<desc>NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.</desc>
+		<image>./images/ngbcj-image.png</image>
+		<video>./videos/ngbcj-video.mp4</video>
+		<marquee>./images/ngbcj-marquee.png</marquee>
+		<thumbnail>./images/ngbcj-thumb.png</thumbnail>
+		<fanart>./images/ngbcj-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20050727T000000</releasedate>
+		<developer>SNK Playmore</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>2</players>
+		<md5>73b92e5ce6c2c8c80b368821b11a8378</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220929T180643" />
+	</game>
+	<game id="37443">
+		<path>./rangrmsn.zip</path>
+		<name>Ranger Mission</name>
+		<desc>A 1 to 2 player 3-D military combat shooting game where players use pump-action shotguns to shoot on-screen enemies.The game has four different missions:Jungle Mission, Desert Mission, Indoor Rescue Mission and Tundra Mission.</desc>
+		<image>./images/rangrmsn-image.png</image>
+		<video>./videos/rangrmsn-video.mp4</video>
+		<marquee>./images/rangrmsn-marquee.png</marquee>
+		<thumbnail>./images/rangrmsn-thumb.png</thumbnail>
+		<fanart>./images/rangrmsn-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>RIZ Inc.</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1</players>
+		<md5>86031711d4e3ffabdcf5615068d439b7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180700" />
+	</game>
+	<game id="37444">
+		<path>./rumblef.zip</path>
+		<name>The Rumble Fish</name>
+		<desc>The Rumble Fish is a fighting game created by Dimps for the Atomiswave arcade platform. Its most distinguishing quality is its graphics engine, which animates the characters' limbs separately.</desc>
+		<image>./images/rumblef-image.png</image>
+		<video>./videos/rumblef-video.mp4</video>
+		<marquee>./images/rumblef-marquee.png</marquee>
+		<thumbnail>./images/rumblef-thumb.png</thumbnail>
+		<fanart>./images/rumblef-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight / Versus</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>2127b61a2605a7c975e370ea9322e323</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180718" />
+	</game>
+	<game id="37445">
+		<path>./rumblef2.zip</path>
+		<name>The Rumble Fish 2</name>
+		<desc>The Rumble Fish 2 uses all of the elements from the first game and adds some new ones.
+
+The Offense and Defense gauges have been divided into three sections each, allowing for more usage of Offensive and Defensive Arts, as well as techniques tied to each gauge. An addition to the system is the Boost Dive, which puts each character into a powered-up state according to their style.
+
+Most characters have had modifications to their movelists in some way, such as new moves, new commands for old moves, and so forth.</desc>
+		<image>./images/rumblef2-image.png</image>
+		<video>./videos/rumblef2-video.mp4</video>
+		<marquee>./images/rumblef2-marquee.png</marquee>
+		<thumbnail>./images/rumblef2-thumb.png</thumbnail>
+		<fanart>./images/rumblef2-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight / Versus</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180737" />
+	</game>
+	<game id="37444">
+		<path>./rumblefp.zip</path>
+		<name>The Rumble Fish</name>
+		<desc>The Rumble Fish is a fighting game created by Dimps for the Atomiswave arcade platform. Its most distinguishing quality is its graphics engine, which animates the characters' limbs separately.</desc>
+		<image>./images/rumblefp-image.png</image>
+		<video>./videos/rumblefp-video.mp4</video>
+		<marquee>./images/rumblefp-marquee.png</marquee>
+		<thumbnail>./images/rumblefp-thumb.png</thumbnail>
+		<fanart>./images/rumblefp-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight / Versus</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>fa57e4e137f6a806f5c2373f81554ef0</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180800" />
+	</game>
+	<game id="37445">
+		<path>./rumblf2p.zip</path>
+		<name>The Rumble Fish 2</name>
+		<desc>The Rumble Fish 2 uses all of the elements from the first game and adds some new ones.
+
+The Offense and Defense gauges have been divided into three sections each, allowing for more usage of Offensive and Defensive Arts, as well as techniques tied to each gauge. An addition to the system is the Boost Dive, which puts each character into a powered-up state according to their style.
+
+Most characters have had modifications to their movelists in some way, such as new moves, new commands for old moves, and so forth.</desc>
+		<image>./images/rumblf2p-image.png</image>
+		<video>./videos/rumblf2p-video.mp4</video>
+		<marquee>./images/rumblf2p-marquee.png</marquee>
+		<thumbnail>./images/rumblf2p-thumb.png</thumbnail>
+		<fanart>./images/rumblf2p-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight / Versus</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>20bf53171d4233bd68daf85ef079602f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180822" />
+	</game>
+	<game id="37446">
+		<path>./salmankt.zip</path>
+		<name>Net Select Salaryman Kintaro</name>
+		<desc>Classic domino game inspired by a Japanese manga series by Hiroshi Motomiya. It was serialized in Weekly Young Jump from 1994 to 2002, with many periods of inactivity during its run. Salaryman Kintaro had sold over 30 million copies in paperback.</desc>
+		<image>./images/salmankt-image.png</image>
+		<video>./videos/salmankt-video.mp4</video>
+		<marquee>./images/salmankt-marquee.png</marquee>
+		<thumbnail>./images/salmankt-thumb.png</thumbnail>
+		<fanart>./images/salmankt-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Yuki Enterprise</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Asiatic board game / Mahjong</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>4631632330a09b000bc7394f14611dbe</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180838" />
+	</game>
+	<game id="37447">
+		<path>./samsptk.zip</path>
+		<name>Samurai Shodown 6 - Tale Of The World's Greatest Swordsman</name>
+		<desc>Among other series changes, aerial blocking was removed entirely, and the switch-around move, which enabled a player to shift quickly behind the other's back, as well as the dodge (evade, side-step), in which the move virtually brings a semi-3D environment to the defense in attempt to use each sword more effectively.
+
+One can no longer charge one's own "pow" gauge. The off-screen delivery man was omitted entirely from the game. The "CD combo" was added, wherein a player can press the C and D buttons together, triggering a strike that can be followed up by a sequence of button taps.
+
+SNK also added a "suicide" move, wherein one's character forfeits the round. The bonus to this is that the one committing suicide will start the next round with a full "POW" gauge. Certain finishes also enable a "fatality" move in the vein of Mortal Kombat.</desc>
+		<image>./images/samsptk-image.png</image>
+		<video>./videos/samsptk-video.mp4</video>
+		<marquee>./images/samsptk-marquee.png</marquee>
+		<thumbnail>./images/samsptk-thumb.png</thumbnail>
+		<fanart>./images/samsptk-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>SNK Playmore</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Samurai Shodown</family>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180855" />
+	</game>
+	<game id="37448">
+		<path>./sprtshot.zip</path>
+		<name>Sports Shooting USA</name>
+		<desc>A competitive 1 to 2 player shooting game where players, using optical guns, must shoot a number of required on-screen targets within a certain time limit to qualify and proceed to next round.</desc>
+		<image>./images/sprtshot-image.png</image>
+		<video>./videos/sprtshot-video.mp4</video>
+		<marquee>./images/sprtshot-marquee.png</marquee>
+		<thumbnail>./images/sprtshot-thumb.png</thumbnail>
+		<fanart>./images/sprtshot-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>1d72f8f74460cf2389c6f9e2cf0381fc</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180908" />
+	</game>
+	<game id="150251">
+		<path>./sushibar.zip</path>
+		<name>Sushi Bar</name>
+		<desc>Sushi Bar is a puzzle game for the Sammy Atomiswave arcade board.
+The gameplay is very similar with Puyo Puyo where the player must rearrange various foods of the traditional Japanese culinary to unlock the next level.</desc>
+		<image>./images/sushibar-image.png</image>
+		<video>./videos/sushibar-video.mp4</video>
+		<marquee>./images/sushibar-marquee.png</marquee>
+		<thumbnail>./images/sushibar-thumb.png</thumbnail>
+		<fanart>./images/sushibar-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Puzzle-Game</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>6401eb09678327eb060d636d5839e84e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180923" />
+	</game>
+	<game id="150214">
+		<path>./vfurlong.zip</path>
+		<name>Net Select Horse Racing - Victory Furlong</name>
+		<desc>Net Select Keiba Victory Furlong (Net Select Horse Racing: Victory Furlong) is a horse racing arcade game, which the Japanese love, moreover the arcade machine was only released in the land of the sun Levant.
+The game is played online, too.</desc>
+		<image>./images/vfurlong-image.png</image>
+		<video>./videos/vfurlong-video.mp4</video>
+		<marquee>./images/vfurlong-marquee.png</marquee>
+		<thumbnail>./images/vfurlong-thumb.png</thumbnail>
+		<fanart>./images/vfurlong-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Progress</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Sports with Animals / Horses race</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>8+</players>
+		<md5>30a7289cd5263d233af06e052af528d4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180939" />
+	</game>
+	<game id="150076">
+		<path>./waidrive.zip</path>
+		<name>WaiWai Drive</name>
+		<desc>WaiWai Drive is a car game intended for a young audience where two cars have to collect available items on the screen while trying to get more than the opponent.</desc>
+		<image>./images/waidrive-image.png</image>
+		<video>./videos/waidrive-video.mp4</video>
+		<marquee>./images/waidrive-marquee.png</marquee>
+		<thumbnail>./images/waidrive-thumb.png</thumbnail>
+		<fanart>./images/waidrive-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>MOSS</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Race, Driving</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>5e54d1f489218be8d80e51cabc3b20b3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180948" />
+	</game>
+	<game id="37449">
+		<path>./xtrmhnt2.zip</path>
+		<name>Extreme Hunting 2</name>
+		<desc>Embark on a hunting trip of a lifetime with Extreme Hunting 2, the sequel to Sega Amusements' line of coin-operated hunting games. A choice of the most prestigious North American wild game a hunter could ask for including Bison, Bear, Moose, Elk, Deer, and Wolf along with bonus stages featuring Bass, Goose, Bat, Squirrel and more. Don't miss the chance to play our ever-changing Special Hunts. The first game for the ALL.Net online platform, the game links arcade machines into a common community allowing for national tournaments and online rankings as you hunt a widest variety of wild game.</desc>
+		<image>./images/xtrmhnt2-image.png</image>
+		<video>./videos/xtrmhnt2-video.mp4</video>
+		<marquee>./images/xtrmhnt2-marquee.png</marquee>
+		<thumbnail>./images/xtrmhnt2-thumb.png</thumbnail>
+		<fanart>./images/xtrmhnt2-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<family>Hunting</family>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>01b8e7ce2cf0d023eeaf1ca3fe44b677</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T181002" />
+	</game>
+	<game id="37450">
+		<path>./xtrmhunt.zip</path>
+		<name>Extreme Hunting</name>
+		<desc>You can hunt a total of 6 animals, each with its own uniqueness and life-like animation. The individual animal hunting stages feature a variety of hunting regions, all with magnificent background imagery. Weather conditions will also come into play depending on the region. Once you complete the entire animal stage you will be able to hunt in that stage's unique bonus spot.</desc>
+		<image>./images/xtrmhunt-image.jpg</image>
+		<video>./videos/xtrmhunt-video.mp4</video>
+		<marquee>./images/xtrmhunt-marquee.png</marquee>
+		<thumbnail>./images/xtrmhunt-thumb.png</thumbnail>
+		<fanart>./images/xtrmhunt-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>4bde7c8ff651f9a8c442aaf7af5dd53d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T181014" />
+	</game>
+	<game id="37430">
+		<path>./demofist.zip</path>
+		<name>Demolish Fist</name>
+		<desc>Demolish Fist is a side scrolling beat 'em up where the player controls one of four characters, Enzo, Leoneer, Vanessa or Undead as you battle your way through various stages. There are many items, which are available to use as a weapons against your enemies. Each player has their own assortment of moves and specials that they can unleash at will. Also all four of these characters have the ability to use the awesome 'Vertigo' technique! Demolish Fist is a well put together fighting game that has many things to offer the beat 'em up world.</desc>
+		<image>./images/demofist-image.png</image>
+		<video>./videos/demofist-video.mp4</video>
+		<marquee>./images/demofist-marquee.png</marquee>
+		<thumbnail>./images/demofist-thumb.png</thumbnail>
+		<fanart>./images/demofist-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20030601T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20221002T123051</lastplayed>
+		<md5>5e8347cf6bad4148da10942d22a61d1f</md5>
+		<gametime>169</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220929T180146" />
+	</game>
+</gameList>
