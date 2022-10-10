@@ -1,0 +1,516 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="46776">
+		<path>./initdexpo.zip</path>
+		<name>Initial D: Arcade Stage</name>
+		<desc>Initial D: Arcade Stage is an arcade racing game based on the Initial D franchise. It was the first in a long line of arcade racers to be published by Sega for Sega arcade platforms, this one seeing a 2002 release on Sega NAOMI 2 hardware. It was released in the US and Europe under the basic title of Initial D. It was not ported to any home consoles.</desc>
+		<image>./images/initdexpo-image.png</image>
+		<video>./videos/initdexpo-video.mp4</video>
+		<marquee>./images/initdexpo-marquee.png</marquee>
+		<thumbnail>./images/initdexpo-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>1</players>
+		<md5>f8c823eb138396968b2336f8e2468fa7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T131115" />
+	</game>
+	<game id="190337">
+		<path>./clubkcyc.zip</path>
+		<name>ZZZ(notgame):Club Kart For Cycraft</name>
+		<thumbnail>./images/clubkcyc-thumb.png</thumbnail>
+		<hidden>true</hidden>
+		<playcount>1</playcount>
+		<lastplayed>20220928T075421</lastplayed>
+		<md5>9948ab5535039813366c7e62fb8134a6</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T131123" />
+	</game>
+	<game id="190337">
+		<path>./clubkcyco.zip</path>
+		<name>ZZZ(notgame):Club Kart For Cycraft</name>
+		<thumbnail>./images/clubkcyco-thumb.png</thumbnail>
+		<hidden>true</hidden>
+		<playcount>1</playcount>
+		<lastplayed>20220928T123327</lastplayed>
+		<md5>9948ab5535039813366c7e62fb8134a6</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T131124" />
+	</game>
+	<game id="46772">
+		<path>./inidv3ca.zip</path>
+		<name>Initial D: Version 3</name>
+		<desc>Initial D Arcade Stage Ver 3 "is a car racing game with 3 different game modes:" Legend of the Streets "," Time Attack "and" The Bunta Challenge! " on 9 different tracks. Each checkpoint you pass adds time to the total time limit The first person to cross the finish line within the allotted time wins If you run out of time or cross the finish line second, you lose.</desc>
+		<image>./images/inidv3ca-image.png</image>
+		<video>./videos/inidv3ca-video.mp4</video>
+		<marquee>./images/inidv3ca-marquee.png</marquee>
+		<thumbnail>./images/inidv3ca-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220928T075737</lastplayed>
+		<md5>2ca36801c5489c9fe310b970ea04e6ef</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T131129" />
+	</game>
+	<game id="46772">
+		<path>./inidv3cy.zip</path>
+		<name>Initial D: Version 3</name>
+		<desc>Initial D Arcade Stage Ver 3 "is a car racing game with 3 different game modes:" Legend of the Streets "," Time Attack "and" The Bunta Challenge! " on 9 different tracks. Each checkpoint you pass adds time to the total time limit The first person to cross the finish line within the allotted time wins If you run out of time or cross the finish line second, you lose.</desc>
+		<image>./images/inidv3cy-image.png</image>
+		<video>./videos/inidv3cy-video.mp4</video>
+		<marquee>./images/inidv3cy-marquee.png</marquee>
+		<thumbnail>./images/inidv3cy-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>1-2</players>
+		<md5>2ca36801c5489c9fe310b970ea04e6ef</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T131134" />
+	</game>
+	<game id="46776">
+		<path>./initd.zip</path>
+		<name>Initial D: Arcade Stage</name>
+		<desc>Initial D: Arcade Stage is an arcade racing game based on the Initial D franchise. It was the first in a long line of arcade racers to be published by Sega for Sega arcade platforms, this one seeing a 2002 release on Sega NAOMI 2 hardware. It was released in the US and Europe under the basic title of Initial D. It was not ported to any home consoles.</desc>
+		<image>./images/initd-image.png</image>
+		<video>./videos/initd-video.mp4</video>
+		<marquee>./images/initd-marquee.png</marquee>
+		<thumbnail>./images/initd-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20220928T075434</lastplayed>
+		<md5>3056a595a25d779382000d1b60fad7e1</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T131138" />
+	</game>
+	<game>
+		<path>./initdo.zip</path>
+		<name>Initial D Arcade Stage (Japan) (GDS-0020)</name>
+		<md5>3056a595a25d779382000d1b60fad7e1</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T131146" />
+	</game>
+	<game id="41807">
+		<path>./initdv2j.zip</path>
+		<name>Initial D: Arcade Stage Ver. 2</name>
+		<desc>Initial D: Arcade Stage Ver. 2 is the sequel to Initial D: Arcade Stage.</desc>
+		<image>./images/initdv2j-image.png</image>
+		<video>./videos/initdv2j-video.mp4</video>
+		<marquee>./images/initdv2j-marquee.png</marquee>
+		<thumbnail>./images/initdv2j-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>1-2</players>
+		<md5>46998e6db652988b76298ab16c7f5e9e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T131208" />
+	</game>
+	<game id="41807">
+		<path>./initdv2ja.zip</path>
+		<name>Initial D: Arcade Stage Ver. 2</name>
+		<desc>Initial D: Arcade Stage Ver. 2 is the sequel to Initial D: Arcade Stage.</desc>
+		<image>./images/initdv2ja-image.png</image>
+		<video>./videos/initdv2ja-video.mp4</video>
+		<marquee>./images/initdv2ja-marquee.png</marquee>
+		<thumbnail>./images/initdv2ja-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220928T075526</lastplayed>
+		<md5>46998e6db652988b76298ab16c7f5e9e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T131223" />
+	</game>
+	<game id="41807">
+		<path>./initdv2jo.zip</path>
+		<name>Initial D: Arcade Stage Ver. 2</name>
+		<desc>Initial D: Arcade Stage Ver. 2 is the sequel to Initial D: Arcade Stage.</desc>
+		<image>./images/initdv2jo-image.png</image>
+		<video>./videos/initdv2jo-video.mp4</video>
+		<marquee>./images/initdv2jo-marquee.png</marquee>
+		<thumbnail>./images/initdv2jo-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>1-2</players>
+		<md5>46998e6db652988b76298ab16c7f5e9e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T131234" />
+	</game>
+	<game id="46772">
+		<path>./initdv3j.zip</path>
+		<name>Initial D: Version 3</name>
+		<desc>Initial D Arcade Stage Ver 3 "is a car racing game with 3 different game modes:" Legend of the Streets "," Time Attack "and" The Bunta Challenge! " on 9 different tracks. Each checkpoint you pass adds time to the total time limit The first person to cross the finish line within the allotted time wins If you run out of time or cross the finish line second, you lose.</desc>
+		<image>./images/initdv3j-image.png</image>
+		<video>./videos/initdv3j-video.mp4</video>
+		<marquee>./images/initdv3j-marquee.png</marquee>
+		<thumbnail>./images/initdv3j-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>1-2</players>
+		<md5>5d2bb809e0a8315535e245af7a67a9d9</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T131252" />
+	</game>
+	<game id="46772">
+		<path>./initdv3jb.zip</path>
+		<name>Initial D: Version 3</name>
+		<desc>Initial D Arcade Stage Ver 3 "is a car racing game with 3 different game modes:" Legend of the Streets "," Time Attack "and" The Bunta Challenge! " on 9 different tracks. Each checkpoint you pass adds time to the total time limit The first person to cross the finish line within the allotted time wins If you run out of time or cross the finish line second, you lose.</desc>
+		<image>./images/initdv3jb-image.png</image>
+		<video>./videos/initdv3jb-video.mp4</video>
+		<marquee>./images/initdv3jb-marquee.png</marquee>
+		<thumbnail>./images/initdv3jb-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>1-2</players>
+		<md5>5d2bb809e0a8315535e245af7a67a9d9</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T131256" />
+	</game>
+	<game id="46858">
+		<path>./vf4.zip</path>
+		<name>Virtua Fighter 4</name>
+		<desc>In this fourth installment of the Virtua Fighter series, smash your opponents in beautiful graphics, and train your own fighter!</desc>
+		<image>./images/vf4-image.png</image>
+		<video>./videos/vf4-video.mp4</video>
+		<marquee>./images/vf4-marquee.png</marquee>
+		<thumbnail>./images/vf4-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Virtua Fighter</family>
+		<players>1-2</players>
+		<md5>383ee658d376419bb7f48b65e8f7d6f2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T131302" />
+	</game>
+	<game id="46862">
+		<path>./vf4evoa.zip</path>
+		<name>Virtua Fighter 4 Evolution</name>
+		<desc>An updated version of "Virtua Fighter 4" with some new features, mainly two additional fighters: Brad Burns (a kick boxer) and Gou Hinogami (a judo master).</desc>
+		<image>./images/vf4evoa-image.png</image>
+		<video>./videos/vf4evoa-video.mp4</video>
+		<marquee>./images/vf4evoa-marquee.png</marquee>
+		<thumbnail>./images/vf4evoa-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Virtua Fighter</family>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220928T080023</lastplayed>
+		<md5>381739a42986b6e56706c85576e6e33a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T131321" />
+	</game>
+	<game id="46862">
+		<path>./vf4evob.zip</path>
+		<name>Virtua Fighter 4 Evolution</name>
+		<desc>An updated version of "Virtua Fighter 4" with some new features, mainly two additional fighters: Brad Burns (a kick boxer) and Gou Hinogami (a judo master).</desc>
+		<image>./images/vf4evob-image.png</image>
+		<video>./videos/vf4evob-video.mp4</video>
+		<marquee>./images/vf4evob-marquee.png</marquee>
+		<thumbnail>./images/vf4evob-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Virtua Fighter</family>
+		<players>1-2</players>
+		<md5>381739a42986b6e56706c85576e6e33a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T131328" />
+	</game>
+	<game id="46858">
+		<path>./vf4o.zip</path>
+		<name>Virtua Fighter 4</name>
+		<desc>In this fourth installment of the Virtua Fighter series, smash your opponents in beautiful graphics, and train your own fighter!</desc>
+		<image>./images/vf4o-image.png</image>
+		<video>./videos/vf4o-video.mp4</video>
+		<marquee>./images/vf4o-marquee.png</marquee>
+		<thumbnail>./images/vf4o-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Virtua Fighter</family>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220928T075543</lastplayed>
+		<md5>383ee658d376419bb7f48b65e8f7d6f2</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T131334" />
+	</game>
+	<game id="46867">
+		<path>./vf4tuneda.zip</path>
+		<name>Virtua Fighter 4 Final Tuned</name>
+		<desc>Final Tuned is the final update to Virtua Fighter 4. This version of the game was released only into Japanese arcades, and it made some gameplay fixes and added new stages. Also, new customization items were added.</desc>
+		<image>./images/vf4tuneda-image.png</image>
+		<video>./videos/vf4tuneda-video.mp4</video>
+		<marquee>./images/vf4tuneda-marquee.png</marquee>
+		<thumbnail>./images/vf4tuneda-thumb.png</thumbnail>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Virtua Fighter</family>
+		<players>1-2</players>
+		<md5>9c3f452daf1166721d19360e90da36c1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T131343" />
+	</game>
+	<game id="46867">
+		<path>./vf4tunedd.zip</path>
+		<name>Virtua Fighter 4 Final Tuned</name>
+		<desc>Final Tuned is the final update to Virtua Fighter 4. This version of the game was released only into Japanese arcades, and it made some gameplay fixes and added new stages. Also, new customization items were added.</desc>
+		<image>./images/vf4tunedd-image.png</image>
+		<video>./videos/vf4tunedd-video.mp4</video>
+		<marquee>./images/vf4tunedd-marquee.png</marquee>
+		<thumbnail>./images/vf4tunedd-thumb.png</thumbnail>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Virtua Fighter</family>
+		<players>1-2</players>
+		<md5>9c3f452daf1166721d19360e90da36c1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T131348" />
+	</game>
+	<game id="44011">
+		<path>./vstrik3.zip</path>
+		<name>Virtua Striker 3</name>
+		<desc>Virtua Striker 3 (c) 2001 Sega.  - TECHNICAL -  Sega NAOMI 2 hardware  CPU : 2 x Hitachi SH-4 32-bit RISC CPU (200 MHz 360 MIPS / 1.4 GFLOPS) Graphic Engine : 2 x PowerVR 2 (PVR2DC-CLX2) GPU's Geometry Processor : Custom Videologic T+L chip 'Elan' (100mhz</desc>
+		<image>./images/vstrik3-image.png</image>
+		<video>./videos/vstrik3-video.mp4</video>
+		<marquee>./images/vstrik3-marquee.png</marquee>
+		<thumbnail>./images/vstrik3-thumb.png</thumbnail>
+		<releasedate>20010101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Virtua Striker</family>
+		<players>1-2</players>
+		<md5>079dba6a81c953e22e6fa6bf0cfd1b42</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T131353" />
+	</game>
+	<game id="46719">
+		<path>./beachspi.zip</path>
+		<name>Beach Spikers: Virtua Beach Volleyball</name>
+		<desc>The typical summer sport, beach volleyball, became an arcade game! Not only the beach volleyball fans but also all the game fans will be extremely excited by the new type of sports game.</desc>
+		<image>./images/beachspi-image.png</image>
+		<video>./videos/beachspi-video.mp4</video>
+		<marquee>./images/beachspi-marquee.png</marquee>
+		<thumbnail>./images/beachspi-thumb.png</thumbnail>
+		<fanart>./images/beachspi-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20010701T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Volleyball</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220928T141153</lastplayed>
+		<md5>c114cc2701d7551bc3c1b9f1e3c8cbe3</md5>
+		<gametime>164</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T131122" />
+	</game>
+	<game id="41807">
+		<path>./initdv2e.zip</path>
+		<name>Initial D: Arcade Stage Ver. 2</name>
+		<desc>Initial D: Arcade Stage Ver. 2 is the sequel to Initial D: Arcade Stage.</desc>
+		<image>./images/initdv2e-image.png</image>
+		<video>./videos/initdv2e-video.mp4</video>
+		<marquee>./images/initdv2e-marquee.png</marquee>
+		<thumbnail>./images/initdv2e-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220928T154934</lastplayed>
+		<md5>6653a33666e7af1840b57366e73c668d</md5>
+		<gametime>419</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T131157" />
+	</game>
+	<game id="46772">
+		<path>./initdv3e.zip</path>
+		<name>Initial D: Version 3</name>
+		<desc>Initial D Arcade Stage Ver 3 "is a car racing game with 3 different game modes:" Legend of the Streets "," Time Attack "and" The Bunta Challenge! " on 9 different tracks. Each checkpoint you pass adds time to the total time limit The first person to cross the finish line within the allotted time wins If you run out of time or cross the finish line second, you lose.</desc>
+		<image>./images/initdv3e-image.png</image>
+		<video>./videos/initdv3e-video.mp4</video>
+		<marquee>./images/initdv3e-marquee.png</marquee>
+		<thumbnail>./images/initdv3e-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220928T155424</lastplayed>
+		<md5>3b2c79cbbd179fd22b8ce6fab48a369f</md5>
+		<gametime>229</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T131245" />
+	</game>
+	<game id="46858">
+		<path>./vf4b.zip</path>
+		<name>Virtua Fighter 4</name>
+		<desc>In this fourth installment of the Virtua Fighter series, smash your opponents in beautiful graphics, and train your own fighter!</desc>
+		<image>./images/vf4b-image.png</image>
+		<video>./videos/vf4b-video.mp4</video>
+		<marquee>./images/vf4b-marquee.png</marquee>
+		<thumbnail>./images/vf4b-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Virtua Fighter</family>
+		<players>2</players>
+		<playcount>4</playcount>
+		<lastplayed>20220928T155715</lastplayed>
+		<md5>383ee658d376419bb7f48b65e8f7d6f2</md5>
+		<gametime>148</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T131308" />
+	</game>
+	<game id="46862">
+		<path>./vf4evo.zip</path>
+		<name>Virtua Fighter 4 Evolution</name>
+		<desc>An updated version of "Virtua Fighter 4" with some new features, mainly two additional fighters: Brad Burns (a kick boxer) and Gou Hinogami (a judo master).</desc>
+		<image>./images/vf4evo-image.png</image>
+		<video>./videos/vf4evo-video.mp4</video>
+		<marquee>./images/vf4evo-marquee.png</marquee>
+		<thumbnail>./images/vf4evo-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Virtua Fighter</family>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220928T160106</lastplayed>
+		<md5>381739a42986b6e56706c85576e6e33a</md5>
+		<gametime>201</gametime>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T131315" />
+	</game>
+	<game id="46867">
+		<path>./vf4tuned.zip</path>
+		<name>Virtua Fighter 4 Final Tuned</name>
+		<desc>Final Tuned is the final update to Virtua Fighter 4. This version of the game was released only into Japanese arcades, and it made some gameplay fixes and added new stages. Also, new customization items were added.</desc>
+		<image>./images/vf4tuned-image.png</image>
+		<video>./videos/vf4tuned-video.mp4</video>
+		<marquee>./images/vf4tuned-marquee.png</marquee>
+		<thumbnail>./images/vf4tuned-thumb.png</thumbnail>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Virtua Fighter</family>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220928T160424</lastplayed>
+		<md5>9c3f452daf1166721d19360e90da36c1</md5>
+		<gametime>182</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T131339" />
+	</game>
+	<game id="46776">
+		<path>./initdexp.zip</path>
+		<name>Initial D: Arcade Stage</name>
+		<desc>Initial D: Arcade Stage is an arcade racing game based on the Initial D franchise. It was the first in a long line of arcade racers to be published by Sega for Sega arcade platforms, this one seeing a 2002 release on Sega NAOMI 2 hardware. It was released in the US and Europe under the basic title of Initial D. It was not ported to any home consoles.</desc>
+		<image>./images/initdexp-image.png</image>
+		<video>./videos/initdexp-video.mp4</video>
+		<marquee>./images/initdexp-marquee.png</marquee>
+		<thumbnail>./images/initdexp-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20221002T164727</lastplayed>
+		<md5>f8c823eb138396968b2336f8e2468fa7</md5>
+		<gametime>375</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T131145" />
+	</game>
+</gameList>
