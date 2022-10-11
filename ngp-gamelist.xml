@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<system>ngp</system>
+		<creator>Ckau</creator>
+		<web>https://4pda.ru/forum/index.php?showtopic=802556</web>
+	</provider>
+	<game id="47055">
+		<path>./Baseball Stars (Japan, Europe) (En,Ja).zip</path>
+		<name>Baseball Stars</name>
+		<desc>Обычный американский бейсбол. Ни жарко, ни холодно как от графики, так и от звука. Просто середнячек (если быть адекватным к игре и приставке). Можно играть вдвоем, если у вас есть linkcable.</desc>
+		<image>./media/art/Baseball Stars (Japan, Europe) (En,Ja)-screenshot.png</image>
+		<video>./media/video/Baseball Stars (Japan, Europe) (En,Ja)-video.mp4</video>
+		<marquee>./media/wheel/Baseball Stars (Japan, Europe) (En,Ja)-wheel.png</marquee>
+		<thumbnail>./media/boxart/Baseball Stars (Japan, Europe) (En,Ja)-boxart.png</thumbnail>
+		<rating>0.60</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports / Baseball, Sports</genre>
+		<players>2</players>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<genreid>1538</genreid>
+	</game>
+	<game id="47058">
+		<path>./Melon-chan no Seichouki (Japan).zip</path>
+		<name>Melon-chan no Seichou Nikki</name>
+		<desc>Симулятор маленькой девочки. Тут предстоит всё также, как и у большинства нянек, то бишь всякая разнообразная задумка с питанием и повседневными заботами.</desc>
+		<image>./media/art/Melon-chan no Seichouki (Japan)-screenshot.png</image>
+		<video>./media/video/Melon-chan no Seichouki (Japan)-video.mp4</video>
+		<marquee>./media/wheel/Melon-chan no Seichouki (Japan)-wheel.png</marquee>
+		<thumbnail>./media/boxart/Melon-chan no Seichouki (Japan)-boxart.png</thumbnail>
+		<rating>0.40</rating>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<genreid>1024</genreid>
+	</game>
+	<game id="47059">
+		<path>./Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja).zip</path>
+		<name>Neo Cherry Master: Real Casino Series</name>
+		<desc>Слот-машинка, да еще и в ч/б варианте.</desc>
+		<image>./media/art/Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja)-screenshot.png</image>
+		<video>./media/video/Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja)-video.mp4</video>
+		<marquee>./media/wheel/Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja)-wheel.png</marquee>
+		<thumbnail>./media/boxart/Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja)-boxart.png</thumbnail>
+		<developer>Dyna Corporation</developer>
+		<publisher>SNK</publisher>
+		<genre>Casino / Slot Machine, Casino</genre>
+		<players>1</players>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<genreid>3584</genreid>
+	</game>
+	<game id="47060">
+		<path>./Neo Geo Cup '98 (Japan, Europe) (En,Ja).zip</path>
+		<name>Neo Geo Cup '98</name>
+		<desc>Ну какая же приставка без футбола. Так вот и NGP не упустил в этом шанс. Встречайте обычный футбол, да и не захватывающий.</desc>
+		<image>./media/art/Neo Geo Cup '98 (Japan, Europe) (En,Ja)-screenshot.png</image>
+		<video>./media/video/Neo Geo Cup '98 (Japan, Europe) (En,Ja)-video.mp4</video>
+		<marquee>./media/wheel/Neo Geo Cup '98 (Japan, Europe) (En,Ja)-wheel.png</marquee>
+		<thumbnail>./media/boxart/Neo Geo Cup '98 (Japan, Europe) (En,Ja)-boxart.png</thumbnail>
+		<rating>0.60</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports / Soccer, Sports</genre>
+		<players>2</players>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<genreid>1538</genreid>
+	</game>
+	<game id="47066">
+		<path>./Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).zip</path>
+		<name>Pocket Tennis: Pocket Sports Series</name>
+		<desc>Теннис. Неплохая игрушка из жанра спортивных. Возможен даже выбор любого игрового корта и ряд умелых теннисистов. Жаль что только не цветной.</desc>
+		<image>./media/art/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)-screenshot.png</image>
+		<video>./media/video/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)-video.mp4</video>
+		<marquee>./media/wheel/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)-wheel.png</marquee>
+		<thumbnail>./media/boxart/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)-boxart.png</thumbnail>
+		<rating>0.60</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Yumekobo</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports, Sports / Tennis</genre>
+		<players>2</players>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<genreid>1538</genreid>
+	</game>
+	<game id="47061">
+		<path>./Renketsu Puzzle Tsunagete Pon! (Japan).zip</path>
+		<name>Renketsu Puzzle Tsunagete Pon!</name>
+		<desc>Очередная интересная логическая игрушка. Для тех, кому в офисе больше нечем заняться. В Японии вышел сначала черно-белый вариант, потом его "оцветили", а уже в остальных частях света - в цветном.</desc>
+		<image>./media/art/Renketsu Puzzle Tsunagete Pon! (Japan)-screenshot.png</image>
+		<video>./media/video/Renketsu Puzzle Tsunagete Pon! (Japan)-video.mp4</video>
+		<marquee>./media/wheel/Renketsu Puzzle Tsunagete Pon! (Japan)-wheel.png</marquee>
+		<thumbnail>./media/boxart/Renketsu Puzzle Tsunagete Pon! (Japan)-boxart.png</thumbnail>
+		<rating>0.60</rating>
+		<developer>Yumekobo</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<genreid>2816</genreid>
+	</game>
+	<game id="47067">
+		<path>./Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</path>
+		<name>Samurai Shodown!: Pocket Fighting Series</name>
+		<desc>Очень хорошие драки с участием всеми известных героев данной серии. Многие любят сей жанр именно из-за таких игрушек. Увы данная игрушка полностью чёрно-белого формата.</desc>
+		<image>./media/art/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)-screenshot.png</image>
+		<video>./media/video/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)-video.mp4</video>
+		<marquee>./media/wheel/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)-wheel.png</marquee>
+		<thumbnail>./media/boxart/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)-boxart.png</thumbnail>
+		<rating>0.80</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight</genre>
+		<players>1</players>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<genreid>262</genreid>
+	</game>
+	<game id="47062">
+		<path>./Shogi no Tatsujin (Japan).zip</path>
+		<name>Shougi No Tatsujin</name>
+		<desc>Японская настольная игра типа шашек. Под тем же названием выпускалась как цветная, так и чёрно-белая версия игры. Версии идентичные.</desc>
+		<image>./media/art/Shogi no Tatsujin (Japan)-screenshot.png</image>
+		<video>./media/video/Shogi no Tatsujin (Japan)-video.mp4</video>
+		<marquee>./media/wheel/Shogi no Tatsujin (Japan)-wheel.png</marquee>
+		<thumbnail>./media/boxart/Shogi no Tatsujin (Japan)-boxart.png</thumbnail>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Asiatic Board Game, Shougi, Strategy</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<genreid>1280</genreid>
+	</game>
+	<game id="51150">
+		<path>./bikkuri.zip</path>
+		<name>Bikkuriman 2000 - Viva! Pocket Festiva!</name>
+		<desc>The game is a collection of mini-games. 
+The player selects Sei Tenshi Takeru or Tenjo P?chi (Takeru only in the NeoGeo Pocket Color version) to move around a park and play the attractions. 
+One of the mini-games is free and can be used to gain coins, with other attractions requiring coins to participate. 
+The player gains more coins according to their score in the games, and in some attractions a rare seal can be obtained. 
+Besides being used to participate in mini-games, the coins can be spent in slot machines to obtain seals from the Bug Akuma vs. Giga Tenshi Seal series, which can later be seen in a museum. 
+At first only a few mini-games are available, with more being unlocked by completing objectives.</desc>
+		<image>./images/bikkuri-image.png</image>
+		<video>./videos/bikkuri-video.mp4</video>
+		<marquee>./images/bikkuri-marquee.png</marquee>
+		<thumbnail>./images/bikkuri-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20000316T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221011T134255</lastplayed>
+		<md5>ca3e26e2f539dbd35092fa9d7f561aff</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T134213" />
+	</game>
+	<game>
+		<path>./coolcool.zip</path>
+		<name>coolcool</name>
+		<lang>en</lang>
+	</game>
+	<game id="47057">
+		<path>./King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</path>
+		<name>King of Fighters R-1: Pocket Fighting Series</name>
+		<desc>Самая первая игра для черно-белого варианта NGP.. Обычно люди пропускают эту игру, думая что она черно-белая и значит не очень чтобы очень. Да и тем более есть цветной аналог (подумаешь вторая часть..). А зря! Шедевры нужно знать в лицо.</desc>
+		<image>./media/art/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)-screenshot.png</image>
+		<video>./media/video/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)-video.mp4</video>
+		<marquee>./media/wheel/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)-wheel.png</marquee>
+		<thumbnail>./media/boxart/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)-boxart.png</thumbnail>
+		<rating>0.80</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221011T135245</lastplayed>
+		<gametime>32</gametime>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<genreid>262</genreid>
+	</game>
+</gameList>
