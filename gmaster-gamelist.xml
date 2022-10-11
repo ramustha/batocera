@@ -1,0 +1,2415 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Rocky (World).zip</path>
+		<name>Rocky (World)</name>
+		<md5>582d58d95c9774cd50555366c253a050</md5>
+		<scrap name="ScreenScraper" date="20221011T125501" />
+	</game>
+	<game>
+		<path>./Global Defense.zip</path>
+		<name>Global Defense</name>
+		<md5>9131db907c69c4d0210b6fb04e35f342</md5>
+		<scrap name="ScreenScraper" date="20221011T125502" />
+	</game>
+	<game>
+		<path>./Astro-Warrior &amp; Pit Pot.zip</path>
+		<name>Astro-Warrior &amp; Pit Pot</name>
+		<md5>2f3f23a7718c9b8bb2f2021d21608049</md5>
+		<scrap name="ScreenScraper" date="20221011T125502" />
+	</game>
+	<game>
+		<path>./Dead Angle.zip</path>
+		<name>Dead Angle</name>
+		<md5>e08ea7a08c09b6b305803525cca6881f</md5>
+		<scrap name="ScreenScraper" date="20221011T125504" />
+	</game>
+	<game>
+		<path>./Super Space Invaders.zip</path>
+		<name>Super Space Invaders</name>
+		<md5>eeb1f32270950d2ba4d81933f8197d21</md5>
+		<scrap name="ScreenScraper" date="20221011T125504" />
+	</game>
+	<game>
+		<path>./Enduro Racer.zip</path>
+		<name>Enduro Racer</name>
+		<md5>49ed205fcb31ce86f0e6841f39ed6b99</md5>
+		<scrap name="ScreenScraper" date="20221011T125505" />
+	</game>
+	<game>
+		<path>./Altered Beast (USA, Europe).zip</path>
+		<name>Altered Beast (USA, Europe)</name>
+		<md5>24618ca4a223a36d2bfda10f42454687</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T125506" />
+	</game>
+	<game>
+		<path>./Smurfs 2 - Smurfs travel the World.zip</path>
+		<name>Smurfs 2 - Smurfs travel the World</name>
+		<md5>f2788b33cc6dd7dfe4a56c381bfe67e5</md5>
+		<scrap name="ScreenScraper" date="20221011T125507" />
+	</game>
+	<game>
+		<path>./Maze Walker (J) [!].zip</path>
+		<name>Maze Walker (J) [!]</name>
+		<md5>d577da9033917f8eb194660eb232f52d</md5>
+		<scrap name="ScreenScraper" date="20221011T125508" />
+	</game>
+	<game>
+		<path>./Ecco the Dolphin - Tides of Time.7z</path>
+		<name>Ecco the Dolphin - Tides of Time</name>
+		<md5>fe58b4b23d58386cad7111fd522cbf75</md5>
+		<scrap name="ScreenScraper" date="20221011T125510" />
+	</game>
+	<game>
+		<path>./Ghost House.zip</path>
+		<name>Ghost House</name>
+		<md5>e41960495e9a477601616ef44c374384</md5>
+		<scrap name="ScreenScraper" date="20221011T125510" />
+	</game>
+	<game>
+		<path>./Arcade Smash Hits.zip</path>
+		<name>Arcade Smash Hits</name>
+		<md5>5ca3806d2c8e5e1046ac04fe89bf404f</md5>
+		<scrap name="ScreenScraper" date="20221011T125511" />
+	</game>
+	<game>
+		<path>./Bram Stoker's Dracula.zip</path>
+		<name>Bram Stoker's Dracula</name>
+		<md5>a7098f0055f01f290150505c231bffa1</md5>
+		<scrap name="ScreenScraper" date="20221011T125512" />
+	</game>
+	<game>
+		<path>./Out-Run - Europa.zip</path>
+		<name>Out-Run - Europa</name>
+		<md5>f662bcea5d5fd12c73e2b03820755cef</md5>
+		<scrap name="ScreenScraper" date="20221011T125513" />
+	</game>
+	<game>
+		<path>./4 PAK All Action (Australia) (Unl).zip</path>
+		<name>4 PAK All Action (Australia) (Unl)</name>
+		<md5>4ea64e3b2ad57ef7531890583c51de30</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125514" />
+	</game>
+	<game>
+		<path>./mortal-kombat-3-usa.7z</path>
+		<name>mortal-kombat-3-usa</name>
+		<md5>3ba73c09f35ea91bf36cd0b01bc1c044</md5>
+		<scrap name="ScreenScraper" date="20221011T125515" />
+	</game>
+	<game>
+		<path>./American Pro Football.zip</path>
+		<name>American Pro Football</name>
+		<md5>278374326f3d1d79415cdb83c2b5a15d</md5>
+		<scrap name="ScreenScraper" date="20221011T125516" />
+	</game>
+	<game>
+		<path>./Heavyweight Champ.zip</path>
+		<name>Heavyweight Champ</name>
+		<md5>4812c30eb1a6498f39fb3f964d605c95</md5>
+		<scrap name="ScreenScraper" date="20221011T125516" />
+	</game>
+	<game>
+		<path>./Terminator 2 - The Arcade Game.zip</path>
+		<name>Terminator 2 - The Arcade Game</name>
+		<md5>a0066ed972ce9ab2547499ba68aff3c7</md5>
+		<scrap name="ScreenScraper" date="20221011T125517" />
+	</game>
+	<game>
+		<path>./Hang on.zip</path>
+		<name>Hang on</name>
+		<md5>b9ceb74bbab99660edb999ab1ab4ce85</md5>
+		<scrap name="ScreenScraper" date="20221011T125518" />
+	</game>
+	<game>
+		<path>./Lion King.zip</path>
+		<name>Lion King</name>
+		<md5>b1d4a828519ce7f353f396dd2302410b</md5>
+		<scrap name="ScreenScraper" date="20221011T125519" />
+	</game>
+	<game>
+		<path>./As Aventuras da TV ColossoBR.zip</path>
+		<name>As Aventuras da TV ColossoBR</name>
+		<md5>8020584caadb664a5924e940b6a9c5bc</md5>
+		<scrap name="ScreenScraper" date="20221011T125520" />
+	</game>
+	<game>
+		<path>./20-em-1.7z</path>
+		<name>20-em-1</name>
+		<md5>91a9dcd4f59c29db72c931be2fe60b51</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125521" />
+	</game>
+	<game>
+		<path>./Robocop 3.zip</path>
+		<name>Robocop 3</name>
+		<md5>d393439c9fabc44932413527503d920a</md5>
+		<scrap name="ScreenScraper" date="20221011T125522" />
+	</game>
+	<game>
+		<path>./Double Target (J) [!].zip</path>
+		<name>Double Target (J) [!]</name>
+		<md5>47cfe79bfd46091dc86fb2089e21073f</md5>
+		<scrap name="ScreenScraper" date="20221011T125523" />
+	</game>
+	<game>
+		<path>./Poseidon Wars 3-D (USA, Europe).zip</path>
+		<name>Poseidon Wars 3-D (USA, Europe)</name>
+		<md5>3586416ac6f2aa1fa7dea351afb8ac1c</md5>
+		<scrap name="ScreenScraper" date="20221011T125524" />
+	</game>
+	<game>
+		<path>./Rescue Mission.zip</path>
+		<name>Rescue Mission</name>
+		<md5>f49d8907345bd2a077bedad68858615b</md5>
+		<scrap name="ScreenScraper" date="20221011T125525" />
+	</game>
+	<game>
+		<path>./Ultimate Soccer.zip</path>
+		<name>Ultimate Soccer</name>
+		<md5>a77dfa9079274dced7ad7416a7b241da</md5>
+		<scrap name="ScreenScraper" date="20221011T125526" />
+	</game>
+	<game>
+		<path>./sonic-the-hedgehog-2-usa.7z</path>
+		<name>sonic-the-hedgehog-2-usa</name>
+		<md5>cae2c780595d1338274fa8a77922cc5b</md5>
+		<scrap name="ScreenScraper" date="20221011T125528" />
+	</game>
+	<game>
+		<path>./super-smash-tv-usa.7z</path>
+		<name>super-smash-tv-usa</name>
+		<md5>fd65b6794d6778c7948cd9b8b02a12f5</md5>
+		<scrap name="ScreenScraper" date="20221011T125530" />
+	</game>
+	<game>
+		<path>./Miracle Warriors - Seal of the Dark Lord.zip</path>
+		<name>Miracle Warriors - Seal of the Dark Lord</name>
+		<md5>4230f4880b5369a3a7384298018dd372</md5>
+		<scrap name="ScreenScraper" date="20221011T125532" />
+	</game>
+	<game>
+		<path>./Land of Illusion Starring Mickey Mouse.7z</path>
+		<name>Land of Illusion Starring Mickey Mouse</name>
+		<md5>07fac1d61bc20cf6eb298f66ec2ffe49</md5>
+		<scrap name="ScreenScraper" date="20221011T125534" />
+	</game>
+	<game>
+		<path>./Aztec Adventure - The Golden Road to Paradise (UE) [!].zip</path>
+		<name>Aztec Adventure - The Golden Road to Paradise (UE) [!]</name>
+		<md5>aaa80be5b84dbf63f183eea913960b0a</md5>
+		<scrap name="ScreenScraper" date="20221011T125534" />
+	</game>
+	<game>
+		<path>./Wimbledon 2.zip</path>
+		<name>Wimbledon 2</name>
+		<md5>5aaf63acc4838de94f4adc2d45c3ed2e</md5>
+		<scrap name="ScreenScraper" date="20221011T125536" />
+	</game>
+	<game>
+		<path>./Ariel - The Little Mermaid.7z</path>
+		<name>Ariel - The Little Mermaid</name>
+		<md5>9efdf5a7123f5a52967199381e93759d</md5>
+		<scrap name="ScreenScraper" date="20221011T125537" />
+	</game>
+	<game>
+		<path>./Sapo-Xule-SOS-Lagoa-Poluida_SEGA-Master-System_EN.zip</path>
+		<name>Sapo-Xule-SOS-Lagoa-Poluida_SEGA-Master-System_EN</name>
+		<md5>4cc124f115adb89a5749908787dcb230</md5>
+		<scrap name="ScreenScraper" date="20221011T125538" />
+	</game>
+	<game>
+		<path>./Master of Darkness.zip</path>
+		<name>Master of Darkness</name>
+		<md5>04b2dca60159da530f433ba67654e032</md5>
+		<scrap name="ScreenScraper" date="20221011T125539" />
+	</game>
+	<game>
+		<path>./Psycho Fox (USA, Europe).zip</path>
+		<name>Psycho Fox (USA, Europe)</name>
+		<md5>a9c2facf9ef536d095414ce2e7ce2f4f</md5>
+		<scrap name="ScreenScraper" date="20221011T125540" />
+	</game>
+	<game>
+		<path>./Daffy Duck in Hollywood.zip</path>
+		<name>Daffy Duck in Hollywood</name>
+		<md5>e99284541718786fbeefa0a9e2af7d2f</md5>
+		<scrap name="ScreenScraper" date="20221011T125541" />
+	</game>
+	<game>
+		<path>./Space Harrier.zip</path>
+		<name>Space Harrier</name>
+		<md5>e6f863321b76a8bb0e06c3fa00a5b07e</md5>
+		<scrap name="ScreenScraper" date="20221011T125542" />
+	</game>
+	<game>
+		<path>./Battle Out Run.7z</path>
+		<name>Battle Out Run</name>
+		<md5>83609eb760c3af64915fd6e73ee7d99e</md5>
+		<scrap name="ScreenScraper" date="20221011T125543" />
+	</game>
+	<game>
+		<path>./James Buster Douglas - Knockout Boxing.zip</path>
+		<name>James Buster Douglas - Knockout Boxing</name>
+		<md5>e2c4339f16303110893365c6c97212b6</md5>
+		<scrap name="ScreenScraper" date="20221011T125544" />
+	</game>
+	<game>
+		<path>./ren-stimpy-quest-for-the-shaven-yak-the-usa.7z</path>
+		<name>ren-stimpy-quest-for-the-shaven-yak-the-usa</name>
+		<md5>58b89d62438407f242bbe713f1d945ca</md5>
+		<scrap name="ScreenScraper" date="20221011T125544" />
+	</game>
+	<game>
+		<path>./Penguin Land.zip</path>
+		<name>Penguin Land</name>
+		<md5>d253069dbb651d6d9d63cdbec09b166f</md5>
+		<scrap name="ScreenScraper" date="20221011T125546" />
+	</game>
+	<game>
+		<path>./Cyborg Hunter.zip</path>
+		<name>Cyborg Hunter</name>
+		<md5>af1671e8872f1c09b1356b6baf26444f</md5>
+		<scrap name="ScreenScraper" date="20221011T125547" />
+	</game>
+	<game>
+		<path>./R.C. Grand Prix (UE) [!].zip</path>
+		<name>R.C. Grand Prix (UE) [!]</name>
+		<md5>0ac529e7bae5c93b6a458f9e72bb1762</md5>
+		<scrap name="ScreenScraper" date="20221011T125547" />
+	</game>
+	<game>
+		<path>./Maze Hunter 3D (U) [!].zip</path>
+		<name>Maze Hunter 3D (U) [!]</name>
+		<md5>79ce9993145bdb787d2527411bd6c148</md5>
+		<scrap name="ScreenScraper" date="20221011T125548" />
+	</game>
+	<game>
+		<path>./Olympic Gold - Barcelona '92.zip</path>
+		<name>Olympic Gold - Barcelona '92</name>
+		<md5>97463d0404b70d903fea6b4616f92145</md5>
+		<scrap name="ScreenScraper" date="20221011T125549" />
+	</game>
+	<game>
+		<path>./Akai Koudan Zillion (J) [!].zip</path>
+		<name>Akai Koudan Zillion (J) [!]</name>
+		<md5>977e4f7ddb6bbae6420fc0c0e317fd93</md5>
+		<scrap name="ScreenScraper" date="20221011T125550" />
+	</game>
+	<game>
+		<path>./back-to-the-future-part-ii-usa.7z</path>
+		<name>back-to-the-future-part-ii-usa</name>
+		<md5>f2535df9bdc3a84221303fa62d61ad6e</md5>
+		<scrap name="ScreenScraper" date="20221011T125551" />
+	</game>
+	<game>
+		<path>./Bank Panic.7z</path>
+		<name>Bank Panic</name>
+		<md5>06d26763850a56b6df64af8ee611da53</md5>
+		<scrap name="ScreenScraper" date="20221011T125552" />
+	</game>
+	<game>
+		<path>./OutRun 3D.7z</path>
+		<name>OutRun 3D</name>
+		<md5>558c793aab09b46bed78431348191060</md5>
+		<scrap name="ScreenScraper" date="20221011T125552" />
+	</game>
+	<game>
+		<path>./Double Hawk (UE) [!].zip</path>
+		<name>Double Hawk (UE) [!]</name>
+		<md5>aa985b333974d841edfa5d824c3ba678</md5>
+		<scrap name="ScreenScraper" date="20221011T125553" />
+	</game>
+	<game>
+		<path>./shooting-gallery-usa.7z</path>
+		<name>shooting-gallery-usa</name>
+		<md5>f8ea8b8e641cabff32210ea6583f9f94</md5>
+		<scrap name="ScreenScraper" date="20221011T125554" />
+	</game>
+	<game>
+		<path>./Great Ice Hockey (Japan, USA).zip</path>
+		<name>Great Ice Hockey (Japan, USA)</name>
+		<md5>374d762b51b1c5ea8ff7903f98586e0e</md5>
+		<scrap name="ScreenScraper" date="20221011T125555" />
+	</game>
+	<game>
+		<path>./back-to-the-future-part-iii-usa.7z</path>
+		<name>back-to-the-future-part-iii-usa</name>
+		<md5>3d24a52e98e6c85d7c059386451ce749</md5>
+		<scrap name="ScreenScraper" date="20221011T125556" />
+	</game>
+	<game>
+		<path>./Great Basketball.zip</path>
+		<name>Great Basketball</name>
+		<md5>acbabeb01ca78b7a78ea5eab06f2f6ac</md5>
+		<scrap name="ScreenScraper" date="20221011T125557" />
+	</game>
+	<game>
+		<path>./Great Football.zip</path>
+		<name>Great Football</name>
+		<md5>aae05fd036f430b514ec1e3912a67010</md5>
+		<scrap name="ScreenScraper" date="20221011T125558" />
+	</game>
+	<game>
+		<path>./operation-wolf-usa.7z</path>
+		<name>operation-wolf-usa</name>
+		<md5>c3d48321d623c257c4b60dcc435c95ca</md5>
+		<scrap name="ScreenScraper" date="20221011T125558" />
+	</game>
+	<game>
+		<path>./solomon-no-kagi-oujo-rihita-no-namida-usa.7z</path>
+		<name>solomon-no-kagi-oujo-rihita-no-namida-usa</name>
+		<md5>cfa84806075e017e29ffcdd0127fe647</md5>
+		<scrap name="ScreenScraper" date="20221011T125559" />
+	</game>
+	<game>
+		<path>./World Cup USA '94.zip</path>
+		<name>World Cup USA '94</name>
+		<md5>48a974627ea57a28034c327f8f26fc6c</md5>
+		<scrap name="ScreenScraper" date="20221011T125600" />
+	</game>
+	<game>
+		<path>./Montezuma's Revenge.zip</path>
+		<name>Montezuma's Revenge</name>
+		<md5>28a3de7f583c73400080265d4ed3f415</md5>
+		<scrap name="ScreenScraper" date="20221011T125601" />
+	</game>
+	<game>
+		<path>./Wanted.7z</path>
+		<name>Wanted</name>
+		<md5>0070737ddb0a2e5e822f1d8f46437b07</md5>
+		<scrap name="ScreenScraper" date="20221011T125602" />
+	</game>
+	<game>
+		<path>./Klax.7z</path>
+		<name>Klax</name>
+		<md5>a429ec12cdbe5e3db48dcadc77e185d1</md5>
+		<scrap name="ScreenScraper" date="20221011T125603" />
+	</game>
+	<game>
+		<path>./Robocop vs. The Terminator.zip</path>
+		<name>Robocop vs. The Terminator</name>
+		<md5>48b3091cc3840fd40f705120a5b8f4c5</md5>
+		<scrap name="ScreenScraper" date="20221011T125604" />
+	</game>
+	<game>
+		<path>./Assault City.7z</path>
+		<name>Assault City</name>
+		<md5>116a2eb0ea9c7a9cb95e26af11aa8329</md5>
+		<scrap name="ScreenScraper" date="20221011T125605" />
+	</game>
+	<game>
+		<path>./Paperboy.7z</path>
+		<name>Paperboy</name>
+		<md5>f9260e3c304ddde73a37ecc56056ecb0</md5>
+		<scrap name="ScreenScraper" date="20221011T125607" />
+	</game>
+	<game>
+		<path>./Asterix and the Great Rescue.7z</path>
+		<name>Asterix and the Great Rescue</name>
+		<md5>36bd5fe2e4d1620f5a43ea610c458c86</md5>
+		<scrap name="ScreenScraper" date="20221011T125608" />
+	</game>
+	<game>
+		<path>./Shadow Dancer.zip</path>
+		<name>Shadow Dancer</name>
+		<md5>59b756d8af38bf08516efe4ef242bc33</md5>
+		<scrap name="ScreenScraper" date="20221011T125609" />
+	</game>
+	<game>
+		<path>./Great Tennis (Japan).zip</path>
+		<name>Great Tennis (Japan)</name>
+		<md5>be6eac7ce416c86a818ff13b228b39c5</md5>
+		<scrap name="ScreenScraper" date="20221011T125610" />
+	</game>
+	<game>
+		<path>./Shinobi (USA, Europe).zip</path>
+		<name>Shinobi (USA, Europe)</name>
+		<md5>3dd2c025185e19ac9bf1ed16b695c629</md5>
+		<scrap name="ScreenScraper" date="20221011T125611" />
+	</game>
+	<game>
+		<path>./streets-of-rage-usa.7z</path>
+		<name>streets-of-rage-usa</name>
+		<md5>3697333955f3918e6b33ce8a07ad2ba1</md5>
+		<scrap name="ScreenScraper" date="20221011T125612" />
+	</game>
+	<game>
+		<path>./Putt and Putter.zip</path>
+		<name>Putt and Putter</name>
+		<md5>f4f7f9caae8c43c3f8b3db734606ece4</md5>
+		<scrap name="ScreenScraper" date="20221011T125613" />
+	</game>
+	<game>
+		<path>./Kujakuou (J) [!].zip</path>
+		<name>Kujakuou (J) [!]</name>
+		<md5>cf1012391f7cd6dc85a3127be5eacf68</md5>
+		<scrap name="ScreenScraper" date="20221011T125613" />
+	</game>
+	<game>
+		<path>./Sonic Blast.zip</path>
+		<name>Sonic Blast</name>
+		<md5>8efaffda6083f149a21516663da1de5c</md5>
+		<scrap name="ScreenScraper" date="20221011T125614" />
+	</game>
+	<game>
+		<path>./Addams Family, The (UE) [!].zip</path>
+		<name>Addams Family, The (UE) [!]</name>
+		<md5>a476daf628d076160ba929018e550a04</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T125615" />
+	</game>
+	<game>
+		<path>./Ghouls'n Ghosts (USA, Europe).zip</path>
+		<name>Ghouls'n Ghosts (USA, Europe)</name>
+		<md5>85707b3a74483910699ccc4ba20c64ff</md5>
+		<scrap name="ScreenScraper" date="20221011T125616" />
+	</game>
+	<game>
+		<path>./Taz in Escape from Mars (Brazil).zip</path>
+		<name>Taz in Escape from Mars (Brazil)</name>
+		<md5>5f170677dc0d0229ec3ec7f306bb6303</md5>
+		<scrap name="ScreenScraper" date="20221011T125617" />
+	</game>
+	<game>
+		<path>./Tri Formation.zip</path>
+		<name>Tri Formation</name>
+		<md5>08d4ebb3615a06278df899d632886b17</md5>
+		<scrap name="ScreenScraper" date="20221011T125618" />
+	</game>
+	<game>
+		<path>./Champions of Europe (Europe).zip</path>
+		<name>Champions of Europe (Europe)</name>
+		<md5>c28aa80489a467bf54fc1403029a83d3</md5>
+		<scrap name="ScreenScraper" date="20221011T125620" />
+	</game>
+	<game>
+		<path>./Fantasy Zone - The Maze.zip</path>
+		<name>Fantasy Zone - The Maze</name>
+		<md5>89401da0cafaaa7e7997f92e5d186f7b</md5>
+		<scrap name="ScreenScraper" date="20221011T125622" />
+	</game>
+	<game>
+		<path>./My Hero.zip</path>
+		<name>My Hero</name>
+		<md5>7a82982fbe7bba38b652c7a0c83ff41d</md5>
+		<scrap name="ScreenScraper" date="20221011T125623" />
+	</game>
+	<game>
+		<path>./E-SWAT - City under Siege.zip</path>
+		<name>E-SWAT - City under Siege</name>
+		<md5>82cf7b38a095d4e8771ce9195f8b437b</md5>
+		<scrap name="ScreenScraper" date="20221011T125624" />
+	</game>
+	<game>
+		<path>./Alien Syndrome (USA, Europe).zip</path>
+		<name>Alien Syndrome (USA, Europe)</name>
+		<md5>732808a44a90b780454a1eb6adbf3957</md5>
+		<scrap name="ScreenScraper" date="20221011T125625" />
+	</game>
+	<game>
+		<path>./mortal-kombat-2-usa.7z</path>
+		<name>mortal-kombat-2-usa</name>
+		<md5>6b05802e711071dc37f8320d8e35f5d2</md5>
+		<scrap name="ScreenScraper" date="20221011T125626" />
+	</game>
+	<game>
+		<path>./Sega Chess (UE) [!].zip</path>
+		<name>Sega Chess (UE) [!]</name>
+		<md5>b613e3d89113ecc8342f0798a91c131e</md5>
+		<scrap name="ScreenScraper" date="20221011T125626" />
+	</game>
+	<game>
+		<path>./Shadow of the Beast.7z</path>
+		<name>Shadow of the Beast</name>
+		<md5>abc8a9e43c588c7d0535cc8305bdbf94</md5>
+		<scrap name="ScreenScraper" date="20221011T125627" />
+	</game>
+	<game>
+		<path>./Tennis Ace.zip</path>
+		<name>Tennis Ace</name>
+		<md5>650428295927b587e168ebea9db812a1</md5>
+		<scrap name="ScreenScraper" date="20221011T125628" />
+	</game>
+	<game>
+		<path>./Sagaia (UE) [!].zip</path>
+		<name>Sagaia (UE) [!]</name>
+		<md5>719cbb7980673c52e3d37f10887ebaf8</md5>
+		<scrap name="ScreenScraper" date="20221011T125629" />
+	</game>
+	<game>
+		<path>./World Class Leaderboard (UE) [!].zip</path>
+		<name>World Class Leaderboard (UE) [!]</name>
+		<md5>56fcdd7e20dc279f9b81d53d54c90999</md5>
+		<scrap name="ScreenScraper" date="20221011T125630" />
+	</game>
+	<game>
+		<path>./Wimbledon (UE) [!].zip</path>
+		<name>Wimbledon (UE) [!]</name>
+		<md5>fe4b738a758d2c345c2ac68709055801</md5>
+		<scrap name="ScreenScraper" date="20221011T125630" />
+	</game>
+	<game>
+		<path>./Golfamania (Europe).zip</path>
+		<name>Golfamania (Europe)</name>
+		<md5>5554f9f67103e0d5b1a4075a2d26d15b</md5>
+		<scrap name="ScreenScraper" date="20221011T125632" />
+	</game>
+	<game>
+		<path>./Incredible Crash Dummies.zip</path>
+		<name>Incredible Crash Dummies</name>
+		<md5>b92d70e42659a2a22065d2cd632b1a69</md5>
+		<scrap name="ScreenScraper" date="20221011T125633" />
+	</game>
+	<game>
+		<path>./WWF Wrestlemania Steel Cage Challenge.7z</path>
+		<name>WWF Wrestlemania Steel Cage Challenge</name>
+		<md5>5db168808d3b4756c8c5f8b836a7b05a</md5>
+		<scrap name="ScreenScraper" date="20221011T125634" />
+	</game>
+	<game>
+		<path>./Alex Kidd BMX Trial (Japan).zip</path>
+		<name>Alex Kidd BMX Trial (Japan)</name>
+		<md5>571f18f49e679a128b4a237001760d6c</md5>
+		<scrap name="ScreenScraper" date="20221011T125635" />
+	</game>
+	<game>
+		<path>./Golvellius - Valley of Doom.zip</path>
+		<name>Golvellius - Valley of Doom</name>
+		<md5>d98aa8f03302f62b328bd5fb159b129e</md5>
+		<scrap name="ScreenScraper" date="20221011T125636" />
+	</game>
+	<game>
+		<path>./Ace of Aces.7z</path>
+		<name>Ace of Aces</name>
+		<playcount>1</playcount>
+		<lastplayed>20221011T125745</lastplayed>
+		<md5>ce26b4372655f35f1b7c9d0c3b700f93</md5>
+		<gametime>81</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125637" />
+	</game>
+	<game>
+		<path>./Comical-Machine-Gun-Joe_SEGA-Master-System_EN.zip</path>
+		<name>Comical-Machine-Gun-Joe_SEGA-Master-System_EN</name>
+		<md5>2d59b3d27f022b04a597e767e6660ca9</md5>
+		<scrap name="ScreenScraper" date="20221011T125638" />
+	</game>
+	<game>
+		<path>./Pac-Mania.zip</path>
+		<name>Pac-Mania</name>
+		<md5>8452df28395cc43bb6d6456218c3687a</md5>
+		<scrap name="ScreenScraper" date="20221011T125640" />
+	</game>
+	<game>
+		<path>./Fantasy Zone.zip</path>
+		<name>Fantasy Zone</name>
+		<md5>34111548e2e47f5001b9dee32bbb6e23</md5>
+		<scrap name="ScreenScraper" date="20221011T125641" />
+	</game>
+	<game>
+		<path>./Super Off-Road.7z</path>
+		<name>Super Off-Road</name>
+		<md5>e3d3dfde69345e1f62cce512e9010bf8</md5>
+		<scrap name="ScreenScraper" date="20221011T125641" />
+	</game>
+	<game>
+		<path>./baku-baku-animals-usa.7z</path>
+		<name>baku-baku-animals-usa</name>
+		<md5>8a94ded3d95aa46dae8800b92e66d3ee</md5>
+		<scrap name="ScreenScraper" date="20221011T125642" />
+	</game>
+	<game>
+		<path>./Aztec-Adventure_SEGA-Master-System_EN.zip</path>
+		<name>Aztec-Adventure_SEGA-Master-System_EN</name>
+		<md5>e3b43c8af3d727aafa990ce89a21074e</md5>
+		<scrap name="ScreenScraper" date="20221011T125643" />
+	</game>
+	<game>
+		<path>./Great Volleyball.zip</path>
+		<name>Great Volleyball</name>
+		<md5>ecc30292788197e1215512c8e67dd449</md5>
+		<scrap name="ScreenScraper" date="20221011T125644" />
+	</game>
+	<game>
+		<path>./Marksman Shooting &amp; Trap Shooting.zip</path>
+		<name>Marksman Shooting &amp; Trap Shooting</name>
+		<md5>ef610bbd3cf18003ad9323ee03a1976f</md5>
+		<scrap name="ScreenScraper" date="20221011T125645" />
+	</game>
+	<game>
+		<path>./mortal-kombat-usa.7z</path>
+		<name>mortal-kombat-usa</name>
+		<md5>9a5b995e440b42352fb855d2e4bac487</md5>
+		<scrap name="ScreenScraper" date="20221011T125646" />
+	</game>
+	<game>
+		<path>./smurfs-the-usa.7z</path>
+		<name>smurfs-the-usa</name>
+		<md5>fe2aa0402eb30cec17b3bf4504f8219b</md5>
+		<scrap name="ScreenScraper" date="20221011T125647" />
+	</game>
+	<game>
+		<path>./Lemmings.7z</path>
+		<name>Lemmings</name>
+		<md5>0057d2561b78929dcf2c9aeef12061ec</md5>
+		<scrap name="ScreenScraper" date="20221011T125649" />
+	</game>
+	<game>
+		<path>./Power Strike.zip</path>
+		<name>Power Strike</name>
+		<md5>ff861147869dbf108c87f15a741b2351</md5>
+		<scrap name="ScreenScraper" date="20221011T125650" />
+	</game>
+	<game>
+		<path>./Jungle Book, The (UE) [!].zip</path>
+		<name>Jungle Book, The (UE) [!]</name>
+		<md5>456e5dacdc84e45e3a850c052367a448</md5>
+		<scrap name="ScreenScraper" date="20221011T125651" />
+	</game>
+	<game>
+		<path>./Monica-no-Castelo-do-Dragao_SEGA-Master-System_EN.zip</path>
+		<name>Monica-no-Castelo-do-Dragao_SEGA-Master-System_EN</name>
+		<md5>1e96440def412ccffc5627389d5ba60d</md5>
+		<scrap name="ScreenScraper" date="20221011T125652" />
+	</game>
+	<game>
+		<path>./Sports Pad Football.zip</path>
+		<name>Sports Pad Football</name>
+		<md5>70e583e56bea710ced674a6491796baf</md5>
+		<scrap name="ScreenScraper" date="20221011T125653" />
+	</game>
+	<game>
+		<path>./Lucky Dime Caper starring Donald Duck.zip</path>
+		<name>Lucky Dime Caper starring Donald Duck</name>
+		<md5>24d47c970c4a7469ce50c6b952ff077c</md5>
+		<scrap name="ScreenScraper" date="20221011T125654" />
+	</game>
+	<game>
+		<path>./Virtua Fighter Animation (Brazil).zip</path>
+		<name>Virtua Fighter Animation (Brazil)</name>
+		<md5>fdc90edb44d2a2236ab9c29d2f073d3c</md5>
+		<scrap name="ScreenScraper" date="20221011T125655" />
+	</game>
+	<game>
+		<path>./Gangster Town.7z</path>
+		<name>Gangster Town</name>
+		<md5>3396259ca032ed4f1499d1f737e75e0d</md5>
+		<scrap name="ScreenScraper" date="20221011T125655" />
+	</game>
+	<game>
+		<path>./PGA Tour Golf.zip</path>
+		<name>PGA Tour Golf</name>
+		<md5>9398d9cb36df6791a5867ca28f26c5c9</md5>
+		<scrap name="ScreenScraper" date="20221011T125656" />
+	</game>
+	<game>
+		<path>./Scramble Spirits.zip</path>
+		<name>Scramble Spirits</name>
+		<md5>c06f209741bbe89cd9fcb1fbe54c81e6</md5>
+		<scrap name="ScreenScraper" date="20221011T125657" />
+	</game>
+	<game>
+		<path>./Predator 2 (UE) [!].zip</path>
+		<name>Predator 2 (UE) [!]</name>
+		<md5>b01ea3e81f9d09f9f51ac804c8df91a7</md5>
+		<scrap name="ScreenScraper" date="20221011T125658" />
+	</game>
+	<game>
+		<path>./Mahjong Sengoku Jidai (J) [!].zip</path>
+		<name>Mahjong Sengoku Jidai (J) [!]</name>
+		<md5>841e7780457eb4a42e433ead851957d9</md5>
+		<scrap name="ScreenScraper" date="20221011T125700" />
+	</game>
+	<game>
+		<path>./Psychic World.zip</path>
+		<name>Psychic World</name>
+		<md5>2f83eb3d8efc9277928c10a758e39d15</md5>
+		<scrap name="ScreenScraper" date="20221011T125701" />
+	</game>
+	<game>
+		<path>./World Soccer (World).zip</path>
+		<name>World Soccer (World)</name>
+		<md5>5f008423ae6a454bc70e94a8c9f33d1c</md5>
+		<scrap name="ScreenScraper" date="20221011T125703" />
+	</game>
+	<game>
+		<path>./Slap Shot.zip</path>
+		<name>Slap Shot</name>
+		<md5>df1598960a03b1523b54f4bcc92e4a52</md5>
+		<scrap name="ScreenScraper" date="20221011T125704" />
+	</game>
+	<game>
+		<path>./Super Monaco GP.zip</path>
+		<name>Super Monaco GP</name>
+		<md5>feafaee0839ee3dea7e37c1971b8c49e</md5>
+		<scrap name="ScreenScraper" date="20221011T125704" />
+	</game>
+	<game>
+		<path>./Pro Yakyuu Pennant Race, The (Japan).zip</path>
+		<name>Pro Yakyuu Pennant Race, The (Japan)</name>
+		<md5>0e025768db6e6a7459099add711690ab</md5>
+		<scrap name="ScreenScraper" date="20221011T125705" />
+	</game>
+	<game>
+		<path>./speedball-2-usa.7z</path>
+		<name>speedball-2-usa</name>
+		<md5>b37e0c8177c4792594356b11757f9ac5</md5>
+		<scrap name="ScreenScraper" date="20221011T125706" />
+	</game>
+	<game>
+		<path>./Running Battle.zip</path>
+		<name>Running Battle</name>
+		<md5>e990769db966434d97907deab480f551</md5>
+		<scrap name="ScreenScraper" date="20221011T125707" />
+	</game>
+	<game>
+		<path>./Dragon - The Bruce Lee Story.zip</path>
+		<name>Dragon - The Bruce Lee Story</name>
+		<md5>4edf0147398e07e5af48b377be259eba</md5>
+		<scrap name="ScreenScraper" date="20221011T125708" />
+	</game>
+	<game>
+		<path>./Andre Agassi Tennis.zip</path>
+		<name>Andre Agassi Tennis</name>
+		<md5>6735373e2701ab22abc73ad1599763e7</md5>
+		<scrap name="ScreenScraper" date="20221011T125709" />
+	</game>
+	<game>
+		<path>./ALF.7z</path>
+		<name>ALF</name>
+		<md5>bc1360afa99cd89fbab4ea55bef08aae</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125710" />
+	</game>
+	<game>
+		<path>./Super Tennis.zip</path>
+		<name>Super Tennis</name>
+		<md5>cb141c48e9b6dc7498401ea271e38bc0</md5>
+		<scrap name="ScreenScraper" date="20221011T125711" />
+	</game>
+	<game>
+		<path>./Road Rash.7z</path>
+		<name>Road Rash</name>
+		<md5>ab540ab6c2ad769a7c014b0b911b0a25</md5>
+		<scrap name="ScreenScraper" date="20221011T125712" />
+	</game>
+	<game>
+		<path>./Golden Axe Warrior (USA, Europe).zip</path>
+		<name>Golden Axe Warrior (USA, Europe)</name>
+		<md5>d46e40bbb729ba233f171ad7bf6169f5</md5>
+		<scrap name="ScreenScraper" date="20221011T125712" />
+	</game>
+	<game>
+		<path>./Chuck-Rock-II-Son-of-Chuck_SEGA-Master-System_EN.zip</path>
+		<name>Chuck-Rock-II-Son-of-Chuck_SEGA-Master-System_EN</name>
+		<md5>aa5248dbf08f5ee7944df679966b2d70</md5>
+		<scrap name="ScreenScraper" date="20221011T125713" />
+	</game>
+	<game>
+		<path>./Sonic The Hedgehog.7z</path>
+		<name>Sonic The Hedgehog</name>
+		<md5>debd3f06e6bd15b092e1d36933906a98</md5>
+		<scrap name="ScreenScraper" date="20221011T125714" />
+	</game>
+	<game>
+		<path>./Ultima IV - Quest of the Avatar (Europe).zip</path>
+		<name>Ultima IV - Quest of the Avatar (Europe)</name>
+		<md5>c54c1a2559cec189f53e794177d002af</md5>
+		<scrap name="ScreenScraper" date="20221011T125715" />
+	</game>
+	<game>
+		<path>./Monopoly.7z</path>
+		<name>Monopoly</name>
+		<md5>52e11c8df175eab071ccd571e1bd3718</md5>
+		<scrap name="ScreenScraper" date="20221011T125716" />
+	</game>
+	<game>
+		<path>./new-zealand-story-the-usa.7z</path>
+		<name>new-zealand-story-the-usa</name>
+		<md5>f7a742b46f4bfe309d7fe12d50519268</md5>
+		<scrap name="ScreenScraper" date="20221011T125717" />
+	</game>
+	<game>
+		<path>./Heroes of the Lance.zip</path>
+		<name>Heroes of the Lance</name>
+		<md5>ef5f02a0555de6bbee1345d9f1dd7011</md5>
+		<scrap name="ScreenScraper" date="20221011T125718" />
+	</game>
+	<game>
+		<path>./Krusty's Fun House.zip</path>
+		<name>Krusty's Fun House</name>
+		<md5>9b6dc17e5cbe4ada6eec01d8bceb1c9d</md5>
+		<scrap name="ScreenScraper" date="20221011T125719" />
+	</game>
+	<game>
+		<path>./Masters of Combat.zip</path>
+		<name>Masters of Combat</name>
+		<md5>d72a4b654f311dc671a8ee8061deae1a</md5>
+		<scrap name="ScreenScraper" date="20221011T125720" />
+	</game>
+	<game>
+		<path>./Alex Kidd in Miracle World.7z</path>
+		<name>Alex Kidd in Miracle World</name>
+		<md5>958f997b948713014e1b2253739fba96</md5>
+		<scrap name="ScreenScraper" date="20221011T125721" />
+	</game>
+	<game>
+		<path>./Spider-Man - Return of the Sinister Six (Europe).zip</path>
+		<name>Spider-Man - Return of the Sinister Six (Europe)</name>
+		<md5>094628b6dd0342253594b0adb0777c7b</md5>
+		<scrap name="ScreenScraper" date="20221011T125722" />
+	</game>
+	<game>
+		<path>./Trivial Pursuit.zip</path>
+		<name>Trivial Pursuit</name>
+		<md5>d18277722ce0817dde838270363cc12b</md5>
+		<scrap name="ScreenScraper" date="20221011T125723" />
+	</game>
+	<game>
+		<path>./Rampage.zip</path>
+		<name>Rampage</name>
+		<md5>5e88d2cbc60bb8a2b71ec5c200ccd02e</md5>
+		<scrap name="ScreenScraper" date="20221011T125723" />
+	</game>
+	<game>
+		<path>./Sonic Spinball.7z</path>
+		<name>Sonic Spinball</name>
+		<md5>21b4bcf6b259d4550912ad6f4aeaf550</md5>
+		<scrap name="ScreenScraper" date="20221011T125725" />
+	</game>
+	<game>
+		<path>./Wonder Boy III - The Dragon's Trap (USA, Europe).zip</path>
+		<name>Wonder Boy III - The Dragon's Trap (USA, Europe)</name>
+		<md5>e7f86c049e4bd8b26844ff62bd067d57</md5>
+		<scrap name="ScreenScraper" date="20221011T125726" />
+	</game>
+	<game>
+		<path>./Alien Storm.7z</path>
+		<name>Alien Storm</name>
+		<md5>fe200aacdaf99f81b6f5adfc79ac5e21</md5>
+		<scrap name="ScreenScraper" date="20221011T125727" />
+	</game>
+	<game>
+		<path>./Rainbow Islands - The Story of Bubble Bobble 2 (Brazil).zip</path>
+		<name>Rainbow Islands - The Story of Bubble Bobble 2 (Brazil)</name>
+		<md5>e80ae00d8924f2bada5949bf75995d87</md5>
+		<scrap name="ScreenScraper" date="20221011T125728" />
+	</game>
+	<game>
+		<path>./Joe Montana Football (U) [!].zip</path>
+		<name>Joe Montana Football (U) [!]</name>
+		<md5>881b2d500ee8b5f6b499b9453d4ebcce</md5>
+		<scrap name="ScreenScraper" date="20221011T125729" />
+	</game>
+	<game>
+		<path>./Lord of the Sword.zip</path>
+		<name>Lord of the Sword</name>
+		<md5>56de9820af98d16c3e24d0c56855c493</md5>
+		<scrap name="ScreenScraper" date="20221011T125729" />
+	</game>
+	<game>
+		<path>./Terminator 2 - Judgment Day.7z</path>
+		<name>Terminator 2 - Judgment Day</name>
+		<md5>cc2454eebbbfab7ba99851a923dfdaaf</md5>
+		<scrap name="ScreenScraper" date="20221011T125730" />
+	</game>
+	<game>
+		<path>./Double Dragon.zip</path>
+		<name>Double Dragon</name>
+		<md5>973450e2403dda955d678d33cd3ed770</md5>
+		<scrap name="ScreenScraper" date="20221011T125731" />
+	</game>
+	<game>
+		<path>./Space Gun (Europe).zip</path>
+		<name>Space Gun (Europe)</name>
+		<md5>ebb0b4161ffa873a7fa80ca41d139c57</md5>
+		<scrap name="ScreenScraper" date="20221011T125732" />
+	</game>
+	<game>
+		<path>./Spider-Man vs. the Kingpin.zip</path>
+		<name>Spider-Man vs. the Kingpin</name>
+		<md5>b37bcf45954c8ff1f70e630d2ec2012d</md5>
+		<scrap name="ScreenScraper" date="20221011T125733" />
+	</game>
+	<game>
+		<path>./Summer Games.zip</path>
+		<name>Summer Games</name>
+		<md5>d43d91a3800f67312f61697d21cdb0a7</md5>
+		<scrap name="ScreenScraper" date="20221011T125734" />
+	</game>
+	<game>
+		<path>./James Pond 2 - Codename Robocod.zip</path>
+		<name>James Pond 2 - Codename Robocod</name>
+		<md5>e103115aaf32baf1def637b3c8f91c39</md5>
+		<scrap name="ScreenScraper" date="20221011T125735" />
+	</game>
+	<game>
+		<path>./Ayrton Senna's Super Monaco GP II.7z</path>
+		<name>Ayrton Senna's Super Monaco GP II</name>
+		<md5>04abc524a3b7f7e2e96eb910490e77ec</md5>
+		<scrap name="ScreenScraper" date="20221011T125736" />
+	</game>
+	<game>
+		<path>./World Games.7z</path>
+		<name>World Games</name>
+		<md5>bc116fe970a7993938735200a3e100ae</md5>
+		<scrap name="ScreenScraper" date="20221011T125737" />
+	</game>
+	<game>
+		<path>./Incredible Hulk.zip</path>
+		<name>Incredible Hulk</name>
+		<md5>9cb26f841bf0ebd4b03452ae908f97ea</md5>
+		<scrap name="ScreenScraper" date="20221011T125739" />
+	</game>
+	<game>
+		<path>./Gauntlet.zip</path>
+		<name>Gauntlet</name>
+		<md5>74ac3a7a5879b842288dddc94668111d</md5>
+		<scrap name="ScreenScraper" date="20221011T125739" />
+	</game>
+	<game>
+		<path>./Reggie Jackson Baseball.zip</path>
+		<name>Reggie Jackson Baseball</name>
+		<md5>69adb02f08ed00943d63c445fe260ee1</md5>
+		<scrap name="ScreenScraper" date="20221011T125740" />
+	</game>
+	<game>
+		<path>./Lord of Sword (Japan).zip</path>
+		<name>Lord of Sword (Japan)</name>
+		<md5>a5736126ed7e8569a189065ec20adf72</md5>
+		<scrap name="ScreenScraper" date="20221011T125741" />
+	</game>
+	<game>
+		<path>./Earthworm Jim.7z</path>
+		<name>Earthworm Jim</name>
+		<md5>f26bf8d41e0b6159fc436567b447363f</md5>
+		<scrap name="ScreenScraper" date="20221011T125742" />
+	</game>
+	<game>
+		<path>./Wonder Boy in Monster Land (USA, Europe).zip</path>
+		<name>Wonder Boy in Monster Land (USA, Europe)</name>
+		<md5>8f8aaac492de96f2cfddb9d1a57dd979</md5>
+		<scrap name="ScreenScraper" date="20221011T125743" />
+	</game>
+	<game>
+		<path>./R-Type.7z</path>
+		<name>R-Type</name>
+		<md5>00ccb48942a2a5ab0af7f715da361779</md5>
+		<scrap name="ScreenScraper" date="20221011T125745" />
+	</game>
+	<game>
+		<path>./Wonder Boy in Monster World.7z</path>
+		<name>Wonder Boy in Monster World</name>
+		<md5>af09e9a3e1155e099a6eb1a424639f31</md5>
+		<scrap name="ScreenScraper" date="20221011T125746" />
+	</game>
+	<game>
+		<path>./Time Soldiers.zip</path>
+		<name>Time Soldiers</name>
+		<md5>2afad577171811c323be7b67fc2efe45</md5>
+		<scrap name="ScreenScraper" date="20221011T125747" />
+	</game>
+	<game>
+		<path>./after-burner-usa.7z</path>
+		<name>after-burner-usa</name>
+		<md5>99309340eeb479b3ed498a6d4a41972f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125748" />
+	</game>
+	<game>
+		<path>./Teddy Boy.7z</path>
+		<name>Teddy Boy</name>
+		<md5>58dcae4eb707db94dcbb3157cb674957</md5>
+		<scrap name="ScreenScraper" date="20221011T125750" />
+	</game>
+	<game>
+		<path>./Winter Olympics - Lillehammer '94.zip</path>
+		<name>Winter Olympics - Lillehammer '94</name>
+		<md5>b47a0463261e5f539751f18c71e6f05f</md5>
+		<scrap name="ScreenScraper" date="20221011T125750" />
+	</game>
+	<game>
+		<path>./Parlour Games.zip</path>
+		<name>Parlour Games</name>
+		<md5>6737150a341940dff2872fd402b40231</md5>
+		<scrap name="ScreenScraper" date="20221011T125751" />
+	</game>
+	<game>
+		<path>./Black Belt.7z</path>
+		<name>Black Belt</name>
+		<md5>ee9c7eec3bde7a087f78e48eeb63a487</md5>
+		<scrap name="ScreenScraper" date="20221011T125752" />
+	</game>
+	<game>
+		<path>./Space-Harrier-3-D_SEGA-Master-System_EN.zip</path>
+		<name>Space-Harrier-3-D_SEGA-Master-System_EN</name>
+		<md5>04083394d93f3cff8f9c79da38333fae</md5>
+		<scrap name="ScreenScraper" date="20221011T125753" />
+	</game>
+	<game>
+		<path>./Rambo - First Blood Part 2.7z</path>
+		<name>Rambo - First Blood Part 2</name>
+		<md5>4a65c7aaf56788d8528c98f467d9cfaf</md5>
+		<scrap name="ScreenScraper" date="20221011T125754" />
+	</game>
+	<game>
+		<path>./Dragon Crystal.zip</path>
+		<name>Dragon Crystal</name>
+		<md5>b7b01e07ead45fa5510534bf469bc661</md5>
+		<scrap name="ScreenScraper" date="20221011T125755" />
+	</game>
+	<game>
+		<path>./Quartet.zip</path>
+		<name>Quartet</name>
+		<md5>623b1aadb478cd593ddf738e576a4f42</md5>
+		<scrap name="ScreenScraper" date="20221011T125756" />
+	</game>
+	<game>
+		<path>./Porkpolis-SMS-1.0.zip</path>
+		<name>Porkpolis-SMS-1.0</name>
+		<md5>cba7687f73dca50d685a9633e96fbf5d</md5>
+		<scrap name="ScreenScraper" date="20221011T125757" />
+	</game>
+	<game>
+		<path>./Terminator, The (UE) [!].zip</path>
+		<name>Terminator, The (UE) [!]</name>
+		<md5>5afd73366e66bff3d75e19c331ba1af0</md5>
+		<scrap name="ScreenScraper" date="20221011T125759" />
+	</game>
+	<game>
+		<path>./captain-silver-usa.7z</path>
+		<name>captain-silver-usa</name>
+		<md5>752e2345d16ced8c9b1e4e7c1f8e5aa5</md5>
+		<scrap name="ScreenScraper" date="20221011T125800" />
+	</game>
+	<game>
+		<path>./Satellite_7_(SC-3000)_[!].zip</path>
+		<name>Satellite_7_(SC-3000)_[!]</name>
+		<md5>2d1f7ef69dbe3bc9df05ea16ef824bec</md5>
+		<scrap name="ScreenScraper" date="20221011T125802" />
+	</game>
+	<game>
+		<path>./Pro Wrestling.7z</path>
+		<name>Pro Wrestling</name>
+		<md5>8bf48aa88348e5e00472d416a5437cba</md5>
+		<scrap name="ScreenScraper" date="20221011T125803" />
+	</game>
+	<game>
+		<path>./Super Futebol (UE) [b1].zip</path>
+		<name>Super Futebol (UE) [b1]</name>
+		<md5>978d35ea62a1b78f408fba1d2878f6d2</md5>
+		<scrap name="ScreenScraper" date="20221011T125804" />
+	</game>
+	<game>
+		<path>./Mickey Mouse - Legend of Illusion.zip</path>
+		<name>Mickey Mouse - Legend of Illusion</name>
+		<md5>7e04f096bf47ebc16e554137dafa10a7</md5>
+		<scrap name="ScreenScraper" date="20221011T125804" />
+	</game>
+	<game>
+		<path>./Simpsons, The - Bart vs. The Space Mutants (Europe).zip</path>
+		<name>Simpsons, The - Bart vs. The Space Mutants (Europe)</name>
+		<md5>26df4404950cb8da47235833c0c101c6</md5>
+		<scrap name="ScreenScraper" date="20221011T125805" />
+	</game>
+	<game>
+		<path>./Zillion II - The Tri Formation.7z</path>
+		<name>Zillion II - The Tri Formation</name>
+		<md5>bb48b4c0192604dee1bc87cd4bf0390e</md5>
+		<scrap name="ScreenScraper" date="20221011T125806" />
+	</game>
+	<game>
+		<path>./Dynamite Duke.zip</path>
+		<name>Dynamite Duke</name>
+		<md5>b4b10a810c0d7f99dd967f883931030d</md5>
+		<scrap name="ScreenScraper" date="20221011T125807" />
+	</game>
+	<game>
+		<path>./Hokuto-no-Ken_SEGA-Master-System_EN.zip</path>
+		<name>Hokuto-no-Ken_SEGA-Master-System_EN</name>
+		<md5>1d8f5b7644e33042f6d1eb57635f7c9c</md5>
+		<scrap name="ScreenScraper" date="20221011T125809" />
+	</game>
+	<game>
+		<path>./Aleste (JUE) [!].zip</path>
+		<name>Aleste (JUE) [!]</name>
+		<md5>5e0a246766eed5b9da96c468810f992b</md5>
+		<scrap name="ScreenScraper" date="20221011T125809" />
+	</game>
+	<game>
+		<path>./Micro Machines (E) [!].zip</path>
+		<name>Micro Machines (E) [!]</name>
+		<md5>eb2a592eb163237a99c94e055c1e25d2</md5>
+		<scrap name="ScreenScraper" date="20221011T125810" />
+	</game>
+	<game>
+		<path>./High School Kimengumi (J) [!].zip</path>
+		<name>High School Kimengumi (J) [!]</name>
+		<md5>b009350156529b02112172eccc4a9a0a</md5>
+		<scrap name="ScreenScraper" date="20221011T125811" />
+	</game>
+	<game>
+		<path>./Alex Kidd in Shinobi World.zip</path>
+		<name>Alex Kidd in Shinobi World</name>
+		<md5>885aaadfc53fe5657a127fc605a33157</md5>
+		<scrap name="ScreenScraper" date="20221011T125812" />
+	</game>
+	<game>
+		<path>./Super Kick Off.zip</path>
+		<name>Super Kick Off</name>
+		<md5>178c3be07d0f5cc937962c3f7584576a</md5>
+		<scrap name="ScreenScraper" date="20221011T125815" />
+	</game>
+	<game>
+		<path>./Choplifter.7z</path>
+		<name>Choplifter</name>
+		<md5>1dab962dfa29f5caf38d125aaaf1a2af</md5>
+		<scrap name="ScreenScraper" date="20221011T125815" />
+	</game>
+	<game>
+		<path>./Shanghai.zip</path>
+		<name>Shanghai</name>
+		<md5>1c1bf04fb800816742d04c94ef14f652</md5>
+		<scrap name="ScreenScraper" date="20221011T125816" />
+	</game>
+	<game>
+		<path>./Batman Returns.zip</path>
+		<name>Batman Returns</name>
+		<md5>51b27e2cf182ec289eefb7dce5f56770</md5>
+		<scrap name="ScreenScraper" date="20221011T125817" />
+	</game>
+	<game>
+		<path>./Sitio-do-Picapau-Amarelo_SEGA-Master-System_EN.zip</path>
+		<name>Sitio-do-Picapau-Amarelo_SEGA-Master-System_EN</name>
+		<md5>85ea52a2cbcae078dc3a04f8db1304a9</md5>
+		<scrap name="ScreenScraper" date="20221011T125818" />
+	</game>
+	<game>
+		<path>./Astro Warrior.7z</path>
+		<name>Astro Warrior</name>
+		<md5>b5ede82d1f5d4529af743d9bb01b41fe</md5>
+		<scrap name="ScreenScraper" date="20221011T125819" />
+	</game>
+	<game>
+		<path>./kenseiden-usa.7z</path>
+		<name>kenseiden-usa</name>
+		<md5>3cc53b114ad860b060517e949fe16870</md5>
+		<scrap name="ScreenScraper" date="20221011T125820" />
+	</game>
+	<game>
+		<path>./vigilante-usa.7z</path>
+		<name>vigilante-usa</name>
+		<md5>a7e671d832157d0e84bdf35dfc2e7b8b</md5>
+		<scrap name="ScreenScraper" date="20221011T125821" />
+	</game>
+	<game>
+		<path>./Y's - The Vanished Omens (UE) [!].zip</path>
+		<name>Y's - The Vanished Omens (UE) [!]</name>
+		<md5>aeda69ea6a61396019e825fce3ca58db</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T125822" />
+	</game>
+	<game>
+		<path>./Chuck-Rock_SEGA-Master-System_EN.zip</path>
+		<name>Chuck-Rock_SEGA-Master-System_EN</name>
+		<md5>2594f33f210ee4cf6356ac7b2ab8c4e7</md5>
+		<scrap name="ScreenScraper" date="20221011T125823" />
+	</game>
+	<game>
+		<path>./Digger-Chan_SEGA-Master-System_EN.zip</path>
+		<name>Digger-Chan_SEGA-Master-System_EN</name>
+		<md5>9de7eceb46b0e4524fc3b6f09eb0cbf3</md5>
+		<scrap name="ScreenScraper" date="20221011T125823" />
+	</game>
+	<game>
+		<path>./Asterix.7z</path>
+		<name>Asterix</name>
+		<md5>2571768f5ccbcc0ba3f19f99f7b0392e</md5>
+		<scrap name="ScreenScraper" date="20221011T125824" />
+	</game>
+	<game>
+		<path>./Line of Fire.zip</path>
+		<name>Line of Fire</name>
+		<md5>0f3888891ec1723550bd8397aedb4c40</md5>
+		<scrap name="ScreenScraper" date="20221011T125825" />
+	</game>
+	<game>
+		<path>./Prince of Persia.7z</path>
+		<name>Prince of Persia</name>
+		<md5>70e9b330dd6a91e7310f3c8d9a934ecc</md5>
+		<scrap name="ScreenScraper" date="20221011T125826" />
+	</game>
+	<game>
+		<path>./Transbot.zip</path>
+		<name>Transbot</name>
+		<md5>17be201e823a889c3bf36f0e4f52d061</md5>
+		<scrap name="ScreenScraper" date="20221011T125827" />
+	</game>
+	<game>
+		<path>./Castelo-Ra-Tim-Bum_SEGA-Master-System_EN.zip</path>
+		<name>Castelo-Ra-Tim-Bum_SEGA-Master-System_EN</name>
+		<md5>f9c5e16d5aa06290d3aabc786ac9e4ef</md5>
+		<scrap name="ScreenScraper" date="20221011T125828" />
+	</game>
+	<game>
+		<path>./Sensible Soccer.zip</path>
+		<name>Sensible Soccer</name>
+		<md5>f0b3682b075358c44df9108be6d2f2f3</md5>
+		<scrap name="ScreenScraper" date="20221011T125829" />
+	</game>
+	<game>
+		<path>./Sapo-Xule-vs-Os-Invasores-do-Brejo_SEGA-Master-System_EN.zip</path>
+		<name>Sapo-Xule-vs-Os-Invasores-do-Brejo_SEGA-Master-System_EN</name>
+		<md5>409663e3bc47cd555d463084b317d600</md5>
+		<scrap name="ScreenScraper" date="20221011T125830" />
+	</game>
+	<game>
+		<path>./Sukeban Deka 2 (J) [!].zip</path>
+		<name>Sukeban Deka 2 (J) [!]</name>
+		<md5>68ba34911746d031cac493e41f0ebd2d</md5>
+		<scrap name="ScreenScraper" date="20221011T125832" />
+	</game>
+	<game>
+		<path>./sega-world-tournament-golf-usa.7z</path>
+		<name>sega-world-tournament-golf-usa</name>
+		<md5>f9c526afcacc727e45e722a9d8075109</md5>
+		<scrap name="ScreenScraper" date="20221011T125833" />
+	</game>
+	<game>
+		<path>./Rastan.7z</path>
+		<name>Rastan</name>
+		<md5>4df0c2e0f2e98c87f66837a564c7e9ac</md5>
+		<scrap name="ScreenScraper" date="20221011T125834" />
+	</game>
+	<game>
+		<path>./Rampart.zip</path>
+		<name>Rampart</name>
+		<md5>5c86a095a5a676251cbf7c784c2384d5</md5>
+		<scrap name="ScreenScraper" date="20221011T125835" />
+	</game>
+	<game>
+		<path>./Mickey's Ultimate Challenge.zip</path>
+		<name>Mickey's Ultimate Challenge</name>
+		<md5>0ccdc339e9b5c6e0ba17e1ace7c80a10</md5>
+		<scrap name="ScreenScraper" date="20221011T125836" />
+	</game>
+	<game>
+		<path>./Galaxy Force.zip</path>
+		<name>Galaxy Force</name>
+		<md5>29ce01f6502691bb65c30015eef68902</md5>
+		<scrap name="ScreenScraper" date="20221011T125837" />
+	</game>
+	<game>
+		<path>./Wolfchild_SEGA-Master-System_EN.zip</path>
+		<name>Wolfchild_SEGA-Master-System_EN</name>
+		<md5>08eb9bf02f5eb4e238f791f27d65449a</md5>
+		<scrap name="ScreenScraper" date="20221011T125838" />
+	</game>
+	<game>
+		<path>./FIFA International Soccer.zip</path>
+		<name>FIFA International Soccer</name>
+		<md5>9d1edc2043e9a0ed1993f43f29a5b021</md5>
+		<scrap name="ScreenScraper" date="20221011T125839" />
+	</game>
+	<game>
+		<path>./Thunder Blade.zip</path>
+		<name>Thunder Blade</name>
+		<md5>a622454499ac74335b73ca3273dd4b13</md5>
+		<scrap name="ScreenScraper" date="20221011T125840" />
+	</game>
+	<game>
+		<path>./star-wars-usa.7z</path>
+		<name>star-wars-usa</name>
+		<md5>2012a00d2ef01285e7bf077f78e975f5</md5>
+		<scrap name="ScreenScraper" date="20221011T125841" />
+	</game>
+	<game>
+		<path>./American Baseball.zip</path>
+		<name>American Baseball</name>
+		<md5>4ad0702e44509bfd839f01d5fbe82cfd</md5>
+		<scrap name="ScreenScraper" date="20221011T125842" />
+	</game>
+	<game>
+		<path>./Tom and Jerry - The Movie (1).7z</path>
+		<name>Tom and Jerry - The Movie (1)</name>
+		<md5>f2ec03b1c46f9bb3824dac5725be6209</md5>
+		<scrap name="ScreenScraper" date="20221011T125843" />
+	</game>
+	<game>
+		<path>./OutRun.7z</path>
+		<name>OutRun</name>
+		<md5>039847ed4a5c747019d40a474abe6a2d</md5>
+		<scrap name="ScreenScraper" date="20221011T125843" />
+	</game>
+	<game>
+		<path>./Alex Kidd - The Lost Stars (World).zip</path>
+		<name>Alex Kidd - The Lost Stars (World)</name>
+		<md5>ea50dcdd1241667f32d39d606a9f7083</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221011T125844" />
+	</game>
+	<game>
+		<path>./Cheese Cat-astrophe (UE) [!].zip</path>
+		<name>Cheese Cat-astrophe (UE) [!]</name>
+		<md5>987b53a7be26f65b930e5ce2c16040a8</md5>
+		<scrap name="ScreenScraper" date="20221011T125845" />
+	</game>
+	<game>
+		<path>./Phantasy Star.zip</path>
+		<name>Phantasy Star</name>
+		<md5>1dcba4b5a78edad0c259496cea78cc3d</md5>
+		<scrap name="ScreenScraper" date="20221011T125846" />
+	</game>
+	<game>
+		<path>./Michael Jackson's Moonwalker.7z</path>
+		<name>Michael Jackson's Moonwalker</name>
+		<md5>477051801276b98034ff049baccb8677</md5>
+		<scrap name="ScreenScraper" date="20221011T125848" />
+	</game>
+	<game>
+		<path>./Dynamite Headdy.7z</path>
+		<name>Dynamite Headdy</name>
+		<md5>7f57481d870465fc3a6412d87f0a8e38</md5>
+		<scrap name="ScreenScraper" date="20221011T125849" />
+	</game>
+	<game>
+		<path>./Air Rescue.7z</path>
+		<name>Air Rescue</name>
+		<playcount>4</playcount>
+		<lastplayed>20221011T130052</lastplayed>
+		<md5>2afd597355ca78eb040e74ceac2b62db</md5>
+		<gametime>64</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125850" />
+	</game>
+	<game>
+		<path>./Home Alone.7z</path>
+		<name>Home Alone</name>
+		<md5>b0100ad9f1838332b15d0434bfa9fe29</md5>
+		<scrap name="ScreenScraper" date="20221011T125851" />
+	</game>
+	<game>
+		<path>./Kung Fu Kid.7z</path>
+		<name>Kung Fu Kid</name>
+		<md5>8e1be117d5cd1a61ba72eb44949cd54c</md5>
+		<scrap name="ScreenScraper" date="20221011T125852" />
+	</game>
+	<game>
+		<path>./Cool Spot.zip</path>
+		<name>Cool Spot</name>
+		<md5>37635e1f98301ce882d4f96b13acf7c5</md5>
+		<scrap name="ScreenScraper" date="20221011T125853" />
+	</game>
+	<game>
+		<path>./where-in-the-world-is-carmen-sandiego-usa.7z</path>
+		<name>where-in-the-world-is-carmen-sandiego-usa</name>
+		<md5>4ec384b825502d27295d06b0e09bb9e3</md5>
+		<scrap name="ScreenScraper" date="20221011T125854" />
+	</game>
+	<game>
+		<path>./Special Criminal Investigation.zip</path>
+		<name>Special Criminal Investigation</name>
+		<md5>716002b59183ce6c54aaed0cb5b12562</md5>
+		<scrap name="ScreenScraper" date="20221011T125854" />
+	</game>
+	<game>
+		<path>./Aerial Assault.7z</path>
+		<name>Aerial Assault</name>
+		<playcount>1</playcount>
+		<lastplayed>20221011T125852</lastplayed>
+		<md5>0713f2e55a1eea0d9e2fb7044740261b</md5>
+		<gametime>35</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125856" />
+	</game>
+	<game>
+		<path>./Makai Retsuden (J) [!].zip</path>
+		<name>Makai Retsuden (J) [!]</name>
+		<md5>ef6d86b9c0a4b7cc72544077f14e7912</md5>
+		<scrap name="ScreenScraper" date="20221011T125857" />
+	</game>
+	<game>
+		<path>./Rambo III.7z</path>
+		<name>Rambo III</name>
+		<md5>4fce4e3247639d0ef54eb54d0ef21153</md5>
+		<scrap name="ScreenScraper" date="20221011T125858" />
+	</game>
+	<game>
+		<path>./Ottifants.zip</path>
+		<name>Ottifants</name>
+		<md5>c6432a1c260807d5399cb63ee5ae063a</md5>
+		<scrap name="ScreenScraper" date="20221011T125859" />
+	</game>
+	<game>
+		<path>./Fire &amp; Forget II (Europe).zip</path>
+		<name>Fire &amp; Forget II (Europe)</name>
+		<md5>d27d8fee8f711db361a71817864bd139</md5>
+		<scrap name="ScreenScraper" date="20221011T125900" />
+	</game>
+	<game>
+		<path>./super-racing-usa.7z</path>
+		<name>super-racing-usa</name>
+		<md5>bcc2df04cac4b713ee48a05669cdfbdd</md5>
+		<scrap name="ScreenScraper" date="20221011T125901" />
+	</game>
+	<game>
+		<path>./Gokuaku Doumei Dump Matsumoto (Japan).zip</path>
+		<name>Gokuaku Doumei Dump Matsumoto (Japan)</name>
+		<md5>9e56576a5c7d571ce17c650c4116a77d</md5>
+		<scrap name="ScreenScraper" date="20221011T125901" />
+	</game>
+	<game>
+		<path>./Desert-Speedtrap-starring-Road-Runner-and-Wile-E-Coyote_SEGA-Master-System_EN.zip</path>
+		<name>Desert-Speedtrap-starring-Road-Runner-and-Wile-E-Coyote_SEGA-Master-System_EN</name>
+		<md5>8fe55ade7b34aa4e42c5f63f4368497f</md5>
+		<scrap name="ScreenScraper" date="20221011T125902" />
+	</game>
+	<game>
+		<path>./Alien 3.7z</path>
+		<name>Alien 3</name>
+		<md5>7d6b3351e820b6afa7cf80713dc139e3</md5>
+		<scrap name="ScreenScraper" date="20221011T125904" />
+	</game>
+	<game>
+		<path>./Simpsons, The - Bart vs. the World.7z</path>
+		<name>Simpsons, The - Bart vs. the World</name>
+		<md5>cba2ec2940619956359801618e7aab17</md5>
+		<scrap name="ScreenScraper" date="20221011T125905" />
+	</game>
+	<game>
+		<path>./Nekyuu_Kousien_(J)_[!].zip</path>
+		<name>Nekyuu_Kousien_(J)_[!]</name>
+		<md5>deac89672a98c5400030e66577cbb454</md5>
+		<scrap name="ScreenScraper" date="20221011T125906" />
+	</game>
+	<game>
+		<path>./Superman - The Man of Steel (Europe).zip</path>
+		<name>Superman - The Man of Steel (Europe)</name>
+		<md5>dc1541e54da2376781e3691784befaa9</md5>
+		<scrap name="ScreenScraper" date="20221011T125907" />
+	</game>
+	<game>
+		<path>./Woody Pop (J) [!].zip</path>
+		<name>Woody Pop (J) [!]</name>
+		<md5>818e2aba1fd4776000ab09db952f3861</md5>
+		<scrap name="ScreenScraper" date="20221011T125908" />
+	</game>
+	<game>
+		<path>./Great Golf.zip</path>
+		<name>Great Golf</name>
+		<md5>e7a3edf62abe1d0ec6d9999c744d7bad</md5>
+		<scrap name="ScreenScraper" date="20221011T125909" />
+	</game>
+	<game>
+		<path>./Ms. Pac-Man.zip</path>
+		<name>Ms. Pac-Man</name>
+		<md5>692185c0932d9f58610b9cd473332bfa</md5>
+		<scrap name="ScreenScraper" date="20221011T125910" />
+	</game>
+	<game>
+		<path>./Megumi-Rescue_SEGA-Master-System_EN.zip</path>
+		<name>Megumi-Rescue_SEGA-Master-System_EN</name>
+		<md5>fd834dbb87682c674f7d7ed917355021</md5>
+		<scrap name="ScreenScraper" date="20221011T125911" />
+	</game>
+	<game>
+		<path>./Speedball.zip</path>
+		<name>Speedball</name>
+		<md5>669ed40a8c5cb6dc364152183f2355c7</md5>
+		<scrap name="ScreenScraper" date="20221011T125912" />
+	</game>
+	<game>
+		<path>./james-bond-007-the-duel-usa.7z</path>
+		<name>james-bond-007-the-duel-usa</name>
+		<md5>9b9625388b8183da8b9b9c97b15ff1ea</md5>
+		<scrap name="ScreenScraper" date="20221011T125913" />
+	</game>
+	<game>
+		<path>./Basket Ball Nightmare.zip</path>
+		<name>Basket Ball Nightmare</name>
+		<md5>ded03433df342e25b45944d164b8c7af</md5>
+		<scrap name="ScreenScraper" date="20221011T125914" />
+	</game>
+	<game>
+		<path>./Deep Duck Trouble starring Donald Duck.zip</path>
+		<name>Deep Duck Trouble starring Donald Duck</name>
+		<md5>c4a3aaf90123518331f076b327b73a3b</md5>
+		<scrap name="ScreenScraper" date="20221011T125915" />
+	</game>
+	<game>
+		<path>./Cyber Shinobi.7z</path>
+		<name>Cyber Shinobi</name>
+		<md5>61d904ae386416ead277854eb62bb437</md5>
+		<scrap name="ScreenScraper" date="20221011T125917" />
+	</game>
+	<game>
+		<path>./Chapolim x Dracula - Um Duelo Assustador (Brazil) [!].zip</path>
+		<name>Chapolim x Dracula - Um Duelo Assustador (Brazil) [!]</name>
+		<md5>2c709ba8cdc3a1b7adc5bc838eabf6f3</md5>
+		<scrap name="ScreenScraper" date="20221011T125918" />
+	</game>
+	<game>
+		<path>./Sapo-Xule-O-Mestre-do-Kung-Fu_SEGA-Master-System_EN.zip</path>
+		<name>Sapo-Xule-O-Mestre-do-Kung-Fu_SEGA-Master-System_EN</name>
+		<md5>387983a020328f52b42293b308562eb8</md5>
+		<scrap name="ScreenScraper" date="20221011T125919" />
+	</game>
+	<game>
+		<path>./Anmitsu Hime (J) [!].zip</path>
+		<name>Anmitsu Hime (J) [!]</name>
+		<md5>dda499696acc33fa0f55ff85a7316187</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221011T125919" />
+	</game>
+	<game>
+		<path>./Taz-Mania.7z</path>
+		<name>Taz-Mania</name>
+		<md5>579b7e7c5da2118aac7d204afffb22c2</md5>
+		<scrap name="ScreenScraper" date="20221011T125920" />
+	</game>
+	<game>
+		<path>./Bubble Bobble.zip</path>
+		<name>Bubble Bobble</name>
+		<md5>577996f2f24cf74ca8ba1652244c08c4</md5>
+		<scrap name="ScreenScraper" date="20221011T125922" />
+	</game>
+	<game>
+		<path>./Great Soccer.zip</path>
+		<name>Great Soccer</name>
+		<md5>9f66ba7166cf437bb9b2b95218f6a5a9</md5>
+		<scrap name="ScreenScraper" date="20221011T125923" />
+	</game>
+	<game>
+		<path>./Missile Defense 3D.zip</path>
+		<name>Missile Defense 3D</name>
+		<md5>a16942d2277ccdb9f708dacbada9155f</md5>
+		<scrap name="ScreenScraper" date="20221011T125924" />
+	</game>
+	<game>
+		<path>./Tecmo-World-Cup-93_SEGA-Master-System_EN.zip</path>
+		<name>Tecmo-World-Cup-93_SEGA-Master-System_EN</name>
+		<md5>da8261e0374da5727dd031d7dd5b42d6</md5>
+		<scrap name="ScreenScraper" date="20221011T125925" />
+	</game>
+	<game>
+		<path>./Kings Quest - Quest for the Crown.7z</path>
+		<name>Kings Quest - Quest for the Crown</name>
+		<md5>080a5f8fd59d90358cebe9ab7dcf2dd0</md5>
+		<scrap name="ScreenScraper" date="20221011T125926" />
+	</game>
+	<game>
+		<path>./Casino Games.zip</path>
+		<name>Casino Games</name>
+		<md5>cf8d36d081dd14ad29f9edd4ff4ec2fc</md5>
+		<scrap name="ScreenScraper" date="20221011T125927" />
+	</game>
+	<game>
+		<path>./Astro Flash (Japan).zip</path>
+		<name>Astro Flash (Japan)</name>
+		<md5>a7462d79844a12a92941174252c9ca6e</md5>
+		<scrap name="ScreenScraper" date="20221011T125928" />
+	</game>
+	<game>
+		<path>./Ninja Gaiden.zip</path>
+		<name>Ninja Gaiden</name>
+		<md5>0bcaa9c5d456237f1ef6eb6b42bd8f22</md5>
+		<scrap name="ScreenScraper" date="20221011T125929" />
+	</game>
+	<game>
+		<path>./golden-axe-usa.7z</path>
+		<name>golden-axe-usa</name>
+		<md5>e6b9fea08d6ac38f9bb71ddeb97eb014</md5>
+		<scrap name="ScreenScraper" date="20221011T125930" />
+	</game>
+	<game>
+		<path>./Argos no Juujiken (Japan).zip</path>
+		<name>Argos no Juujiken (Japan)</name>
+		<md5>8e8b04b5a9fe7b6cdb25b6550e7a831e</md5>
+		<scrap name="ScreenScraper" date="20221011T125931" />
+	</game>
+	<game>
+		<path>./Submarine Attack (UE) [!].zip</path>
+		<name>Submarine Attack (UE) [!]</name>
+		<md5>58878e635779df9bbd06a934abcd96db</md5>
+		<scrap name="ScreenScraper" date="20221011T125931" />
+	</game>
+	<game>
+		<path>./Power Strike II (Europe).zip</path>
+		<name>Power Strike II (Europe)</name>
+		<md5>bd7898393b716aff69132934bf7dccb8</md5>
+		<scrap name="ScreenScraper" date="20221011T125932" />
+	</game>
+	<game>
+		<path>./Fantasy Zone II - The Tears of Opa-Opa.7z</path>
+		<name>Fantasy Zone II - The Tears of Opa-Opa</name>
+		<md5>14441fc2633dbcc4db42679a913392b6</md5>
+		<scrap name="ScreenScraper" date="20221011T125933" />
+	</game>
+	<game>
+		<path>./Global Gladiators.zip</path>
+		<name>Global Gladiators</name>
+		<md5>c06b7f7e32c89eee83e124cf915321e4</md5>
+		<scrap name="ScreenScraper" date="20221011T125935" />
+	</game>
+	<game>
+		<path>./Walter Payton Football.7z</path>
+		<name>Walter Payton Football</name>
+		<md5>b0b243aaf152d34a026503542af6f4cf</md5>
+		<scrap name="ScreenScraper" date="20221011T125936" />
+	</game>
+	<game>
+		<path>./Populous (UE) [!].zip</path>
+		<name>Populous (UE) [!]</name>
+		<md5>e780f43ffe5a126f22c6867a7307f95c</md5>
+		<scrap name="ScreenScraper" date="20221011T125937" />
+	</game>
+	<game>
+		<path>./Wonder-Boy.zip</path>
+		<name>Wonder-Boy</name>
+		<md5>e1b5e1af42d6e8f1073b7aaedba98f22</md5>
+		<scrap name="ScreenScraper" date="20221011T125938" />
+	</game>
+	<game>
+		<path>./Dick Tracy.7z</path>
+		<name>Dick Tracy</name>
+		<md5>1dcaf7d1ea7caaaa716f0ec43c3f828a</md5>
+		<scrap name="ScreenScraper" date="20221011T125939" />
+	</game>
+	<game>
+		<path>./Mercs.zip</path>
+		<name>Mercs</name>
+		<md5>46787435755b54b06e4afebe78111be1</md5>
+		<scrap name="ScreenScraper" date="20221011T125940" />
+	</game>
+	<game>
+		<path>./danan-the-jungle-fighter-usa.7z</path>
+		<name>danan-the-jungle-fighter-usa</name>
+		<md5>6b0fc60aa886c060bf1a16ea97b4f441</md5>
+		<scrap name="ScreenScraper" date="20221011T125941" />
+	</game>
+	<game>
+		<path>./Haja no Fuuin (J) [!].zip</path>
+		<name>Haja no Fuuin (J) [!]</name>
+		<md5>31fe7aea459dd7c595637531b5f6c236</md5>
+		<scrap name="ScreenScraper" date="20221011T125942" />
+	</game>
+	<game>
+		<path>./Spy vs. Spy.7z</path>
+		<name>Spy vs. Spy</name>
+		<md5>1c0780d428b9ab309be36ddb5e3b5e14</md5>
+		<scrap name="ScreenScraper" date="20221011T125944" />
+	</game>
+	<game>
+		<path>./Aladdin.zip</path>
+		<name>Aladdin</name>
+		<md5>704ff123b62be2ec7c03d3db807fe619</md5>
+		<scrap name="ScreenScraper" date="20221011T125944" />
+	</game>
+	<game>
+		<path>./Marble Madness.zip</path>
+		<name>Marble Madness</name>
+		<md5>44f8958135741e6eae14b611a0eef6ae</md5>
+		<scrap name="ScreenScraper" date="20221011T125945" />
+	</game>
+	<game>
+		<path>./Indiana-Jones-and-The-Last-Crusade-The-Action-Game_SEGA-Master-System_EN.zip</path>
+		<name>Indiana-Jones-and-The-Last-Crusade-The-Action-Game_SEGA-Master-System_EN</name>
+		<md5>c957d73fb1be314d67ed7930f33a903d</md5>
+		<scrap name="ScreenScraper" date="20221011T125947" />
+	</game>
+	<game>
+		<path>./Secret Command (Europe).zip</path>
+		<name>Secret Command (Europe)</name>
+		<md5>3f6c5515a2e39826fbf816780298701c</md5>
+		<scrap name="ScreenScraper" date="20221011T125948" />
+	</game>
+	<game>
+		<path>./F-16 Fighter (USA, Europe).zip</path>
+		<name>F-16 Fighter (USA, Europe)</name>
+		<md5>b88767b3386073fa775a8391b8912010</md5>
+		<scrap name="ScreenScraper" date="20221011T125949" />
+	</game>
+	<game>
+		<path>./SDI.zip</path>
+		<name>SDI</name>
+		<md5>28716c8165d68d3778b7476e3bc0831e</md5>
+		<scrap name="ScreenScraper" date="20221011T125951" />
+	</game>
+	<game>
+		<path>./Jurassic Park.7z</path>
+		<name>Jurassic Park</name>
+		<md5>b05014defe8d0c3d0ad6f67851ca15d7</md5>
+		<scrap name="ScreenScraper" date="20221011T125952" />
+	</game>
+	<game>
+		<path>./Great-Baseball_SEGA-Master-System_EN.zip</path>
+		<name>Great-Baseball_SEGA-Master-System_EN</name>
+		<md5>1d126c6ac8e4d7b612e9db3d56d9e78e</md5>
+		<scrap name="ScreenScraper" date="20221011T125953" />
+	</game>
+	<game>
+		<path>./Zaxxon-3-D_SEGA-Master-System_EN.zip</path>
+		<name>Zaxxon-3-D_SEGA-Master-System_EN</name>
+		<md5>a7caee7c801075c6b585a7bfcfa51c89</md5>
+		<scrap name="ScreenScraper" date="20221011T125954" />
+	</game>
+	<game>
+		<path>./Tensai Bakabon (J) [!].zip</path>
+		<name>Tensai Bakabon (J) [!]</name>
+		<md5>08bac1c46b81f488a19fef31d537e2ab</md5>
+		<scrap name="ScreenScraper" date="20221011T125955" />
+	</game>
+	<game>
+		<path>./GP Rider.zip</path>
+		<name>GP Rider</name>
+		<md5>f13811981a5b764e6c2148c2eca8f95c</md5>
+		<scrap name="ScreenScraper" date="20221011T125956" />
+	</game>
+	<game>
+		<path>./World Soccer.7z</path>
+		<name>World Soccer</name>
+		<md5>31b8b3fe3a72907ac8c596a6c36bf2ff</md5>
+		<scrap name="ScreenScraper" date="20221011T125957" />
+	</game>
+	<game>
+		<path>./Laser Ghost.zip</path>
+		<name>Laser Ghost</name>
+		<md5>a1d553d2d541350a5d3b5f9924296afa</md5>
+		<scrap name="ScreenScraper" date="20221011T125958" />
+	</game>
+	<game>
+		<path>./Sonic Chaos.zip</path>
+		<name>Sonic Chaos</name>
+		<md5>5687395e10620619f55ac9182b2a770b</md5>
+		<scrap name="ScreenScraper" date="20221011T125959" />
+	</game>
+	<game>
+		<path>./Strider.zip</path>
+		<name>Strider</name>
+		<md5>29e6a00af72705e45192625e2d55bc20</md5>
+		<scrap name="ScreenScraper" date="20221011T130000" />
+	</game>
+	<game>
+		<path>./Renegade.zip</path>
+		<name>Renegade</name>
+		<md5>8f38a40060d4e349ce8c1ee55e7be8bb</md5>
+		<scrap name="ScreenScraper" date="20221011T130001" />
+	</game>
+	<game>
+		<path>./Strider 2.zip</path>
+		<name>Strider 2</name>
+		<md5>e9083ee724a083495dcc07ba0e1ebbcd</md5>
+		<scrap name="ScreenScraper" date="20221011T130002" />
+	</game>
+	<game>
+		<path>./Impossible Mission.zip</path>
+		<name>Impossible Mission</name>
+		<md5>c7cd54ccb86b15e5f853846511706b6b</md5>
+		<scrap name="ScreenScraper" date="20221011T130003" />
+	</game>
+	<game>
+		<path>./Battlemaniacs.7z</path>
+		<name>Battlemaniacs</name>
+		<md5>5401ddcc788c0f1a5dfe26e56f239fbf</md5>
+		<scrap name="ScreenScraper" date="20221011T130004" />
+	</game>
+	<game>
+		<path>./streets-of-rage-2-usa.7z</path>
+		<name>streets-of-rage-2-usa</name>
+		<md5>e680b108e67caf02e4fb77d419f48358</md5>
+		<scrap name="ScreenScraper" date="20221011T130005" />
+	</game>
+	<game>
+		<path>./Ninja.zip</path>
+		<name>Ninja</name>
+		<md5>aa1c549acd6e1693f3daccabdbb47b66</md5>
+		<scrap name="ScreenScraper" date="20221011T130006" />
+	</game>
+	<game>
+		<path>./Championship Hockey (UE) [!].zip</path>
+		<name>Championship Hockey (UE) [!]</name>
+		<md5>b9a2a5e9bb01b082431096e4363e8b6f</md5>
+		<scrap name="ScreenScraper" date="20221011T130006" />
+	</game>
+	<game>
+		<path>./Hoshi-o-sagashite_SEGA-Master-System_EN.zip</path>
+		<name>Hoshi-o-sagashite_SEGA-Master-System_EN</name>
+		<md5>9b6274dd555f84b3f21fa2594b280a06</md5>
+		<scrap name="ScreenScraper" date="20221011T130007" />
+	</game>
+	<game>
+		<path>./Virtua Fighter Animation (J) [!].zip</path>
+		<name>Virtua Fighter Animation (J) [!]</name>
+		<md5>a7954a26ee82c802761a149271adf17c</md5>
+		<scrap name="ScreenScraper" date="20221011T130008" />
+	</game>
+	<game>
+		<path>./George Foreman's KO Boxing.zip</path>
+		<name>George Foreman's KO Boxing</name>
+		<md5>88ca0c744351f18a6d6b5b8774b10fe0</md5>
+		<scrap name="ScreenScraper" date="20221011T130009" />
+	</game>
+	<game>
+		<path>./World Grand Prix.zip</path>
+		<name>World Grand Prix</name>
+		<md5>9662e5d1cb492ebe5e75fa0ccd5eeb1a</md5>
+		<scrap name="ScreenScraper" date="20221011T130010" />
+	</game>
+	<game>
+		<path>./ghostbusters-usa.7z</path>
+		<name>ghostbusters-usa</name>
+		<md5>dbae1ad6d3917a95b96d28bfc6f3f90a</md5>
+		<scrap name="ScreenScraper" date="20221011T130011" />
+	</game>
+	<game>
+		<path>./X-Men - Mojo World.zip</path>
+		<name>X-Men - Mojo World</name>
+		<md5>49f6385d3a034633ead1775e5d1b63c1</md5>
+		<scrap name="ScreenScraper" date="20221011T130012" />
+	</game>
+	<game>
+		<path>./Final Bubble Bobble (J) [!].zip</path>
+		<name>Final Bubble Bobble (J) [!]</name>
+		<md5>0e4ac01237fe6a86ee896df1355262cb</md5>
+		<scrap name="ScreenScraper" date="20221011T130013" />
+	</game>
+	<game>
+		<path>./Asterix and the Secret Mission.zip</path>
+		<name>Asterix and the Secret Mission</name>
+		<md5>ea86e1437fb1db793193678b3b4b2b59</md5>
+		<scrap name="ScreenScraper" date="20221011T130014" />
+	</game>
+	<game>
+		<path>./Bonkers Wax Up!.zip</path>
+		<name>Bonkers Wax Up!</name>
+		<md5>e70f8ebc92017551106dcb4ce94bbab4</md5>
+		<scrap name="ScreenScraper" date="20221011T130015" />
+	</game>
+	<game>
+		<path>./Spellcaster.zip</path>
+		<name>Spellcaster</name>
+		<md5>855b36746d027630dbb420551664dbc3</md5>
+		<scrap name="ScreenScraper" date="20221011T130016" />
+	</game>
+	<game>
+		<path>./Columns.7z</path>
+		<name>Columns</name>
+		<md5>d443d521036d527d35926809f230106c</md5>
+		<scrap name="ScreenScraper" date="20221011T130016" />
+	</game>
+	<game>
+		<path>./Bomber Raid.7z</path>
+		<name>Bomber Raid</name>
+		<md5>8fa17fadea2c1e35cef6dd28e112188c</md5>
+		<scrap name="ScreenScraper" date="20221011T130017" />
+	</game>
+	<game>
+		<path>./Ashura (J) [!].zip</path>
+		<name>Ashura (J) [!]</name>
+		<md5>8a035cf41bccbb4cdd086f605735e9d8</md5>
+		<scrap name="ScreenScraper" date="20221011T130018" />
+	</game>
+	<game>
+		<path>./street-fighter-2-usa.7z</path>
+		<name>street-fighter-2-usa</name>
+		<md5>55af41c80a3110d400750a44afed8cfc</md5>
+		<scrap name="ScreenScraper" date="20221011T130019" />
+	</game>
+	<game>
+		<path>./World Cup Italia '90 (UE) [!].zip</path>
+		<name>World Cup Italia '90 (UE) [!]</name>
+		<md5>b7a69f9f9a6a4a1f25d63c7368b30c6d</md5>
+		<scrap name="ScreenScraper" date="20221011T130020" />
+	</game>
+	<game>
+		<path>./Action Fighter (Japan, Europe) (v1.1).zip</path>
+		<name>Action Fighter (Japan, Europe) (v1.1)</name>
+		<md5>7e08a9854d61fece23d3c4a39539f4e9</md5>
+		<scrap name="ScreenScraper" date="20221011T130021" />
+	</game>
+	<game>
+		<path>./flash-the-usa.7z</path>
+		<name>flash-the-usa</name>
+		<md5>a96908fab5f599b11fe8107c3f93b6b1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125921" />
+	</game>
+	<game>
+		<path>./Forgotten Worlds.zip</path>
+		<name>Forgotten Worlds</name>
+		<md5>0d0bfcf8e971bbfdd658102981a7deb8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125950" />
+	</game>
+	<game>
+		<path>./Fantastic Dizzy.zip</path>
+		<name>Fantastic Dizzy</name>
+		<md5>5ec9e9e5175c33c5a9b07e6cc44276b1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125533" />
+	</game>
+	<game>
+		<path>./Dallyeora Pigu-Wang (Korea) (Unl).zip</path>
+		<name>Dallyeora Pigu-Wang (Korea) (Unl)</name>
+		<md5>3ad7b3e23400ee10b7239e22d45aca4e</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20221011T125535" />
+	</game>
+	<game>
+		<path>./Desert Strike.7z</path>
+		<name>Desert Strike</name>
+		<md5>1068282dc304822e75f87a00501cec1c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125538" />
+	</game>
+	<game>
+		<path>./Ecco the Dolphin.7z</path>
+		<name>Ecco the Dolphin</name>
+		<md5>bea00f9b73ac248bafa7e406a5489b32</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125603" />
+	</game>
+	<game>
+		<path>./blade-eagle-3d-usa.7z</path>
+		<name>blade-eagle-3d-usa</name>
+		<md5>c099eeedf048cd23104901d18f72315b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125606" />
+	</game>
+	<game>
+		<path>./G-Loc Air Battle.zip</path>
+		<name>G-Loc Air Battle</name>
+		<md5>3599a18d5350f43cfd1bcc54a4b0a9db</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125619" />
+	</game>
+	<game>
+		<path>./Galactic Protector.zip</path>
+		<name>Galactic Protector</name>
+		<md5>a95ed82e4a3df1a7cd72b251ef64d9c1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125621" />
+	</game>
+	<game>
+		<path>./Gain Ground.zip</path>
+		<name>Gain Ground</name>
+		<md5>473927ebaa839443d1eeb610c37a6d7f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125631" />
+	</game>
+	<game>
+		<path>./Dr. Robotnik's Mean Bean Machine (UE) [!].zip</path>
+		<name>Dr. Robotnik's Mean Bean Machine (UE) [!]</name>
+		<md5>0152ab14327fd03d22041dba455bc921</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T125634" />
+	</game>
+	<game>
+		<path>./Zool.zip</path>
+		<name>Zool</name>
+		<playcount>2</playcount>
+		<lastplayed>20221011T130331</lastplayed>
+		<md5>416eff96ca319a3f69392547d1ee6b41</md5>
+		<gametime>37</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125639" />
+	</game>
+	<game>
+		<path>./Dynamite Dux.zip</path>
+		<name>Dynamite Dux</name>
+		<md5>59d10abbd813a8f875f1947e38a257c2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125648" />
+	</game>
+	<game>
+		<path>./Brad.zip</path>
+		<name>Brad</name>
+		<md5>dda8b0a9e82c49ce67462f62b286d6f2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125659" />
+	</game>
+	<game>
+		<path>./california-games-usa.7z</path>
+		<name>california-games-usa</name>
+		<md5>f2409a1c4f7893e5871189efc4f8e677</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125702" />
+	</game>
+	<game>
+		<path>./Chase H.Q.zip</path>
+		<name>Chase H.Q</name>
+		<md5>ef89f03ae5da245def0b1a9095c12cc2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125724" />
+	</game>
+	<game>
+		<path>./Cloud-Master_SEGA-Master-System_EN.zip</path>
+		<name>Cloud-Master_SEGA-Master-System_EN</name>
+		<md5>eb997057d41ef713cf7bbe3f847dc005</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125744" />
+	</game>
+	<game>
+		<path>./zillion-usa.7z</path>
+		<name>zillion-usa</name>
+		<md5>8e1ef3fa772361037bef4363da9051a8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125748" />
+	</game>
+	<game>
+		<path>./Buggy Run.zip</path>
+		<name>Buggy Run</name>
+		<md5>2fbd4719eef30133b50d9262491fdff5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125758" />
+	</game>
+	<game>
+		<path>./Castle of Illusion Starring Mickey Mouse (USA).zip</path>
+		<name>Castle of Illusion Starring Mickey Mouse (USA)</name>
+		<md5>e9b4b92bc29ca8fbe9978da6720bd1eb</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221011T125801" />
+	</game>
+	<game>
+		<path>./Cosmic Spacehead.zip</path>
+		<name>Cosmic Spacehead</name>
+		<md5>9fd33afd9a8f7a88f3be1b52355db980</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125808" />
+	</game>
+	<game>
+		<path>./Xenon 2 - Megablast (Europe) (Virgin).zip</path>
+		<name>Xenon 2 - Megablast (Europe) (Virgin)</name>
+		<md5>27fba4b7db989c663dda11c255cf49f3</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T125814" />
+	</game>
+	<game>
+		<path>./BreadAndButter-SMS-1.032.zip</path>
+		<name>BreadAndButter-SMS-1.032</name>
+		<md5>a5193aa61b99913ba70506ccd83c350f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125831" />
+	</game>
+	<game>
+		<path>./Flintstones.zip</path>
+		<name>Flintstones</name>
+		<playcount>1</playcount>
+		<lastplayed>20221011T130737</lastplayed>
+		<md5>3e75d9e27b44b22f2d253ca134826b22</md5>
+		<gametime>52</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125847" />
+	</game>
+	<game>
+		<path>./Dinosaur Dooley, The (Korea) (Unl).zip</path>
+		<name>Dinosaur Dooley, The (Korea) (Unl)</name>
+		<md5>e5c7ba1a2a6e1e9de597479add641d1d</md5>
+		<lang>kr</lang>
+		<region>kr</region>
+		<scrap name="ScreenScraper" date="20221011T125855" />
+	</game>
+	<game>
+		<path>./Ferias Frustradas do Picapau.7z</path>
+		<name>Ferias Frustradas do Picapau</name>
+		<md5>3706d53f47e3e0294a778bc9b732f414</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125903" />
+	</game>
+	<game>
+		<path>./Chouon Senshi Borgman (Japan) (Beta).zip</path>
+		<name>Chouon Senshi Borgman (Japan) (Beta)</name>
+		<md5>d89cd6506b9c6c865607638350346976</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221011T125916" />
+	</game>
+	<game>
+		<path>./California Games II.7z</path>
+		<name>California Games II</name>
+		<md5>3f8076c5ef52b866cacfda20826dcf42</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125934" />
+	</game>
+	<game>
+		<path>./Fire-Ice.7z</path>
+		<name>Fire-Ice</name>
+		<playcount>2</playcount>
+		<lastplayed>20221011T130606</lastplayed>
+		<md5>85acf93edba54485466aeb840966082b</md5>
+		<gametime>13</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125943" />
+	</game>
+	<game>
+		<path>./Bonanza Bros.zip</path>
+		<name>Bonanza Bros</name>
+		<md5>46f3fefb1590991a281398c6088f8d49</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T125946" />
+	</game>
+	<game>
+		<path>./chrome-win.zip</path>
+		<name>chrome-win</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T130000" />
+	</game>
+	<game id="59497">
+		<path>./Space Castle (Germany) (En).zip</path>
+		<name>Space Castle</name>
+		<desc>With a space jet against 5 intergalactic battle stars. An exciting Game Master adventure in which you have to use quick reactions and tactical skills to save the world from the attack of hostile aliens.nnWith bonus function and automatic point counting.</desc>
+		<image>./images/Space Castle (Germany) (En)-image.png</image>
+		<video>./videos/Space Castle (Germany) (En)-video.mp4</video>
+		<marquee>./images/Space Castle (Germany) (En)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20221011T131832</lastplayed>
+		<md5>db6f4c5272d6d400339bbae4b27aeca8</md5>
+		<gametime>109</gametime>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T131544" />
+	</game>
+	<game id="59495">
+		<path>./Kung Fu (Germany) (En).zip</path>
+		<name>Kung Fu Challenge</name>
+		<desc>The Shaolin monastery is in danger - deceitful fighters from Mandushuria are threatening to level the center of the monks to the ground. And only you are left to save the holy place: With the edge of your hand against ninja throwing stars, clubs and trident.</desc>
+		<image>./images/Kung Fu (Germany) (En)-image.png</image>
+		<video>./videos/Kung Fu (Germany) (En)-video.mp4</video>
+		<marquee>./images/Kung Fu (Germany) (En)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<playcount>1</playcount>
+		<lastplayed>20221011T131620</lastplayed>
+		<md5>9da233d4ce78262063087cbd72f7c7a1</md5>
+		<gametime>34</gametime>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T131620" />
+	</game>
+	<game id="59494">
+		<path>./Hyper Space (Germany) (En).zip</path>
+		<name>Hyper Space</name>
+		<desc>Hyper Space is a shooting game, developed and published by Hartung, which was released in Germany in 1990.</desc>
+		<image>./images/Hyper Space (Germany) (En)-image.png</image>
+		<video>./videos/Hyper Space (Germany) (En)-video.mp4</video>
+		<marquee>./images/Hyper Space (Germany) (En)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<players>1</players>
+		<md5>2ec75fcdf4ec1c87d86215caa5d26193</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T131620" />
+	</game>
+	<game id="59489">
+		<path>./Bubble Boy (Germany) (En).zip</path>
+		<name>Bubble Boy</name>
+		<desc>Falling bubbles must be correctly rotated and placed in a matter of seconds. And if it doesn't work out, the only thing that helps is the bomb ... Here are responsive people with an overview required - a real challenge for all game fans. Who can register as a champion in the current leaderboard?nnWith 5 levels of play, chicane function and record list!</desc>
+		<image>./images/Bubble Boy (Germany) (En)-image.png</image>
+		<video>./videos/Bubble Boy (Germany) (En)-video.mp4</video>
+		<marquee>./images/Bubble Boy (Germany) (En)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221011T131534</lastplayed>
+		<md5>a03ca20479ff776e0217313edafe4047</md5>
+		<gametime>39</gametime>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T131620" />
+	</game>
+	<game id="254525">
+		<path>./Tank War (Germany) (En).zip</path>
+		<name>Tank War</name>
+		<image>./images/Tank War (Germany) (En)-image.png</image>
+		<md5>4a82748ad7ca532112ba1ad766ab0e8a</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T131620" />
+	</game>
+	<game id="59499">
+		<path>./Urban Champion (Germany) (En).zip</path>
+		<name>Urban Champion</name>
+		<desc>Urban Champion is a shooting game, developed and published by Hartung, which was released in Germany in 1990.</desc>
+		<image>./images/Urban Champion (Germany) (En)-image.png</image>
+		<video>./videos/Urban Champion (Germany) (En)-video.mp4</video>
+		<marquee>./images/Urban Champion (Germany) (En)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<md5>052b4ee08184b1dda2af62d5b2cec46a</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T131620" />
+	</game>
+	<game id="59493">
+		<path>./Go Bang! (Germany) (En).zip</path>
+		<name>Go Bang</name>
+		<desc>The fascinating old-Asian strategy game as a video game for the game master. 3 different game levels for beginners, advanced and experts make the Game Master either an ideal practice partner or a serious opponent in this game.</desc>
+		<image>./images/Go Bang! (Germany) (En)-image.png</image>
+		<video>./videos/Go Bang! (Germany) (En)-video.mp4</video>
+		<marquee>./images/Go Bang! (Germany) (En)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Asiatic board game / Go</genre>
+		<players>1</players>
+		<md5>c2e198743c83fea5b5176c8811f334f2</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T131620" />
+	</game>
+	<game id="59498">
+		<path>./Tennis (Germany) (En).zip</path>
+		<name>Tennis Master</name>
+		<desc>Game, set and victory - high sporting excitement is guaranteed here: The brand new tennis cardrige for the "Game Masters" tournament ensures realistic gameplay on the LCD screen. So nothing like throwing the ball up, pressing the punch button and blasting off ...nnWith beginner and professional levels, referee function and score display like in real tennis!</desc>
+		<image>./images/Tennis (Germany) (En)-image.png</image>
+		<video>./videos/Tennis (Germany) (En)-video.mp4</video>
+		<marquee>./images/Tennis (Germany) (En)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1</players>
+		<md5>c8a03104f14efb82614377258c930b6e</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T131621" />
+	</game>
+	<game id="254523">
+		<path>./Move It (Germany) (En).zip</path>
+		<name>Move It</name>
+		<image>./images/Move It (Germany) (En)-image.png</image>
+		<md5>1a0e725373941fae94df98abe22d6e92</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T131623" />
+	</game>
+	<game id="254517">
+		<path>./Space Warrior (Germany) (En).zip</path>
+		<name>Space Warrior</name>
+		<md5>f101080f52438bed46e28a99eff65368</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T131624" />
+	</game>
+	<game id="59496">
+		<path>./Pin Ball (Germany) (En).zip</path>
+		<name>Pin Ball</name>
+		<desc>With this cartridge the Game Master turns into an electronic super pinball machine: Simply tension the launch spring, let go and off you go...
+And whoever scores the most points can register as a pinball champion on the current leaderboard!
+The new super game with 4 levels, bonus functions and realistic pinball effects!</desc>
+		<video>./videos/Pin Ball (Germany) (En)-video.mp4</video>
+		<marquee>./images/Pin Ball (Germany) (En)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<md5>ea07da74db1cec925554e216e18a77ad</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T131634" />
+	</game>
+	<game id="59492">
+		<path>./Falling Block (Germany) (En).zip</path>
+		<name>Falling Block!</name>
+		<desc>The new super video game from Game Master: Spatial imagination and lightning-fast reactions are required here.nn9 game levels and various chicanes with increasing difficulty ensure fascinating gaming fun.</desc>
+		<image>./images/Falling Block (Germany) (En)-image.png</image>
+		<video>./videos/Falling Block (Germany) (En)-video.mp4</video>
+		<marquee>./images/Falling Block (Germany) (En)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>fd09a58f4dcd275dcbc5f1d4bc2f3e09</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T131634" />
+	</game>
+	<game id="59490">
+		<path>./Continental Galaxy (Germany) (En).zip</path>
+		<name>Continental Galaxy 2020</name>
+		<desc>Red alert!!!! The invaders of Minus-Delta-T approaching our solar system - and only you in your space glider can still avert the catastrophe on earth. You need a crystal clear head and nerves of steel ...</desc>
+		<image>./images/Continental Galaxy (Germany) (En)-image.png</image>
+		<video>./videos/Continental Galaxy (Germany) (En)-video.mp4</video>
+		<marquee>./images/Continental Galaxy (Germany) (En)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<md5>cb8b5a9e6f73fc86dc5837869492e837</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T131640" />
+	</game>
+	<game id="59491">
+		<path>./Dungeon Adventure (Germany) (En).zip</path>
+		<name>Dungeon Adventure</name>
+		<desc>Falling Block! is a puzzle game, developed and published by Hartung, which was released in Germany in 1990.</desc>
+		<image>./images/Dungeon Adventure (Germany) (En)-image.png</image>
+		<video>./videos/Dungeon Adventure (Germany) (En)-video.mp4</video>
+		<marquee>./images/Dungeon Adventure (Germany) (En)-marquee.png</marquee>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<players>1</players>
+		<md5>809df2a9559f6a860c877f914912aa88</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T131832" />
+	</game>
+	<game id="254513">
+		<path>./Space Invader (Germany) (En).zip</path>
+		<name>Space Invader</name>
+		<image>./images/Space Invader (Germany) (En)-image.png</image>
+		<md5>e82891f63558420b78555caf62d8ce90</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T131832" />
+	</game>
+	<game id="254515">
+		<path>./Finite Zone (Germany) (En).zip</path>
+		<name>Finite Zone</name>
+		<md5>6d7e784898343d21f9f6aef0bc061ab7</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T131832" />
+	</game>
+	<game id="254521">
+		<path>./Formel 1 (Germany) (En).zip</path>
+		<name>Car Racing</name>
+		<desc>Accelerate, change gears, brake - super racing fun with the brand new Formula 1 cardrige for the "Game Master" Grand Prix.nnWith a top speed of 400 km/h it goes over 4 international racetracks. And only outspoken record drivers can be found in the list of the world's best ...nnWith turbo function, gas and gear button.</desc>
+		<developer>Hartung</developer>
+		<publisher>Hartung</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<players>1</players>
+		<md5>6a0637c95b5b8ea3ddbc4f2375e2b6f4</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T131832" />
+	</game>
+	<game id="250969">
+		<path>./Fuss-ball (Germany) (En).zip</path>
+		<name>Soccer</name>
+		<image>./images/Fuss-ball (Germany) (En)-image.png</image>
+		<genre>Sports / Soccer</genre>
+		<md5>21ed82e77ac793904d226e2f80decec8</md5>
+		<lang>en,de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T131832" />
+	</game>
+</gameList>
