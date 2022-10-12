@@ -1,5 +1,52 @@
 <?xml version="1.0"?>
 <gameList>
+	<game id="51160">
+		<path>./astron.daphne</path>
+		<name>Astron Belt</name>
+		<desc>In Astron Belt, you fly through the universe battling alien ships to make your way to fight the main Alien Battle Cruiser.  Along the way, you fly across alien planets, through tunnels, through trenches, and get involved in a few astro-dogfights with enemy space fighters</desc>
+		<image>./images/astron-image.png</image>
+		<video>./videos/astron-video.mp4</video>
+		<marquee>./images/astron-marquee.png</marquee>
+		<thumbnail>./images/astron-thumb.png</thumbnail>
+		<fanart>./images/astron-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>19831122T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane, 1st person</genre>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20221012T130641</lastplayed>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<gametime>27</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221012T130702" />
+	</game>
+	<game id="51162">
+		<path>./bega.daphne</path>
+		<name>Bega's Battle</name>
+		<desc>In Bega's Battle, You play a character named Bega. You must face the alien Varga who is trying to take over the earth. You must defeat Varga to save the earth from destruction. Other goals are to rescue your friends Luna, Jobe, and Sony. Once rescued, Luna gave you extra firepower, Jobe gave you the shield, and Sony gave you teleportation ability.</desc>
+		<image>./images/bega-image.png</image>
+		<video>./videos/bega-video.mp4</video>
+		<marquee>./images/bega-marquee.png</marquee>
+		<thumbnail>./images/bega-thumb.png</thumbnail>
+		<fanart>./images/bega-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Platform / Run Jump</genre>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221012T125958</lastplayed>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221012T130709" />
+	</game>
 	<game id="51173">
 		<path>./ace.daphne</path>
 		<name>Space Ace</name>
@@ -20,9 +67,31 @@ The gameplay is also similar, requiring the player to move the joystick or press
 		<players>1</players>
 		<playcount>8</playcount>
 		<lastplayed>20191112T221839</lastplayed>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T074410" />
+		<scrap name="ScreenScraper" date="20221012T130711" />
+	</game>
+	<game id="190330">
+		<path>./uvt.daphne</path>
+		<name>Us Vs Them</name>
+		<desc>They are among us, who? Invaders, aliens or aliens, in short, little green guys! Obviously to make a game they must be bad and want to take possession of our beautiful planet, otherwise it's not funny. As you have guessed, freedom lies on your shoulders and depends on your accuracy in shooting and acrobatics.
+Us vs. Them is an aerial shoot game with a rather classic and unpretentious realization where your ship is more or less inlaid in a background animated by videos. To make the interludes more dynamic, scenes with real actors punctuate the story in a spirit close to the TV series of the 80s. The game will appeal to lovers of science fiction, shoot and low budget TV series. Others will more readily turn to titles like M.A.C.H. 3.</desc>
+		<image>./images/uvt-image.png</image>
+		<video>./videos/uvt-video.mp4</video>
+		<marquee>./images/uvt-marquee.png</marquee>
+		<thumbnail>./images/uvt-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Mylstar</developer>
+		<publisher>Mylstar</publisher>
+		<genre>Shoot'em Up</genre>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1</players>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221012T130718" />
 	</game>
 	<game id="51166">
 		<path>./lair2.daphne</path>
@@ -47,7 +116,28 @@ The gameplay is also similar, requiring the player to move the joystick or press
 		<gametime>84</gametime>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T074419" />
+		<scrap name="ScreenScraper" date="20221012T130719" />
+	</game>
+	<game id="190329">
+		<path>./mach3.daphne</path>
+		<name>M.A.C.H. 3</name>
+		<desc>In M.A.C.H. 3, you pilot either a Fighter plane or a Bomber plane and must fly around hitting targets on the ground or in the air while avoiding enemy fire. M.A.C.H. 3 used video footage from the laser disc and overlaid computer graphics for your ship and the enemy ships.</desc>
+		<image>./images/mach3-image.png</image>
+		<video>./videos/mach3-video.mp4</video>
+		<marquee>./images/mach3-marquee.png</marquee>
+		<thumbnail>./images/mach3-thumb.png</thumbnail>
+		<bezel>./images/mach3-bezel.png</bezel>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Mylstar</developer>
+		<publisher>Mylstar</publisher>
+		<genre>Shoot'em Up</genre>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1</players>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221012T130726" />
 	</game>
 	<game id="51165">
 		<path>./lair.daphne</path>
@@ -65,17 +155,130 @@ The gameplay is also similar, requiring the player to move the joystick or press
 		<genre>Platform / Run Jump</genre>
 		<family>Dragon's Lair</family>
 		<arcadesystemname>daphne</arcadesystemname>
-		<players>2</players>
-		<playcount>14</playcount>
-		<lastplayed>20221002T114314</lastplayed>
+		<players>1-2</players>
+		<playcount>15</playcount>
+		<lastplayed>20221012T130020</lastplayed>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
 		<gametime>305</gametime>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T074413" />
+		<scrap name="ScreenScraper" date="20221012T130726" />
 	</game>
-	<game>
+	<game id="51170">
+		<path>./interstellar.daphne</path>
+		<name>Interstellar Laser Fantasy</name>
+		<desc>In Interstellar Laser Fantasy, your mission is to fly to distant worlds battling alien spaceships and destroying alien bases. Armed with lasers and bombs, you travel across alien deserts, through space caverns, and into bizarre wire framed cities to find and destroy the Delta UFO.</desc>
+		<image>./images/interstellar-image.png</image>
+		<video>./videos/interstellar-video.mp4</video>
+		<marquee>./images/interstellar-marquee.png</marquee>
+		<thumbnail>./images/interstellar-thumb.png</thumbnail>
+		<fanart>./images/interstellar-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Funai</developer>
+		<publisher>Funai/Gakken</publisher>
+		<genre>Shooter / Race 1st Pers. view</genre>
+		<family>Interstellar</family>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1</players>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221012T130732" />
+	</game>
+	<game id="51163">
+		<path>./cliff.daphne</path>
+		<name>Cliff Hanger</name>
+		<desc>Cliff is on a mission to save Clarissa from being forced to marry the evil Count Draco. Cliff Hanger is an interactive cartoon movie. The game consists of animated scenes, during which the player has to press direction buttons or the sword button in the right moment to trigger the next segment of the movie. The anime video used in the game are scenes from the Lupin III anime movies, mainly scenes from The Castle of Cagliostro and the Mystery of Mamo animated movies. Cliff in the game is Arsène Lupin III in the original anime.</desc>
+		<image>./images/cliff-image.png</image>
+		<video>./videos/cliff-video.mp4</video>
+		<marquee>./images/cliff-marquee.png</marquee>
+		<thumbnail>./images/cliff-thumb.png</thumbnail>
+		<fanart>./images/cliff-fanart.jpg</fanart>
+		<bezel>./images/cliff-bezel.png</bezel>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Stern Electronics, Inc.</developer>
+		<publisher>Stern Electronics</publisher>
+		<genre>Platform / Run Jump</genre>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221012T130003</lastplayed>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221012T130740" />
+	</game>
+	<game id="43586">
+		<path>./tq.daphne</path>
+		<name>Thayer's Quest</name>
+		<desc>Thayer Alconred, last of the bloodline of the Elder Kings, searches five kingdoms in search of five relics which combine to form the Hand of Quoid. Thayer's adversary, Sorsabal The Twisted assisted by his henchman, The Black Magician, seeks to use the Hand's power to take control of the land.</desc>
+		<image>./images/tq-image.png</image>
+		<video>./videos/tq-video.mp4</video>
+		<marquee>./images/tq-marquee.png</marquee>
+		<thumbnail>./images/tq-thumb.png</thumbnail>
+		<fanart>./images/tq-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>RDI Video Systems</developer>
+		<publisher>RDI Video Systems</publisher>
+		<genre>Platform / Run Jump</genre>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1</players>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221012T130747" />
+	</game>
+	<game id="51172">
+		<path>./roadblaster.daphne</path>
+		<name>Road Blaster</name>
+		<desc>In Road Blaster, your mission is to seek out a gang of bikers who attacked and killed your wife. You are behind the wheel of a supped-up sports car, weaving in and out of traffic and other obstacles while in pursuit of the bikers.</desc>
+		<image>./images/roadblaster-image.png</image>
+		<video>./videos/roadblaster-video.mp4</video>
+		<marquee>./images/roadblaster-marquee.png</marquee>
+		<thumbnail>./images/roadblaster-thumb.png</thumbnail>
+		<fanart>./images/roadblaster-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>19850801T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Race, Driving</genre>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1</players>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221012T130754" />
+	</game>
+	<game id="51161">
+		<path>./badlands.daphne</path>
+		<name>Badlands</name>
+		<desc>A Western/Gun shooting game where you play a character named Buck, whose wife and children were killed by a group of bad guys. Revenge is the only thing on your mind. You head for town, equipped only with your gun, searching for the people who ruined your life.</desc>
+		<image>./images/badlands-image.png</image>
+		<video>./videos/badlands-video.mp4</video>
+		<marquee>./images/badlands-marquee.png</marquee>
+		<thumbnail>./images/badlands-thumb.png</thumbnail>
+		<fanart>./images/badlands-fanart.jpg</fanart>
+		<bezel>./images/badlands-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221012T125952</lastplayed>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221012T130807" />
+	</game>
+	<game id="51174">
 		<path>./sdq.daphne</path>
-		<name>Super Don Quix-ote</name>
+		<name>Super Don Quix-Ote</name>
 		<desc>The idea for this animated laserdisc game comes from the movies and novels about Don Quixote, the legendary Spanish knight. In this game, the character looks very young and does not have a mustache. Also, he has a sword for a weapon and his faithful sidekick Sancho Panza follows him around although he does nothing to assist the hero.
 An assortment of mythical creatures including demons, dragons, skeletons and so on are encountered throughout the game. The game ends when Don Quixote kills the evil witch and rescues Isabella.</desc>
 		<image>./media/images/sdq.png</image>
@@ -85,15 +288,85 @@ An assortment of mythical creatures including demons, dragons, skeletons and so 
 		<fanart>./images/sdq-fanart.jpg</fanart>
 		<rating>0.8</rating>
 		<releasedate>19840101T000000</releasedate>
-		<developer>Universal Interactive</developer>
-		<publisher>Universal Interactive Inc.</publisher>
 		<genre>Adventure</genre>
+		<arcadesystemname>daphne</arcadesystemname>
 		<players>1</players>
+		<playcount>6</playcount>
+		<lastplayed>20221004T185358</lastplayed>
 		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<gametime>93</gametime>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T074423" />
+		<scrap name="ScreenScraper" date="20221012T130808" />
 		<scrap name="TheGamesDB" date="20221002T114343" />
 		<scrap name="HfsDB" date="20220928T074522" />
 	</game>
+	<game id="51167">
+		<path>./esh.daphne</path>
+		<name>Esh's Aurunmilla</name>
+		<desc>In Esh's Aurunmilla, you are the hero Don Davis. Emperor Esh, who is trying to take over the Universe Orion, has kidnapped princess Sindy. It is your job to rescue Princess Sindy from the evil Emperor Esh. Armed with only a sword, you must fight your way through the obstacles to rescue the princess and save the universe!</desc>
+		<image>./images/esh-image.png</image>
+		<video>./videos/esh-video.mp4</video>
+		<marquee>./images/esh-marquee.png</marquee>
+		<thumbnail>./images/esh-thumb.png</thumbnail>
+		<fanart>./images/esh-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Funai</developer>
+		<publisher>Funai/Gakken</publisher>
+		<genre>Platform / Run Jump</genre>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221012T130037</lastplayed>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221012T130817" />
+	</game>
+	<game>
+		<path>./galaxy.daphne</path>
+		<name>Galaksija</name>
+		<playcount>1</playcount>
+		<lastplayed>20221012T130043</lastplayed>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221012T130820" />
+	</game>
+	<game id="150948">
+		<path>./cobra.daphne</path>
+		<name>Cobra Command</name>
+		<desc>Mission... You have been ordered to get rid of a terrorist group which is committing crimes all over the world. Piloting your ultra-modern Jet Helicopter you have to confront your enemies. Carry out your mission!
+
+You command a fully armed helicopter and must take on enemy helicopters, planes, tanks, and ships in order to destroy their stronghold on an area. Your missions take you though the forest, in the canyons, through the desert ruins, out to the pacific ocean, and right though New York City.</desc>
+		<image>./images/cobra-image.png</image>
+		<video>./videos/cobra-video.mp4</video>
+		<marquee>./images/cobra-marquee.png</marquee>
+		<thumbnail>./images/cobra-thumb.png</thumbnail>
+		<fanart>./images/cobra-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221012T130009</lastplayed>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221012T130830" />
+	</game>
+	<game>
+		<path>./gpworld.daphne</path>
+		<name>GP World</name>
+		<playcount>1</playcount>
+		<lastplayed>20221012T130048</lastplayed>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
 </gameList>
+
