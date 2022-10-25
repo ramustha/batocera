@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./State to State.zip</path>
+		<name>State to State</name>
+		<playcount>2</playcount>
+		<lastplayed>20220928T151151</lastplayed>
+		<md5>8985c230e9cf6b9de09a343ac4444ef9</md5>
+		<gametime>89</gametime>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Amazing Mazes.zip</path>
+		<name>Amazing Mazes</name>
+		<playcount>1</playcount>
+		<lastplayed>20220928T161221</lastplayed>
+		<md5>684e3fb63c55adf0fe602ffb6ddfa7e7</md5>
+		<gametime>211</gametime>
+		<lang>en</lang>
+	</game>
+</gameList>
