@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="250162">
+		<path>./Mouse Puzzle (Asia, Europe).rom</path>
+		<name>Mouse Puzzle</name>
+		<desc>A poor little mouse is hungry and looking for food. He walks through pipes inside the wall, but he can't see too well. So you have to move the pipes around to help him go in the right direction. Otherwise he'll fall out the end of a pipe or maybe bonk right into a wall and that will be the end of him. Only you can help to keep him going. City Kitty is a nasty, sneaky, rotten cat. In some games he will sneak into the pipes and chase your mouse. Don't let him catch up because he is hungry too. And he only eats poor little mouse.</desc>
+		<image>./images/Mouse Puzzle (Asia, Europe)-image.png</image>
+		<video>./videos/Mouse Puzzle (Asia, Europe)-video.mp4</video>
+		<marquee>./images/Mouse Puzzle (Asia, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Mouse Puzzle (Asia, Europe)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<md5>136caa24d077372d94594cc722a00cf8</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T143833" />
+	</game>
+	<game id="250168">
+		<path>./Air Sea Attack (Asia, Europe).rom</path>
+		<name>Air/Sea Attack</name>
+		<desc>Hours of exhilaration await you and your family and friends as you take command of your nuclear submarine deep in hostile waters. The enemy is completely ruthless and is out to destroy you with every weapon at his command. His bombers, helicopters and jet-fighters along with his destroyers cruisers, battleships and submarines are armed to the teeth and have only one mission... to find and annihilate you !</desc>
+		<image>./images/Air Sea Attack (Asia, Europe)-image.png</image>
+		<video>./videos/Air Sea Attack (Asia, Europe)-video.mp4</video>
+		<marquee>./images/Air Sea Attack (Asia, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Air Sea Attack (Asia, Europe)-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<md5>2a3000132c6ae8f6712eaee387ad851c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T143837" />
+	</game>
+	<game id="250144">
+		<path>./Astro Pinball (Asia, Europe).rom</path>
+		<name>Astro Pinball</name>
+		<desc>Each player gets 5 balls to start and controls the plunger which puts the balls into play. One ball is played at a time. As the ball approaches the flippers, the player attempts to hit the ball to keep it in play. You can choose the number of pins, the speed of the ball and the layout of the pinball game, simply by picking the appropriate game number.</desc>
+		<image>./images/Astro Pinball (Asia, Europe)-image.png</image>
+		<video>./videos/Astro Pinball (Asia, Europe)-video.mp4</video>
+		<marquee>./images/Astro Pinball (Asia, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Astro Pinball (Asia, Europe)-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Pinball</genre>
+		<players>1-4</players>
+		<md5>da1efcd608ee688ec76fb806b28a8f04</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T143841" />
+	</game>
+	<game id="250150">
+		<path>./Chopper Rescue (Asia, Europe) (Alt).rom</path>
+		<name>Chopper Rescue</name>
+		<desc>You have to do some of the trickiest flying that's ever been done over three types of terrain. But you can't let anything stop you. You have to pick up vital medical supplies and deliver them where disaster has struck. If you fail, thousands will die. You have to avoid tall buildings and high-flying birds just to make the pick-up. And things get worse after that. In order to make the drop you have to have pinpoint accuracy and very steady nerves.</desc>
+		<image>./images/Chopper Rescue (Asia, Europe) (Alt)-image.png</image>
+		<video>./videos/Chopper Rescue (Asia, Europe) (Alt)-video.mp4</video>
+		<marquee>./images/Chopper Rescue (Asia, Europe) (Alt)-marquee.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<md5>91a60dbb91668023629ae5165cbab9d5</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T143843" />
+	</game>
+	<game id="250150">
+		<path>./Chopper Rescue (Asia, Europe).rom</path>
+		<name>Chopper Rescue</name>
+		<desc>You have to do some of the trickiest flying that's ever been done over three types of terrain. But you can't let anything stop you. You have to pick up vital medical supplies and deliver them where disaster has struck. If you fail, thousands will die. You have to avoid tall buildings and high-flying birds just to make the pick-up. And things get worse after that. In order to make the drop you have to have pinpoint accuracy and very steady nerves.</desc>
+		<image>./images/Chopper Rescue (Asia, Europe)-image.png</image>
+		<video>./videos/Chopper Rescue (Asia, Europe)-video.mp4</video>
+		<marquee>./images/Chopper Rescue (Asia, Europe)-marquee.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<md5>6c3abd51286ee689d3576cd6f50269ff</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T143846" />
+	</game>
+	<game id="250192">
+		<path>./CreatiVision Basic (Asia, Europe).rom</path>
+		<name>ZZZ(notgame):Basic Interpreter</name>
+		<hidden>true</hidden>
+		<md5>0e43eb5caf9c0128998d04e033016556</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T143847" />
+	</game>
+	<game id="250195">
+		<path>./Hapmon (Asia, Europe).rom</path>
+		<name>ZZZ(notgame):Ha.P. Monitor</name>
+		<marquee>./images/Hapmon (Asia, Europe)-marquee.png</marquee>
+		<hidden>true</hidden>
+		<md5>3d3dc6cb1374cca0b2a7fb4e898c98c8</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T143848" />
+	</game>
+	<game id="250165">
+		<path>./Music Maker (Asia, Europe).rom</path>
+		<name>Music Maker</name>
+		<desc>Select instrument, rhythm and tempo and play. Simply press the note-keys indicated on your Music Maker grid and play whatever piece of music you wish. As you play, the notes will appear on screen in correct musical notation with the choosen instrument.</desc>
+		<image>./images/Music Maker (Asia, Europe)-image.png</image>
+		<video>./videos/Music Maker (Asia, Europe)-video.mp4</video>
+		<marquee>./images/Music Maker (Asia, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Music Maker (Asia, Europe)-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Music and Dance / Rhythm</genre>
+		<players>1</players>
+		<md5>c19cbb873193f6441ff793b82a5ec19c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T143853" />
+	</game>
+	<game id="250171">
+		<path>./Planet Defender (Asia, Europe).rom</path>
+		<name>Planet Defender</name>
+		<desc>You command the hyperspace cruiser. Aliens, from a far galaxy are attacking earth, but first they must conquer the heavily fortified moonbase. As they swoop in to attack in unearthly formations, only you, in your speedy hyperspace cruiser stand between them and total devastation. Blast them out of the sky with your lethal laser cannon and watch them disintegrate.</desc>
+		<image>./images/Planet Defender (Asia, Europe)-image.png</image>
+		<video>./videos/Planet Defender (Asia, Europe)-video.mp4</video>
+		<marquee>./images/Planet Defender (Asia, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Planet Defender (Asia, Europe)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<md5>8aecbd20173bf4af56a1eb641cba492e</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T143857" />
+	</game>
+	<game id="250174">
+		<path>./Police Jump (Asia, Europe).rom</path>
+		<name>Police Jump</name>
+		<desc>You are a police inspector. The notorious criminal, Dangerous Dan, has kidnapped a beautiful rich girl and you've tracked him down to his sky-scraper hideaway, but that's the easy part. Now you have to go up there, all by yourself and get him. There are twenty floors between you and your goal, every one of them filled with treacherous booby traps.</desc>
+		<image>./images/Police Jump (Asia, Europe)-image.png</image>
+		<video>./videos/Police Jump (Asia, Europe)-video.mp4</video>
+		<marquee>./images/Police Jump (Asia, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Police Jump (Asia, Europe)-thumb.png</thumbnail>
+		<rating>0.4</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>1-2</players>
+		<md5>9cb73c1ca4853ba299a97ed55b17727e</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T143902" />
+	</game>
+	<game id="250189">
+		<path>./Sonic Invader (Asia, Europe).rom</path>
+		<name>Sonic Invader</name>
+		<desc>Your mission is to command a squad of formidable Battle Wagons... ground-based, highly mobile fortresses that are Earth's last defence against the dreaded Sonic Invader from a far solar system. The ruthless Sonic Invader with his tight formation of deadly fighters has attacked thousands of planets all across the galaxy and never tasted defeat. Only you can save the earth.</desc>
+		<image>./images/Sonic Invader (Asia, Europe)-image.png</image>
+		<video>./videos/Sonic Invader (Asia, Europe)-video.mp4</video>
+		<marquee>./images/Sonic Invader (Asia, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Sonic Invader (Asia, Europe)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shooter / Space Invaders Like</genre>
+		<players>1-4</players>
+		<md5>fa49471a2d8d3482fddd77a35655aa26</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T143907" />
+	</game>
+	<game id="250180">
+		<path>./Tank Attack (Asia, Europe).rom</path>
+		<name>Tank Attack</name>
+		<desc>You are engaged in a battle to the death with another tank commander who has the same weapons as you have, so only your superior skill can win the day ! There are many obstacles on the battleground, such as buildings, trees and the river all of which can be used for defence and to help in your attack.</desc>
+		<image>./images/Tank Attack (Asia, Europe)-image.png</image>
+		<video>./videos/Tank Attack (Asia, Europe)-video.mp4</video>
+		<marquee>./images/Tank Attack (Asia, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Tank Attack (Asia, Europe)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shooter / Vehicle, 3rd person</genre>
+		<players>1-2</players>
+		<md5>68fc7cf9039568e8be17d2175d1e342c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T143912" />
+	</game>
+	<game id="250183">
+		<path>./Tennis (Asia, Europe) (DSE).rom</path>
+		<name>Tennis</name>
+		<desc>You can play at any level of skill you desire, from novice right up to world cup matches with friends or by yourself. The players are realistic and move all around the court and the ball follows the trajectories it would during a real game.</desc>
+		<image>./images/Tennis (Asia, Europe) (DSE)-image.png</image>
+		<video>./videos/Tennis (Asia, Europe) (DSE)-video.mp4</video>
+		<marquee>./images/Tennis (Asia, Europe) (DSE)-marquee.png</marquee>
+		<thumbnail>./images/Tennis (Asia, Europe) (DSE)-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<md5>1bda4ee02466b98c6c4cf8c962838d3f</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T143916" />
+	</game>
+	<game id="250183">
+		<path>./Tennis (Asia, Europe) (VTL).rom</path>
+		<name>Tennis</name>
+		<desc>You can play at any level of skill you desire, from novice right up to world cup matches with friends or by yourself. The players are realistic and move all around the court and the ball follows the trajectories it would during a real game.</desc>
+		<image>./images/Tennis (Asia, Europe) (VTL)-image.png</image>
+		<video>./videos/Tennis (Asia, Europe) (VTL)-video.mp4</video>
+		<marquee>./images/Tennis (Asia, Europe) (VTL)-marquee.png</marquee>
+		<thumbnail>./images/Tennis (Asia, Europe) (VTL)-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<md5>1a60104942ef675d6d34c0c3361025de</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T143920" />
+	</game>
+</gameList>
