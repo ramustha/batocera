@@ -1,0 +1,421 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="46424">
+		<path>./Blast Droids (19xx)(Esoterica).zip</path>
+		<name>Blast Droids</name>
+		<desc>Blast Droids has players flying a ship around a horizontal arena, firing at alien vessels while being careful to avoid shots that ricochet off of the walls.</desc>
+		<image>./images/Blast Droids (19xx)(Esoterica)-image.png</image>
+		<video>./videos/Blast Droids (19xx)(Esoterica)-video.mp4</video>
+		<marquee>./images/Blast Droids (19xx)(Esoterica)-marquee.png</marquee>
+		<thumbnail>./images/Blast Droids (19xx)(Esoterica)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Esoterica</publisher>
+		<genre>Shoot'em Up</genre>
+		<md5>8a0ff74bf056414e8e0918a7c1595d79</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094123" />
+	</game>
+	<game id="46416">
+		<path>./280 Zzzap + Dodgem (19xx)(Bally).zip</path>
+		<name>280 Zzzap+dodgem</name>
+		<desc>The title was named after the US advertising campaign for the Datsun 280Z. Players can drive up to 200 miles per hour (320 km/h) while navigating a tricky road course at night. Players must watch out for treacherous turns, nasty competitors, and the ever-present time limit.
+
+It is one of the earliest games, if not the earliest, with authorized branding.</desc>
+		<image>./images/280 Zzzap + Dodgem (19xx)(Bally)-image.png</image>
+		<video>./videos/280 Zzzap + Dodgem (19xx)(Bally)-video.mp4</video>
+		<marquee>./images/280 Zzzap + Dodgem (19xx)(Bally)-marquee.png</marquee>
+		<thumbnail>./images/280 Zzzap + Dodgem (19xx)(Bally)-thumb.png</thumbnail>
+		<releasedate>19780101T000000</releasedate>
+		<publisher>Bally</publisher>
+		<genre>Race, Driving</genre>
+		<md5>095d466bbbd595ff004379a8bfad4a9c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094127" />
+	</game>
+	<game id="46417">
+		<path>./Amazing Maze + Tic-Tac-Toe (19xx)(Bally).zip</path>
+		<name>Amazing Maze+tic Tac Toe</name>
+		<desc>Two mind-boggling challenges! Amazing Maze is a race through a maze between you and the computer or another player. The maze is truly amazing because it changes every time you play. Select easy ones or hard ones to match any skill level. Tic-Tac-Toe is the traditional game with a diabolical twist. You get to play against the computer! 1 or 2 players.</desc>
+		<image>./images/Amazing Maze + Tic-Tac-Toe (19xx)(Bally)-image.png</image>
+		<video>./videos/Amazing Maze + Tic-Tac-Toe (19xx)(Bally)-video.mp4</video>
+		<marquee>./images/Amazing Maze + Tic-Tac-Toe (19xx)(Bally)-marquee.png</marquee>
+		<thumbnail>./images/Amazing Maze + Tic-Tac-Toe (19xx)(Bally)-thumb.png</thumbnail>
+		<releasedate>19780101T000000</releasedate>
+		<publisher>Bally</publisher>
+		<genre>Compilation</genre>
+		<players>1-2</players>
+		<md5>b748311138c62f384f493b7b41d48317</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094132" />
+	</game>
+	<game id="46418">
+		<path>./Artillery Duel (1982)(Bally).zip</path>
+		<name>Artillery Duel</name>
+		<desc>In this two player game each player controls an artillery gun set in a mountain landscape with the goal of destroying the other player. Players take turns firing at each other; on each turn you have a limited amount of time in which the barrel angle and powder level can be set in order to control the direction and distance of the shot. When deciding on your shot, you will need to take the current conditions into account, which includes wind speed/direction and any mountains that may get in your way. Successfully destroying your opponents gun will earn you a point, and the first player to reach the set number of points wins the game. There are multiple skill levels available which set the amount of time you have to make a shot.</desc>
+		<image>./images/Artillery Duel (1982)(Bally)-image.png</image>
+		<video>./videos/Artillery Duel (1982)(Bally)-video.mp4</video>
+		<marquee>./images/Artillery Duel (1982)(Bally)-marquee.png</marquee>
+		<thumbnail>./images/Artillery Duel (1982)(Bally)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Astrocade</publisher>
+		<genre>Strategy</genre>
+		<players>1-4</players>
+		<md5>685b88389264115b03fa9b38a7602799</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094137" />
+	</game>
+	<game id="46419">
+		<path>./Astro Battle (1981)(Astrovision)[b].zip</path>
+		<name>Astro Battle</name>
+		<desc>Astro Battle 2009 (or sometimes just Astro Battle) is a Space Invaders clone published by Bally Manufacturing in 1978 for the Bally Astrocade arcade system. The aim is to defeat waves of aliens with a laser cannon and earn as many points as possible.[citation needed] Unlike Space Invaders, Astro Battle 2009 is in color</desc>
+		<image>./images/Astro Battle (1981)(Astrovision)[b]-image.png</image>
+		<video>./videos/Astro Battle (1981)(Astrovision)[b]-video.mp4</video>
+		<marquee>./images/Astro Battle (1981)(Astrovision)[b]-marquee.png</marquee>
+		<thumbnail>./images/Astro Battle (1981)(Astrovision)[b]-thumb.png</thumbnail>
+		<releasedate>19810101T000000</releasedate>
+		<publisher>Astrocade</publisher>
+		<genre>Shoot'em Up</genre>
+		<md5>4c6620906f35540f599002d98b92f7c7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094142" />
+	</game>
+	<game id="360898">
+		<path>./Astrocade BIOS (1977)(Bally).zip</path>
+		<name>ZZZ(notgame):[BIOS] Bally Astrocade</name>
+		<hidden>true</hidden>
+		<md5>ddff78b44f8f67626f433f39afab290e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094143" />
+	</game>
+	<game id="46420">
+		<path>./Bally BASIC (19xx)(Bally).zip</path>
+		<name>Bally Basic</name>
+		<desc>There's no easier way to learn about computers than with the Bally BASIC system. This plug-in cartridge with built-in audio tape interface converts your ARCADE into a personal computer you can program yourself. The term, BASIC, is an acronym for: Beginners All-purpose Symbolic Instruction Code. Bally BASIC as a language designed to make computers and programming easier to understand. It is an expanded version of Li-Chen Wang's Palo Alto Tiny BASIC. Written by Jay Fenton, Bally BASIC allows you to program or great pictures and sounds accompanied by a full range of 256 color choices. Bally BASIC expands your computer by letting you program your own computer games, electronic music and video art.</desc>
+		<image>./images/Bally BASIC (19xx)(Bally)-image.png</image>
+		<video>./videos/Bally BASIC (19xx)(Bally)-video.mp4</video>
+		<marquee>./images/Bally BASIC (19xx)(Bally)-marquee.png</marquee>
+		<thumbnail>./images/Bally BASIC (19xx)(Bally)-thumb.png</thumbnail>
+		<publisher>Bally</publisher>
+		<genre>Various</genre>
+		<md5>73625d40343e9097e5e81eb7ffd2e819</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094148" />
+	</game>
+	<game id="46421">
+		<path>./Bally Pinball (1981)(Bally)[b].zip</path>
+		<name>Bally Pin</name>
+		<desc>Bally Pin is a pinball game featuring two different tables. The game is played with two joysticks, with one controlling the two left flippers and the other controlling the two to the right. The game can be played by up to four players who take turns until all player have used up all of their five balls. The aim is simply to get the highest score. The two tables are similar but with slightly different layouts and both feature six bumpers (lit or unlit), drop targets, upper kicker targets and a spinner. The ball is meant to react as a real ball would when struck by a flipper with the speed and angle of it being affected by where on the flipper it is hit.</desc>
+		<image>./images/Bally Pinball (1981)(Bally)[b]-image.png</image>
+		<video>./videos/Bally Pinball (1981)(Bally)[b]-video.mp4</video>
+		<marquee>./images/Bally Pinball (1981)(Bally)[b]-marquee.png</marquee>
+		<thumbnail>./images/Bally Pinball (1981)(Bally)[b]-thumb.png</thumbnail>
+		<releasedate>19810101T000000</releasedate>
+		<publisher>Bally</publisher>
+		<genre>Pinball</genre>
+		<players>1-4</players>
+		<md5>f9cbf48164a442b5a6da5c9ad8157dbf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094154" />
+	</game>
+	<game id="46419">
+		<path>./Bally Professional Arcade BIOS (1978)(Bally).zip</path>
+		<name>Astro Battle</name>
+		<desc>Astro Battle 2009 (or sometimes just Astro Battle) is a Space Invaders clone published by Bally Manufacturing in 1978 for the Bally Astrocade arcade system. The aim is to defeat waves of aliens with a laser cannon and earn as many points as possible.[citation needed] Unlike Space Invaders, Astro Battle 2009 is in color</desc>
+		<image>./images/Bally Professional Arcade BIOS (1978)(Bally)-image.png</image>
+		<video>./videos/Bally Professional Arcade BIOS (1978)(Bally)-video.mp4</video>
+		<marquee>./images/Bally Professional Arcade BIOS (1978)(Bally)-marquee.png</marquee>
+		<thumbnail>./images/Bally Professional Arcade BIOS (1978)(Bally)-thumb.png</thumbnail>
+		<releasedate>19810101T000000</releasedate>
+		<publisher>Astrocade</publisher>
+		<genre>Shoot'em Up</genre>
+		<md5>7d25a26e5c4841b364cfe6b1735eaf03</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094159" />
+	</game>
+	<game id="46459">
+		<path>./Bingo Math + Speed Math (19xx)(Bally).zip</path>
+		<name>Speed Math+bingo Math</name>
+		<desc>Two fun-packed, fast-paced games sharpen basic math skills. Addition, subtraction, multiplication and division are the key ingredients. The faster you answer, the more points you get. As the score grows higher, the problems get harder. The computer automatically adjusts the skill levels to challenge players equally. A great teaching tool!</desc>
+		<image>./images/Bingo Math + Speed Math (19xx)(Bally)-image.png</image>
+		<video>./videos/Bingo Math + Speed Math (19xx)(Bally)-video.mp4</video>
+		<marquee>./images/Bingo Math + Speed Math (19xx)(Bally)-marquee.png</marquee>
+		<thumbnail>./images/Bingo Math + Speed Math (19xx)(Bally)-thumb.png</thumbnail>
+		<publisher>Bally</publisher>
+		<genre>Compilation</genre>
+		<md5>4f16a1118129d73eecf46c1a964065cd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094204" />
+	</game>
+	<game id="46423">
+		<path>./Blackjack + Poker + Acey-Duecy (19xx)(Bally).zip</path>
+		<name>Blackjack+poker+acey-deucy</name>
+		<desc>Blackjack/Poker/Acey-Deucey is a game compilation, that features 3 card games. 
+
+Blackjack and Acey-Deucey can be played 1 or more players, while Poker doesn't feature single-player.</desc>
+		<image>./images/Blackjack + Poker + Acey-Duecy (19xx)(Bally)-image.png</image>
+		<video>./videos/Blackjack + Poker + Acey-Duecy (19xx)(Bally)-video.mp4</video>
+		<marquee>./images/Blackjack + Poker + Acey-Duecy (19xx)(Bally)-marquee.png</marquee>
+		<thumbnail>./images/Blackjack + Poker + Acey-Duecy (19xx)(Bally)-thumb.png</thumbnail>
+		<releasedate>19780101T000000</releasedate>
+		<publisher>Bally</publisher>
+		<genre>Casino</genre>
+		<players>1-4</players>
+		<md5>89fb2c1681c2bcf58dff969f346c7fd0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094209" />
+	</game>
+	<game id="46426">
+		<path>./Clowns + Brickyard (19xx)(Bally).zip</path>
+		<name>Brickyard+clowns</name>
+		<desc>This cartridge consists of two games: Brickyard and Clowns. Both games can be played by one to four players.
+
+In Clowns you get points for popping balloons at the top of the screen. To reach them, you have to move a seesaw under a jumping clown. This will launch away the clown already standing on the seesaw, hopefully towards the balloons. 
+
+Brickyard is a clone of Breakout. It is almost identical to the original game but differs in that the ball moves in a trajectory and not in a straight path. The game can be played in four different difficulties that alters the speed of the ball as well as the size of the paddle.</desc>
+		<image>./images/Clowns + Brickyard (19xx)(Bally)-image.png</image>
+		<video>./videos/Clowns + Brickyard (19xx)(Bally)-video.mp4</video>
+		<marquee>./images/Clowns + Brickyard (19xx)(Bally)-marquee.png</marquee>
+		<thumbnail>./images/Clowns + Brickyard (19xx)(Bally)-thumb.png</thumbnail>
+		<releasedate>19790101T000000</releasedate>
+		<publisher>Bally</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<md5>45abd4a70efda818606ff10aa9272b48</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094214" />
+	</game>
+	<game id="46432">
+		<path>./Cosmic Raider (19xx)(Astrovision).zip</path>
+		<name>Cosmic Raiders</name>
+		<desc>Cosmic Raiders is a side-scrolling shoot 'em up similar to Defender. Like in that game the player's space ship can move both left and right and there is also a radar showing the locations of enemies. The game takes place in the alien sector Larkin and the player's objective is to defend a planet under attack while also collecting energy sources from an evil alien race called the Larkins. In every level four bombs are dropped along with a number of fighters to ensure the bombs reach the surface of the planet. The objective of the game is simply to clear all the enemies and get the highest score possible. For every two bombs destroyed an energy star that the player can collect will appear. By picking it up the player's ship is energized with an invincible energy shield. Once all enemies have been cleared from one level the game moves on to the next.
+
+Before starting out it's possible to choose the number of players (1-4), number of lives (1-9) and the intensity of the game (0-9). Level 0 is the easiest one and the only one where enemies do not get harder as the game goes on. Each player can have a different intensity level.</desc>
+		<image>./images/Cosmic Raider (19xx)(Astrovision)-image.png</image>
+		<video>./videos/Cosmic Raider (19xx)(Astrovision)-video.mp4</video>
+		<marquee>./images/Cosmic Raider (19xx)(Astrovision)-marquee.png</marquee>
+		<thumbnail>./images/Cosmic Raider (19xx)(Astrovision)-thumb.png</thumbnail>
+		<releasedate>19780101T000000</releasedate>
+		<publisher>Astrocade</publisher>
+		<genre>Shoot'em Up</genre>
+		<md5>9b431d6bc67c66ed432827d01cbb17f9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094220" />
+	</game>
+	<game id="46433">
+		<path>./Dogpatch (19xx)(Bally).zip</path>
+		<name>Dog Patch</name>
+		<desc>A real down-home skeet shoot! The target spins through the air as you raise your shotgun and fire. Good shooting keeps the target bouncing between the players. An explosive 12-gauge juggling act builds a big score! Blast the target past your opponent to score points. Play long or short games and vary the number of targets. 1 or 2 players.</desc>
+		<image>./images/Dogpatch (19xx)(Bally)-image.png</image>
+		<video>./videos/Dogpatch (19xx)(Bally)-video.mp4</video>
+		<marquee>./images/Dogpatch (19xx)(Bally)-marquee.png</marquee>
+		<thumbnail>./images/Dogpatch (19xx)(Bally)-thumb.png</thumbnail>
+		<releasedate>19780101T000000</releasedate>
+		<publisher>Bally</publisher>
+		<genre>Shoot'em Up</genre>
+		<md5>c70af94d26cbbecdda7a0dfb3551881b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094224" />
+	</game>
+	<game id="46434">
+		<path>./Football (19xx)(Bally).zip</path>
+		<name>Football</name>
+		<desc>Complete a pass up the middle for a first down. Eight offensive play options including the end run, screen pass, long bomb, short or long passes up the middle and some elegant razzle dazzle. Offensive players have direct control of the cornerbacks. The computer controls the rest! Up to 4 players.</desc>
+		<image>./images/Football (19xx)(Bally)-image.png</image>
+		<video>./videos/Football (19xx)(Bally)-video.mp4</video>
+		<marquee>./images/Football (19xx)(Bally)-marquee.png</marquee>
+		<thumbnail>./images/Football (19xx)(Bally)-thumb.png</thumbnail>
+		<releasedate>19780101T000000</releasedate>
+		<publisher>Bally</publisher>
+		<genre>Sports</genre>
+		<md5>d2d5e1a343d61f8fe9f34425ed66efdf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094229" />
+	</game>
+	<game id="46436">
+		<path>./Galaxian (1981)(Astrovision)[p].zip</path>
+		<name>Galaxian</name>
+		<desc>Alien ships come at your missile launcher from every direction. They peel off from their formation singly or in groups of twos or threes. The more aliens you destroy, The more of their reinforcements attack. Each ship is piloted by a highly skilled captain capable of maneuvering with incredible agility. Realistic sounds add to the intensity! Up to 4 players.</desc>
+		<image>./images/Galaxian (1981)(Astrovision)[p]-image.png</image>
+		<video>./videos/Galaxian (1981)(Astrovision)[p]-video.mp4</video>
+		<marquee>./images/Galaxian (1981)(Astrovision)[p]-marquee.png</marquee>
+		<thumbnail>./images/Galaxian (1981)(Astrovision)[p]-thumb.png</thumbnail>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Astrovision</developer>
+		<publisher>Bally</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>Galaxian</family>
+		<players>1-2</players>
+		<md5>7efc92b2988ec3e00647af740550e3a5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094234" />
+	</game>
+	<game id="46437">
+		<path>./Grand Prix + Demolition Derby (19xx)(Bally).zip</path>
+		<name>Grand Prix + Demolition Derby</name>
+		<desc>Grand Prix is a formula racing game played from a top down perspective. There are three different tracks that are all one screen in size. The controls simply involve accelerating and steering left and right with the aim of reaching the finish line first. The number of laps (1-99) and the difficulty level (pro or beginner) can be selected before a race. Pro differs in the speed of the cars.
+
+Demolition Derby is similar to Grand Prix but here the objective is to ram into the other cars until only one remains in the arena. Each car has a number of points (which is chosen by the players) and for each hit one point is lost. When a car reaches zero points it loses and cannot move any further.</desc>
+		<image>./images/Grand Prix + Demolition Derby (19xx)(Bally)-image.png</image>
+		<video>./videos/Grand Prix + Demolition Derby (19xx)(Bally)-video.mp4</video>
+		<marquee>./images/Grand Prix + Demolition Derby (19xx)(Bally)-marquee.png</marquee>
+		<thumbnail>./images/Grand Prix + Demolition Derby (19xx)(Bally)-thumb.png</thumbnail>
+		<releasedate>19810101T000000</releasedate>
+		<publisher>Bally</publisher>
+		<genre>Race, Driving</genre>
+		<md5>aaf74ec30a85bb268b729c4b8a719131</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094239" />
+	</game>
+	<game id="46440">
+		<path>./Incredible Wizard, The (1981)(Astrovision).zip</path>
+		<name>The Incredible Wizard</name>
+		<desc>Wizard of Wor is an arcade shooter played from a top-down point of view.
+The Bally Astrocade release of the game was titled The Incredible Wizard. It had the game ref number 2017 as a suffix.
+
+The player controls a warrior who is trapped in a dungeon. The goal is to earn as many points as possible by shooting the numerous enemy creatures which wander about the maze like corridors. The creatures wander about at various speeds, may shoot darts at the player, and some even have the ability to disappear temporarily. At the bottom of the screen the player has a radar which can be used to locate creatures that are invisible.
+
+When the the player completes a maze, a Worluk sometimes appears. This creature moves rapidly and will only be on the screen momentarily. If the player destroys the creature before it escapes, the next dungeon will become a double score dungeon and all creatures will be worth twice as many points. Occasionally the Wizard of Wor himself may appear! He moves quickly and can teleport around the maze. If they destroy him, the player will earn a large amount of points.
+
+The game may be played by one player or two players simultaneously.</desc>
+		<image>./images/Incredible Wizard, The (1981)(Astrovision)-image.png</image>
+		<video>./videos/Incredible Wizard, The (1981)(Astrovision)-video.mp4</video>
+		<marquee>./images/Incredible Wizard, The (1981)(Astrovision)-marquee.png</marquee>
+		<thumbnail>./images/Incredible Wizard, The (1981)(Astrovision)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Astrocade</publisher>
+		<genre>Action</genre>
+		<md5>6048d68aa01850cbb089bc278afc5853</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094243" />
+	</game>
+	<game id="46441">
+		<path>./Letter Match + Spell 'n Score + Crosswords (19xx)(Bally).zip</path>
+		<name>Letter Match + Spell'n Score + Crosswords</name>
+		<desc>Three different games will improve your vocabulary and reinforce spelling skills. Letter match! Pair letters randomly selected by the computer. Spell 'N Score! Create as many words as you can from the letters generated at random by the computer! Crosswords! The computer gives you letters. You turn them into words. 1 or 2 players.</desc>
+		<image>./images/Letter Match + Spell 'n Score + Crosswords (19xx)(Bally)-image.png</image>
+		<video>./videos/Letter Match + Spell 'n Score + Crosswords (19xx)(Bally)-video.mp4</video>
+		<marquee>./images/Letter Match + Spell 'n Score + Crosswords (19xx)(Bally)-marquee.png</marquee>
+		<thumbnail>./images/Letter Match + Spell 'n Score + Crosswords (19xx)(Bally)-thumb.png</thumbnail>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Bally</publisher>
+		<genre>Thinking</genre>
+		<md5>409aaca551f012df695c912e40a86171</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094248" />
+	</game>
+	<game id="46443">
+		<path>./Machine Language Manager (1981)(Bit Fiddlers).zip</path>
+		<name>Machine Language Manager</name>
+		<desc>This cartridge, which includes an overlay. provides an "easy" way to program the Astrocade in machine language. Though not a Z-80 assembler. MLM does simplify the entry of hex code (which otherwise must be entered using decimal via BASIC. Also the keypad layout does not require the use of the key-shifts, so typing is faster). Programs can be saved via the Bally BASIC 300-baud.</desc>
+		<image>./images/Machine Language Manager (1981)(Bit Fiddlers)-image.png</image>
+		<video>./videos/Machine Language Manager (1981)(Bit Fiddlers)-video.mp4</video>
+		<marquee>./images/Machine Language Manager (1981)(Bit Fiddlers)-marquee.png</marquee>
+		<thumbnail>./images/Machine Language Manager (1981)(Bit Fiddlers)-thumb.png</thumbnail>
+		<publisher>Bit Fiddlers</publisher>
+		<genre>Various</genre>
+		<md5>9d72702c6097a2563c22cfb2170e14b7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094252" />
+	</game>
+	<game id="46446">
+		<path>./Muncher (19xx)(Esoterica).zip</path>
+		<name>Muncher</name>
+		<desc>You are captive in a maze of creepy ghosts. It's a spooky situation, and you can do one of two things: munch or be munched. Score as many points as possible, gobbling up everything in your path - including the ghosts with an appetite for YOU! Do your best to save your soul.</desc>
+		<image>./images/Muncher (19xx)(Esoterica)-image.png</image>
+		<video>./videos/Muncher (19xx)(Esoterica)-video.mp4</video>
+		<marquee>./images/Muncher (19xx)(Esoterica)-marquee.png</marquee>
+		<thumbnail>./images/Muncher (19xx)(Esoterica)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Bally</publisher>
+		<genre>Action</genre>
+		<md5>6e32c8d7cc29b4ed1a032c063fe7dda4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094257" />
+	</game>
+	<game id="46449">
+		<path>./Panzer Attack + Red Baron (19xx)(Bally).zip</path>
+		<name>Red Baron + Panzer Attack</name>
+		<desc>Red Baron is a dogfighting game played from a side perspective on a single screen. Both planes start rolling on the ground and have to lift before crashing into a barn. Once in the air the planes can be moved in all directions and it's also possible to alter the speed. The aim is simply to get as many kills as possible before the time runs out. The time limit is chosen by the players before starting out.
+
+Panzer Attack is a tank game viewed from a top-down perspective. All player share the same single screen which has a few blockades for protections. The tanks can move in all directions and the aim of the game is simply to score points by destroying the other tanks. A battle ends when just one tank remains standing and the player with the highest score when all battle have been played wins. The number of battles can be chosen before starting out from 1-99.</desc>
+		<image>./images/Panzer Attack + Red Baron (19xx)(Bally)-image.png</image>
+		<video>./videos/Panzer Attack + Red Baron (19xx)(Bally)-video.mp4</video>
+		<marquee>./images/Panzer Attack + Red Baron (19xx)(Bally)-marquee.png</marquee>
+		<thumbnail>./images/Panzer Attack + Red Baron (19xx)(Bally)-thumb.png</thumbnail>
+		<releasedate>19780101T000000</releasedate>
+		<publisher>Bally</publisher>
+		<genre>Compilation</genre>
+		<md5>04b9ede2208708933899685d1b40d1b0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094302" />
+	</game>
+	<game id="46452">
+		<path>./Seawolf + Missile (19xx)(Bally)[b].zip</path>
+		<name>Seawolf + Missile</name>
+		<desc>Seawolf! From deep beneath the sea, you fire your torpedoes at the tankers, battleships and other targets. Your mission is to sink more enemy ships than any other sub in the wolf pack. Its a race against time and other subs in your own navy. Missile! Launch guided missiles against cargo planes, bombers and fighters! Two complete games. Hours of fun! 1 or 2 players.</desc>
+		<image>./images/Seawolf + Missile (19xx)(Bally)[b]-image.png</image>
+		<video>./videos/Seawolf + Missile (19xx)(Bally)[b]-video.mp4</video>
+		<marquee>./images/Seawolf + Missile (19xx)(Bally)[b]-marquee.png</marquee>
+		<thumbnail>./images/Seawolf + Missile (19xx)(Bally)[b]-thumb.png</thumbnail>
+		<releasedate>19770101T000000</releasedate>
+		<publisher>Bally</publisher>
+		<genre>Shoot'em Up</genre>
+		<md5>8cf9186e72cc0c9c324eca3bf6c5d566</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094307" />
+	</game>
+	<game id="46457">
+		<path>./Space Fortress (19xx)(Bally).zip</path>
+		<name>Space Fortress</name>
+		<desc>Released on the Arcades as Space Zap and for the Bally Astrocade as Space Fortress.
+
+This is a fixed screen shoot 'em up where the player is in control of a stationary laser base which is located in the middle of the screen. Alien space ships will appear from the four sides of the screen and launch space mines towards the laser base. The player's task is simply to shoot them down before they reach and destroy the laser base.
+
+The game is controlled with five buttons: one for shooting and four for aiming, one for each direction. In addition to the mines and alien ships there are also attack satellites that orbit the laser base before attacking. The mines are worth 250 points, alien ships are worth 500 points and attack satellites are worth 2,000 points. The player starts out with three lives but earns a new one at 75,000, 150,000 and 300,000 points.</desc>
+		<image>./images/Space Fortress (19xx)(Bally)-image.png</image>
+		<video>./videos/Space Fortress (19xx)(Bally)-video.mp4</video>
+		<marquee>./images/Space Fortress (19xx)(Bally)-marquee.png</marquee>
+		<thumbnail>./images/Space Fortress (19xx)(Bally)-thumb.png</thumbnail>
+		<releasedate>19810101T000000</releasedate>
+		<publisher>Astrocade</publisher>
+		<genre>Shoot'em Up</genre>
+		<md5>f1dfb3bcafcae67cc42eb328ec445491</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094312" />
+	</game>
+	<game id="46460">
+		<path>./Star Battle (19xx)(Astrovision)[b].zip</path>
+		<name>Star Battle</name>
+		<desc>Star Battle is a space shooter based on the trench run sequence from the original Star Wars movie. The game is for one or two players and involves a battle between an X-Wing and a Tie Fighter, although since it doesn't carry a license they are not called that. The X-Wing is controlled by player one while the Tie Fighter is controlled by player two or the computer. Before starting out a maximum score (1-999) is entered and the player that first reaches it wins the game. A single hit is enough to bring down the enemy ship and it is worth one point.
+
+The game is viewed from a third-person perspective with a pseudo 3D representation of the trench. The colour of the trench changes constantly to illustrate the forward motion of the fighters. By moving the joystick up or down the fighters accelerate or decelerate which means they move to the top of the screen and decreases in size or move to the bottom and get larger. If one moves closer to the camera the other gets further away and vice versa.</desc>
+		<image>./images/Star Battle (19xx)(Astrovision)[b]-image.png</image>
+		<video>./videos/Star Battle (19xx)(Astrovision)[b]-video.mp4</video>
+		<marquee>./images/Star Battle (19xx)(Astrovision)[b]-marquee.png</marquee>
+		<thumbnail>./images/Star Battle (19xx)(Astrovision)[b]-thumb.png</thumbnail>
+		<releasedate>19790101T000000</releasedate>
+		<publisher>Bally</publisher>
+		<genre>Shoot'em Up</genre>
+		<md5>e6ebe48ec24d1170f7e2c09e1f169e73</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094317" />
+	</game>
+	<game id="46462">
+		<path>./Tornado Baseball + Tennis + Hockey + Handball (19xx)(Bally).zip</path>
+		<name>Tornado Baseball / Tennis / Hockey / Handball</name>
+		<desc>A combination of four different sports games, the four-in-one cartridge involves largely Pong-style Hockey, Tennis, and Handball, as well as uniquely organized Baseball game, for two players.</desc>
+		<image>./images/Tornado Baseball + Tennis + Hockey + Handball (19xx)(Bally)-image.png</image>
+		<video>./videos/Tornado Baseball + Tennis + Hockey + Handball (19xx)(Bally)-video.mp4</video>
+		<marquee>./images/Tornado Baseball + Tennis + Hockey + Handball (19xx)(Bally)-marquee.png</marquee>
+		<thumbnail>./images/Tornado Baseball + Tennis + Hockey + Handball (19xx)(Bally)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Bally</developer>
+		<publisher>Bally</publisher>
+		<genre>Sports</genre>
+		<md5>ad08e7a20ffc67ea7c8f069ef354eec6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T094323" />
+	</game>
+</gameList>
