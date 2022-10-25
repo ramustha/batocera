@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./backgmmn.zip</path>
+		<name>Backgammon</name>
+		<desc>This is one of the earliest Backgammon videogame along with the Channel F Backgammon released the year before (1977).
+
+There are two game variations:
+- two players game
+- play against the computer
+
+This is an important point: to be able to play against the computer. In 1978 it was not that common.
+
+The graphics are quite decent for such an early version.</desc>
+		<image>./images/backgmmn-image.png</image>
+		<marquee>./images/backgmmn-marquee.png</marquee>
+		<thumbnail>./images/backgmmn-thumb.png</thumbnail>
+		<releasedate>19781001T000000</releasedate>
+		<developer>APF Electronics</developer>
+		<publisher>APF Electronics</publisher>
+		<genre>Divers</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20220928T074452" />
+		<scrap name="HfsDB" date="20220928T074608" />
+	</game>
+	<game>
+		<path>./baseball.zip</path>
+		<name>Baseball</name>
+		<desc>It seems like all gaming systems must have their Baseball game, as early as 1978! Indeed the RCA Studio II, the Fairchild Channel F, the Bally Astrocade and the Atari VCS all had their Baseball game!
+
+he controls are similar to other Baseball games. The outfielders are moved with the joystick, though you can't move them after the ball is pitched. They're spaced a little oddly, so there's usually a gap in right field that the computer player manages to hit to more often than not. To pitch, you send the ball with the fire button and control its path with the joystick. To bat you simply press the fire button.
+
+The Bally's players are animated better, so if I had to rank this one by graphics, I'd place it as better than the Fairchild's version but not as good as the Bally's, based on overall look and player animations. Control-wise the Bally outfielders had a better range of motion, without the gap that the APF players can't seem to fill. At bat, it seems harder to get a hit on the APF than it does on the Bally and I don't feel I have the same control over where the ball is hit. Pitching is pretty similar in that you've got a lot of control over the ball after you "throw" it and it is fun to try to fake out the person at bat with wildly curving balls that they swing at anyway.
+
+You can play with a friend or against the computer.</desc>
+		<image>./images/baseball-image.png</image>
+		<marquee>./images/baseball-marquee.png</marquee>
+		<thumbnail>./images/baseball-thumb.png</thumbnail>
+		<releasedate>19781001T000000</releasedate>
+		<developer>APF Electronics</developer>
+		<publisher>APF Electronics</publisher>
+		<genre>Sport</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220928T074737</lastplayed>
+		<gametime>42</gametime>
+		<lang>en</lang>
+		<scrap name="HfsDB" date="20220928T074505" />
+	</game>
+	<game>
+		<path>./bowling.zip</path>
+		<name>Bowling / Micro Match</name>
+		<desc>This cartridge offers two games: Bowling and Micro Match
+
+Bowling
+This game is one of the earliest bowling videogame released, along with the RCA Studio II version (1977), the Fairchild Channel F bowling (1978) and the Atari VCS (1978). All of them seem to have been inspired by the first bowling arcade videogame Robot Bowl (1977).
+
+You can play Bowling for the APF-1000 with up to 4 players. Like the other bowling games of the time, your ball is moving constantly back and forth and you must decide when you want to throw it by pressing the fire button at the right moment. There is no way to put hook effect on the ball here.
+
+Micro Match
+Micro Match is a memory game. The object of the game is to match the hidden object or word with a similar object or word. If you guess correctly, the squares will disappear from the screen and you go again.
+
+Here again you can play with up to 4 players. There are 5 different game modes, from the easiest to the hardest, depending on what you must find (colors, patterns or words) and how many items (pairs or triplex)</desc>
+		<image>./images/bowling-image.png</image>
+		<marquee>./images/bowling-marquee.png</marquee>
+		<thumbnail>./images/bowling-thumb.png</thumbnail>
+		<releasedate>19781001T000000</releasedate>
+		<developer>APF Electronics</developer>
+		<publisher>APF Electronics</publisher>
+		<genre>Sport</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="HfsDB" date="20220928T074535" />
+	</game>
+	<game>
+		<path>./boxing.zip</path>
+		<name>Boxing</name>
+		<desc>Boxing is a recreation of the sport viewed from a side view perspective. The player can move the boxer forward and backward, throw punches and block the opponent's punches. The objective is to knock out the opponent (by managing five hits in a row) or win the most number of rounds.</desc>
+		<image>./images/boxing-image.png</image>
+		<marquee>./images/boxing-marquee.png</marquee>
+		<thumbnail>./images/boxing-thumb.png</thumbnail>
+		<releasedate>19781001T000000</releasedate>
+		<developer>APF Electronics</developer>
+		<publisher>APF Electronics</publisher>
+		<genre>Sport</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220928T074828</lastplayed>
+		<gametime>44</gametime>
+		<lang>en</lang>
+		<scrap name="HfsDB" date="20220928T074544" />
+	</game>
+	<game>
+		<path>./brickdwn.zip</path>
+		<name>brickdwn</name>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./casino.zip</path>
+		<name>Casino I: Roulette / Keno / Slots</name>
+		<desc>One of the earliest videogame dedicated to Casino games. This cartridge offers 3 different games: Roulette, Keno and Slot.</desc>
+		<image>./images/casino-image.png</image>
+		<marquee>./images/casino-marquee.png</marquee>
+		<thumbnail>./images/casino-thumb.png</thumbnail>
+		<releasedate>19781001T000000</releasedate>
+		<developer>APF Electronics</developer>
+		<publisher>APF Electronics</publisher>
+		<genre>Divers</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="HfsDB" date="20220928T074558" />
+	</game>
+	<game>
+		<path>./catena.zip</path>
+		<name>Catena</name>
+		<desc>A game of skill and challenge designed for the whole family to play.
+Play ends when every square is occupied. The winner is the one with the majority of squares in his color.
+The game board is constructed of 64 squares. After the board is laid out, each player than takes a turn, making one move for each turn.</desc>
+		<image>./images/catena-image.png</image>
+		<marquee>./images/catena-marquee.png</marquee>
+		<thumbnail>./images/catena-thumb.png</thumbnail>
+		<releasedate>19781001T000000</releasedate>
+		<developer>APF Electronics</developer>
+		<publisher>APF Electronics</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="HfsDB" date="20220928T074632" />
+	</game>
+	<game>
+		<path>./pinball.zip</path>
+		<name>Pinball / Dungeon Hunt / Blockout</name>
+		<desc>Pinball - three variations of Pinball.
+
+Dungeon Hunt - 70 squares, behind which are hidden 8 different colored objects. For finding monochrome additional bonuses are added. Up to 4 players.
+
+Blockout - 4 variations of the snake. A game for two.</desc>
+		<image>./images/pinball-image.png</image>
+		<marquee>./images/pinball-marquee.png</marquee>
+		<thumbnail>./images/pinball-thumb.png</thumbnail>
+		<releasedate>19781001T000000</releasedate>
+		<developer>APF Electronics</developer>
+		<publisher>APF Electronics</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="HfsDB" date="20220928T074625" />
+	</game>
+	<game>
+		<path>./spacedst.zip</path>
+		<name>spacedst</name>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ufo.zip</path>
+		<name>Ufo, Sea Monsters / Break It Down / Rebuild / Shoot</name>
+		<desc>This cartridge offers many variations based around shooting duels.
+
+UFO 1 &amp; 2
+The objective of these games is to destroy mmore UFOs than you oppponent. The difference between UFO 1 and 2 is the score value of the destroyed UFOs.
+
+Sea Monsters
+Destroy the monsters at the bottom of the sea, but don't kill the fishes!
+
+Break it down/rebuild
+The objective of break it down is to use the least amount of shots to break up the rotating square. The square consists of 24 pieces, 24 being thus the best score possible.
+
+Rebuild is just the opposite of Break it down. Use the least amount of shots to rebuild the rotating square.
+
+Shoot a little / Shoot / Shoot a lot
+The objective of these games is to the targets as many times as possible. When a target is hit, it changes color and speed. The difference between the 3 variations is how many shots you can do (20, 50 or 99).</desc>
+		<image>./images/ufo-image.png</image>
+		<marquee>./images/ufo-marquee.png</marquee>
+		<thumbnail>./images/ufo-thumb.png</thumbnail>
+		<releasedate>19781001T000000</releasedate>
+		<developer>APF Electronics</developer>
+		<publisher>APF Electronics</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220928T161507</lastplayed>
+		<lang>en</lang>
+		<scrap name="HfsDB" date="20220928T161521" />
+	</game>
+</gameList>
