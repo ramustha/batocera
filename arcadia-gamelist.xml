@@ -1,0 +1,829 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="57591">
+		<path>./Combat (Europe).zip</path>
+		<name>Combat</name>
+		<desc>Loosely based on the tank portion of the Atari 2600 cart that originally came packed with the console.</desc>
+		<image>./images/Combat (Europe)-image.png</image>
+		<video>./videos/Combat (Europe)-video.mp4</video>
+		<marquee>./images/Combat (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Combat (Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<md5>9013d4c8ef7875950b634410ebb09e12</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111731" />
+	</game>
+	<game id="57592">
+		<path>./Crazy Climber (Europe).zip</path>
+		<name>Crazy Climber</name>
+		<desc>As Crazy Climber, climb your way to the top of a series of buildings, where a helicopter is waiting to pick you up and take you to the next building. As Climber scales a building, he is able to climb up and sideways but he cannot climb down. While climbin</desc>
+		<image>./images/Crazy Climber (Europe)-image.png</image>
+		<video>./videos/Crazy Climber (Europe)-video.mp4</video>
+		<marquee>./images/Crazy Climber (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Crazy Climber (Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>2b682f2e0b2545a0867f8e7bf0a6d919</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111735" />
+	</game>
+	<game id="57593">
+		<path>./Crazy Gobbler (Europe).zip</path>
+		<name>Crazy Gobbler</name>
+		<desc>Another clone of Cat Trax.</desc>
+		<image>./images/Crazy Gobbler (Europe)-image.png</image>
+		<video>./videos/Crazy Gobbler (Europe)-video.mp4</video>
+		<marquee>./images/Crazy Gobbler (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Crazy Gobbler (Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>7ef79740e02f390abdedcc943b42d6a3</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111740" />
+	</game>
+	<game id="57596">
+		<path>./Escape (USA, Europe).zip</path>
+		<name>Escape</name>
+		<desc>A BerZerk clone.  You are trapped in a maze and enemy robots are all over! Shoot them down with your laser gun, but watch out for their counterattack: They are armed too! Be careful: Walls are electrified.   Game for 1 player.</desc>
+		<image>./images/Escape (USA, Europe)-image.png</image>
+		<video>./videos/Escape (USA, Europe)-video.mp4</video>
+		<marquee>./images/Escape (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Escape (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>cac0be0920cce44838ca998b52b7f5ca</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111744" />
+	</game>
+	<game id="57598">
+		<path>./Funky Fish (Europe).zip</path>
+		<name>Funky Fish</name>
+		<desc>One or two player game (uses right side controller).</desc>
+		<image>./images/Funky Fish (Europe)-image.png</image>
+		<video>./videos/Funky Fish (Europe)-video.mp4</video>
+		<marquee>./images/Funky Fish (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Funky Fish (Europe)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>668af35d78d4c4286ada370013a4fc54</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111748" />
+	</game>
+	<game id="57599">
+		<path>./Golf (Europe).zip</path>
+		<name>Golf</name>
+		<desc>Golf features a nine hole, par 36 course which can be played by one or two players. The game is played from an overhead view of the course, which is complete with sand traps, water hazards, trees, and rough.</desc>
+		<image>./images/Golf (Europe)-image.png</image>
+		<video>./videos/Golf (Europe)-video.mp4</video>
+		<marquee>./images/Golf (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Golf (Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports / Golf</genre>
+		<players>1-2</players>
+		<md5>3c1f395b3147c6e551febdf39402ac61</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111752" />
+	</game>
+	<game id="57600">
+		<path>./Grand Slam Tennis (USA, Europe).zip</path>
+		<name>Grand Slam Tennis</name>
+		<desc>One or two player game (uses left or both controllers)   Play against the "PRO" competitor or against a friend  Serve an "ACE"  Try your backhand  Watch out for the smash  No worry about the weather - play "Grand Slam Tennis" any time  Scores and plays li</desc>
+		<image>./images/Grand Slam Tennis (USA, Europe)-image.png</image>
+		<video>./videos/Grand Slam Tennis (USA, Europe)-video.mp4</video>
+		<marquee>./images/Grand Slam Tennis (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Grand Slam Tennis (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<md5>1e826acc96ea1831da7c02540f4ea4f3</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111757" />
+	</game>
+	<game id="57601">
+		<path>./Hobo (Europe).zip</path>
+		<name>Hobo</name>
+		<desc>Hobo is a lovable old rogue who wants to reach the other side of Grand Central Railway Station. But first he must cross a multi-lane freeway. 'honk, honk' 'toot, toot'. Those motorists won't slow down for anyone - so keep on your toes.  Next Hobo scales t</desc>
+		<image>./images/Hobo (Europe)-image.png</image>
+		<video>./videos/Hobo (Europe)-video.mp4</video>
+		<marquee>./images/Hobo (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Hobo (Europe)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>9640b53728b797b11f90c912a8ccadaf</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111801" />
+	</game>
+	<game id="57602">
+		<path>./Horse Racing (Europe).zip</path>
+		<name>Horse Racing</name>
+		<desc>A fun Horse Racing game for up to 8 Players</desc>
+		<image>./images/Horse Racing (Europe)-image.png</image>
+		<video>./videos/Horse Racing (Europe)-video.mp4</video>
+		<marquee>./images/Horse Racing (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Horse Racing (Europe)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports</genre>
+		<players>1-8</players>
+		<md5>edff41c03892d7ed3fddf1b4afa1f3a7</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111805" />
+	</game>
+	<game id="57604">
+		<path>./Jump Bug (Europe).zip</path>
+		<name>Jump Bug</name>
+		<desc>Jump Bug's odyssey begins in a city full of monsters. Avoid their deadly touch and flee to the land of volcanoes. Here, molten lava erupts from the craters without warning. Even the cloud of ash around the crater mouth is deadly. Jump Bug must de-toxify i</desc>
+		<image>./images/Jump Bug (Europe)-image.png</image>
+		<video>./videos/Jump Bug (Europe)-video.mp4</video>
+		<marquee>./images/Jump Bug (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Jump Bug (Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>78574f28c2cb0d19f2656925fa048042</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111809" />
+	</game>
+	<game id="57605">
+		<path>./Jungler (USA, Europe).zip</path>
+		<name>Jungler</name>
+		<desc>Jungler is based upon an arcade game of the same name designed by Konami in 1981. Gameplay revolves around survival of the fittest among giant worms that reside underground. Each level is comprised of a single screen maze with a large open vertical area i</desc>
+		<image>./images/Jungler (USA, Europe)-image.png</image>
+		<video>./videos/Jungler (USA, Europe)-video.mp4</video>
+		<marquee>./images/Jungler (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Jungler (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>bf10520aef366afdcf6c29e1c97afefe</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111812" />
+	</game>
+	<game id="57606">
+		<path>./Missile War (USA, Europe).zip</path>
+		<name>Missile War</name>
+		<desc>An attack warning alarm sounds...enemy missiles are on the way!   Don't waste a second. It's up to you to single-handedly save 4 cities from death and destruction. You have 2 missile launchers at your fingertips, each loaded with 10 missiles. Don't waste</desc>
+		<image>./images/Missile War (USA, Europe)-image.png</image>
+		<video>./videos/Missile War (USA, Europe)-video.mp4</video>
+		<marquee>./images/Missile War (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Missile War (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>4a9404e44df9a747549f7af0b18df632</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111816" />
+	</game>
+	<game id="57607">
+		<path>./Monaco Grand Prix (Europe).zip</path>
+		<name>Monaco Grand Prix</name>
+		<desc>An enjoyable game for two players.</desc>
+		<image>./images/Monaco Grand Prix (Europe)-image.png</image>
+		<video>./videos/Monaco Grand Prix (Europe)-video.mp4</video>
+		<marquee>./images/Monaco Grand Prix (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Monaco Grand Prix (Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<md5>d2f3fff97436ec85616fc897cee0ba3b</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111820" />
+	</game>
+	<game id="57608">
+		<path>./Nibblemen (Europe).zip</path>
+		<name>Nibblemen</name>
+		<desc>Controls, games and options are the same as for Cat Trax, except that the 'red dog' is replaced with the 'red ghost'.</desc>
+		<image>./images/Nibblemen (Europe)-image.png</image>
+		<video>./videos/Nibblemen (Europe)-video.mp4</video>
+		<marquee>./images/Nibblemen (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Nibblemen (Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>8439bf67c48282bcb5ad1894610eec86</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111824" />
+	</game>
+	<game id="57611">
+		<path>./Parashooter (Europe).zip</path>
+		<name>Parashooter</name>
+		<desc>A bottom-up shooter similar to Space Attack except you are shooting down planes and helicopters instead of aliens.</desc>
+		<image>./images/Parashooter (Europe)-image.png</image>
+		<video>./videos/Parashooter (Europe)-video.mp4</video>
+		<marquee>./images/Parashooter (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Parashooter (Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>98682921f14f8f3508ec13e5d886aff2</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111829" />
+	</game>
+	<game id="57612">
+		<path>./Pleiades (Europe).zip</path>
+		<name>Pleiades</name>
+		<desc>Based on the arcade game of the similar name.</desc>
+		<image>./images/Pleiades (Europe)-image.png</image>
+		<video>./videos/Pleiades (Europe)-video.mp4</video>
+		<marquee>./images/Pleiades (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Pleiades (Europe)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>a9bc2c25fd1c4cd8024b2c69939252b0</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111834" />
+	</game>
+	<game id="57613">
+		<path>./R2D Tank (Europe).zip</path>
+		<name>R2d Tank</name>
+		<desc>You're a highly-trained Tank Commander about to go into battle, but the odds are against you. Your tank has only one missile to start with. The rest must be picked up as you make your way through the battlefield. It's heart-stopping stuff. If you run out</desc>
+		<image>./images/R2D Tank (Europe)-image.png</image>
+		<video>./videos/R2D Tank (Europe)-video.mp4</video>
+		<marquee>./images/R2D Tank (Europe)-marquee.png</marquee>
+		<thumbnail>./images/R2D Tank (Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>815b06b2cbaebfad332683febbdccdb3</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111838" />
+	</game>
+	<game id="57614">
+		<path>./Red Clash (USA, Europe).zip</path>
+		<name>Red Clash</name>
+		<desc>A solid port of the 1981 Tekhan arcade game (which was licensed to Kaneko in 1982), Red Clash lets players move their rocket in four directions, but the action scrolls vertically, and shots go straight up the screen. Gamers fire at flying saucers, aliens</desc>
+		<image>./images/Red Clash (USA, Europe)-image.png</image>
+		<video>./videos/Red Clash (USA, Europe)-video.mp4</video>
+		<marquee>./images/Red Clash (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Red Clash (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>6c1b145d9afc220dd3d81e9eca715dfa</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111842" />
+	</game>
+	<game id="57615">
+		<path>./Robot Killer (Europe).zip</path>
+		<name>Robot Killer</name>
+		<desc>A BerZerk clone. You are trapped in a maze and enemy robots are all over!</desc>
+		<image>./images/Robot Killer (Europe)-image.png</image>
+		<video>./videos/Robot Killer (Europe)-video.mp4</video>
+		<marquee>./images/Robot Killer (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Robot Killer (Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>8b580a9e3d4d9695e2f594a61afd8892</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111846" />
+	</game>
+	<game id="57616">
+		<path>./Route 16 (Europe).zip</path>
+		<name>Route 16</name>
+		<desc>The roar of revving engines numbs your senses as you wait nervously for the starter's flag. Your gloved hands grip the wheel. And beneath your heavy black racing helmet, beads of perspiration form on your forehead.  Then your off! Foot flat to the floor,</desc>
+		<image>./images/Route 16 (Europe)-image.png</image>
+		<video>./videos/Route 16 (Europe)-video.mp4</video>
+		<marquee>./images/Route 16 (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Route 16 (Europe)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<md5>376d97f9f74ab1c64fc888385506027b</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111850" />
+	</game>
+	<game id="57617">
+		<path>./Soccer (USA, Europe).zip</path>
+		<name>Soccer</name>
+		<desc>An expectant hush settles over the crowd as the players take their positions on the field. A whistle blows. Kick-off!!  Your player takes the ball well...he's moving down the field fast. Suddenly, his path is blocked. He passes to the Centre Forward. The</desc>
+		<image>./images/Soccer (USA, Europe)-image.png</image>
+		<video>./videos/Soccer (USA, Europe)-video.mp4</video>
+		<marquee>./images/Soccer (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Soccer (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<md5>d91afcc96ea973615c0acca70bb2a216</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111854" />
+	</game>
+	<game id="57618">
+		<path>./Space Attack (USA, Europe).zip</path>
+		<name>Space Attack</name>
+		<desc>The sky is thick with death-dealing aliens as they jostle for the privilege of blasting you into tiny specks of space dust. With ear-shattering explosions, their rockets send your senses reeling. You want to scream. But you know you must stay alert and re</desc>
+		<image>./images/Space Attack (USA, Europe)-image.png</image>
+		<video>./videos/Space Attack (USA, Europe)-video.mp4</video>
+		<marquee>./images/Space Attack (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Space Attack (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>dbd76221e35fa6c8133a03f57dfe79d2</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111858" />
+	</game>
+	<game id="57619">
+		<path>./Space Mission (USA, Europe).zip</path>
+		<name>Space Mission</name>
+		<desc>The player's mission in Space Mission is to rebuild a four-piece space station within about two minutes. This is done by launching a "droneship", guiding it towards each piece of the station, loading each piece onto the ship, and placing the pieces in a s</desc>
+		<image>./images/Space Mission (USA, Europe)-image.png</image>
+		<video>./videos/Space Mission (USA, Europe)-video.mp4</video>
+		<marquee>./images/Space Mission (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Space Mission (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<md5>bcb44b9296aad132d54d6e3a362131e6</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111902" />
+	</game>
+	<game id="57620">
+		<path>./Space Raiders (USA, Europe).zip</path>
+		<name>Space Raiders</name>
+		<desc>You're under attack by enemy flying saucers, energy bombs, missiles and deadly mutants.  Four of your spacefighters have already been blasted into outer space and the energy meter on your only remaining craft is falling fast!  10...9...8...Just a few prec</desc>
+		<image>./images/Space Raiders (USA, Europe)-image.png</image>
+		<video>./videos/Space Raiders (USA, Europe)-video.mp4</video>
+		<marquee>./images/Space Raiders (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Space Raiders (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>892b0783499f89d45ff49d708d46d190</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111907" />
+	</game>
+	<game id="57621">
+		<path>./Space Squadron (Europe).zip</path>
+		<name>Space Squadron</name>
+		<desc>One player game (uses left side controller)  Your mission is to drive your spacefighter and destroy as many mutants and aliens as possible  Also you must avoid the aliens shooting at or colliding with your spacefighter  You have three spacefighters ready</desc>
+		<image>./images/Space Squadron (Europe)-image.png</image>
+		<video>./videos/Space Squadron (Europe)-video.mp4</video>
+		<marquee>./images/Space Squadron (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Space Squadron (Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>02683cdc4732d02a4ed8a8e14723aef4</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111911" />
+	</game>
+	<game id="57622">
+		<path>./Space Vultures (USA, Europe).zip</path>
+		<name>Space Vultures</name>
+		<desc>Who's Not a Pretty Boy Then!  Space Vultures are a vicious breed of birdlike aliens who can fly through space without the aid of space ships. They will attack any old planet that takes their fancy on their strange intergalactic migration. Nobody seems to</desc>
+		<image>./images/Space Vultures (USA, Europe)-image.png</image>
+		<video>./videos/Space Vultures (USA, Europe)-video.mp4</video>
+		<marquee>./images/Space Vultures (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Space Vultures (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>2fa678cb9c4ed86fcbb5bc87c232d345</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111917" />
+	</game>
+	<game id="57623">
+		<path>./Spiders (USA, Europe).zip</path>
+		<name>Spiders</name>
+		<desc>If you're scared of creepie-crawlies, this game will really have you reaching for the insect spray. These Space-spiders are mean. They arrive on your screen in red cocoons, then the horrible things start dropping from the sky.  If a spider scores a direct</desc>
+		<image>./images/Spiders (USA, Europe)-image.png</image>
+		<video>./videos/Spiders (USA, Europe)-video.mp4</video>
+		<marquee>./images/Spiders (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Spiders (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>874852b47d98b309defed34fbc4fb894</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111921" />
+	</game>
+	<game id="57624">
+		<path>./Star Chess (USA, Europe).zip</path>
+		<name>Star Chess</name>
+		<desc>It's the final of the inter-galactic chess championships. As the representative for planet Earth, you're pitted against the best chess strategists in the universe!  A game of fun and strategy for two players based on the well-known game of chess, but your</desc>
+		<image>./images/Star Chess (USA, Europe)-image.png</image>
+		<video>./videos/Star Chess (USA, Europe)-video.mp4</video>
+		<marquee>./images/Star Chess (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Star Chess (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<md5>7dee92f7e4767b728717c44bc9c3b51a</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111926" />
+	</game>
+	<game id="57626">
+		<path>./Super Gobbler (Europe).zip</path>
+		<name>Super Gobbler</name>
+		<desc>A very entertaining Pac-Man clone.</desc>
+		<image>./images/Super Gobbler (Europe)-image.png</image>
+		<video>./videos/Super Gobbler (Europe)-video.mp4</video>
+		<marquee>./images/Super Gobbler (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Super Gobbler (Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>8bb0dac6f843a021c323c73f2e9210fa</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111930" />
+	</game>
+	<game id="57627">
+		<path>./Tanks a Lot (USA, Europe).zip</path>
+		<name>Tanks A Lot</name>
+		<desc>The enemy tanks are approaching  You are armed with a bazooka  "Crouch", "Aim" - Fire! You got him and more points  Watch out for his shells  Close the gates to block the enemy tanks  Protect your commanding base vehicle  You must penetrate his barricade</desc>
+		<image>./images/Tanks a Lot (USA, Europe)-image.png</image>
+		<video>./videos/Tanks a Lot (USA, Europe)-video.mp4</video>
+		<marquee>./images/Tanks a Lot (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Tanks a Lot (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>3bc3df43b6d82f10cf9651372a784f9b</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111934" />
+	</game>
+	<game id="57629">
+		<path>./The End (Europe).zip</path>
+		<name>The End</name>
+		<desc>Space bandits are trying to steal bricks from your defence bases. You'd better blast them fast or they'll use the bricks to spell the 'END'. And when that happens it'll be 'the end' of you!   There's only one way to stop these evil brick-burglars. Zap 'em</desc>
+		<image>./images/The End (Europe)-image.png</image>
+		<video>./videos/The End (Europe)-video.mp4</video>
+		<marquee>./images/The End (Europe)-marquee.png</marquee>
+		<thumbnail>./images/The End (Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>f0a5e571220685d852e64bb217c8eae8</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111939" />
+	</game>
+	<game id="57630">
+		<path>./Turtles (Europe).zip</path>
+		<name>Turtles</name>
+		<desc>48 baby turtles are lost in a multi-storey carpark. It's up to you to help Mother Turpin find all the little baby Turpins and escape safely from the patrolling security trucks. Mother Turpin has just one defence - Turpin bombs. Plant these where the secur</desc>
+		<image>./images/Turtles (Europe)-image.png</image>
+		<video>./videos/Turtles (Europe)-video.mp4</video>
+		<marquee>./images/Turtles (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Turtles (Europe)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>10d1d5af01f99d6f1a91f72cc32f83cb</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111943" />
+	</game>
+	<game id="57590">
+		<path>./Circus (Europe).zip</path>
+		<name>Circus</name>
+		<desc>Pop the balloons and score points. A wall of red, blue and white balloons will appear at the top of the screen. You must pop balloons by catching a clown on the teeter-totter and bouncing him up to the balloons. Use the controller to move the teeter-totte</desc>
+		<image>./images/Circus (Europe)-image.png</image>
+		<video>./videos/Circus (Europe)-video.mp4</video>
+		<marquee>./images/Circus (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Circus (Europe)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>63433ae72c926fc4e9759158bde39d6a</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111947" />
+	</game>
+	<game id="57609">
+		<path>./Ocean Battle (USA, Europe).zip</path>
+		<name>Ocean Battle</name>
+		<desc>Somewhat similar to (but not as good as) Sea Battle for the Intellivision, Ocean Battle has each player deploying a fleet consisting of blocky looking cruisers, destroyers and submarines. Each vessel is ranked according to firing range, endurance and othe</desc>
+		<image>./images/Ocean Battle (USA, Europe)-image.png</image>
+		<video>./videos/Ocean Battle (USA, Europe)-video.mp4</video>
+		<marquee>./images/Ocean Battle (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Ocean Battle (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+		<md5>35801dafa6a8eeadc51418f0e9377ca0</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111951" />
+	</game>
+	<game id="57576">
+		<path>./3D Bowling (USA, Europe).zip</path>
+		<name>3d Bowling</name>
+		<desc>Despite the title, 3D Bowling has two-dimensional graphics. However, it does employ a pseudo-3D effect similar to Basketball for the Atari 2600. When the game begins, players are shown an angled/ overhead view of the pins (which look like plus signs and simply flatten when knocked over) at the top of the screen and a side-view of the bowler on the lower half of the screen. Lining up the bowler involves moving him up and down, which is how it's done in PBA Bowling for the Intellivision. The bowler is very nicely animated, and the ball is even shown rolling back to him after each throw. The ball has a natural curve to the left (imitating the roll of an accomplished right-handed bowler), but players can push the keypad buttons to hook the ball right or left. - Brett Weiss.</desc>
+		<image>./images/3D Bowling (USA, Europe)-image.png</image>
+		<video>./videos/3D Bowling (USA, Europe)-video.mp4</video>
+		<marquee>./images/3D Bowling (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/3D Bowling (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19821201T000000</releasedate>
+		<developer>Emerson Radio Corp</developer>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports / Bowling</genre>
+		<players>1</players>
+		<md5>88df3f6943cab668df299c3dcb0e20c9</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111955" />
+	</game>
+	<game id="57577">
+		<path>./3D Soccer (Europe).zip</path>
+		<name>3d Soccer</name>
+		<desc>The game follows typical soccer rules; attempt to score more goals than your opponent in the two 45 minute periods (this is in simulated time). You control one player on your team at a time while the computer takes control of the rest. The game allows you to dribble and pass, and features throw ins, corner kicks, goal kicks, and in the event of a tie the game goes in to overtime! Several skill levels are available which control the speed of the game.</desc>
+		<image>./images/3D Soccer (Europe)-image.png</image>
+		<video>./videos/3D Soccer (Europe)-video.mp4</video>
+		<marquee>./images/3D Soccer (Europe)-marquee.png</marquee>
+		<thumbnail>./images/3D Soccer (Europe)-thumb.png</thumbnail>
+		<releasedate>19821201T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<md5>45cdcf4d96add1d04167e370eb10e309</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T111959" />
+	</game>
+	<game id="57578">
+		<path>./Alien Invaders (USA, Europe).zip</path>
+		<name>Alien Invaders</name>
+		<desc>Space Invaders clone. Seventy space invaders are fast on their way towards your city. And you can be sure they're not dropping in for afternoon tea!
+
+You have just five minutes of accelerated computer time to blast the nasties and save your city from certain destruction.
+
+There are three fortresses, behind which your missiles are safe.
+
+But watch out! These invaders are smart!
+
+If you hide too long, they'll bombard the castle walls. So keep moving around or the evil space critters will get you. And we wouldn't wish that on anyone!</desc>
+		<image>./images/Alien Invaders (USA, Europe)-image.png</image>
+		<video>./videos/Alien Invaders (USA, Europe)-video.mp4</video>
+		<marquee>./images/Alien Invaders (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Alien Invaders (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820501T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>f73756c9c837e892857967ed45b7f6f0</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T112002" />
+	</game>
+	<game id="57579">
+		<path>./American Football (USA, Europe).zip</path>
+		<name>American Football</name>
+		<desc>The title screen for American Football gives an isometric view of the field, but, when the action actually begins, the viewpoint switches to overhead, with 11 small stick figure players on each team. The field scrolls horizontally and is 100 "yards" in le</desc>
+		<image>./images/American Football (USA, Europe)-image.png</image>
+		<video>./videos/American Football (USA, Europe)-video.mp4</video>
+		<marquee>./images/American Football (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/American Football (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820601T000000</releasedate>
+		<developer>Emerson Radio Corp</developer>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<md5>2e2c4344430903bfc2bcb7fd1b44e290</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T112006" />
+	</game>
+	<game id="57580">
+		<path>./Astro Invader (Europe).zip</path>
+		<name>Astro Invader</name>
+		<desc>Astro Invader is a fixed screen shoot 'em up. The player moves his laser base across the bottom of the screen and has to shoot down the aliens that appear above him. What sets Astro Invader apart from other early shoot 'em ups is that the aliens, after being dropped from their mothership, position themselves in columns. Once a column is full the lowest alien drops down and suicide dives towards the player. As they hit the ground they explode and the player must make sure he is not within the blast radius. In addition to the standard aliens there are also UFOs that appear in the middle and to the sides of the screen. These must be shot down as they will kill the player when landing, no matter where the player is positioned. The game is over when all three lives are lost.</desc>
+		<image>./images/Astro Invader (Europe)-image.png</image>
+		<video>./videos/Astro Invader (Europe)-video.mp4</video>
+		<marquee>./images/Astro Invader (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Astro Invader (Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>df14024911aaecf92eb4a4ec56fc92e3</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T112010" />
+	</game>
+	<game id="57581">
+		<path>./Autorace (Europe).zip</path>
+		<name>Auto Race</name>
+		<desc>Autorace is a one or two player racing game that puts the player behind the wheel of a race car. The player may race on five different fairly large courses. In the one player game, the player is racing the clock to finish five laps as quickly as possible.</desc>
+		<image>./images/Autorace (Europe)-image.png</image>
+		<video>./videos/Autorace (Europe)-video.mp4</video>
+		<marquee>./images/Autorace (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Autorace (Europe)-thumb.png</thumbnail>
+		<releasedate>19820501T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<md5>8fa6d6879fc0e13ec2fa883b7d8ba29e</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T112014" />
+	</game>
+	<game id="57582">
+		<path>./Baseball (USA, Europe).zip</path>
+		<name>Baseball</name>
+		<desc>Pitch 'em up pitcher boy!   The crowd are on their toes. It's two strikes, three balls. And the bases are loaded. What will you deliver?  A right curve ball? A leftie? Or your special super-speed bat-buster? Your heart's pumping. The crowd is silent. You</desc>
+		<image>./images/Baseball (USA, Europe)-image.png</image>
+		<video>./videos/Baseball (USA, Europe)-video.mp4</video>
+		<marquee>./images/Baseball (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Baseball (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>2</players>
+		<md5>8a655e8bb999e3e085737cb2815f6447</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T112018" />
+	</game>
+	<game id="57583">
+		<path>./Basketball (Europe).zip</path>
+		<name>Basketball</name>
+		<desc>Basketball is a two-player (only) game and features four quarters, passing, blocking and jump shots. There is even overtime should it become necessary.</desc>
+		<image>./images/Basketball (Europe)-image.png</image>
+		<video>./videos/Basketball (Europe)-video.mp4</video>
+		<marquee>./images/Basketball (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Basketball (Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<md5>9e3702a069b9ddcb9750242508f70b40</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T112022" />
+	</game>
+	<game id="57584">
+		<path>./Blackjack and Poker (Europe).zip</path>
+		<name>Black Jack &amp; Poker</name>
+		<desc>Blackjack &amp; Poker, allows you to play Blackjack or Stud Poker against the computer, or with two players.</desc>
+		<image>./images/Blackjack and Poker (Europe)-image.png</image>
+		<video>./videos/Blackjack and Poker (Europe)-video.mp4</video>
+		<marquee>./images/Blackjack and Poker (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Blackjack and Poker (Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Casino</genre>
+		<players>1</players>
+		<md5>7391a9bd972e5eeaaeeeca76879abda4</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T112026" />
+	</game>
+	<game id="57585">
+		<path>./Boxing (Europe).zip</path>
+		<name>Boxing</name>
+		<desc>Boxing is an action boxing game for one or two players.</desc>
+		<image>./images/Boxing (Europe)-image.png</image>
+		<video>./videos/Boxing (Europe)-video.mp4</video>
+		<marquee>./images/Boxing (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Boxing (Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Sports / Boxing</genre>
+		<players>1-2</players>
+		<md5>3bf57a2432737b42d83940312530e44a</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T112033" />
+	</game>
+	<game id="57586">
+		<path>./Brain Quiz (USA, Europe).zip</path>
+		<name>Brain Quiz</name>
+		<desc>Brain Quiz contains three competently programmed games.  Mind Breaker has players using clues to guess a secret five-digit number. In Maxit, each gamer moves their cursor around a number grid, trying to select the highest numbers possible in order to outs</desc>
+		<image>./images/Brain Quiz (USA, Europe)-image.png</image>
+		<video>./videos/Brain Quiz (USA, Europe)-video.mp4</video>
+		<marquee>./images/Brain Quiz (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Brain Quiz (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Various</genre>
+		<players>1-2</players>
+		<md5>e9f1f348ebd4fa5400f895a7a15637c6</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T112038" />
+	</game>
+	<game id="57587">
+		<path>./Breakaway (USA, Europe).zip</path>
+		<name>Breakaway</name>
+		<desc>Breakaway is a Breakout clone, but it's not as good as the arcade or Atari 2600 versions of Breakout because the Arcadia 2001 lacks a rotary controller. Making up for this shortcoming to a small degree is a keypad button that speeds up the paddle. Also, t</desc>
+		<image>./images/Breakaway (USA, Europe)-image.png</image>
+		<video>./videos/Breakaway (USA, Europe)-video.mp4</video>
+		<marquee>./images/Breakaway (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Breakaway (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>4fa044f9c77f5f442e0af786f8f502f6</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T112042" />
+	</game>
+	<game id="57588">
+		<path>./Capture (USA, Europe).zip</path>
+		<name>Capture</name>
+		<desc>Battle the computer or take on a friend. You'll need immense concentration.   The object is to surround your opponent's men on all 4 sides and take him off the board. When all the squares are occupied, the player with the most squares on the board wins. S</desc>
+		<image>./images/Capture (USA, Europe)-image.png</image>
+		<video>./videos/Capture (USA, Europe)-video.mp4</video>
+		<marquee>./images/Capture (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Capture (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>46f95a6915f00091c8aaf049f7623d39</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T112046" />
+	</game>
+	<game id="57589">
+		<path>./Cat Trax (USA, Europe).zip</path>
+		<name>Cat Trax</name>
+		<desc>This is the among the oldest of battles: cat vs. dog.  You are the cat. You are trying to gather up the cat food pellets in a maze. As wonderful as that may be, the pesky canines are determined to catch you. You are chased by three dogs through the maze.</desc>
+		<image>./images/Cat Trax (USA, Europe)-image.png</image>
+		<video>./videos/Cat Trax (USA, Europe)-video.mp4</video>
+		<marquee>./images/Cat Trax (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Cat Trax (USA, Europe)-thumb.png</thumbnail>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Emerson Radio Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>d7e9ec7f57d9951dd5b4456f1929f0d0</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T112050" />
+	</game>
+</gameList>
