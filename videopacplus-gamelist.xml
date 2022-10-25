@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Air Battle (198x)(Philips)(EU).zip</path>
+		<name>Air Battle (198x)(Philips)(EU)</name>
+		<md5>1c9d8c8dc69e318ee72f596b1f994682</md5>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Tresor Englouti, Le (198x)(Philips)(FR).zip</path>
+		<name>Tresor Englouti, Le (198x)(Philips)(FR)</name>
+		<md5>66764bfd88b638c41de84b6e1989748e</md5>
+		<lang>fr</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Billard Americain (198x)(Philips)(FR).zip</path>
+		<name>Billard Americain (198x)(Philips)(FR)</name>
+		<playcount>1</playcount>
+		<lastplayed>20220929T174954</lastplayed>
+		<md5>50e59be180df3bfecd1f2239a9f0d860</md5>
+		<gametime>26</gametime>
+		<lang>fr</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Billard Electrique (198x)(Philips)(FR).zip</path>
+		<name>Billard Electrique (198x)(Philips)(FR)</name>
+		<lang>fr</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Billiard (198x)(Philips)(EU).zip</path>
+		<name>Billiard (198x)(Philips)(EU)</name>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Blobbers, The (198x)(Philips)(EU).zip</path>
+		<name>Blobbers, The (198x)(Philips)(EU)</name>
+		<md5>108fa4cbda888ab371340e316aa2c761</md5>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Trans American Rally (198x)(Philips)(EU)[b].zip</path>
+		<name>Trans American Rally (198x)(Philips)(EU)[b]</name>
+		<md5>915a4b58e955ae88baf3b662cfd23582</md5>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+</gameList>
