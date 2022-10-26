@@ -1,0 +1,631 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="59382">
+		<path>./Aldynes - The Misson Code for Rage Crisis (Japan).zip</path>
+		<name>Aldynes : The Misson Code for Rage Crisis</name>
+		<desc>Aldynes: The Mission Code for Rage Crisis, is a Japanese horizontal scrolling shoot 'em up game developed by Produce for the SuperGrafx. The game has a unique option-based combat and features levels with large scaling and parallax scrolling effects. 
+
+Nearing the year 2020, the societies of mankind fall into global depression just as an alien invasion suddenly descends on Earth. The aliens come from a large mechanical planetoid and attack Earth without reason or communication. With all defenses annihilated, the United Nations and NASA create a powerful space fighter known as The Ortega under project name Aldynes. When star space fighter pilot Fox-A was killed in battle; his bereaved girlfriend Hiroko soon discovers Project Aldynes and hijacks one of the ships to seek vengeance.</desc>
+		<image>./images/Aldynes - The Misson Code for Rage Crisis (Japan)-image.png</image>
+		<video>./videos/Aldynes - The Misson Code for Rage Crisis (Japan)-video.mp4</video>
+		<marquee>./images/Aldynes - The Misson Code for Rage Crisis (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Aldynes - The Misson Code for Rage Crisis (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Aldynes - The Misson Code for Rage Crisis (Japan)-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>19910222T000000</releasedate>
+		<developer>Produce Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<md5>8ce21667658ef9c025ad007f65147c6d</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161751" />
+	</game>
+	<game id="59380">
+		<path>./1941 - Counter Attack (Japan).zip</path>
+		<name>1941 : Counter Attack</name>
+		<desc>The SuperGrafx port of Capcom's hit arcade game. The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). The game uses a vitality system instead of life system in which if the player is hit, it loses one point of vitality and the player is destroyed if hit with 0 vitality then the player is given the option to continue. Lightning attacks can be used by pressing the B button which sacrifices a portion of life energy. Player 1 flies the P-38 Lightning and Player 2 the new Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front, in the north Atlantic Ocean. 
+
+The game consists of six levels and was the first in the series to introduce a +1 to the high score when Continues are used.</desc>
+		<image>./images/1941 - Counter Attack (Japan)-image.png</image>
+		<video>./videos/1941 - Counter Attack (Japan)-video.mp4</video>
+		<marquee>./images/1941 - Counter Attack (Japan)-marquee.png</marquee>
+		<thumbnail>./images/1941 - Counter Attack (Japan)-thumb.png</thumbnail>
+		<fanart>./images/1941 - Counter Attack (Japan)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19910823T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>19XX</family>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220928T161751</lastplayed>
+		<md5>30686dba4795521174658de2492e0046</md5>
+		<gametime>72</gametime>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161607" />
+	</game>
+	<game id="14523">
+		<path>./After Burner II (1990)(NEC)(JP)(en).zip</path>
+		<name>After Burner II</name>
+		<desc>Similar to its predecessor, the premise of After Burner II is to get on the F-14 Tomcat and fly mission after mission of shooting planes out of the sky. At your disposal is a vulcan cannon (basically a machine gun) and a limited number of missiles. In some versions of the game the guns fire automatically all the time. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.
+
+The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. You also can speed up and slow down to deal with enemies which appear behind you.</desc>
+		<image>./images/After Burner II (1990)(NEC)(JP)(en)-image.png</image>
+		<video>./videos/After Burner II (1990)(NEC)(JP)(en)-video.mp4</video>
+		<marquee>./images/After Burner II (1990)(NEC)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/After Burner II (1990)(NEC)(JP)(en)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19900928T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>NEC</publisher>
+		<genre>Shooter</genre>
+		<family>After Burner</family>
+		<players>1</players>
+		<md5>ac0cdee014e725e428fde5774751ff8d</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161751" />
+	</game>
+	<game id="14523">
+		<path>./After Burner II (1990)(NEC)(JP)(en)[b2].zip</path>
+		<name>After Burner II</name>
+		<desc>Similar to its predecessor, the premise of After Burner II is to get on the F-14 Tomcat and fly mission after mission of shooting planes out of the sky. At your disposal is a vulcan cannon (basically a machine gun) and a limited number of missiles. In some versions of the game the guns fire automatically all the time. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.
+
+The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. You also can speed up and slow down to deal with enemies which appear behind you.</desc>
+		<image>./images/After Burner II (1990)(NEC)(JP)(en)[b2]-image.png</image>
+		<video>./videos/After Burner II (1990)(NEC)(JP)(en)[b2]-video.mp4</video>
+		<marquee>./images/After Burner II (1990)(NEC)(JP)(en)[b2]-marquee.png</marquee>
+		<thumbnail>./images/After Burner II (1990)(NEC)(JP)(en)[b2]-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19900928T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>NEC</publisher>
+		<genre>Shooter</genre>
+		<family>After Burner</family>
+		<players>1</players>
+		<md5>38cc562ca8ad52ea5d5979a4d7d4838f</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161751" />
+	</game>
+	<game id="14523">
+		<path>./After Burner II (1990)(NEC)(JP)(en)[b3].zip</path>
+		<name>After Burner II</name>
+		<desc>Similar to its predecessor, the premise of After Burner II is to get on the F-14 Tomcat and fly mission after mission of shooting planes out of the sky. At your disposal is a vulcan cannon (basically a machine gun) and a limited number of missiles. In some versions of the game the guns fire automatically all the time. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.
+
+The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. You also can speed up and slow down to deal with enemies which appear behind you.</desc>
+		<image>./images/After Burner II (1990)(NEC)(JP)(en)[b3]-image.png</image>
+		<video>./videos/After Burner II (1990)(NEC)(JP)(en)[b3]-video.mp4</video>
+		<marquee>./images/After Burner II (1990)(NEC)(JP)(en)[b3]-marquee.png</marquee>
+		<thumbnail>./images/After Burner II (1990)(NEC)(JP)(en)[b3]-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19900928T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>NEC</publisher>
+		<genre>Shooter</genre>
+		<family>After Burner</family>
+		<players>1</players>
+		<md5>110ad6c444cd0a4e19bda5762e787639</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161751" />
+	</game>
+	<game id="14523">
+		<path>./After Burner II (1990)(NEC)(JP)(en)[b4].zip</path>
+		<name>After Burner II</name>
+		<desc>Similar to its predecessor, the premise of After Burner II is to get on the F-14 Tomcat and fly mission after mission of shooting planes out of the sky. At your disposal is a vulcan cannon (basically a machine gun) and a limited number of missiles. In some versions of the game the guns fire automatically all the time. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.
+
+The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. You also can speed up and slow down to deal with enemies which appear behind you.</desc>
+		<image>./images/After Burner II (1990)(NEC)(JP)(en)[b4]-image.png</image>
+		<video>./videos/After Burner II (1990)(NEC)(JP)(en)[b4]-video.mp4</video>
+		<marquee>./images/After Burner II (1990)(NEC)(JP)(en)[b4]-marquee.png</marquee>
+		<thumbnail>./images/After Burner II (1990)(NEC)(JP)(en)[b4]-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19900928T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>NEC</publisher>
+		<genre>Shooter</genre>
+		<family>After Burner</family>
+		<players>1</players>
+		<md5>e6007d05d1e7ef57787110451496eecf</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161751" />
+	</game>
+	<game id="14523">
+		<path>./After Burner II (1990)(NEC)(JP)(en)[b].zip</path>
+		<name>After Burner II</name>
+		<desc>Similar to its predecessor, the premise of After Burner II is to get on the F-14 Tomcat and fly mission after mission of shooting planes out of the sky. At your disposal is a vulcan cannon (basically a machine gun) and a limited number of missiles. In some versions of the game the guns fire automatically all the time. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.
+
+The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. You also can speed up and slow down to deal with enemies which appear behind you.</desc>
+		<image>./images/After Burner II (1990)(NEC)(JP)(en)[b]-image.png</image>
+		<video>./videos/After Burner II (1990)(NEC)(JP)(en)[b]-video.mp4</video>
+		<marquee>./images/After Burner II (1990)(NEC)(JP)(en)[b]-marquee.png</marquee>
+		<thumbnail>./images/After Burner II (1990)(NEC)(JP)(en)[b]-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19900928T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>NEC</publisher>
+		<genre>Shooter</genre>
+		<family>After Burner</family>
+		<players>1</players>
+		<md5>4b8c2fdeb120050ac6ef87fcaf4f04bf</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161751" />
+	</game>
+	<game id="14526">
+		<path>./Air Zonk (1992)(Hudson)(US).zip</path>
+		<name>Air Zonk</name>
+		<desc>The little and bald prehistoric fellow is back and eager to fight once more, but this time no head-kicking nor bare-teeth hill climbing. PC Denjin is a crazy shooter stuffed with wacky and insane action. Our hero character is somehow very different too - this time he is a flying sunglass-wearing cyborg who fights his way through five intense levels. He is also not alone to face the challenges ahead and the army of minions the evil King Droll sends agains him - he is accompanied by new friends, from a massive robot-rocket to a flying mummy and a big and round floating cow. Smilies and power-ups can of course be collected throughout the game and a special and large sunglass-wearing smiley can call one of PC Denjin's friend to the rescue. But this is not all, if he collects the same kind of smiley twice, then they'll both do a mind-blowing mega-fusion. Freaky stuff. On top of being able to use a large selection of weapons, the player can also charge them up at any time by holding the fire button. Wait too long, and PC Denjin over-heats and drops a huge sunglass-wearing purple poo-poo that explodes and causes a fair amount of damage to all nearby enemies.</desc>
+		<image>./images/Air Zonk (1992)(Hudson)(US)-image.png</image>
+		<video>./videos/Air Zonk (1992)(Hudson)(US)-video.mp4</video>
+		<marquee>./images/Air Zonk (1992)(Hudson)(US)-marquee.png</marquee>
+		<thumbnail>./images/Air Zonk (1992)(Hudson)(US)-thumb.png</thumbnail>
+		<fanart>./images/Air Zonk (1992)(Hudson)(US)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1</players>
+		<md5>406bec60ffca9ac151a793969b0c10c6</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T161751" />
+	</game>
+	<game id="14526">
+		<path>./Air Zonk (1992)(Hudson)(US)[h].zip</path>
+		<name>Air Zonk</name>
+		<desc>The little and bald prehistoric fellow is back and eager to fight once more, but this time no head-kicking nor bare-teeth hill climbing. PC Denjin is a crazy shooter stuffed with wacky and insane action. Our hero character is somehow very different too - this time he is a flying sunglass-wearing cyborg who fights his way through five intense levels. He is also not alone to face the challenges ahead and the army of minions the evil King Droll sends agains him - he is accompanied by new friends, from a massive robot-rocket to a flying mummy and a big and round floating cow. Smilies and power-ups can of course be collected throughout the game and a special and large sunglass-wearing smiley can call one of PC Denjin's friend to the rescue. But this is not all, if he collects the same kind of smiley twice, then they'll both do a mind-blowing mega-fusion. Freaky stuff. On top of being able to use a large selection of weapons, the player can also charge them up at any time by holding the fire button. Wait too long, and PC Denjin over-heats and drops a huge sunglass-wearing purple poo-poo that explodes and causes a fair amount of damage to all nearby enemies.</desc>
+		<image>./images/Air Zonk (1992)(Hudson)(US)[h]-image.png</image>
+		<video>./videos/Air Zonk (1992)(Hudson)(US)[h]-video.mp4</video>
+		<marquee>./images/Air Zonk (1992)(Hudson)(US)[h]-marquee.png</marquee>
+		<thumbnail>./images/Air Zonk (1992)(Hudson)(US)[h]-thumb.png</thumbnail>
+		<fanart>./images/Air Zonk (1992)(Hudson)(US)[h]-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1</players>
+		<md5>caa17e131ddd5ad01799beb161c3216d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T161751" />
+	</game>
+	<game id="59382">
+		<path>./Aldynes (1991)(Hudson)(JP)(en).zip</path>
+		<name>Aldynes : The Misson Code for Rage Crisis</name>
+		<desc>Aldynes: The Mission Code for Rage Crisis, is a Japanese horizontal scrolling shoot 'em up game developed by Produce for the SuperGrafx. The game has a unique option-based combat and features levels with large scaling and parallax scrolling effects. 
+
+Nearing the year 2020, the societies of mankind fall into global depression just as an alien invasion suddenly descends on Earth. The aliens come from a large mechanical planetoid and attack Earth without reason or communication. With all defenses annihilated, the United Nations and NASA create a powerful space fighter known as The Ortega under project name Aldynes. When star space fighter pilot Fox-A was killed in battle; his bereaved girlfriend Hiroko soon discovers Project Aldynes and hijacks one of the ships to seek vengeance.</desc>
+		<image>./images/Aldynes (1991)(Hudson)(JP)(en)-image.png</image>
+		<video>./videos/Aldynes (1991)(Hudson)(JP)(en)-video.mp4</video>
+		<marquee>./images/Aldynes (1991)(Hudson)(JP)(en)-marquee.png</marquee>
+		<thumbnail>./images/Aldynes (1991)(Hudson)(JP)(en)-thumb.png</thumbnail>
+		<fanart>./images/Aldynes (1991)(Hudson)(JP)(en)-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>19910222T000000</releasedate>
+		<developer>Produce Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<md5>8ce21667658ef9c025ad007f65147c6d</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161751" />
+	</game>
+	<game id="59382">
+		<path>./Aldynes (1991)(Hudson)(JP)(en)[b2].zip</path>
+		<name>Aldynes : The Misson Code for Rage Crisis</name>
+		<desc>Aldynes: The Mission Code for Rage Crisis, is a Japanese horizontal scrolling shoot 'em up game developed by Produce for the SuperGrafx. The game has a unique option-based combat and features levels with large scaling and parallax scrolling effects. 
+
+Nearing the year 2020, the societies of mankind fall into global depression just as an alien invasion suddenly descends on Earth. The aliens come from a large mechanical planetoid and attack Earth without reason or communication. With all defenses annihilated, the United Nations and NASA create a powerful space fighter known as The Ortega under project name Aldynes. When star space fighter pilot Fox-A was killed in battle; his bereaved girlfriend Hiroko soon discovers Project Aldynes and hijacks one of the ships to seek vengeance.</desc>
+		<image>./images/Aldynes (1991)(Hudson)(JP)(en)[b2]-image.png</image>
+		<video>./videos/Aldynes (1991)(Hudson)(JP)(en)[b2]-video.mp4</video>
+		<marquee>./images/Aldynes (1991)(Hudson)(JP)(en)[b2]-marquee.png</marquee>
+		<thumbnail>./images/Aldynes (1991)(Hudson)(JP)(en)[b2]-thumb.png</thumbnail>
+		<fanart>./images/Aldynes (1991)(Hudson)(JP)(en)[b2]-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>19910222T000000</releasedate>
+		<developer>Produce Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<md5>b0ef4278ba450af3240976a2a1defea6</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161751" />
+	</game>
+	<game id="59382">
+		<path>./Aldynes (1991)(Hudson)(JP)(en)[b3].zip</path>
+		<name>Aldynes : The Misson Code for Rage Crisis</name>
+		<desc>Aldynes: The Mission Code for Rage Crisis, is a Japanese horizontal scrolling shoot 'em up game developed by Produce for the SuperGrafx. The game has a unique option-based combat and features levels with large scaling and parallax scrolling effects. 
+
+Nearing the year 2020, the societies of mankind fall into global depression just as an alien invasion suddenly descends on Earth. The aliens come from a large mechanical planetoid and attack Earth without reason or communication. With all defenses annihilated, the United Nations and NASA create a powerful space fighter known as The Ortega under project name Aldynes. When star space fighter pilot Fox-A was killed in battle; his bereaved girlfriend Hiroko soon discovers Project Aldynes and hijacks one of the ships to seek vengeance.</desc>
+		<image>./images/Aldynes (1991)(Hudson)(JP)(en)[b3]-image.png</image>
+		<video>./videos/Aldynes (1991)(Hudson)(JP)(en)[b3]-video.mp4</video>
+		<marquee>./images/Aldynes (1991)(Hudson)(JP)(en)[b3]-marquee.png</marquee>
+		<thumbnail>./images/Aldynes (1991)(Hudson)(JP)(en)[b3]-thumb.png</thumbnail>
+		<fanart>./images/Aldynes (1991)(Hudson)(JP)(en)[b3]-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>19910222T000000</releasedate>
+		<developer>Produce Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<md5>09807004b6ea33cfc341645b9f45f6ce</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161751" />
+	</game>
+	<game id="59382">
+		<path>./Aldynes (1991)(Hudson)(JP)(en)[b4].zip</path>
+		<name>Aldynes : The Misson Code for Rage Crisis</name>
+		<desc>Aldynes: The Mission Code for Rage Crisis, is a Japanese horizontal scrolling shoot 'em up game developed by Produce for the SuperGrafx. The game has a unique option-based combat and features levels with large scaling and parallax scrolling effects. 
+
+Nearing the year 2020, the societies of mankind fall into global depression just as an alien invasion suddenly descends on Earth. The aliens come from a large mechanical planetoid and attack Earth without reason or communication. With all defenses annihilated, the United Nations and NASA create a powerful space fighter known as The Ortega under project name Aldynes. When star space fighter pilot Fox-A was killed in battle; his bereaved girlfriend Hiroko soon discovers Project Aldynes and hijacks one of the ships to seek vengeance.</desc>
+		<image>./images/Aldynes (1991)(Hudson)(JP)(en)[b4]-image.png</image>
+		<video>./videos/Aldynes (1991)(Hudson)(JP)(en)[b4]-video.mp4</video>
+		<marquee>./images/Aldynes (1991)(Hudson)(JP)(en)[b4]-marquee.png</marquee>
+		<thumbnail>./images/Aldynes (1991)(Hudson)(JP)(en)[b4]-thumb.png</thumbnail>
+		<fanart>./images/Aldynes (1991)(Hudson)(JP)(en)[b4]-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>19910222T000000</releasedate>
+		<developer>Produce Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<md5>f5983cbb058d3abc86dc9bc48d1661b8</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161751" />
+	</game>
+	<game id="59382">
+		<path>./Aldynes (1991)(Hudson)(JP)(en)[b5].zip</path>
+		<name>Aldynes : The Misson Code for Rage Crisis</name>
+		<desc>Aldynes: The Mission Code for Rage Crisis, is a Japanese horizontal scrolling shoot 'em up game developed by Produce for the SuperGrafx. The game has a unique option-based combat and features levels with large scaling and parallax scrolling effects. 
+
+Nearing the year 2020, the societies of mankind fall into global depression just as an alien invasion suddenly descends on Earth. The aliens come from a large mechanical planetoid and attack Earth without reason or communication. With all defenses annihilated, the United Nations and NASA create a powerful space fighter known as The Ortega under project name Aldynes. When star space fighter pilot Fox-A was killed in battle; his bereaved girlfriend Hiroko soon discovers Project Aldynes and hijacks one of the ships to seek vengeance.</desc>
+		<image>./images/Aldynes (1991)(Hudson)(JP)(en)[b5]-image.png</image>
+		<video>./videos/Aldynes (1991)(Hudson)(JP)(en)[b5]-video.mp4</video>
+		<marquee>./images/Aldynes (1991)(Hudson)(JP)(en)[b5]-marquee.png</marquee>
+		<thumbnail>./images/Aldynes (1991)(Hudson)(JP)(en)[b5]-thumb.png</thumbnail>
+		<fanart>./images/Aldynes (1991)(Hudson)(JP)(en)[b5]-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>19910222T000000</releasedate>
+		<developer>Produce Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<md5>2ee2eeeb4691add82a86ccfe5dcc9d3e</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161751" />
+	</game>
+	<game id="59382">
+		<path>./Aldynes (1991)(Hudson)(JP)(en)[b].zip</path>
+		<name>Aldynes : The Misson Code for Rage Crisis</name>
+		<desc>Aldynes: The Mission Code for Rage Crisis, is a Japanese horizontal scrolling shoot 'em up game developed by Produce for the SuperGrafx. The game has a unique option-based combat and features levels with large scaling and parallax scrolling effects. 
+
+Nearing the year 2020, the societies of mankind fall into global depression just as an alien invasion suddenly descends on Earth. The aliens come from a large mechanical planetoid and attack Earth without reason or communication. With all defenses annihilated, the United Nations and NASA create a powerful space fighter known as The Ortega under project name Aldynes. When star space fighter pilot Fox-A was killed in battle; his bereaved girlfriend Hiroko soon discovers Project Aldynes and hijacks one of the ships to seek vengeance.</desc>
+		<image>./images/Aldynes (1991)(Hudson)(JP)(en)[b]-image.png</image>
+		<video>./videos/Aldynes (1991)(Hudson)(JP)(en)[b]-video.mp4</video>
+		<marquee>./images/Aldynes (1991)(Hudson)(JP)(en)[b]-marquee.png</marquee>
+		<thumbnail>./images/Aldynes (1991)(Hudson)(JP)(en)[b]-thumb.png</thumbnail>
+		<fanart>./images/Aldynes (1991)(Hudson)(JP)(en)[b]-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>19910222T000000</releasedate>
+		<developer>Produce Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<md5>30226111516f9d6b23f375f1c0082bb1</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161751" />
+	</game>
+	<game id="59383">
+		<path>./Battle Ace (Japan).zip</path>
+		<name>Battle Ace</name>
+		<desc>Battle Ace is an action-oriented flight game in a first-person perspective. The player mans a space ship, including a radar which shows enemies, and the goal is to reach the end of each level where an end boss waits. As usually, the main occupation is to blast a lot of aliens which approach the player. The available weapons are bombs and a machine gun, both unlimited. Getting hit is a bad idea because it results in death. The player has three lives which can be raised by scoring 20000 points.</desc>
+		<image>./images/Battle Ace (Japan)-image.png</image>
+		<video>./videos/Battle Ace (Japan)-video.mp4</video>
+		<marquee>./images/Battle Ace (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Battle Ace (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Battle Ace (Japan)-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>19891130T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<md5>fc0053c0c050353b87886b1b89349168</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161756" />
+	</game>
+	<game id="78613">
+		<path>./Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP).zip</path>
+		<name>ChouZetsurinjin : Bravoman</name>
+		<desc>The evil Dr. Bomb has taken over Nitta village and only you, an ordinary salary man, can stop his evil plans by transforming into the fabulous superhero Bravoman!
+
+The game is a side-scrolling action platformer. As Bravoman, you have the power to elongate your members depending on how long you press each button allowing you to jump higher or punch enemies on the other side of the screen.
+
+Features 22 stages filled with bizarre settings and enemies, all rendered using colorful 2D graphics.</desc>
+		<image>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)-image.png</image>
+		<video>./videos/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)-video.mp4</video>
+		<marquee>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)-marquee.png</marquee>
+		<thumbnail>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)-thumb.png</thumbnail>
+		<fanart>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>19900713T000000</releasedate>
+		<developer>Now Production</developer>
+		<publisher>NEC</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<md5>2cb4b55b6c4883530cdd452552b277c4</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161802" />
+	</game>
+	<game id="78613">
+		<path>./Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b2].zip</path>
+		<name>ChouZetsurinjin : Bravoman</name>
+		<desc>The evil Dr. Bomb has taken over Nitta village and only you, an ordinary salary man, can stop his evil plans by transforming into the fabulous superhero Bravoman!
+
+The game is a side-scrolling action platformer. As Bravoman, you have the power to elongate your members depending on how long you press each button allowing you to jump higher or punch enemies on the other side of the screen.
+
+Features 22 stages filled with bizarre settings and enemies, all rendered using colorful 2D graphics.</desc>
+		<image>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b2]-image.png</image>
+		<video>./videos/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b2]-video.mp4</video>
+		<marquee>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b2]-marquee.png</marquee>
+		<thumbnail>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b2]-thumb.png</thumbnail>
+		<fanart>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b2]-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>19900713T000000</releasedate>
+		<developer>Now Production</developer>
+		<publisher>NEC</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<md5>83a3187b0b85ab518a8546ec92023500</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161808" />
+	</game>
+	<game id="78613">
+		<path>./Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b3].zip</path>
+		<name>ChouZetsurinjin : Bravoman</name>
+		<desc>The evil Dr. Bomb has taken over Nitta village and only you, an ordinary salary man, can stop his evil plans by transforming into the fabulous superhero Bravoman!
+
+The game is a side-scrolling action platformer. As Bravoman, you have the power to elongate your members depending on how long you press each button allowing you to jump higher or punch enemies on the other side of the screen.
+
+Features 22 stages filled with bizarre settings and enemies, all rendered using colorful 2D graphics.</desc>
+		<image>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b3]-image.png</image>
+		<video>./videos/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b3]-video.mp4</video>
+		<marquee>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b3]-marquee.png</marquee>
+		<thumbnail>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b3]-thumb.png</thumbnail>
+		<fanart>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b3]-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>19900713T000000</releasedate>
+		<developer>Now Production</developer>
+		<publisher>NEC</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<md5>f144b24b45bb99d5b05e346b57f67668</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161813" />
+	</game>
+	<game id="78613">
+		<path>./Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b4].zip</path>
+		<name>ChouZetsurinjin : Bravoman</name>
+		<desc>The evil Dr. Bomb has taken over Nitta village and only you, an ordinary salary man, can stop his evil plans by transforming into the fabulous superhero Bravoman!
+
+The game is a side-scrolling action platformer. As Bravoman, you have the power to elongate your members depending on how long you press each button allowing you to jump higher or punch enemies on the other side of the screen.
+
+Features 22 stages filled with bizarre settings and enemies, all rendered using colorful 2D graphics.</desc>
+		<image>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b4]-image.png</image>
+		<video>./videos/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b4]-video.mp4</video>
+		<marquee>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b4]-marquee.png</marquee>
+		<thumbnail>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b4]-thumb.png</thumbnail>
+		<fanart>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b4]-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>19900713T000000</releasedate>
+		<developer>Now Production</developer>
+		<publisher>NEC</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<md5>9d522969e3b8c492122c2916ab78efcc</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161818" />
+	</game>
+	<game id="78613">
+		<path>./Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b].zip</path>
+		<name>ChouZetsurinjin : Bravoman</name>
+		<desc>The evil Dr. Bomb has taken over Nitta village and only you, an ordinary salary man, can stop his evil plans by transforming into the fabulous superhero Bravoman!
+
+The game is a side-scrolling action platformer. As Bravoman, you have the power to elongate your members depending on how long you press each button allowing you to jump higher or punch enemies on the other side of the screen.
+
+Features 22 stages filled with bizarre settings and enemies, all rendered using colorful 2D graphics.</desc>
+		<image>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b]-image.png</image>
+		<video>./videos/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b]-video.mp4</video>
+		<marquee>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b]-marquee.png</marquee>
+		<thumbnail>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b]-thumb.png</thumbnail>
+		<fanart>./images/Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP)[b]-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>19900713T000000</releasedate>
+		<developer>Now Production</developer>
+		<publisher>NEC</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<md5>131d58d4db54d773659c7ce65924adfd</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161823" />
+	</game>
+	<game id="129653">
+		<path>./Daimakaimura (Japan).zip</path>
+		<name>Dai-Makaimura</name>
+		<desc>Three years after the events of Ghosts'n Goblins, the world is once again under attack by demons. Guinevere, Arthur the knight's fiancée, is killed before his eyes by Lucifer himself. Arthur is forced to travel the kingdom infested with evil creatures to save the soul of his beloved.</desc>
+		<image>./images/Daimakaimura (Japan)-image.png</image>
+		<video>./videos/Daimakaimura (Japan)-video.mp4</video>
+		<marquee>./images/Daimakaimura (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Daimakaimura (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Daimakaimura (Japan)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19900727T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>NEC</publisher>
+		<genre>Action</genre>
+		<family>Ghost'n Goblins</family>
+		<players>1</players>
+		<md5>6d9ff6f70608166c88fd2553d44ca17a</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161831" />
+	</game>
+	<game id="78683">
+		<path>./Keith Courage in Alpha Zones (1989)(Hudson)(US).zip</path>
+		<name>Keith Courage in Alpha Zones</name>
+		<desc>As a member of N.I.C.E. (Nations for International Citizens of Earth), Keith Courage takes up the fight against the aliens of B.A.D. (Bad Alien Dudes) through seven levels in this side-scrolling action platformer.
+
+As Keith Courage makes his way through the various zones, he attacks various forms of enemies in order to gain coins.  The coins can be used in the shops for various power-ups, equipment, and other helpful items.
+
+When he makes it to a certain point in each level, Keith Courage is given access to the Nova Suit, an armored suit with a powerful sword that is used to dispatch the end bosses of each level in the Underworld.  Once Keith Courage defeats the boss, the returns to the Overworld sans armor to complete the next set of challenges.</desc>
+		<image>./images/Keith Courage in Alpha Zones (1989)(Hudson)(US)-image.png</image>
+		<video>./videos/Keith Courage in Alpha Zones (1989)(Hudson)(US)-video.mp4</video>
+		<marquee>./images/Keith Courage in Alpha Zones (1989)(Hudson)(US)-marquee.png</marquee>
+		<thumbnail>./images/Keith Courage in Alpha Zones (1989)(Hudson)(US)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>NEC</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>e5309b10903ccc3032c2f919e8db7384</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T161835" />
+	</game>
+	<game id="78683">
+		<path>./Keith Courage in Alpha Zones (1989)(Hudson)(US)[b].zip</path>
+		<name>Keith Courage in Alpha Zones</name>
+		<desc>As a member of N.I.C.E. (Nations for International Citizens of Earth), Keith Courage takes up the fight against the aliens of B.A.D. (Bad Alien Dudes) through seven levels in this side-scrolling action platformer.
+
+As Keith Courage makes his way through the various zones, he attacks various forms of enemies in order to gain coins.  The coins can be used in the shops for various power-ups, equipment, and other helpful items.
+
+When he makes it to a certain point in each level, Keith Courage is given access to the Nova Suit, an armored suit with a powerful sword that is used to dispatch the end bosses of each level in the Underworld.  Once Keith Courage defeats the boss, the returns to the Overworld sans armor to complete the next set of challenges.</desc>
+		<image>./images/Keith Courage in Alpha Zones (1989)(Hudson)(US)[b]-image.png</image>
+		<video>./videos/Keith Courage in Alpha Zones (1989)(Hudson)(US)[b]-video.mp4</video>
+		<marquee>./images/Keith Courage in Alpha Zones (1989)(Hudson)(US)[b]-marquee.png</marquee>
+		<thumbnail>./images/Keith Courage in Alpha Zones (1989)(Hudson)(US)[b]-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>NEC</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>233c0b892b3648d3ab1789093d1f52e6</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T161841" />
+	</game>
+	<game id="78683">
+		<path>./Keith Courage in Alpha Zones (1989)(Hudson)(US)[h2].zip</path>
+		<name>Keith Courage in Alpha Zones</name>
+		<desc>As a member of N.I.C.E. (Nations for International Citizens of Earth), Keith Courage takes up the fight against the aliens of B.A.D. (Bad Alien Dudes) through seven levels in this side-scrolling action platformer.
+
+As Keith Courage makes his way through the various zones, he attacks various forms of enemies in order to gain coins.  The coins can be used in the shops for various power-ups, equipment, and other helpful items.
+
+When he makes it to a certain point in each level, Keith Courage is given access to the Nova Suit, an armored suit with a powerful sword that is used to dispatch the end bosses of each level in the Underworld.  Once Keith Courage defeats the boss, the returns to the Overworld sans armor to complete the next set of challenges.</desc>
+		<image>./images/Keith Courage in Alpha Zones (1989)(Hudson)(US)[h2]-image.png</image>
+		<video>./videos/Keith Courage in Alpha Zones (1989)(Hudson)(US)[h2]-video.mp4</video>
+		<marquee>./images/Keith Courage in Alpha Zones (1989)(Hudson)(US)[h2]-marquee.png</marquee>
+		<thumbnail>./images/Keith Courage in Alpha Zones (1989)(Hudson)(US)[h2]-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>NEC</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>20f948ecfa71910aace86875fdcfcd21</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T161846" />
+	</game>
+	<game id="78683">
+		<path>./Keith Courage in Alpha Zones (1989)(Hudson)(US)[h].zip</path>
+		<name>Keith Courage in Alpha Zones</name>
+		<desc>As a member of N.I.C.E. (Nations for International Citizens of Earth), Keith Courage takes up the fight against the aliens of B.A.D. (Bad Alien Dudes) through seven levels in this side-scrolling action platformer.
+
+As Keith Courage makes his way through the various zones, he attacks various forms of enemies in order to gain coins.  The coins can be used in the shops for various power-ups, equipment, and other helpful items.
+
+When he makes it to a certain point in each level, Keith Courage is given access to the Nova Suit, an armored suit with a powerful sword that is used to dispatch the end bosses of each level in the Underworld.  Once Keith Courage defeats the boss, the returns to the Overworld sans armor to complete the next set of challenges.</desc>
+		<image>./images/Keith Courage in Alpha Zones (1989)(Hudson)(US)[h]-image.png</image>
+		<video>./videos/Keith Courage in Alpha Zones (1989)(Hudson)(US)[h]-video.mp4</video>
+		<marquee>./images/Keith Courage in Alpha Zones (1989)(Hudson)(US)[h]-marquee.png</marquee>
+		<thumbnail>./images/Keith Courage in Alpha Zones (1989)(Hudson)(US)[h]-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>NEC</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>644190707b2b926b00c508bcea7096f9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T161851" />
+	</game>
+	<game id="78683">
+		<path>./Keith Courage in Alpha Zones (1989)(Hudson)(US)[tr el].zip</path>
+		<name>Keith Courage in Alpha Zones</name>
+		<desc>As a member of N.I.C.E. (Nations for International Citizens of Earth), Keith Courage takes up the fight against the aliens of B.A.D. (Bad Alien Dudes) through seven levels in this side-scrolling action platformer.
+
+As Keith Courage makes his way through the various zones, he attacks various forms of enemies in order to gain coins.  The coins can be used in the shops for various power-ups, equipment, and other helpful items.
+
+When he makes it to a certain point in each level, Keith Courage is given access to the Nova Suit, an armored suit with a powerful sword that is used to dispatch the end bosses of each level in the Underworld.  Once Keith Courage defeats the boss, the returns to the Overworld sans armor to complete the next set of challenges.</desc>
+		<image>./images/Keith Courage in Alpha Zones (1989)(Hudson)(US)[tr el]-image.png</image>
+		<video>./videos/Keith Courage in Alpha Zones (1989)(Hudson)(US)[tr el]-video.mp4</video>
+		<marquee>./images/Keith Courage in Alpha Zones (1989)(Hudson)(US)[tr el]-marquee.png</marquee>
+		<thumbnail>./images/Keith Courage in Alpha Zones (1989)(Hudson)(US)[tr el]-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>NEC</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>a5973142bcfe0d5cc97dbdd1fae7db4f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T161858" />
+	</game>
+	<game id="59385">
+		<path>./Madou King Granzort (Japan).zip</path>
+		<name>Madou King Granzort</name>
+		<desc>Madouou Granzort is a platform/action game that consists of seven zones each guarded by a boss.
+You will cross ruins, underground, a forest or any futuristic complex by laminating robots of various forms.
+You will make your character jump by pressing the I button and hit him by pressing the II button. It is the Select button that pauses the game, as Run is used to switch heroes. At any time you can switch from the red knight to the green, then to the blue and so on.</desc>
+		<image>./images/Madou King Granzort (Japan)-image.png</image>
+		<video>./videos/Madou King Granzort (Japan)-video.mp4</video>
+		<marquee>./images/Madou King Granzort (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Madou King Granzort (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Madou King Granzort (Japan)-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>19900406T000000</releasedate>
+		<developer>Sunrise Software</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>7e1e489c50fc6213196e6dbb704f6671</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T161907" />
+	</game>
+</gameList>
