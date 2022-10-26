@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="59224">
+		<path>./Boom Zoo (1995)(Funtech)(TW)[aka Boomzoo].zip</path>
+		<name>Explosive Burst Zoo</name>
+		<desc>Boom Zoo is a clone of the game Bomberman starring cute animals.</desc>
+		<image>./images/Boom Zoo (1995)(Funtech)(TW)[aka Boomzoo]-image.png</image>
+		<video>./videos/Boom Zoo (1995)(Funtech)(TW)[aka Boomzoo]-video.mp4</video>
+		<marquee>./images/Boom Zoo (1995)(Funtech)(TW)[aka Boomzoo]-marquee.png</marquee>
+		<thumbnail>./images/Boom Zoo (1995)(Funtech)(TW)[aka Boomzoo]-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<developer>Funtech Technology</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>62aba0124eec12567f0facd8475d4ef8</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20220928T115624" />
+	</game>
+	<game id="99441">
+		<path>./Journey to the Laugh (1995)(Funtech)(TW).zip</path>
+		<name>ZZZ(notgame):16005</name>
+		<hidden>true</hidden>
+		<md5>fb45bfe814878e759ecb413484848db9</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20220928T115625" />
+	</game>
+	<game id="99444">
+		<path>./Monopoly - Adventure in Africa (1995)(Funtech)(TW).zip</path>
+		<name>ZZZ(notgame):08003</name>
+		<hidden>true</hidden>
+		<md5>2f738d44d74f987be4b96b6ee4097e1e</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20220928T115625" />
+	</game>
+	<game id="59232">
+		<path>./Sango Fighter (1995)(Funtech)(TW).zip</path>
+		<name>Sango Fighter</name>
+		<desc>Sango Fighter is a versus fighting game set in the Three Kingdoms era in China. The player can choose between five different characters from the time period, and fight other characters in either a one-on-one combat or a story mode. The story is loosely based on real historical events of the Three Kingdoms era.</desc>
+		<image>./images/Sango Fighter (1995)(Funtech)(TW)-image.png</image>
+		<video>./videos/Sango Fighter (1995)(Funtech)(TW)-video.mp4</video>
+		<marquee>./images/Sango Fighter (1995)(Funtech)(TW)-marquee.png</marquee>
+		<thumbnail>./images/Sango Fighter (1995)(Funtech)(TW)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<developer>Panda Entertainment Technology Co., Ltd.</developer>
+		<publisher>Funtech Technology</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<md5>45e297d693cd2308f637f68a2389ace4</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20220928T115630" />
+	</game>
+	<game id="99445">
+		<path>./Son of Evil, The (1995)(Funtech)(TW).zip</path>
+		<name>ZZZ(notgame):16002</name>
+		<hidden>true</hidden>
+		<md5>517316018ed64cd43e225f1dd074eaf2</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20220928T115631" />
+	</game>
+	<game id="99446">
+		<path>./Speedy Dragon (1995)(Artisan)(TW)[aka Sonic Dragon].zip</path>
+		<name>ZZZ(notgame):16003</name>
+		<hidden>true</hidden>
+		<md5>16ff1f3d682d582b696d86ad1a128efd</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20220928T115632" />
+	</game>
+	<game id="99442">
+		<path>./Super Taiwanese Baseball League (1995)(Funtech)(TW).zip</path>
+		<name>ZZZ(notgame):16004</name>
+		<hidden>true</hidden>
+		<md5>dc2d01a03d210d2ce937efd6685d6a28</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20220928T115633" />
+	</game>
+	<game>
+		<path>./Super Light Saga - Dragon Force (1996)(Funtech)(TW)[aka Super Dragon Force].zip</path>
+		<name>Super Light Saga - Dragon Force</name>
+		<rating>0</rating>
+		<releasedate>19700101T070000</releasedate>
+		<md5>7493bcc87fed61a6e509cdd079222c36</md5>
+		<lang>cn</lang>
+		<region>cn</region>
+		<scrap name="ScreenScraper" date="20220928T115632" />
+	</game>
+</gameList>
