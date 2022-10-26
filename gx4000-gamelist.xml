@@ -1,0 +1,711 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="54070">
+		<path>./Pang (1990)(Ocean).zip</path>
+		<name>Pang</name>
+		<desc>Pang is a platform game which consists of 50 levels in total. It can be played with one or two players on the same screen, and the other player can join anytime within the game. Your goal is to destroy the balloons which bounce around the playfield. To ac</desc>
+		<image>./images/Pang (1990)(Ocean)-image.png</image>
+		<video>./videos/Pang (1990)(Ocean)-video.mp4</video>
+		<marquee>./images/Pang (1990)(Ocean)-marquee.png</marquee>
+		<thumbnail>./images/Pang (1990)(Ocean)-thumb.png</thumbnail>
+		<fanart>./images/Pang (1990)(Ocean)-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Mitchell Corporation</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+		<family>Pang</family>
+		<players>1-2</players>
+		<md5>58612fb91920158f31b2d22c951d1506</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100037" />
+	</game>
+	<game id="54070">
+		<path>./Pang (1990)(Ocean)[a].zip</path>
+		<name>Pang</name>
+		<desc>Pang is a platform game which consists of 50 levels in total. It can be played with one or two players on the same screen, and the other player can join anytime within the game. Your goal is to destroy the balloons which bounce around the playfield. To ac</desc>
+		<image>./images/Pang (1990)(Ocean)[a]-image.png</image>
+		<video>./videos/Pang (1990)(Ocean)[a]-video.mp4</video>
+		<marquee>./images/Pang (1990)(Ocean)[a]-marquee.png</marquee>
+		<thumbnail>./images/Pang (1990)(Ocean)[a]-thumb.png</thumbnail>
+		<fanart>./images/Pang (1990)(Ocean)[a]-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Mitchell Corporation</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+		<family>Pang</family>
+		<players>1-2</players>
+		<md5>bc2fe038d7d0d8ce232730db74d86291</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100044" />
+	</game>
+	<game id="54071">
+		<path>./Panza Kick Boxing (1991)(Loriciel).zip</path>
+		<name>Panza Kick Boxing</name>
+		<desc>Endorsed by AndrÃ© Panza, this video game adaptation of Thai kick boxing features over 35 moves. Use the training gym to build up your character's abilities until you feel ready to take on an opponent. You also have the ability to customize your attacks.</desc>
+		<image>./images/Panza Kick Boxing (1991)(Loriciel)-image.jpg</image>
+		<video>./videos/Panza Kick Boxing (1991)(Loriciel)-video.mp4</video>
+		<marquee>./images/Panza Kick Boxing (1991)(Loriciel)-marquee.png</marquee>
+		<thumbnail>./images/Panza Kick Boxing (1991)(Loriciel)-thumb.png</thumbnail>
+		<fanart>./images/Panza Kick Boxing (1991)(Loriciel)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Futura</developer>
+		<publisher>Titus</publisher>
+		<genre>Sports / Boxing</genre>
+		<players>1-2</players>
+		<md5>f53a3ea13ae27afef72515baac2b63d9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100052" />
+	</game>
+	<game id="54072">
+		<path>./Plotting (1990)(Ocean).zip</path>
+		<name>Plotting</name>
+		<desc>Plotting involves several different types of blocks, bearing symbols such as squares, circles and crosses. Using a small yellow object to direct a block across onto a particular section of a shaped wall. It will then rebound onto a set of blocks at a part</desc>
+		<image>./images/Plotting (1990)(Ocean)-image.png</image>
+		<video>./videos/Plotting (1990)(Ocean)-video.mp4</video>
+		<marquee>./images/Plotting (1990)(Ocean)-marquee.png</marquee>
+		<thumbnail>./images/Plotting (1990)(Ocean)-thumb.png</thumbnail>
+		<fanart>./images/Plotting (1990)(Ocean)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Ocean</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<md5>27f343ce1f006fa3519a1947d496bd43</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100059" />
+	</game>
+	<game id="54072">
+		<path>./Plotting (1990)(Ocean)[a].zip</path>
+		<name>Plotting</name>
+		<desc>Plotting involves several different types of blocks, bearing symbols such as squares, circles and crosses. Using a small yellow object to direct a block across onto a particular section of a shaped wall. It will then rebound onto a set of blocks at a part</desc>
+		<image>./images/Plotting (1990)(Ocean)[a]-image.png</image>
+		<video>./videos/Plotting (1990)(Ocean)[a]-video.mp4</video>
+		<marquee>./images/Plotting (1990)(Ocean)[a]-marquee.png</marquee>
+		<thumbnail>./images/Plotting (1990)(Ocean)[a]-thumb.png</thumbnail>
+		<fanart>./images/Plotting (1990)(Ocean)[a]-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Ocean</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<md5>f9a62b9f6421d1ffae3616d9be7d13ae</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100105" />
+	</game>
+	<game id="54073">
+		<path>./Pro Tennis Tour (1990)(UBI Soft).zip</path>
+		<name>Pro Tennis Tour</name>
+		<desc>Okay Tennis Ace, now's your chance to compete with the best. Step into center court, tighten your grip and prepare to serve up your best shot. Pro Tennis Tour is about to begin.</desc>
+		<image>./images/Pro Tennis Tour (1990)(UBI Soft)-image.png</image>
+		<video>./videos/Pro Tennis Tour (1990)(UBI Soft)-video.mp4</video>
+		<marquee>./images/Pro Tennis Tour (1990)(UBI Soft)-marquee.png</marquee>
+		<thumbnail>./images/Pro Tennis Tour (1990)(UBI Soft)-thumb.png</thumbnail>
+		<fanart>./images/Pro Tennis Tour (1990)(UBI Soft)-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Blue Byte</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<md5>a993d0bd3787f491c7e4d0ace98bc46c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100112" />
+	</game>
+	<game id="54073">
+		<path>./Pro Tennis Tour (1990)(UBI Soft)[a].zip</path>
+		<name>Pro Tennis Tour</name>
+		<desc>Okay Tennis Ace, now's your chance to compete with the best. Step into center court, tighten your grip and prepare to serve up your best shot. Pro Tennis Tour is about to begin.</desc>
+		<image>./images/Pro Tennis Tour (1990)(UBI Soft)[a]-image.png</image>
+		<video>./videos/Pro Tennis Tour (1990)(UBI Soft)[a]-video.mp4</video>
+		<marquee>./images/Pro Tennis Tour (1990)(UBI Soft)[a]-marquee.png</marquee>
+		<thumbnail>./images/Pro Tennis Tour (1990)(UBI Soft)[a]-thumb.png</thumbnail>
+		<fanart>./images/Pro Tennis Tour (1990)(UBI Soft)[a]-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Blue Byte</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<md5>16bfb85b4f78c44e22814bf53956183c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100120" />
+	</game>
+	<game id="54074">
+		<path>./Robocop 2 (1990)(Ocean).zip</path>
+		<name>Robocop 2</name>
+		<desc>RoboCop 2 is a mission-based platform game. Missions have various objectives, such as destroying nukes or killing all the enemies. If you didn't destroy/kill enough, you'll be transported to a training mission, which is a first-person perspective shoot 'e</desc>
+		<image>./images/Robocop 2 (1990)(Ocean)-image.png</image>
+		<video>./videos/Robocop 2 (1990)(Ocean)-video.mp4</video>
+		<marquee>./images/Robocop 2 (1990)(Ocean)-marquee.png</marquee>
+		<thumbnail>./images/Robocop 2 (1990)(Ocean)-thumb.png</thumbnail>
+		<fanart>./images/Robocop 2 (1990)(Ocean)-fanart.jpg</fanart>
+		<rating>0.35</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Beat'em Up</genre>
+		<family>RoboCop</family>
+		<players>1</players>
+		<md5>59c4050f3aa02c692087302d90ea68ba</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100128" />
+	</game>
+	<game id="54074">
+		<path>./Robocop 2 (1990)(Ocean)[a].zip</path>
+		<name>Robocop 2</name>
+		<desc>RoboCop 2 is a mission-based platform game. Missions have various objectives, such as destroying nukes or killing all the enemies. If you didn't destroy/kill enough, you'll be transported to a training mission, which is a first-person perspective shoot 'e</desc>
+		<image>./images/Robocop 2 (1990)(Ocean)[a]-image.png</image>
+		<video>./videos/Robocop 2 (1990)(Ocean)[a]-video.mp4</video>
+		<marquee>./images/Robocop 2 (1990)(Ocean)[a]-marquee.png</marquee>
+		<thumbnail>./images/Robocop 2 (1990)(Ocean)[a]-thumb.png</thumbnail>
+		<fanart>./images/Robocop 2 (1990)(Ocean)[a]-fanart.jpg</fanart>
+		<rating>0.35</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Beat'em Up</genre>
+		<family>RoboCop</family>
+		<players>1</players>
+		<md5>2406314c5273bb225069a17e424cf18f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100136" />
+	</game>
+	<game id="54075">
+		<path>./Skeet Shoot (1990)(Trojan).zip</path>
+		<name>Skeet Shoot</name>
+		<desc>Using the Amstrad GX4000â€™s lightgun â€“ and yes, there was one actually available for the princely sum of Â£30 â€“ you could play Skeet Shoot (and pick up Enforcer later, had you some spare cash knocking around).  Predictably, Skeet Shoot was a bloodles</desc>
+		<image>./images/Skeet Shoot (1990)(Trojan)-image.png</image>
+		<video>./videos/Skeet Shoot (1990)(Trojan)-video.mp4</video>
+		<marquee>./images/Skeet Shoot (1990)(Trojan)-marquee.png</marquee>
+		<thumbnail>./images/Skeet Shoot (1990)(Trojan)-thumb.png</thumbnail>
+		<fanart>./images/Skeet Shoot (1990)(Trojan)-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Trojan</developer>
+		<publisher>Trojan</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<md5>4f79690cb1cfb2fa59be9094e2438309</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100143" />
+	</game>
+	<game id="54076">
+		<path>./Super Pinball Magic (1991)(Loricel).zip</path>
+		<name>Super Pinball Magic</name>
+		<desc>This super pinball simulation will really make you "tilt" with pleasure! With its 12 levels, some of which are break outs, with plenty of bonuses and extra balls.</desc>
+		<image>./images/Super Pinball Magic (1991)(Loricel)-image.png</image>
+		<video>./videos/Super Pinball Magic (1991)(Loricel)-video.mp4</video>
+		<marquee>./images/Super Pinball Magic (1991)(Loricel)-marquee.png</marquee>
+		<thumbnail>./images/Super Pinball Magic (1991)(Loricel)-thumb.png</thumbnail>
+		<fanart>./images/Super Pinball Magic (1991)(Loricel)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Loriciels</developer>
+		<publisher>Loriciels</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<md5>34e33dd966b86bbac68c055f6dabf1e8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100149" />
+	</game>
+	<game id="54077">
+		<path>./Switchblade (1990)(Gremlin).zip</path>
+		<name>Switchblade</name>
+		<desc>The Fireblade, sacred symbol of the ancient Switchblade clan, has been smashed into 16 pieces by the evil Havoc - but they say that a Hiro can save it, and as Hiro, you must retrieve the 16 pieces and restore your people's pride.  The gameplay is platform</desc>
+		<image>./images/Switchblade (1990)(Gremlin)-image.png</image>
+		<video>./videos/Switchblade (1990)(Gremlin)-video.mp4</video>
+		<marquee>./images/Switchblade (1990)(Gremlin)-marquee.png</marquee>
+		<thumbnail>./images/Switchblade (1990)(Gremlin)-thumb.png</thumbnail>
+		<fanart>./images/Switchblade (1990)(Gremlin)-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>599eed2f04995ee842163fd454654d59</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100157" />
+	</game>
+	<game id="54077">
+		<path>./Switchblade (1990)(Gremlin)[a].zip</path>
+		<name>Switchblade</name>
+		<desc>The Fireblade, sacred symbol of the ancient Switchblade clan, has been smashed into 16 pieces by the evil Havoc - but they say that a Hiro can save it, and as Hiro, you must retrieve the 16 pieces and restore your people's pride.  The gameplay is platform</desc>
+		<image>./images/Switchblade (1990)(Gremlin)[a]-image.png</image>
+		<video>./videos/Switchblade (1990)(Gremlin)[a]-video.mp4</video>
+		<marquee>./images/Switchblade (1990)(Gremlin)[a]-marquee.png</marquee>
+		<thumbnail>./images/Switchblade (1990)(Gremlin)[a]-thumb.png</thumbnail>
+		<fanart>./images/Switchblade (1990)(Gremlin)[a]-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>37e856530853d6b3e69b04bb26961aaa</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100209" />
+	</game>
+	<game id="54078">
+		<path>./Tennis Cup 2 (1990)(Loriciel).zip</path>
+		<name>Tennis Cup 2</name>
+		<desc>This tennis simulation recreates all the rules of the sport, from tie-breaks to break points. The action is viewed from behind one of the players, also featuring a split-screen option. You can play singles and doubles matches over 1,3 or 5 sets. There are</desc>
+		<image>./images/Tennis Cup 2 (1990)(Loriciel)-image.png</image>
+		<video>./videos/Tennis Cup 2 (1990)(Loriciel)-video.mp4</video>
+		<marquee>./images/Tennis Cup 2 (1990)(Loriciel)-marquee.png</marquee>
+		<thumbnail>./images/Tennis Cup 2 (1990)(Loriciel)-thumb.png</thumbnail>
+		<fanart>./images/Tennis Cup 2 (1990)(Loriciel)-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Loriciels</developer>
+		<publisher>Loriciels</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-2</players>
+		<md5>632e92fd6773a701e784754118ac7ea1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100221" />
+	</game>
+	<game id="54079">
+		<path>./Tin Tin on the Moon (1990)(Infogrames).zip</path>
+		<name>Tintin On The Moon</name>
+		<desc>Tintin on the Moon is a video game loosely based on the Destination Moon and Explorers on the Moon comic books from The Adventures of Tintin, the series by Belgian cartoonist Hergé. It is a first person shoot 'em up/side scroller and the first Tintin video game.</desc>
+		<image>./images/Tin Tin on the Moon (1990)(Infogrames)-image.png</image>
+		<video>./videos/Tin Tin on the Moon (1990)(Infogrames)-video.mp4</video>
+		<marquee>./images/Tin Tin on the Moon (1990)(Infogrames)-marquee.png</marquee>
+		<thumbnail>./images/Tin Tin on the Moon (1990)(Infogrames)-thumb.png</thumbnail>
+		<fanart>./images/Tin Tin on the Moon (1990)(Infogrames)-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Platform</genre>
+		<family>The Adventures of Tintin</family>
+		<players>1</players>
+		<md5>4ddd73649fc989bee9eb9ed3ffc5227c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100231" />
+	</game>
+	<game id="54080">
+		<path>./Wild Streets (1990)(Titus).zip</path>
+		<name>Wild Streets</name>
+		<desc>Wild Streets is a side-scrolling arcade game, in which you fight enemies using punches, kicks, your gun and sometimes your panther will help you.</desc>
+		<image>./images/Wild Streets (1990)(Titus)-image.png</image>
+		<video>./videos/Wild Streets (1990)(Titus)-video.mp4</video>
+		<marquee>./images/Wild Streets (1990)(Titus)-marquee.png</marquee>
+		<thumbnail>./images/Wild Streets (1990)(Titus)-thumb.png</thumbnail>
+		<fanart>./images/Wild Streets (1990)(Titus)-fanart.jpg</fanart>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<md5>6c1ab447c191e12e0751ee85d46f77ea</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100241" />
+	</game>
+	<game id="54080">
+		<path>./Wild Streets (1990)(Titus)[a].zip</path>
+		<name>Wild Streets</name>
+		<desc>Wild Streets is a side-scrolling arcade game, in which you fight enemies using punches, kicks, your gun and sometimes your panther will help you.</desc>
+		<image>./images/Wild Streets (1990)(Titus)[a]-image.png</image>
+		<video>./videos/Wild Streets (1990)(Titus)[a]-video.mp4</video>
+		<marquee>./images/Wild Streets (1990)(Titus)[a]-marquee.png</marquee>
+		<thumbnail>./images/Wild Streets (1990)(Titus)[a]-thumb.png</thumbnail>
+		<fanart>./images/Wild Streets (1990)(Titus)[a]-fanart.jpg</fanart>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<md5>2e8564e222e5599476263fea242b6893</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100249" />
+	</game>
+	<game id="54081">
+		<path>./World of Sports (1990)(Epyx).zip</path>
+		<name>World Of Sports</name>
+		<desc>World of Sports, is, as its name suggests, a sports game. These events were already present on computer versions of World Games, but if the game was renamed World of Sports on GX 4000 is simply that, we find here only 4 of the many events present on the original version.</desc>
+		<image>./images/World of Sports (1990)(Epyx)-image.png</image>
+		<video>./videos/World of Sports (1990)(Epyx)-video.mp4</video>
+		<marquee>./images/World of Sports (1990)(Epyx)-marquee.png</marquee>
+		<thumbnail>./images/World of Sports (1990)(Epyx)-thumb.png</thumbnail>
+		<fanart>./images/World of Sports (1990)(Epyx)-fanart.jpg</fanart>
+		<releasedate>19900101T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>Epyx</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<md5>5810ddd42cfb695509e57738aef54033</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100307" />
+	</game>
+	<game id="54081">
+		<path>./World of Sports (1990)(Epyx)[a].zip</path>
+		<name>World Of Sports</name>
+		<desc>World of Sports, is, as its name suggests, a sports game. These events were already present on computer versions of World Games, but if the game was renamed World of Sports on GX 4000 is simply that, we find here only 4 of the many events present on the original version.</desc>
+		<image>./images/World of Sports (1990)(Epyx)[a]-image.png</image>
+		<video>./videos/World of Sports (1990)(Epyx)[a]-video.mp4</video>
+		<marquee>./images/World of Sports (1990)(Epyx)[a]-marquee.png</marquee>
+		<thumbnail>./images/World of Sports (1990)(Epyx)[a]-thumb.png</thumbnail>
+		<fanart>./images/World of Sports (1990)(Epyx)[a]-fanart.jpg</fanart>
+		<releasedate>19900101T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>Epyx</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<md5>29158f6e3a54f8e424721c092e55051c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100316" />
+	</game>
+	<game id="58528">
+		<path>./Barbarian II (1990)(Ocean).zip</path>
+		<name>Barbarian 2 - The Dungeon Of Drax</name>
+		<desc>Barbarian II features only a single-player mode, in which the player assumes the role of either sword-wielding Princess Mariana or the titular savage, who is armed with a battleaxe. Their common quest is to pursue the evil wizard Drax, who has fled to his dungeon hideout after his defeat in the first game. The player characters battle their way through an inhospitable wasteland, a system of caves, and a dungeon before facing Drax in his inner sanctum for a showdown.</desc>
+		<image>./images/Barbarian II (1990)(Ocean)-image.png</image>
+		<video>./videos/Barbarian II (1990)(Ocean)-video.mp4</video>
+		<marquee>./images/Barbarian II (1990)(Ocean)-marquee.png</marquee>
+		<thumbnail>./images/Barbarian II (1990)(Ocean)-thumb.png</thumbnail>
+		<fanart>./images/Barbarian II (1990)(Ocean)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Palace</developer>
+		<publisher>Ocean</publisher>
+		<genre>Fight</genre>
+		<family>Barbarian</family>
+		<players>1</players>
+		<md5>2c6add7eaa979243c5b2d05cefec5977</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100323" />
+	</game>
+	<game id="54058">
+		<path>./Batman the Movie (1990)(Ocean).zip</path>
+		<name>Batman The Movie</name>
+		<desc>The game consists of five stages based on events from the movie. Each stage has a time limit and a health gauge (represented by Batman's face turning into the Joker's), with Batman losing a life if he runs out. The 5 levels offer different gameplay.</desc>
+		<image>./images/Batman the Movie (1990)(Ocean)-image.png</image>
+		<video>./videos/Batman the Movie (1990)(Ocean)-video.mp4</video>
+		<marquee>./images/Batman the Movie (1990)(Ocean)-marquee.png</marquee>
+		<thumbnail>./images/Batman the Movie (1990)(Ocean)-thumb.png</thumbnail>
+		<fanart>./images/Batman the Movie (1990)(Ocean)-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+		<family>Batman</family>
+		<players>1</players>
+		<md5>fd34b1c049fe780548e71e8d415ef366</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100331" />
+	</game>
+	<game id="54058">
+		<path>./Batman the Movie (1990)(Ocean)[a].zip</path>
+		<name>Batman The Movie</name>
+		<desc>The game consists of five stages based on events from the movie. Each stage has a time limit and a health gauge (represented by Batman's face turning into the Joker's), with Batman losing a life if he runs out. The 5 levels offer different gameplay.</desc>
+		<image>./images/Batman the Movie (1990)(Ocean)[a]-image.png</image>
+		<video>./videos/Batman the Movie (1990)(Ocean)[a]-video.mp4</video>
+		<marquee>./images/Batman the Movie (1990)(Ocean)[a]-marquee.png</marquee>
+		<thumbnail>./images/Batman the Movie (1990)(Ocean)[a]-thumb.png</thumbnail>
+		<fanart>./images/Batman the Movie (1990)(Ocean)[a]-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+		<family>Batman</family>
+		<players>1</players>
+		<md5>10774b497c40ade7fb653f6e2b284195</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100339" />
+	</game>
+	<game id="54059">
+		<path>./Burnin' Rubber (1990)(Ocean).zip</path>
+		<name>Burnin' Rubber</name>
+		<desc>Burnin' Rubber is the game that was included with every Plus and GX4000 on a cartridge, in a bid to showcase the Plus machine's new hardware abilities. Therefore it was quite popular, although it did not really show off the Plus capabilities, being an early title and all. Despite that, it wasn't a bad game on its own and is considered one of the good racing games on the Amstrad.</desc>
+		<image>./images/Burnin' Rubber (1990)(Ocean)-image.png</image>
+		<video>./videos/Burnin' Rubber (1990)(Ocean)-video.mp4</video>
+		<marquee>./images/Burnin' Rubber (1990)(Ocean)-marquee.png</marquee>
+		<thumbnail>./images/Burnin' Rubber (1990)(Ocean)-thumb.png</thumbnail>
+		<fanart>./images/Burnin' Rubber (1990)(Ocean)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<md5>0a527172192c50c2fd2567bdbcb7acd0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100348" />
+	</game>
+	<game id="54061">
+		<path>./Crazy Cars 2 (1990)(Titus).zip</path>
+		<name>Crazy Cars 2</name>
+		<desc>Racing game through four states of the USA driving a Ferrari F40. You have a given amount of time to reach a distant city. Using the added map you have to find the best way by yourself through the junctions. While there are no other private cars the police tries to stop you using patrol cars and road blocks.</desc>
+		<image>./images/Crazy Cars 2 (1990)(Titus)-image.png</image>
+		<video>./videos/Crazy Cars 2 (1990)(Titus)-video.mp4</video>
+		<marquee>./images/Crazy Cars 2 (1990)(Titus)-marquee.png</marquee>
+		<thumbnail>./images/Crazy Cars 2 (1990)(Titus)-thumb.png</thumbnail>
+		<fanart>./images/Crazy Cars 2 (1990)(Titus)-fanart.jpg</fanart>
+		<rating>0.4</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<genre>Race, Driving</genre>
+		<family>Crazy Cars</family>
+		<players>1</players>
+		<md5>5ece66a96beabcfdf0e8f1182ed5b3c9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100357" />
+	</game>
+	<game id="54061">
+		<path>./Crazy Cars 2 (1990)(Titus)[a].zip</path>
+		<name>Crazy Cars 2</name>
+		<desc>Racing game through four states of the USA driving a Ferrari F40. You have a given amount of time to reach a distant city. Using the added map you have to find the best way by yourself through the junctions. While there are no other private cars the police tries to stop you using patrol cars and road blocks.</desc>
+		<image>./images/Crazy Cars 2 (1990)(Titus)[a]-image.png</image>
+		<video>./videos/Crazy Cars 2 (1990)(Titus)[a]-video.mp4</video>
+		<marquee>./images/Crazy Cars 2 (1990)(Titus)[a]-marquee.png</marquee>
+		<thumbnail>./images/Crazy Cars 2 (1990)(Titus)[a]-thumb.png</thumbnail>
+		<fanart>./images/Crazy Cars 2 (1990)(Titus)[a]-fanart.jpg</fanart>
+		<rating>0.4</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<genre>Race, Driving</genre>
+		<family>Crazy Cars</family>
+		<players>1</players>
+		<md5>d4f709ffee3f09b3e29fa9f68539b65b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100404" />
+	</game>
+	<game id="54062">
+		<path>./Dick Tracy (1990)(Titus).zip</path>
+		<name>Dick Tracy</name>
+		<desc>Dick Tracy is a tie in to the 1990 movie adaptation of the classic comic strip, staring Warren Beatty and Madonna.  This is a side scrolling action game, where you control Dick Tracy as he moves through five stages, shooting gangsters with an assortment o</desc>
+		<image>./images/Dick Tracy (1990)(Titus)-image.png</image>
+		<video>./videos/Dick Tracy (1990)(Titus)-video.mp4</video>
+		<marquee>./images/Dick Tracy (1990)(Titus)-marquee.png</marquee>
+		<thumbnail>./images/Dick Tracy (1990)(Titus)-thumb.png</thumbnail>
+		<fanart>./images/Dick Tracy (1990)(Titus)-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<md5>a0e68eca8f401cce2746c2e59c1b750e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100410" />
+	</game>
+	<game id="54063">
+		<path>./Enforcer, The (1990)(Trojan).zip</path>
+		<name>Enforcer, The</name>
+		<desc>Your job is to gun down dozens of bad guys as they pop up from beind trash cans (that's American dustbins), peer out of windows. The game is played Operation Wolf style, though the screen won't move - you have to kill a pre-determined number of goons before you can progress any further down the street. There are also nice little bonus levels in between locations, involving loads of bottles of booze and some blokeys trying frantically to pack it. Your job here is to shoot the whiskey before it gets packed.</desc>
+		<image>./images/Enforcer, The (1990)(Trojan)-image.png</image>
+		<video>./videos/Enforcer, The (1990)(Trojan)-video.mp4</video>
+		<marquee>./images/Enforcer, The (1990)(Trojan)-marquee.png</marquee>
+		<thumbnail>./images/Enforcer, The (1990)(Trojan)-thumb.png</thumbnail>
+		<fanart>./images/Enforcer, The (1990)(Trojan)-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Trojan</developer>
+		<publisher>Trojan</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<md5>40124da6f0c49118fd8ac9e9dde4d340</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100418" />
+	</game>
+	<game id="54064">
+		<path>./Fire and Forget 2 (1990)(Titus).zip</path>
+		<name>Fire And Forget 2</name>
+		<desc>Fire &amp; Forget II is a 1990 futuristic racing-shooting video game developed by Titus Arcade and published by Sega for the Master System, and by Amstrad for the GX4000. It is the sequel to Fire and Forget, which was developed by Titus France SA for a number of platforms including the ZX Spectrum. Fire &amp; Forget II is one of a number of similar games which emerged in the late 1980s and early 1990s in the wake of Sega's popular arcade driving game Out Run (1986). It is notable for the variety of its enemy sprites, and for its use of parallax scrolling. It is also notable for being one of the first video games to be launched simultaneously on two consoles.</desc>
+		<image>./images/Fire and Forget 2 (1990)(Titus)-image.png</image>
+		<video>./videos/Fire and Forget 2 (1990)(Titus)-video.mp4</video>
+		<marquee>./images/Fire and Forget 2 (1990)(Titus)-marquee.png</marquee>
+		<thumbnail>./images/Fire and Forget 2 (1990)(Titus)-thumb.png</thumbnail>
+		<fanart>./images/Fire and Forget 2 (1990)(Titus)-fanart.jpg</fanart>
+		<rating>0.45</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<genre>Race, Driving</genre>
+		<family>Fire and Forget</family>
+		<players>1</players>
+		<md5>b3fbaa7f42e29153119fa386189e7c0c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100425" />
+	</game>
+	<game id="54065">
+		<path>./Klax (1990)(Domark).zip</path>
+		<name>Klax</name>
+		<desc>An action/puzzle game, the object is to catch assorted color falling tiles and create rows, columns, or diagonals of a single color. Each level requires a different pattern to be made, and the tiles fall faster, more at a time, and in an increasing number</desc>
+		<image>./images/Klax (1990)(Domark)-image.png</image>
+		<video>./videos/Klax (1990)(Domark)-video.mp4</video>
+		<marquee>./images/Klax (1990)(Domark)-marquee.png</marquee>
+		<thumbnail>./images/Klax (1990)(Domark)-thumb.png</thumbnail>
+		<fanart>./images/Klax (1990)(Domark)-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Domark</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<md5>1de6260ea8ff5a392e5fc6e5a6b90379</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100432" />
+	</game>
+	<game id="54065">
+		<path>./Klax (1990)(Domark)[a].zip</path>
+		<name>Klax</name>
+		<desc>An action/puzzle game, the object is to catch assorted color falling tiles and create rows, columns, or diagonals of a single color. Each level requires a different pattern to be made, and the tiles fall faster, more at a time, and in an increasing number</desc>
+		<image>./images/Klax (1990)(Domark)[a]-image.png</image>
+		<video>./videos/Klax (1990)(Domark)[a]-video.mp4</video>
+		<marquee>./images/Klax (1990)(Domark)[a]-marquee.png</marquee>
+		<thumbnail>./images/Klax (1990)(Domark)[a]-thumb.png</thumbnail>
+		<fanart>./images/Klax (1990)(Domark)[a]-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Domark</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<md5>ad9677338b94d3669272b8dee13aed68</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100439" />
+	</game>
+	<game id="54066">
+		<path>./Mystical (1990)(Infogrames).zip</path>
+		<name>Mystical</name>
+		<desc>Acquiring the title of Supreme Magician, you should travel from the Marsh of Eternal Stench to the Garden of Eden, facing danger and humour, and trying to survive the deluge of monsters, thoroughly determined to stop you!  In this vertical scrolling actio</desc>
+		<image>./images/Mystical (1990)(Infogrames)-image.png</image>
+		<video>./videos/Mystical (1990)(Infogrames)-video.mp4</video>
+		<marquee>./images/Mystical (1990)(Infogrames)-marquee.png</marquee>
+		<thumbnail>./images/Mystical (1990)(Infogrames)-thumb.png</thumbnail>
+		<fanart>./images/Mystical (1990)(Infogrames)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<md5>5e18976ee9758f701e03e6c2b0acddc7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100446" />
+	</game>
+	<game id="54067">
+		<path>./Navy Seals (1990)(Ocean).zip</path>
+		<name>Navy Seals</name>
+		<desc>Like many of Ocean's games this was licensed from a film, in this case one by Orion, the company best known for Robocop.  You control a succession of the USA's elite fighters with the aim of destroying missiles held by terrorists. You must destroy the mis</desc>
+		<image>./images/Navy Seals (1990)(Ocean)-image.png</image>
+		<video>./videos/Navy Seals (1990)(Ocean)-video.mp4</video>
+		<marquee>./images/Navy Seals (1990)(Ocean)-marquee.png</marquee>
+		<thumbnail>./images/Navy Seals (1990)(Ocean)-thumb.png</thumbnail>
+		<fanart>./images/Navy Seals (1990)(Ocean)-fanart.jpg</fanart>
+		<rating>0.55</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>ef8edafa6349c8dd98cddd525a0ca3b2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100453" />
+	</game>
+	<game id="54067">
+		<path>./Navy Seals (1990)(Ocean)[a].zip</path>
+		<name>Navy Seals</name>
+		<desc>Like many of Ocean's games this was licensed from a film, in this case one by Orion, the company best known for Robocop.  You control a succession of the USA's elite fighters with the aim of destroying missiles held by terrorists. You must destroy the mis</desc>
+		<image>./images/Navy Seals (1990)(Ocean)[a]-image.png</image>
+		<video>./videos/Navy Seals (1990)(Ocean)[a]-video.mp4</video>
+		<marquee>./images/Navy Seals (1990)(Ocean)[a]-marquee.png</marquee>
+		<thumbnail>./images/Navy Seals (1990)(Ocean)[a]-thumb.png</thumbnail>
+		<fanart>./images/Navy Seals (1990)(Ocean)[a]-fanart.jpg</fanart>
+		<rating>0.55</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>dd485c05318e7aa0552e788b399ca6a6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100501" />
+	</game>
+	<game id="54068">
+		<path>./No Exit (1990)(Tomahawk).zip</path>
+		<name>No Exit</name>
+		<desc>No Exit is a side-view martial arts beat 'em up, similar in style to IK+. Each fight must be won within a time limit. You can specify your character's ability quite precisely, trading off Vivacity against Efficiency and Resistance against Strength. Your c</desc>
+		<image>./images/No Exit (1990)(Tomahawk)-image.png</image>
+		<video>./videos/No Exit (1990)(Tomahawk)-video.mp4</video>
+		<marquee>./images/No Exit (1990)(Tomahawk)-marquee.png</marquee>
+		<thumbnail>./images/No Exit (1990)(Tomahawk)-thumb.png</thumbnail>
+		<fanart>./images/No Exit (1990)(Tomahawk)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Coktel Vision</developer>
+		<publisher>Tomahawk</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<md5>106eff8ae55d16fad2d528625e41dd48</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100507" />
+	</game>
+	<game id="54068">
+		<path>./No Exit (1990)(Tomahawk)[a].zip</path>
+		<name>No Exit</name>
+		<desc>No Exit is a side-view martial arts beat 'em up, similar in style to IK+. Each fight must be won within a time limit. You can specify your character's ability quite precisely, trading off Vivacity against Efficiency and Resistance against Strength. Your c</desc>
+		<image>./images/No Exit (1990)(Tomahawk)[a]-image.png</image>
+		<video>./videos/No Exit (1990)(Tomahawk)[a]-video.mp4</video>
+		<marquee>./images/No Exit (1990)(Tomahawk)[a]-marquee.png</marquee>
+		<thumbnail>./images/No Exit (1990)(Tomahawk)[a]-thumb.png</thumbnail>
+		<fanart>./images/No Exit (1990)(Tomahawk)[a]-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Coktel Vision</developer>
+		<publisher>Tomahawk</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<md5>48b4111f51e639f3ae56ab8132e38a54</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100513" />
+	</game>
+	<game id="54069">
+		<path>./Operation Thunderbolt (1990)(Ocean).zip</path>
+		<name>Operation Thunderbolt</name>
+		<desc>Operation Thunderbolt is the exciting sequel to Operation Wolf.  An airliner is hijacked by terrorists en-route from Paris to Boston, who threaten to kill all hostages on board if their mates aren't released from jail. Instead of reaching its destination,</desc>
+		<image>./images/Operation Thunderbolt (1990)(Ocean)-image.png</image>
+		<video>./videos/Operation Thunderbolt (1990)(Ocean)-video.mp4</video>
+		<marquee>./images/Operation Thunderbolt (1990)(Ocean)-marquee.png</marquee>
+		<thumbnail>./images/Operation Thunderbolt (1990)(Ocean)-thumb.png</thumbnail>
+		<fanart>./images/Operation Thunderbolt (1990)(Ocean)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Ocean</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<md5>e0703ba12bb3c87057ae3fb963b7e096</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100520" />
+	</game>
+	<game id="54069">
+		<path>./Operation Thunderbolt (1990)(Ocean)[a].zip</path>
+		<name>Operation Thunderbolt</name>
+		<desc>Operation Thunderbolt is the exciting sequel to Operation Wolf.  An airliner is hijacked by terrorists en-route from Paris to Boston, who threaten to kill all hostages on board if their mates aren't released from jail. Instead of reaching its destination,</desc>
+		<image>./images/Operation Thunderbolt (1990)(Ocean)[a]-image.png</image>
+		<video>./videos/Operation Thunderbolt (1990)(Ocean)[a]-video.mp4</video>
+		<marquee>./images/Operation Thunderbolt (1990)(Ocean)[a]-marquee.png</marquee>
+		<thumbnail>./images/Operation Thunderbolt (1990)(Ocean)[a]-thumb.png</thumbnail>
+		<fanart>./images/Operation Thunderbolt (1990)(Ocean)[a]-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Ocean</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<md5>77c530c537dfbbe154dfa2d87d9e5eba</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220928T100526" />
+	</game>
+</gameList>
