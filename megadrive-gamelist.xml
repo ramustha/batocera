@@ -1,0 +1,2315 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Old-Towers.bin</path>
+		<name>Old Towers</name>
+		<desc>You play as a little explorers in a towers full of deadly traps and ugly skullz. Your only weapons to help you win: quick-thinking and skill.</desc>
+		<image>./images/Old-Towers-image.png</image>
+		<video>./videos/Old-Towers-video.mp4</video>
+		<marquee>./images/Old-Towers-marquee.png</marquee>
+		<thumbnail>./images/Old-Towers-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20190318T000000</releasedate>
+		<developer>Denis Grachev</developer>
+		<publisher>RetroSouls</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20200403T105321</lastplayed>
+		<crc32>D875E97D</crc32>
+		<md5>96216acdb9b8eb86f8fa7209a5cc5619</md5>
+		<lang>en</lang>
+		<cheevosHash>96216ACDB9B8EB86F8FA7209A5CC5619</cheevosHash>
+		<scrap name="HfsDB" date="20220909T030402" />
+	</game>
+	<game>
+		<path>./6-Pak (USA).md</path>
+		<name>6-Pak</name>
+		<desc>6-PAK is a compilation of six of SEGA's most popular "franchise" games released in the early days of the Genesis. Included are the following: •Columns •Golden Axe •Revenge of Shinobi •Sonic the Hedgehog •Streets of Rage •Super Hang-On</desc>
+		<image>./images/6-Pak (USA)-image.jpg</image>
+		<video>./videos/6-Pak (USA)-video.mp4</video>
+		<boxback>./images/6-Pak (USA)-boxback.jpg</boxback>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Divers</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192041" />
+	</game>
+	<game>
+		<path>./688 Attack Sub (USA, Europe).md</path>
+		<name>688 Attack Sub (USA, Europe)</name>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192050" />
+	</game>
+	<game>
+		<path>./Aa Harimanada (Japan).md</path>
+		<name>Aa Harimanada (Japan)</name>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="HfsDB" date="20220918T192100" />
+	</game>
+	<game>
+		<path>./AAAHH!!! Real Monsters (USA, Europe).md</path>
+		<name>Aaahh!!! Real Monsters</name>
+		<desc>In this game, based on popular Nickelodeon comics, you control three monsters: Ickis, Oblina, and Krumm. The Gromble, a headmaster in monster school, needs you to perform the final test - monster Midterm Exam - in order to prove yourselves to be real monsters. You should collect trash, throw it on people, and scare them! This is a platform game, where you control three characters. Each one of them has a special move that is often used to solve puzzles and overcome obstacles: Ickis can fly for a short time, Oblina can reach high ledges, and Krumm can scan off-screen areas. They can also collect monster books, that will teach them to scare people. Help the three monsters to graduate!</desc>
+		<image>./images/AAAHH!!! Real Monsters (USA, Europe)-image.jpg</image>
+		<video>./videos/AAAHH!!! Real Monsters (USA, Europe)-video.mp4</video>
+		<fanart>./images/AAAHH!!! Real Monsters (USA, Europe)-fanart.jpg</fanart>
+		<boxback>./images/AAAHH!!! Real Monsters (USA, Europe)-boxback.jpg</boxback>
+		<releasedate>19950915T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>Viacom</publisher>
+		<genre>Plate-formes</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192110" />
+	</game>
+	<game>
+		<path>./Action 52 (USA) (Unl).md</path>
+		<name>Action 52</name>
+		<desc>Action 52 features 52 different games in a single cartridge. Some of them are the same as those included with the identically entitled NES compilation, though most are unique to this release. The games are selected from a coloured menu and are mostly side scrolling, platform or shooter action games. Each game is written in one colour, yellow meaning "expert", purple "intermediate", green "beginner", blue "two players" and white "special". The games included are: 1. Go Bonkers 27. Dauntless 2. Darksyne 28. Force One 3. Dyno Tennis 29. Spidey 4. Ooze 30. Appleseed 5. Star Ball 31. Skater 6. Sidewinder 32. Sunday Drive 7. Daytona 33. Star Evil 8. 15 Puzzle 34. Air Command 9. Sketch 35. Shootout 10. Star Duel 36. Bombs Away 11. Haunted Hills 37. Speedboat 12. Alfredo 38. Dedant 13. The Cheetahmen 39. G Fighter 14. Skirmish 40. Man At Arms 15. Depth Charge 41. Norman 16. Minds Eye 42. Armor Battle 17. Alien Attack 43. Magic Bean 18. Billy Bob 44. Apache 19. Sharks 45. Paratrooper 20. Knockout 46. Sky Avenger 21. Intruder 47. Sharpshooter 22. Echo 48. Meteor 23. Freeway 49. Black Hole 24. Mousetrap 50. The Boss 25. Ninja 51. First Video Game (Pong) 26. Slalom 52. Challenge (the most difficult levels of each previous game) The game also offers a music demo screen and a randomise, which picks a game at random.</desc>
+		<image>./images/Action 52 (USA) (Unl)-image.jpg</image>
+		<video>./videos/Action 52 (USA) (Unl)-video.mp4</video>
+		<boxback>./images/Action 52 (USA) (Unl)-boxback.jpg</boxback>
+		<releasedate>19920501T000000</releasedate>
+		<developer>Farsight Technologies</developer>
+		<publisher>Active Enterprises</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192119" />
+	</game>
+	<game>
+		<path>./Addams Family Values (Europe) (En,Fr,De).md</path>
+		<name>Addams Family Values</name>
+		<desc>Loosely based on the plot of the film, the player takes the role of Uncle Fester as he searches for the recently kidnapped baby Pubert. On the way he receives help from The Addams Family and a host of original characters from the game.</desc>
+		<image>./images/Addams Family Values (Europe) (En,Fr,De)-image.jpg</image>
+		<video>./videos/Addams Family Values (Europe) (En,Fr,De)-video.mp4</video>
+		<boxback>./images/Addams Family Values (Europe) (En,Fr,De)-boxback.jpg</boxback>
+		<releasedate>19950501T000000</releasedate>
+		<developer>Ocean Software</developer>
+		<publisher>Ocean Software</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>de,fr,en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192125" />
+	</game>
+	<game>
+		<path>./Addams Family, The (USA, Europe).md</path>
+		<name>The Addams Family</name>
+		<desc>Great Scott, man! The fiendish Abigail Craven has brainwashed Uncle Fester and imprisoned Pugsley, Wednesday and Granny somewhere in the Addams Family Mansion! The house is amaze of scary rooms with bizarre ghouls around every blood-curdling bend -- ah, home sweet home! It's up to the sword fighting, golf ball-hurling, Fezi-copter flying Gomez to rescue his family... or they'll face a fate worse than life! So, get ready for the kookiest, ookiest, creepiest, fun ever!</desc>
+		<image>./images/Addams Family, The (USA, Europe)-image.jpg</image>
+		<video>./videos/Addams Family, The (USA, Europe)-video.mp4</video>
+		<fanart>./images/Addams Family, The (USA, Europe)-fanart.jpg</fanart>
+		<boxback>./images/Addams Family, The (USA, Europe)-boxback.jpg</boxback>
+		<releasedate>19931001T000000</releasedate>
+		<developer>Ocean Software</developer>
+		<publisher>Flying Edge</publisher>
+		<genre>Compilation</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192135" />
+	</game>
+	<game>
+		<path>./Advanced Busterhawk Gleylancer (Japan).md</path>
+		<name>Advanced Busterhawk Gleylancer (Japan)</name>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="HfsDB" date="20220918T192147" />
+	</game>
+	<game>
+		<path>./Adventures of Batman &amp; Robin, The (USA).md</path>
+		<name>The Adventures of Batman &amp; Robin</name>
+		<desc>Based on the award-winning TV series, The Adventures of Batman and Robin pits the player against the diabolical Mr. Freeze who wants to freeze Gotham with a huge ice cannon and his hired help of other Gotham super villains: The Joker, Mad Hatter, and Two-Face. The player can take the role of either Batman or Robin but this choice doesn't make a difference regarding gameplay.
+
+This is a side-scrolling action game. The player basically walks from left to right while fighting numerous foes in hand-to-hand combat. Weapons which are found during the levels are used to shoot enemies from a greater distance. These weapons can also be upgraded by picking up the corresponding symbols.
+
+There are overall four areas (one for each villain) with three levels each, including a film studio or the Gotham University. While most stages are typical fighting levels with occasional 3D effects there are also a few flying ones where the player uses the Batwing or a jet pack.</desc>
+		<image>./images/Adventures of Batman &amp; Robin, The (USA)-image.jpg</image>
+		<video>./videos/Adventures of Batman &amp; Robin, The (USA)-video.mp4</video>
+		<fanart>./images/Adventures of Batman &amp; Robin, The (USA)-fanart.jpg</fanart>
+		<boxback>./images/Adventures of Batman &amp; Robin, The (USA)-boxback.jpg</boxback>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Clockwork Games</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192155" />
+	</game>
+	<game>
+		<path>./Adventures of Mighty Max, The (USA).md</path>
+		<name>The Adventures of Mighty Max</name>
+		<desc>Max is a kid who possesses a magic cap that allows you to travel across different world and to save people who get in trouble in other dimensions. But his archenemy, the demonic Skull Master, has recently locked all the portals Max was using for inter-dimensional travel. However, the Skull Master has kept some of the portals for himself, keeping there some of his destructive weapons. It's time to destroy those weapons and to stop Skull Master!</desc>
+		<image>./images/Adventures of Mighty Max, The (USA)-image.png</image>
+		<video>./videos/Adventures of Mighty Max, The (USA)-video.mp4</video>
+		<boxback>./images/Adventures of Mighty Max, The (USA)-boxback.png</boxback>
+		<releasedate>19941101T000000</releasedate>
+		<developer>WJS Design</developer>
+		<publisher>Ocean</publisher>
+		<genre>Plate-formes</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192203" />
+	</game>
+	<game>
+		<path>./Adventures of Rocky and Bullwinkle and Friends, The (USA).md</path>
+		<name>The Adventures of Rocky and Bullwinkle and Friends</name>
+		<desc>The Adventures of Rocky and Bullwinkle is the video game adaptation of the 60's cartoon series staring Bullwinkle, a moose, and Rocky, a flying squirrel. The game plays out much like an episode of the show. The story begins at the dedication of the Frostbite Falls Rocky and Bullwinkle museum. Unfortunately, the not-so-nice Boris and Natasha have disguised themselves as security guards for the museum and managed to steal some of the priceless artifacts.</desc>
+		<image>./images/Adventures of Rocky and Bullwinkle and Friends, The (USA)-image.png</image>
+		<video>./videos/Adventures of Rocky and Bullwinkle and Friends, The (USA)-video.mp4</video>
+		<boxback>./images/Adventures of Rocky and Bullwinkle and Friends, The (USA)-boxback.png</boxback>
+		<releasedate>19940501T000000</releasedate>
+		<developer>Imagineering</developer>
+		<publisher>Absolute Entertainment, Inc.</publisher>
+		<genre>Plate-formes</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192210" />
+	</game>
+	<game>
+		<path>./Aero the Acro-Bat (USA).md</path>
+		<name>Aero the Acro-Bat 2</name>
+		<desc>In the sequel to Aero the Acro-Bat you have to defeat evil industrialist Edgar Ektor once again. He is back and again with bad ideas, so you - in the role of Aero - have to find and destroy him before he carries out his diabolical "Plan B". Like in the last installment, you have to jump, escape lethal obstacles and progress in time. This game features more moves for Aero, more mechanisms to use and more items to collect.</desc>
+		<image>./images/Aero the Acro-Bat (USA)-image.png</image>
+		<video>./videos/Aero the Acro-Bat (USA)-video.mp4</video>
+		<boxback>./images/Aero the Acro-Bat (USA)-boxback.png</boxback>
+		<releasedate>19940401T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Plate-formes</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192215" />
+	</game>
+	<game>
+		<path>./Aerobiz (USA).md</path>
+		<name>Aerobiz supersonic</name>
+		<desc>It's the beginning of the 21st century and competition in the airline industry is heating up. As a young, ambitious CEO, it's up to you to make sure your airline is a survivor and not just another casualty. To succeed, you will have to make some tough decisions including where to fly, which planes to purchase and how to attract visitors to the cities you service. Your goal: to differentiate your airline from the rest while still turning a profit.
+
+In Aerobiz Supersonic, fashion a powerful fleet of aircraft from more than 50 possible choices, organize routes to 89 global destinations and invest your profits in a variety of new services including amusement parks, ski resorts and airport shuttle services. And don't forget, as CEO you're still responsible for things like plane maintenance, advertising and handling those periodic emergencies such as a plane crash or employee strike.
+
+Get ready to make some tough decisions! If you make the right ones, your planes will dominate the skies of the 21st century.</desc>
+		<image>./images/Aerobiz (USA)-image.jpg</image>
+		<video>./videos/Aerobiz (USA)-video.mp4</video>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192219" />
+	</game>
+	<game>
+		<path>./Aerobiz Supersonic (USA).md</path>
+		<name>Aerobiz supersonic</name>
+		<desc>It's the beginning of the 21st century and competition in the airline industry is heating up. As a young, ambitious CEO, it's up to you to make sure your airline is a survivor and not just another casualty. To succeed, you will have to make some tough decisions including where to fly, which planes to purchase and how to attract visitors to the cities you service. Your goal: to differentiate your airline from the rest while still turning a profit.
+
+In Aerobiz Supersonic, fashion a powerful fleet of aircraft from more than 50 possible choices, organize routes to 89 global destinations and invest your profits in a variety of new services including amusement parks, ski resorts and airport shuttle services. And don't forget, as CEO you're still responsible for things like plane maintenance, advertising and handling those periodic emergencies such as a plane crash or employee strike.
+
+Get ready to make some tough decisions! If you make the right ones, your planes will dominate the skies of the 21st century.</desc>
+		<image>./images/Aerobiz Supersonic (USA)-image.jpg</image>
+		<video>./videos/Aerobiz Supersonic (USA)-video.mp4</video>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192222" />
+	</game>
+	<game>
+		<path>./After Burner II (USA, Europe).md</path>
+		<name>After Burner II</name>
+		<desc>You scream off the carrier, there's no time to think! You're caught in a swarm of enemy aircraft and more are dead ahead. They're closing at Mach 5, as your machine guns start blasting.
+
+Burn through a sky of flying metal! Radar-lock on the frontal attackers and respond with missiles. Your enemies are specks on the horizon, then instantly they're in your face, launching even faster missiles!
+
+Nothing can prepare you for the incredible speed of the attack. Hit your afterburner! Dive and twist! Throw your plane into a 360 roll as the enemy spins by so close you almost touch wing tips.
+
+Day or night, dog fight or missile duel - the terrifying speed of battle never lets up. The sky shrieks with metal menace. The intercept officer is screaming "Look out!"</desc>
+		<image>./images/After Burner II (USA, Europe)-image.jpg</image>
+		<video>./videos/After Burner II (USA, Europe)-video.mp4</video>
+		<boxback>./images/After Burner II (USA, Europe)-boxback.jpg</boxback>
+		<releasedate>19900701T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot them up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192225" />
+	</game>
+	<game>
+		<path>./Air Buster (USA).md</path>
+		<name>Airbuster</name>
+		<image>./images/Air Buster (USA)-image.jpg</image>
+		<video>./videos/Air Buster (USA)-video.mp4</video>
+		<releasedate>19910131T000000</releasedate>
+		<genre>Shoot them up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192230" />
+	</game>
+	<game>
+		<path>./Air Diver (USA).md</path>
+		<name>Air diver</name>
+		<image>./images/Air Diver (USA)-image.jpg</image>
+		<video>./videos/Air Diver (USA)-video.mp4</video>
+		<releasedate>19900309T000000</releasedate>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192235" />
+	</game>
+	<game>
+		<path>./Aladdin (USA).md</path>
+		<name>Aladdin</name>
+		<desc>The game involves killing enemies with basic swordplay and jumping across ledges. There are several levels, including one level where Aladdin must escape from the Cave of Wonders on Carpet and another where he must jump across the Agrabah's rooftops. The player controls Aladdin, who must make his way through several levels based on locations from the movie: from the streets and rooftops of Agrabah, the Cave of Wonders and the Sultan's dungeon to the final confrontation in Grand Vizier Jafar's palace. The Sultan's guards and also animals of the desert want to hinder Aladdin in his way. He can defend himself with his sword or by throwing apples. Next to apples, Aladdin can also collect gems which can be traded for lives and continues with a traveling trader. Finding Genie or Abu icons enables bonus rounds. The Genie bonus round is a game of luck played for apples, gems or extra lives, and continues until the player runs out of Genie tokens or lands on Jafar. In Abu's bonus round, the player controls the little monkey who has to catch bonus items that fall from the sky, but without touching any of the unwanted objects like rocks and pots.</desc>
+		<image>./images/Aladdin (USA)-image.png</image>
+		<video>./videos/Aladdin (USA)-video.mp4</video>
+		<fanart>./images/Aladdin (USA)-fanart.jpg</fanart>
+		<boxback>./images/Aladdin (USA)-boxback.jpg</boxback>
+		<releasedate>19931111T000000</releasedate>
+		<developer>Disney Interactive Studios</developer>
+		<publisher>Virgin Interactive</publisher>
+		<genre>Plate-formes</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192239" />
+	</game>
+	<game>
+		<path>./Alien 3 (USA, Europe) (v1.1).md</path>
+		<name>Alien 3</name>
+		<image>./images/Alien 3 (USA, Europe) (v1.1)-image.jpg</image>
+		<video>./videos/Alien 3 (USA, Europe) (v1.1)-video.mp4</video>
+		<boxback>./images/Alien 3 (USA, Europe) (v1.1)-boxback.jpg</boxback>
+		<releasedate>19921001T000000</releasedate>
+		<publisher>Arena</publisher>
+		<genre>Plate-formes</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192247" />
+	</game>
+	<game>
+		<path>./Alisia Dragoon (USA).md</path>
+		<name>Alisia Dragoon (USA)</name>
+		<scrap name="HfsDB" date="20220918T192259" />
+	</game>
+	<game>
+		<path>./Altered Beast (USA, Europe).md</path>
+		<name>Altered Beast (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T192302" />
+	</game>
+	<game>
+		<path>./American Gladiators (USA).md</path>
+		<name>American Gladiators</name>
+		<desc>Television's most innovative sporting event, AMERICAN GLADIATORS is now bigger than life in this all-new Sega Genesis version. All the action, drama, and competitiveness are here from the hit television show that plays "like a video game come to life." Six events including: THE WALL, THE JOUST, THE ASSAULT, ATLASPHERE, POWERBALL and THE ELIMINATOR, all captured with incredible detail. NITRO, ICE, LASER, THUNDER, GOLD, TURBO, ZAP, LACE, BLAZE and GEMINI are here and ready to psyche you out of your game.</desc>
+		<image>./images/American Gladiators (USA)-image.jpg</image>
+		<video>./videos/American Gladiators (USA)-video.mp4</video>
+		<boxback>./images/American Gladiators (USA)-boxback.jpg</boxback>
+		<releasedate>19930201T000000</releasedate>
+		<developer>Imagitec Design</developer>
+		<publisher>GameTek</publisher>
+		<genre>Sport</genre>
+		<players>+ de 4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192305" />
+	</game>
+	<game>
+		<path>./Andre Agassi Tennis (USA).md</path>
+		<name>Andre Agassi Tennis</name>
+		<desc>A game endorsed by the American player who stunned the tennis world in the early 90s with his "Image is everything" looks, sporting long hair, earrings and colorful shirts, Andre Agassi Tennis includes eight players (male and female and as as expected, only Agassi is a real player) rated according to movement speed and both accuracy and strength on serve, backhand and forehand. Gameplay features all the usual moves: smashes, passing shots, volleys and all kinds of backhand and forehand plays, but unlike other games, precise positioning and timing are crucial to avoid hitting the ball outside the court, swinging the racket into thin air or more embarrassing, let the ball hit you on the head. Three courts are available: Grass, Clay and Indoor (Sega versions add a fourth, Hard), but the differences between them are minimal. Game modes change according to the version, with the 16-bit versions including a "Skins" game, where each point is worth a sum of money based on the number of times the ball was hit.</desc>
+		<image>./images/Andre Agassi Tennis (USA)-image.jpg</image>
+		<video>./videos/Andre Agassi Tennis (USA)-video.mp4</video>
+		<boxback>./images/Andre Agassi Tennis (USA)-boxback.jpg</boxback>
+		<releasedate>19921201T000000</releasedate>
+		<developer>TecMagik</developer>
+		<publisher>TecMagik</publisher>
+		<genre>Sport</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192310" />
+	</game>
+	<game>
+		<path>./Aquatic Games Starring James Pond and the Aquabats, The (USA, Europe).md</path>
+		<name>The Aquatic Games Starring James Pond and the Aquabats</name>
+		<image>./images/Aquatic Games Starring James Pond and the Aquabats, The (USA, Europe)-image.jpg</image>
+		<video>./videos/Aquatic Games Starring James Pond and the Aquabats, The (USA, Europe)-video.mp4</video>
+		<boxback>./images/Aquatic Games Starring James Pond and the Aquabats, The (USA, Europe)-boxback.jpg</boxback>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Millenium Interactive</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Party game</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192315" />
+	</game>
+	<game>
+		<path>./Arcade Classics (USA, Europe).md</path>
+		<name>Arcade Classics</name>
+		<desc>Arcade Classics offers three classic Atari titles. It includes the following games: Missile Command Centipede Pong (Ultrapong: both Pong and Hockey) All games have selectable difficulty options. They contain a classic mode as well as a Genesis mode (SEGA mode in the Game Gear version), which enhances the graphics and adds new sound effects.</desc>
+		<image>./images/Arcade Classics (USA, Europe)-image.jpg</image>
+		<video>./videos/Arcade Classics (USA, Europe)-video.mp4</video>
+		<boxback>./images/Arcade Classics (USA, Europe)-boxback.jpg</boxback>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Al Baker and Associates</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192321" />
+	</game>
+	<game>
+		<path>./Arch Rivals - The Arcade Game (USA, Europe).md</path>
+		<name>Arch Rivals - The Arcade Game (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T192325" />
+	</game>
+	<game>
+		<path>./Arcus Odyssey (USA).md</path>
+		<name>Arcus Odyssey</name>
+		<image>./images/Arcus Odyssey (USA)-image.jpg</image>
+		<video>./videos/Arcus Odyssey (USA)-video.mp4</video>
+		<boxback>./images/Arcus Odyssey (USA)-boxback.jpg</boxback>
+		<releasedate>19910614T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Renovation Game</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192330" />
+	</game>
+	<game>
+		<path>./Ariel the Little Mermaid (USA, Europe).md</path>
+		<name>Ariel the Little Mermaid (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T192333" />
+	</game>
+	<game>
+		<path>./Arnold Palmer Tournament Golf (USA, Europe).md</path>
+		<name>Arnold Palmer Tournament Golf (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T192338" />
+	</game>
+	<game>
+		<path>./Arrow Flash (USA, Europe).md</path>
+		<name>Arrow Flash (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T192344" />
+	</game>
+	<game>
+		<path>./Art Alive (World).md</path>
+		<name>Art Alive (World)</name>
+		<scrap name="HfsDB" date="20220918T192352" />
+	</game>
+	<game>
+		<path>./Art of Fighting (USA).md</path>
+		<name>Art of Fighting</name>
+		<image>./images/Art of Fighting (USA)-image.jpg</image>
+		<video>./videos/Art of Fighting (USA)-video.mp4</video>
+		<releasedate>19940113T000000</releasedate>
+		<genre>Combat</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192359" />
+	</game>
+	<game>
+		<path>./Asterix and the Great Rescue (USA).md</path>
+		<name>Asterix and the Great Rescue (USA)</name>
+		<scrap name="HfsDB" date="20220918T192403" />
+	</game>
+	<game>
+		<path>./Asterix and the Power of the Gods (Europe) (En,Fr,De,Es).md</path>
+		<name>Asterix and the Power of the Gods (Europe) (En,Fr,De,Es)</name>
+		<scrap name="HfsDB" date="20220918T192406" />
+	</game>
+	<game>
+		<path>./Atomic Robo-Kid (USA).md</path>
+		<name>Atomic Robo-Kid</name>
+		<image>./images/Atomic Robo-Kid (USA)-image.jpg</image>
+		<video>./videos/Atomic Robo-Kid (USA)-video.mp4</video>
+		<releasedate>19901213T000000</releasedate>
+		<genre>Shoot them up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192411" />
+	</game>
+	<game>
+		<path>./ATP Tour Championship Tennis (USA).md</path>
+		<name>ATP Tour Championship Tennis (USA)</name>
+		<scrap name="HfsDB" date="20220918T192411" />
+	</game>
+	<game>
+		<path>./Australian Rugby League (Europe).md</path>
+		<name>Australian Rugby League (Europe)</name>
+		<scrap name="HfsDB" date="20220918T192415" />
+	</game>
+	<game>
+		<path>./Awesome Possum (USA).md</path>
+		<name>Awesome Possum (USA)</name>
+		<scrap name="HfsDB" date="20220918T192419" />
+	</game>
+	<game>
+		<path>./AWS Pro Moves Soccer (USA).md</path>
+		<name>AWS Pro Moves Soccer (USA)</name>
+		<scrap name="HfsDB" date="20220918T192423" />
+	</game>
+	<game>
+		<path>./Ayrton Senna's Super Monaco GP II (USA) (En,Ja).md</path>
+		<name>Ayrton Senna's Super Monaco GP II</name>
+		<desc>Strap yourself into the cockpit and get ready for video racing action like you've never experienced! Push yourself and your car to the limit, and whip through hairpin turns and chicanes at breakneck speeds! Blaze through the field at the straights, and take the checkered flag! Take a few practice laps on any of the 16 most demanding race courses in the world. Try the Senna GP, or take on the world's top drivers on the championship circuit! Ayrton Senna's Super Monaco GP II brings you the intense action of real Formula 1 racing, from the starting light to the finish line!</desc>
+		<image>./images/Ayrton Senna's Super Monaco GP II (USA) (En,Ja)-image.jpg</image>
+		<video>./videos/Ayrton Senna's Super Monaco GP II (USA) (En,Ja)-video.mp4</video>
+		<fanart>./images/Ayrton Senna's Super Monaco GP II (USA) (En,Ja)-fanart.jpg</fanart>
+		<boxback>./images/Ayrton Senna's Super Monaco GP II (USA) (En,Ja)-boxback.jpg</boxback>
+		<releasedate>19920717T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Course</genre>
+		<players>1</players>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="HfsDB" date="20220918T192432" />
+	</game>
+	<game>
+		<path>./B.O.B. (USA, Europe).md</path>
+		<name>B.O.B.</name>
+		<image>./images/B.O.B. (USA, Europe)-image.jpg</image>
+		<video>./videos/B.O.B. (USA, Europe)-video.mp4</video>
+		<boxback>./images/B.O.B. (USA, Europe)-boxback.jpg</boxback>
+		<releasedate>19930901T000000</releasedate>
+		<publisher>Electronic Arts</publisher>
+		<genre>Plate-formes</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192438" />
+	</game>
+	<game>
+		<path>./Barbie Super Model (USA).md</path>
+		<name>Barbie Super Model</name>
+		<desc>Nobody said becoming a world famous Super Model would be easy. And that's what you and Barbie find out as you take off on a wonderful whirlwind fashion tour of the hottest cities in the USA! The excitement starts on Hollywood Boulevard behind the wheel of your ultra cool pink sports car convertible. Can you get from the restaurant to the theater in time for your first big fashion show? Then it's off to Hawaii, on to Aspen and, finally, arrival in New York for the ultimate runway competition that just might earn you Super Model status! Each exotic location is filled with a variety of playful challenges and delightful surprises. Plus, all-important fantasy bonus sections provide you with plenty of time to practice dressing up for each fashion show, applying make up and styling hair - even walking the runway like a true Super Model! The glamorous world of high fashion is waiting for you. Go for it!</desc>
+		<image>./images/Barbie Super Model (USA)-image.jpg</image>
+		<video>./videos/Barbie Super Model (USA)-video.mp4</video>
+		<fanart>./images/Barbie Super Model (USA)-fanart.jpg</fanart>
+		<boxback>./images/Barbie Super Model (USA)-boxback.jpg</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Tahoe Software Productions</developer>
+		<publisher>Hi-Tech Expressions</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192512" />
+	</game>
+	<game>
+		<path>./Barbie Vacation Adventure (USA).md</path>
+		<name>Barbie Vacation Adventure</name>
+		<desc>In Barbie Vacation Adventure, Barbie, along with her friend Midge in two-player mode, travels around the country to four different vacation spots, each with its own set of mini games. In Iowa, at a county fair, Barbie must catch an escaped pig by walking up to it and pressing the action button, after that she can play carnival games. The options are a strength test, knocking down cans and a hit-the clown game. In the latter two, players can aim balls with the d-pad, then throw with the action button. Leading targets is required. The strength test has a mater that goes up and down and Barbie must land her hit when the indicator is on the bell to ring it. In Wyoming, Barbie goes camping. First, she must assemble her tent. This is essentially a jigsaw puzzle. Next, she must jump from rock to rock to get to the other side of the park where she can go on a nature hike. In the next segment, players aim a camera cursor at animals as Barbie walks along the path and hit the action button to take photos. This requires good reaction time. There's a ranch in Texas where Barbie can ride horses. The horse runs on its own. The player pushes the action button to make it jump. There are numerous gates on the course and the player must time jumps correctly to clear them. If they hit too many, they must start over. There is also the option to play horseshoes. The cursor moves about erratically and you must press the action button when it passes over the stake. In Florida, Barbie can play volleyball against Midge. This game allows both players to play simultaneously in two-player mode. Barbie and Midge can move forward or backward on the court and hit action to set the ball. First one to ten points wins. There is also a diving segment where barbies must navigate an underwater maze to collect sunken treasure. It might remind some people of Barbie's Ocean Discovery. Finally, there is Barbie's home in California. Ken has hidden presents around the house and Barbie must find them and identify them by shape.</desc>
+		<image>./images/Barbie Vacation Adventure (USA)-image.jpg</image>
+		<video>./videos/Barbie Vacation Adventure (USA)-video.mp4</video>
+		<boxback>./images/Barbie Vacation Adventure (USA)-boxback.jpg</boxback>
+		<developer>Software Creations Ltd.</developer>
+		<publisher>Never Published (Prototype)</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192516" />
+	</game>
+	<game>
+		<path>./Barkley Shut Up and Jam! (USA, Europe).md</path>
+		<name>Barkley Shut Up and Jam!</name>
+		<image>./images/Barkley Shut Up and Jam! (USA, Europe)-image.jpg</image>
+		<video>./videos/Barkley Shut Up and Jam! (USA, Europe)-video.mp4</video>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192524" />
+	</game>
+	<game>
+		<path>./Bass Masters Classic (USA).md</path>
+		<name>Bass Masters Classic - Pro Edition</name>
+		<desc>Don't miss your chance to compete in the most realistic fishing game for the Genesis. Featuring pro bass anglers George Cochran, Shaw Grigsby Jr., Gary Klein, Tom Mann Jr., Dee Thomas and Kevin VanDam, BASS MASTERS CLASSIC PRO EDITION brings world championship bass fishing indoors! Compete as one of six actual pro fishermen or as an amateur enthusiast in the Bass Masters Classic. Fish the waters in five three-day tournaments at five different lakes. Rich graphics recreate the outdoor fishing experience in vivid detail. Choose your rod, reel, lure, and even boat engine.</desc>
+		<image>./images/Bass Masters Classic (USA)-image.jpg</image>
+		<video>./videos/Bass Masters Classic (USA)-video.mp4</video>
+		<releasedate>19960701T000000</releasedate>
+		<developer>Black Pearl</developer>
+		<publisher>Black Pearl</publisher>
+		<genre>Sport</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192535" />
+	</game>
+	<game>
+		<path>./Bass Masters Classic - Pro Edition (USA).md</path>
+		<name>Bass Masters Classic - Pro Edition</name>
+		<desc>Don't miss your chance to compete in the most realistic fishing game for the Genesis. Featuring pro bass anglers George Cochran, Shaw Grigsby Jr., Gary Klein, Tom Mann Jr., Dee Thomas and Kevin VanDam, BASS MASTERS CLASSIC PRO EDITION brings world championship bass fishing indoors! Compete as one of six actual pro fishermen or as an amateur enthusiast in the Bass Masters Classic. Fish the waters in five three-day tournaments at five different lakes. Rich graphics recreate the outdoor fishing experience in vivid detail. Choose your rod, reel, lure, and even boat engine.</desc>
+		<image>./images/Bass Masters Classic - Pro Edition (USA)-image.jpg</image>
+		<video>./videos/Bass Masters Classic - Pro Edition (USA)-video.mp4</video>
+		<releasedate>19960701T000000</releasedate>
+		<developer>Black Pearl</developer>
+		<publisher>Black Pearl</publisher>
+		<genre>Sport</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192539" />
+	</game>
+	<game>
+		<path>./Batman (USA).md</path>
+		<name>The Adventures of Batman &amp; Robin</name>
+		<desc>Based on the award-winning TV series, The Adventures of Batman and Robin pits the player against the diabolical Mr. Freeze who wants to freeze Gotham with a huge ice cannon and his hired help of other Gotham super villains: The Joker, Mad Hatter, and Two-Face. The player can take the role of either Batman or Robin but this choice doesn't make a difference regarding gameplay.
+
+This is a side-scrolling action game. The player basically walks from left to right while fighting numerous foes in hand-to-hand combat. Weapons which are found during the levels are used to shoot enemies from a greater distance. These weapons can also be upgraded by picking up the corresponding symbols.
+
+There are overall four areas (one for each villain) with three levels each, including a film studio or the Gotham University. While most stages are typical fighting levels with occasional 3D effects there are also a few flying ones where the player uses the Batwing or a jet pack.</desc>
+		<image>./images/Batman (USA)-image.jpg</image>
+		<video>./videos/Batman (USA)-video.mp4</video>
+		<fanart>./images/Batman (USA)-fanart.jpg</fanart>
+		<boxback>./images/Batman (USA)-boxback.jpg</boxback>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Clockwork Games</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192558" />
+	</game>
+	<game>
+		<path>./Batman - Revenge of the Joker (USA).md</path>
+		<name>Batman - Revenge of the Joker</name>
+		<desc>Precious metals are mysteriously missing from Gotham City mines. One of these metals has a highly toxic composition which is used to build explosives for missiles. Gotham City police have exhausted their resources and frantically call to Batman for help. He knows this scheme can only be the insane working of one criminal mastermind... The Joker seeks revenge! Batman must follow the trail leading to the location of the Joker's secret hideaway before it's too late. It won't be easy though. The Caped Crusader must use his new arsenal of weapons to foil The Joker's evil henchmen and rely on his acrobatic strength to overcome the obstacles that block his way. Gotham City is relying on you to stop the revenge of The Joker!</desc>
+		<image>./images/Batman - Revenge of the Joker (USA)-image.jpg</image>
+		<video>./videos/Batman - Revenge of the Joker (USA)-video.mp4</video>
+		<fanart>./images/Batman - Revenge of the Joker (USA)-fanart.png</fanart>
+		<boxback>./images/Batman - Revenge of the Joker (USA)-boxback.jpg</boxback>
+		<releasedate>19911220T000000</releasedate>
+		<developer>Ringler Studios</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Aventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192604" />
+	</game>
+	<game>
+		<path>./Batman Forever (World).md</path>
+		<name>Batman Forever</name>
+		<desc>The player plays as either Batman or Robin. There is also a fighting game mode called "training mode" where the player can play as Batman, Robin, or any of the enemies found throughout the game against either a computer-controlled opponent, against a second player, or cooperatively against two computer opponents.</desc>
+		<image>./images/Batman Forever (World)-image.jpg</image>
+		<video>./videos/Batman Forever (World)-video.mp4</video>
+		<fanart>./images/Batman Forever (World)-fanart.jpg</fanart>
+		<boxback>./images/Batman Forever (World)-boxback.jpg</boxback>
+		<releasedate>19950907T000000</releasedate>
+		<developer>Probe Entertainment Limited</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Beat them all</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="HfsDB" date="20220918T192608" />
+	</game>
+	<game>
+		<path>./Batman Returns (World).md</path>
+		<name>Batman Returns</name>
+		<image>./images/Batman Returns (World)-image.png</image>
+		<video>./videos/Batman Returns (World)-video.mp4</video>
+		<fanart>./images/Batman Returns (World)-fanart.jpg</fanart>
+		<boxback>./images/Batman Returns (World)-boxback.jpg</boxback>
+		<releasedate>19930226T000000</releasedate>
+		<developer>Malibu</developer>
+		<publisher>Sega</publisher>
+		<genre>Beat them all</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="HfsDB" date="20220918T192616" />
+	</game>
+	<game>
+		<path>./Battle Squadron (USA, Europe).md</path>
+		<name>Battle Squadron (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T192624" />
+	</game>
+	<game>
+		<path>./Battlemaster (USA).md</path>
+		<name>Battlemaster (USA)</name>
+		<scrap name="HfsDB" date="20220918T192628" />
+	</game>
+	<game>
+		<path>./BattleTech - A Game of Armored Combat (USA).md</path>
+		<name>BattleTech - A Game of Armored Combat (USA)</name>
+		<scrap name="HfsDB" date="20220918T192631" />
+	</game>
+	<game>
+		<path>./Battletoads &amp; Double Dragon (USA).md</path>
+		<name>Battletoads &amp; Double Dragon (USA)</name>
+		<scrap name="HfsDB" date="20220918T192632" />
+	</game>
+	<game>
+		<path>./Aero the Acro-Bat 2 (USA).md</path>
+		<name>Aero the Acro-Bat 2</name>
+		<desc>In the sequel to Aero the Acro-Bat you have to defeat evil industrialist Edgar Ektor once again. He is back and again with bad ideas, so you - in the role of Aero - have to find and destroy him before he carries out his diabolical "Plan B". Like in the last installment, you have to jump, escape lethal obstacles and progress in time. This game features more moves for Aero, more mechanisms to use and more items to collect.</desc>
+		<image>./images/Aero the Acro-Bat 2 (USA)-image.png</image>
+		<video>./videos/Aero the Acro-Bat 2 (USA)-video.mp4</video>
+		<boxback>./images/Aero the Acro-Bat 2 (USA)-boxback.png</boxback>
+		<releasedate>19940401T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Plate-formes</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192635" />
+	</game>
+	<game>
+		<path>./Animaniacs (USA).md</path>
+		<name>Animaniacs</name>
+		<image>./images/Animaniacs (USA)-image.jpg</image>
+		<video>./videos/Animaniacs (USA)-video.mp4</video>
+		<releasedate>19940514T000000</releasedate>
+		<publisher>Konami</publisher>
+		<genre>Plate-formes</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192639" />
+	</game>
+	<game>
+		<path>./Atomic Runner (USA).md</path>
+		<name>Atomic Runner (USA)</name>
+		<scrap name="HfsDB" date="20220918T192657" />
+	</game>
+	<game>
+		<path>./Battletoads (World).md</path>
+		<name>Battletoads</name>
+		<image>./images/Battletoads (World)-image.jpg</image>
+		<video>./videos/Battletoads (World)-video.mp4</video>
+		<boxback>./images/Battletoads (World)-boxback.jpg</boxback>
+		<releasedate>19910713T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>Tradewest</publisher>
+		<genre>Beat them all</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="HfsDB" date="20220918T192704" />
+	</game>
+	<game>
+		<path>./Caesars Palace (USA).md</path>
+		<name>Caesars Palace</name>
+		<desc>Once a player reaches a sufficient amount of funds, they can then go to the V.I.P. room and play more high stakes versions of these games to either win big or lose big. To add more realism, the player can also visit ATMs to draw more cash for playing in case they are running low on on-hand cash. It also has a password feature that will allow the player to pick up and continue their game at a later time.</desc>
+		<image>./images/Caesars Palace (USA)-image.png</image>
+		<video>./videos/Caesars Palace (USA)-video.mp4</video>
+		<fanart>./images/Caesars Palace (USA)-fanart.jpg</fanart>
+		<boxback>./images/Caesars Palace (USA)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Illusions Gaming Company</developer>
+		<publisher>Virgin Games</publisher>
+		<genre>Strategie</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192721" />
+	</game>
+	<game>
+		<path>./Championship Pool (USA).md</path>
+		<name>Championship Pool</name>
+		<desc>Championship Pool is a pool game where players can 8-ball or 9-ball pool tournament that starts off with the BCA Regional Championship where the player must defeat 32 opponents in a first to four games match. If the player loses against any of the 32 opponents, they are then eliminated from the tournament. The winner of that then goes onto the World Championship.</desc>
+		<image>./images/Championship Pool (USA)-image.jpg</image>
+		<video>./videos/Championship Pool (USA)-video.mp4</video>
+		<boxback>./images/Championship Pool (USA)-boxback.jpg</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Bitmasters</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Sport</genre>
+		<players>+ de 4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192728" />
+	</game>
+	<game>
+		<path>./Clue (USA).md</path>
+		<name>Clue</name>
+		<desc>Based on the board game Clue. A murder has taken place in a mansion. You play as one of the 6 suspects in this case. You have to find out who committed the crime, and with what weapon and where in the mansion it took place in. There are 5 levels of difficulty which basically give you less information the harder up the level.</desc>
+		<image>./images/Clue (USA)-image.jpg</image>
+		<video>./videos/Clue (USA)-video.mp4</video>
+		<boxback>./images/Clue (USA)-boxback.jpg</boxback>
+		<releasedate>19921201T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Party game</genre>
+		<players>+ de 4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192734" />
+	</game>
+	<game>
+		<path>./Crack Down (USA, Europe).md</path>
+		<name>Crack Down (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T192740" />
+	</game>
+	<game>
+		<path>./Dangerous Seed (Japan).md</path>
+		<name>Dangerous Seed</name>
+		<desc>None</desc>
+		<image>./images/Dangerous Seed (Japan)-image.png</image>
+		<video>./videos/Dangerous Seed (Japan)-video.mp4</video>
+		<fanart>./images/Dangerous Seed (Japan)-fanart.jpg</fanart>
+		<boxback>./images/Dangerous Seed (Japan)-boxback.png</boxback>
+		<releasedate>19901218T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Namco</publisher>
+		<genre>Shoot them up</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="HfsDB" date="20220918T192743" />
+	</game>
+	<game>
+		<path>./Beauty and the Beast - Belle's Quest (USA).md</path>
+		<name>Beauty and the Beast - Belle's Quest (USA)</name>
+		<scrap name="HfsDB" date="20220918T192804" />
+	</game>
+	<game>
+		<path>./Beauty and the Beast - Roar of the Beast (USA).md</path>
+		<name>Beauty and the Beast - Roar of the Beast (USA)</name>
+		<scrap name="HfsDB" date="20220918T192807" />
+	</game>
+	<game>
+		<path>./Beavis and Butt-Head (USA).md</path>
+		<name>Beavis and Butt-head</name>
+		<desc>This adaptation of the cartoon show Beavis and Butt-Head is a side-view action game with puzzle-solving elements. The goal is to find parts of a torn ticket to the GWAR concert, scattered across the game world. The protagonist duo visits locations such as Turbo Mall 2000, the street, Burger World, hospital, and others. Enemies can be defeated by farting and burping at them.</desc>
+		<image>./images/Beavis and Butt-Head (USA)-image.jpg</image>
+		<video>./videos/Beavis and Butt-Head (USA)-video.mp4</video>
+		<fanart>./images/Beavis and Butt-Head (USA)-fanart.jpg</fanart>
+		<boxback>./images/Beavis and Butt-Head (USA)-boxback.jpg</boxback>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Radical Entertainment</developer>
+		<publisher>Viacom</publisher>
+		<genre>Aventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192810" />
+	</game>
+	<game>
+		<path>./Berenstain Bears' Camping Adventure, The (USA).md</path>
+		<name>The Berenstain Bears' Camping Adventure</name>
+		<image>./images/Berenstain Bears' Camping Adventure, The (USA)-image.png</image>
+		<video>./videos/Berenstain Bears' Camping Adventure, The (USA)-video.mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>Sega</publisher>
+		<genre>Plate-formes</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192812" />
+	</game>
+	<game>
+		<path>./Best of the Best - Championship Karate (USA).md</path>
+		<name>Best of the Best - Championship Karate</name>
+		<desc>Best of the Best Championship Karate is a realistic fighting game. After you choose your fighter for his parameters (strength, stamina and resistance), you can choose from 55 different moves. You can now train your fighter at a gym before the real fights. To master the game, one must alternate training and fights, as training improves stamina, strength and resistance. Be careful, loosing a fight reduces those parameters, so you have to be ready before getting on the ring !</desc>
+		<image>./images/Best of the Best - Championship Karate (USA)-image.jpg</image>
+		<video>./videos/Best of the Best - Championship Karate (USA)-video.mp4</video>
+		<boxback>./images/Best of the Best - Championship Karate (USA)-boxback.jpg</boxback>
+		<releasedate>19930129T000000</releasedate>
+		<developer>Loriciel</developer>
+		<publisher>Electro Brain</publisher>
+		<genre>Combat</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192815" />
+	</game>
+	<game>
+		<path>./Beyond Oasis (USA).md</path>
+		<name>Beyond oasis</name>
+		<desc>On the mystical island of Oasis, Prince Ali embarks on a crusade against evil. The warrior prince must unleash the powers of the four Wild Spirits to stop the resurrection of a ruthless sorcerer and save the empire! As Ali, you can call on the powers of the four wild spirits to battle the evil minions of Agito. Fight off enemies with Ali's weapons, punches and kicks... or dig deeper to discover the Hidden Super Moves...a Sega first! Flip switches, trigger plates, and use what's left of your brain to solve mind-boggling puzzles that lead to Huge Bosses... like the Fire-breathing Red Dragon!</desc>
+		<image>./images/Beyond Oasis (USA)-image.jpg</image>
+		<video>./videos/Beyond Oasis (USA)-video.mp4</video>
+		<fanart>./images/Beyond Oasis (USA)-fanart.png</fanart>
+		<boxback>./images/Beyond Oasis (USA)-boxback.png</boxback>
+		<releasedate>19941209T000000</releasedate>
+		<developer>Ancient</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192836" />
+	</game>
+	<game>
+		<path>./Bible Adventures (USA) (Unl).md</path>
+		<name>Bible Adventures</name>
+		<desc>Bible Adventures contains three different side scrolling platform games, each with a different bible theme. The first game is Noah's Ark. Here the player needs to search forests, caverns, and mountains to find a male and female of each species and bring them back to the ark before the flood begins. The next game is Save Baby Moses, where the player needs to get past numerous soldiers and other obstacles to bring the baby Moses to safety. The last game is David and Goliath. As the shepherd David, the player needs to round up and protect the family's flock of sheep. After all of the sheep are safe, the player will then need to face Goliath.</desc>
+		<image>./images/Bible Adventures (USA) (Unl)-image.png</image>
+		<video>./videos/Bible Adventures (USA) (Unl)-video.mp4</video>
+		<boxback>./images/Bible Adventures (USA) (Unl)-boxback.jpg</boxback>
+		<releasedate>19950630T000000</releasedate>
+		<developer>Wisdom Tree</developer>
+		<publisher>Wisdom Tree</publisher>
+		<genre>Educatif</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192839" />
+	</game>
+	<game>
+		<path>./Bill Walsh College Football (USA, Europe).md</path>
+		<name>Bill Walsh College Football (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T192844" />
+	</game>
+	<game>
+		<path>./Bill Walsh College Football 95 (USA).md</path>
+		<name>Bill Walsh College Football 95 (USA)</name>
+		<scrap name="HfsDB" date="20220918T192849" />
+	</game>
+	<game>
+		<path>./Bimini Run (USA).md</path>
+		<name>Bimini Run</name>
+		<desc>Kenji Ohara! The diabolical Dr. Orca has struck again. He's kidnapped your sister Kim and sped off to his island hideaway. You've got to find her! If you don't, she's doomed - and if Orca's B.A.M. Technology succeeds, so is the entire human race! Speed after her in your powerful off-shore power boat and race head-to-head with evil Dr. Orca's armada of powerful off-shore racers. Dodge waves of hard-to-hit helicopters and battle land-based warheads. Slugging it out with Orca's army is no picnic, but the real test of nerve is the Bimini Zone, the ghoulish warp in time where nothing is quite as it seems. It's an endless challenge. Like the Bimini Zone, this game is never the same twice. You'll need all your courage and cunning to succeed - or the whole world is doomed to extinction!</desc>
+		<image>./images/Bimini Run (USA)-image.png</image>
+		<video>./videos/Bimini Run (USA)-video.mp4</video>
+		<boxback>./images/Bimini Run (USA)-boxback.jpg</boxback>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Microsmiths Inc.</developer>
+		<publisher>Nuvision Entertainment</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192852" />
+	</game>
+	<game>
+		<path>./Bio Hazard Battle (USA, Europe).md</path>
+		<name>Bio Hazard Battle (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T192855" />
+	</game>
+	<game>
+		<path>./Blockout (World).md</path>
+		<name>Blockout</name>
+		<desc>Blockout is a Tetris variant with an added twist: it's in 3D. The player can rotate the blocks in 3D in order to fit them into the pit they are being guided into. Advanced users can play this game with odd three-dimensional pieces, or change the size of the pit, for depth of between 6 and 18 piles, and width and length of between 3 and 7.</desc>
+		<image>./images/Blockout (World)-image.jpg</image>
+		<video>./videos/Blockout (World)-video.mp4</video>
+		<boxback>./images/Blockout (World)-boxback.jpg</boxback>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Aventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="HfsDB" date="20220918T192920" />
+	</game>
+	<game>
+		<path>./Bonkers (USA, Europe).md</path>
+		<name>Bonkers</name>
+		<desc>The game is based on the Disney TV show of the same name. Bonkers is a bob-cat police officer who lives in "toondom", a cartoony land where people co-exist with various creatures from cartoon movies. One day, Bonkers and his partner Lucky hear about a shocking robbery: Hollywood's most valuable treasures - Sorcerer's Hat, Mermaid's Voice, and Magic Lamp - were stolen! Now it is up to Bonkers to capture the thieves and to take back the stolen treasures. This is an action platform game. Bonkers can jump and dash, throwing enemies aside and even destroying some obstacles. Enemies can be killed by jumping on their heads. You can also collect various items such as bombs to throw at the enemies, cakes to refill your health, or hyper juice to make you dash continuously. Besides the common license, this game is totally different from the Genesis game Bonkers.</desc>
+		<image>./images/Bonkers (USA, Europe)-image.png</image>
+		<video>./videos/Bonkers (USA, Europe)-video.mp4</video>
+		<boxback>./images/Bonkers (USA, Europe)-boxback.jpg</boxback>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192940" />
+	</game>
+	<game>
+		<path>./Boogerman - A Pick and Flick Adventure (USA).md</path>
+		<name>Boogerman - A Pick and Flick Adventure</name>
+		<image>./images/Boogerman - A Pick and Flick Adventure (USA)-image.jpg</image>
+		<video>./videos/Boogerman - A Pick and Flick Adventure (USA)-video.mp4</video>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192946" />
+	</game>
+	<game>
+		<path>./Boxing Legends of the Ring (USA).md</path>
+		<name>Boxing Legends of the Ring</name>
+		<desc>Boxing Legends of the Ring lets you take control of eight middleweight legends of boxing, Roberto Duran, Tommy "Hitman" Duran, Jake "Raging Bull" La Motta, Rocky Graziano, "Sugar" Ray Robinson, "Sugar" Ray Leonard, "Marveleous" Marvin Hagler and James Toney. You can either compete in an exhibition mode or play in career mode and become the greatest of all time. The set of punches in the game is pretty much standard, jab, hook, uppercut, even the ever popular but illegal low blow. Also, for each round and every knockdown you score on an opponent, you get a super punch, a straight shot to the face and is almost unstoppable and connected right could knock out your opponent, but if you miss, you lose your punch for the round. There are two main displays during a fight, a damage inflict meter in the form of two boxing gloves, one on each side and as a player connects a punch, the glove will show a black area of where the glove connected and a damage meter that show's the two fighters faces. As the round progresses, the fighter shows more bruises and cuts and starts to flash red when the fighter is getting tired and is the best time to land your super punch. Another feature is from round to round, your view will alternate, from looking over your shoulder to the next round and looking at yourself over your opponents shoulder.</desc>
+		<image>./images/Boxing Legends of the Ring (USA)-image.png</image>
+		<video>./videos/Boxing Legends of the Ring (USA)-video.mp4</video>
+		<fanart>./images/Boxing Legends of the Ring (USA)-fanart.png</fanart>
+		<boxback>./images/Boxing Legends of the Ring (USA)-boxback.jpg</boxback>
+		<releasedate>19931001T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Electro Brain</publisher>
+		<genre>Sport</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192950" />
+	</game>
+	<game>
+		<path>./Bram Stoker's Dracula (USA).md</path>
+		<name>Bram Stoker's Dracula</name>
+		<desc>Bram Stoker's Dracula goes straight for the jugular with spine-chilling action so real you won't believe your eyes. Experience 7 terrifying levels - each divided into day and night - and plunge deep into the ultimate interactive movie, complete with incredible 16-bit graphics and great sound that bring to life the cold, dark dungeons of Castle Dracula, the brutal Transylvanian countryside and eerie 19th century London. During the day you'll search for the weapons while fighting off bloodthirsty bats and poisonous spiders. Then, as the sun sets, the evil Prince of Darkness rises and attacks as a bat, a vicious wolf, even as an old man. But make no mistake... he must be stopped!</desc>
+		<image>./images/Bram Stoker's Dracula (USA)-image.jpg</image>
+		<video>./videos/Bram Stoker's Dracula (USA)-video.mp4</video>
+		<fanart>./images/Bram Stoker's Dracula (USA)-fanart.jpg</fanart>
+		<boxback>./images/Bram Stoker's Dracula (USA)-boxback.jpg</boxback>
+		<developer>Psygnosis</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Plate-formes</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192955" />
+	</game>
+	<game>
+		<path>./Bubba'n'Stix (Europe).md</path>
+		<name>Bubba'n'Stix (Europe)</name>
+		<scrap name="HfsDB" date="20220918T193019" />
+	</game>
+	<game>
+		<path>./Bubble and Squeak (USA).md</path>
+		<name>Bubble and Squeak (USA)</name>
+		<scrap name="HfsDB" date="20220918T193021" />
+	</game>
+	<game>
+		<path>./Bubsy II (USA, Europe).md</path>
+		<name>Bubsy II</name>
+		<desc>A new historical theme park, the Amazotarium, has been made. Though impressive, the park's sinister technology is stealing away actual history and placing it on exhibit. Having taken his niece and nephew to the park, Bubsy loses them and is soon caught up in the evil plans of Oinker P. Hamm, who runs Amazaterium and wants to extort money from his unwitting customers who'll "pay anything to see their own history". Now, Bubsy needs to "humble" Oinker and close the fascinating-but-deadly Amazatorium before anyone faces a hairy ending.</desc>
+		<image>./images/Bubsy II (USA, Europe)-image.png</image>
+		<video>./videos/Bubsy II (USA, Europe)-video.mp4</video>
+		<boxback>./images/Bubsy II (USA, Europe)-boxback.png</boxback>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Accolade</developer>
+		<publisher>Accolade, Inc.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T193041" />
+	</game>
+	<game>
+		<path>./Bubsy in Claws Encounters of the Furred Kind (USA, Europe).md</path>
+		<name>Bubsy in: Claws Encounters of the Furred Kind</name>
+		<desc>When you're a bankable star like me, they don't skimp on the megs, no siree bobcat... 16 megs! 16 mondo megs of marvelous me pouncing outta this cart - running, leaping, flying and falling all over your face! I'm Bubsy. I'm trying to save the Earth from Woolies. No, Woolies aren't what you get from wearing cheap underwear! Woolies are space dweebs in flying saucers out to purloin the earth's supply of yarnballs. But enough about them. Let's talk about me!" Over 40 awesome animations. Five wild worlds. Countless furballs. An average of 300 screens purr level. Seven music tracks, more sound effects, gorgeous graphics, and digitized voices!</desc>
+		<image>./images/Bubsy in Claws Encounters of the Furred Kind (USA, Europe)-image.jpg</image>
+		<video>./videos/Bubsy in Claws Encounters of the Furred Kind (USA, Europe)-video.mp4</video>
+		<boxback>./images/Bubsy in Claws Encounters of the Furred Kind (USA, Europe)-boxback.jpg</boxback>
+		<releasedate>19930701T000000</releasedate>
+		<developer>Al Baker &amp; Associates</developer>
+		<publisher>Accolade</publisher>
+		<genre>Aventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T193046" />
+	</game>
+	<game>
+		<path>./Buck Rogers - Countdown to Doomsday (USA, Europe).md</path>
+		<name>Buck Rogers - Countdown to Doomsday (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T193051" />
+	</game>
+	<game>
+		<path>./Budokan - The Martial Spirit (USA).md</path>
+		<name>Budokan - The Martial Spirit (USA)</name>
+		<scrap name="HfsDB" date="20220918T193055" />
+	</game>
+	<game>
+		<path>./Bugs Bunny in Double Trouble (USA).md</path>
+		<name>Bugs Bunny in Double Trouble (USA)</name>
+		<scrap name="HfsDB" date="20220918T193058" />
+	</game>
+	<game>
+		<path>./Bulls Versus Blazers and the NBA Playoffs (USA, Europe).md</path>
+		<name>Bulls Versus Blazers and the NBA Playoffs (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T193101" />
+	</game>
+	<game>
+		<path>./Bulls Vs Lakers and the NBA Playoffs (USA, Europe).md</path>
+		<name>Bulls Vs Lakers and the NBA Playoffs (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T193104" />
+	</game>
+	<game>
+		<path>./Burning Force (USA).md</path>
+		<name>Burning Force (USA)</name>
+		<scrap name="HfsDB" date="20220918T193108" />
+	</game>
+	<game>
+		<path>./Cadash (USA, Asia).md</path>
+		<name>Cadash</name>
+		<image>./images/Cadash (USA, Asia)-image.jpg</image>
+		<video>./videos/Cadash (USA, Asia)-video.mp4</video>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193128" />
+	</game>
+	<game>
+		<path>./Cal Ripken Jr. Baseball (USA).md</path>
+		<name>Cal Ripken Jr. Baseball</name>
+		<desc>This baseball game is your basic Genesis baseball game, play as one of 16 teams, along with two special teams, the All-Stars and the MVP's. Cal Ripken, the featured player is the only real player to appear in this game.</desc>
+		<image>./images/Cal Ripken Jr. Baseball (USA)-image.jpg</image>
+		<video>./videos/Cal Ripken Jr. Baseball (USA)-video.mp4</video>
+		<fanart>./images/Cal Ripken Jr. Baseball (USA)-fanart.jpg</fanart>
+		<boxback>./images/Cal Ripken Jr. Baseball (USA)-boxback.jpg</boxback>
+		<releasedate>19920101T000000</releasedate>
+		<developer>ACME Interactive</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Sport</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193132" />
+	</game>
+	<game>
+		<path>./Caliber .50 (USA).md</path>
+		<name>Caliber.50</name>
+		<desc>You play as Captain Addis, a former officer in the US army during the Vietnam war. Now, twenty years after the war, you are sent on a mission to follow the Ho Chi Minh trail and to rescue American airmen that were left behind.</desc>
+		<image>./images/Caliber .50 (USA)-image.jpg</image>
+		<video>./videos/Caliber .50 (USA)-video.mp4</video>
+		<boxback>./images/Caliber .50 (USA)-boxback.jpg</boxback>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Dragnet</developer>
+		<publisher>Mentrix Software, Inc.</publisher>
+		<genre>Shoot them up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193137" />
+	</game>
+	<game>
+		<path>./California Games (USA, Europe).md</path>
+		<name>California Games</name>
+		<desc>Amp up... and get ready to grind! With the hottest competition under the California sun. Five massive events take you beyond radical! Half pipe: pump up for the half pipe, solo or with a buddy, and get air! Surfing: carve a wave and get air! Skating: rr-oo-ooo-llll on skates - even do stunts! The badder you are, the better it gets. BMX riding: shred dirt on a BMX. Foot bag: grab a pal and fast-kick a foot bag. Boardwalk to half-pipe! Welcome to a new state of intensity for one to NINE players! It's most meritorious! So pull on those knee-pads and get gnarly!</desc>
+		<image>./images/California Games (USA, Europe)-image.jpg</image>
+		<video>./videos/California Games (USA, Europe)-video.mp4</video>
+		<fanart>./images/California Games (USA, Europe)-fanart.png</fanart>
+		<boxback>./images/California Games (USA, Europe)-boxback.jpg</boxback>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Novotrade International</developer>
+		<publisher>Sega</publisher>
+		<genre>Sport</genre>
+		<players>+ de 4</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T193144" />
+	</game>
+	<game>
+		<path>./Cannon Fodder (Europe).md</path>
+		<name>Cannon Fodder</name>
+		<image>./images/Cannon Fodder (Europe)-image.jpg</image>
+		<video>./videos/Cannon Fodder (Europe)-video.mp4</video>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T193151" />
+	</game>
+	<game>
+		<path>./Captain America and the Avengers (USA).md</path>
+		<name>Captain America and The Avengers</name>
+		<image>./images/Captain America and the Avengers (USA)-image.jpg</image>
+		<video>./videos/Captain America and the Avengers (USA)-video.mp4</video>
+		<boxback>./images/Captain America and the Avengers (USA)-boxback.jpg</boxback>
+		<releasedate>19921201T000000</releasedate>
+		<developer>Opera House</developer>
+		<publisher>Data East</publisher>
+		<genre>Beat them all</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193157" />
+	</game>
+	<game>
+		<path>./Captain Planet and the Planeteers (USA).md</path>
+		<name>Captain Planet and the Planeteers</name>
+		<image>./images/Captain Planet and the Planeteers (USA)-image.jpg</image>
+		<video>./videos/Captain Planet and the Planeteers (USA)-video.mp4</video>
+		<boxback>./images/Captain Planet and the Planeteers (USA)-boxback.jpg</boxback>
+		<releasedate>19930216T000000</releasedate>
+		<developer>Novalogic</developer>
+		<publisher>Sega</publisher>
+		<genre>Plate-formes</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193201" />
+	</game>
+	<game>
+		<path>./Castle of Illusion Starring Mickey Mouse (USA, Europe).md</path>
+		<name>Castle of Illusion Starring Mickey Mouse (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T193204" />
+	</game>
+	<game>
+		<path>./Castlevania - Bloodlines (USA).md</path>
+		<name>Castlevania - Bloodlines (USA)</name>
+		<scrap name="HfsDB" date="20220918T193205" />
+	</game>
+	<game>
+		<path>./Centurion - Defender of Rome (USA, Europe).md</path>
+		<name>Centurion - Defender of Rome (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T193208" />
+	</game>
+	<game>
+		<path>./Chakan (USA, Europe).md</path>
+		<name>Chakan (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T193226" />
+	</game>
+	<game>
+		<path>./Champions World Class Soccer (World) (En,Fr,De,Es).md</path>
+		<name>Champions World Class Soccer (World) (En,Fr,De,Es)</name>
+		<scrap name="HfsDB" date="20220918T193230" />
+	</game>
+	<game>
+		<path>./Championship Bowling (USA).md</path>
+		<name>Championship Bowling</name>
+		<desc>The object of the game is the same as a regular game of bowling; score the highest to win. The game utilizes factors such as left or right-handedness, spin, power, and weight of the ball, which can affect the outcome of a throw.</desc>
+		<image>./images/Championship Bowling (USA)-image.jpg</image>
+		<video>./videos/Championship Bowling (USA)-video.mp4</video>
+		<fanart>./images/Championship Bowling (USA)-fanart.jpg</fanart>
+		<boxback>./images/Championship Bowling (USA)-boxback.jpg</boxback>
+		<releasedate>19930214T000000</releasedate>
+		<developer>Soft Machine</developer>
+		<publisher>Mentrix Software, Inc.</publisher>
+		<genre>Sport</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193234" />
+	</game>
+	<game>
+		<path>./Championship Pro-Am (USA).md</path>
+		<name>Championship Pro-Am (USA)</name>
+		<scrap name="HfsDB" date="20220918T193237" />
+	</game>
+	<game>
+		<path>./Chase H.Q. II (USA).md</path>
+		<name>Chase H.Q. II (USA)</name>
+		<scrap name="HfsDB" date="20220918T193240" />
+	</game>
+	<game>
+		<path>./Chavez II (USA).md</path>
+		<name>Chavez II (USA)</name>
+		<scrap name="HfsDB" date="20220918T193255" />
+	</game>
+	<game>
+		<path>./Cheese Cat-Astrophe Starring Speedy Gonzales (Europe).md</path>
+		<name>Cheese Cat-Astrophe Starring Speedy Gonzales (Europe)</name>
+		<scrap name="HfsDB" date="20220918T193259" />
+	</game>
+	<game>
+		<path>./Chester Cheetah - Too Cool to Fool (USA).md</path>
+		<name>Chester Cheetah - Too Cool to Fool</name>
+		<desc>Put yourself in his paws. You're a cool cat. So you would like to be treated like that. But no! You're stuck in a zoo with nothing to do. Mean Eugene, the Zoo Keepin' Fiend has planned an ugly scene. He wants to nail your tail without fail. So, he steals your wheels to cool your heels. Then he hides the parts in the zoo just to fool you. And that's just the beginning in Eugene's way of winning. But, stay cool and you can rule. Just find your bike and you can go where you like. The rule is cool. Remember a cool cat is just... TOO COOL TO FOOL!</desc>
+		<image>./images/Chester Cheetah - Too Cool to Fool (USA)-image.jpg</image>
+		<video>./videos/Chester Cheetah - Too Cool to Fool (USA)-video.mp4</video>
+		<boxback>./images/Chester Cheetah - Too Cool to Fool (USA)-boxback.jpg</boxback>
+		<releasedate>19930201T000000</releasedate>
+		<developer>Kaneko</developer>
+		<publisher>Kaneko</publisher>
+		<genre>Aventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193303" />
+	</game>
+	<game>
+		<path>./Chester Cheetah - Wild Wild Quest (USA).md</path>
+		<name>Chester Cheetah - Wild Wild Quest</name>
+		<desc>It's a groove to be on the move. But, if you're Chester Cheetah, "chill is the pill." So, when you are spotted in "Not-So-Great-Falls, Montana," "Unclearwater, Florida," and "Little Shock, Arkansas" you follow the "law of the paw," and run for the fun. Pity, these cities can't spot a cat that knows where it's at. They want to bring you down in their town. Now, follow your feet and take to the street. It's cool to make the rules. "Wild, Wild Quest" features a full 8 Meg, 16 bit platform of adventure. Cool characters and wild-style graphics make this trip a "Wild, Wild Quest" of the best!</desc>
+		<image>./images/Chester Cheetah - Wild Wild Quest (USA)-image.png</image>
+		<video>./videos/Chester Cheetah - Wild Wild Quest (USA)-video.mp4</video>
+		<boxback>./images/Chester Cheetah - Wild Wild Quest (USA)-boxback.jpg</boxback>
+		<developer>Kaneko</developer>
+		<publisher>Kaneko</publisher>
+		<genre>Aventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193306" />
+	</game>
+	<game>
+		<path>./Chi Chi's Pro Challenge Golf (USA).md</path>
+		<name>Chi Chi's Pro Challenge Golf</name>
+		<desc>Golf courses beyond your wildest dreams beckon you to set food upon their fabulous fairways and Chi Chi Rodriguez challenges you to play them all--and beat them. Chi Chi's Pro Challenge Golf has got it all in the bag with the easiest interface you've ever seen in any golf game for the Genesis ! With our one-of-a-kind UltraCam, you'll get an aerial overview of the hole layout, revealing any traps or obstacles which may be in the way of your shot. You'll pull off precision shots while playing against over 20 different gutsy opponents with varying levels of mastery and mischief. When you think you're really up to par, challenge PGA World Hall of Famer Chi Chi Rodriguez to a golfing duel you won't forget!</desc>
+		<image>./images/Chi Chi's Pro Challenge Golf (USA)-image.jpg</image>
+		<video>./videos/Chi Chi's Pro Challenge Golf (USA)-video.mp4</video>
+		<boxback>./images/Chi Chi's Pro Challenge Golf (USA)-boxback.jpg</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Soft Machine</developer>
+		<publisher>Virgin Games</publisher>
+		<genre>Sport</genre>
+		<players>+ de 4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193311" />
+	</game>
+	<game>
+		<path>./Chiki Chiki Boys (USA, Europe).md</path>
+		<name>Chiki Chiki Boys (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T193314" />
+	</game>
+	<game>
+		<path>./Chuck Rock (USA).md</path>
+		<name>Chuck Rock (USA)</name>
+		<scrap name="HfsDB" date="20220918T193333" />
+	</game>
+	<game>
+		<path>./Chuck Rock II - Son of Chuck (USA).md</path>
+		<name>Chuck Rock II - Son of Chuck (USA)</name>
+		<scrap name="HfsDB" date="20220918T193337" />
+	</game>
+	<game>
+		<path>./Classic Collection (Europe).md</path>
+		<name>Classic Collection (Europe)</name>
+		<scrap name="HfsDB" date="20220918T193340" />
+	</game>
+	<game>
+		<path>./Clay Fighter (USA).md</path>
+		<name>Clay Fighter</name>
+		<image>./images/Clay Fighter (USA)-image.jpg</image>
+		<video>./videos/Clay Fighter (USA)-video.mp4</video>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193345" />
+	</game>
+	<game>
+		<path>./Cliffhanger (USA).md</path>
+		<name>Cliffhanger</name>
+		<desc>Based on the white-knuckle action-adventure movie starring Sylvester Stallone, Cliffhanger challenges you to brave thundering avalanches, icy cliffs, and the head-spinning heights of the Rocky Mountains while you combat a vicious group of well-armed, extremely dangerous fugitives. You'll hang on for dear life through 7 exciting levels requiring all your strength and skill just to survive. Experience wild new forms of game play like mountain climbing and cave exploration, along with all the excitement of all the incredible hand-to-hand and armed combat action. The adventure isn't over until you find $100 million in stolen loot, defeat the fugitives, and reunite with your friends!</desc>
+		<image>./images/Cliffhanger (USA)-image.jpg</image>
+		<video>./videos/Cliffhanger (USA)-video.mp4</video>
+		<fanart>./images/Cliffhanger (USA)-fanart.png</fanart>
+		<boxback>./images/Cliffhanger (USA)-boxback.jpg</boxback>
+		<releasedate>19931117T000000</releasedate>
+		<developer>Malibu Interactive</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Beat them all</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193349" />
+	</game>
+	<game>
+		<path>./Coach K College Basketball (USA).md</path>
+		<name>Coach K College Basketball (USA)</name>
+		<scrap name="HfsDB" date="20220918T193353" />
+	</game>
+	<game>
+		<path>./College Football USA 96 (USA).md</path>
+		<name>College Football USA 96</name>
+		<desc>College Football USA 96 features gridiron action of the college ranks with 108 Division 1-A teams complete with 45 man rosters for each team. It features the standard game modes including Exhibition and Season along with the ability to play in the four major bowl games (Rose, Orange, Fiesta &amp; Sugar) in an effort to win the National Championship.</desc>
+		<image>./images/College Football USA 96 (USA)-image.jpg</image>
+		<video>./videos/College Football USA 96 (USA)-video.mp4</video>
+		<boxback>./images/College Football USA 96 (USA)-boxback.jpg</boxback>
+		<releasedate>19950101T000000</releasedate>
+		<developer>High Score Productions</developer>
+		<publisher>EA Sports</publisher>
+		<genre>Sport</genre>
+		<players>+ de 4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193356" />
+	</game>
+	<game>
+		<path>./College Football USA 97 (USA).md</path>
+		<name>College Football USA 97</name>
+		<desc>September is a wonderful time of year as the leaves start to change, the kids go back to school, and Christmas is only a few months away but it also means the college football season. Well, now you can stage your own college football season anytime you want thanks to COLLEGE FOOTBALL USA '97. Choose from 111 Division I teams and hit the gridiron for some hard-hitting football action as you try to lead your team to the national championship. There are eight different conferences in which you can compete ACC, Big 12, Big East, SEC, WAC, Big 10, Conference USA, and PAC 10 each with their own style of play. If you don't have time for a full schedule, customize your own tournament with up to 16 players! If you're ready to lead your team to the Promised Land of college football, then get your hands on COLLEGE FOOTBALL USA '97.</desc>
+		<image>./images/College Football USA 97 (USA)-image.png</image>
+		<video>./videos/College Football USA 97 (USA)-video.mp4</video>
+		<boxback>./images/College Football USA 97 (USA)-boxback.png</boxback>
+		<releasedate>19960101T000000</releasedate>
+		<developer>EA Tiburon</developer>
+		<publisher>EA Sports</publisher>
+		<genre>Sport</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193414" />
+	</game>
+	<game>
+		<path>./College Football's National Championship (USA).md</path>
+		<name>College Football's National Championship</name>
+		<desc>Released about the same time as Bill Walsh College Football 95, this American football game was unlicensed and did not feature any big names to it. It was considered a clone of NFL Football '94 Starring Joe Montana, just an updated version but now with college teams. It features 32 college powerhouses from four major divisions, letting you play exhibition games or letting you compete in a tournament to achieve an #1 ranking, as opposed to competing in a season to obtain it. It also has the option to play it on Team Player letting you control four players at once.</desc>
+		<image>./images/College Football's National Championship (USA)-image.jpg</image>
+		<video>./videos/College Football's National Championship (USA)-video.mp4</video>
+		<boxback>./images/College Football's National Championship (USA)-boxback.jpg</boxback>
+		<releasedate>19940801T000000</releasedate>
+		<developer>Blue Sky Software</developer>
+		<publisher>Sega</publisher>
+		<genre>Sport</genre>
+		<players>+ de 4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193418" />
+	</game>
+	<game>
+		<path>./College Football's National Championship II (USA).md</path>
+		<name>College Football's National Championship II</name>
+		<desc>It still has the standard set of modes such as Exhibition, Tournament and Season and updated rosters for the top schools of the time, reflecting the 1994 season. There are 32 teams with five added ones to this version (Wisconsin, North Carolina, Colorado State, Oregon and Washington State), however to add these schools five others were taken out that were in the previous game (San Diego State, Pitt, LSU, Arkansas and Houston). It also keeps track of 19 different stats along with authentic offensive and defensive plays attributed to each team.</desc>
+		<image>./images/College Football's National Championship II (USA)-image.jpg</image>
+		<video>./videos/College Football's National Championship II (USA)-video.mp4</video>
+		<boxback>./images/College Football's National Championship II (USA)-boxback.jpg</boxback>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Blue Sky Software</developer>
+		<publisher>Sega</publisher>
+		<genre>Sport</genre>
+		<players>+ de 4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193422" />
+	</game>
+	<game>
+		<path>./College Slam (USA).md</path>
+		<name>College Slam</name>
+		<desc>Each team starts out by picking any 2 out of 5 players to play with during the game. During timeouts, and at half-time, the player has a choice to make substitutions. When a player makes 2 baskets in a row, the announcer says "He's heating up", and if he makes 3 baskets in a row without the other team scoring, he says "He's on fire!", which makes it easier to score. In the season mode, the player can pick from 44 teams, and then play a 20 game season against quality competition. In the tournament mode, 16 teams compete for a chance to win the national championship. The player also has the ability to edit teams and players. The game itself is not realistic, as players can easily make full-courts shots and occasionally, players get struck by lightning as they dunk. The final score of the games are usually in the middle to high 100s.</desc>
+		<image>./images/College Slam (USA)-image.jpg</image>
+		<video>./videos/College Slam (USA)-video.mp4</video>
+		<boxback>./images/College Slam (USA)-boxback.jpg</boxback>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Sport</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193426" />
+	</game>
+	<game>
+		<path>./Columns (World) (v1.1).md</path>
+		<name>Columns (World) (v1.1)</name>
+		<scrap name="HfsDB" date="20220918T193430" />
+	</game>
+	<game>
+		<path>./Columns III - Revenge of Columns (USA).md</path>
+		<name>Columns III - Revenge of Columns (USA)</name>
+		<scrap name="HfsDB" date="20220918T193431" />
+	</game>
+	<game>
+		<path>./Combat Cars (USA, Europe).md</path>
+		<name>Combat Cars</name>
+		<desc>Combat Cars is a racing game in which the player not only competes with other cars, trying to outrun them, but also uses all kinds of weapons and gadgets to damage their opponents. In the beginning of the game, the player can choose one of the eight available characters. Each character has his/her own strengths and weaknesses (speed, car handling, etc.), as well as unique weapons. The weapons include a simple gun, glue spots they can leave to trap other cars, homing missile, and others. There are 24 different tracks available in the game. The player must complete them in a linear fashion, and once they run out of time, the game is over.</desc>
+		<image>./images/Combat Cars (USA, Europe)-image.png</image>
+		<video>./videos/Combat Cars (USA, Europe)-video.mp4</video>
+		<boxback>./images/Combat Cars (USA, Europe)-boxback.png</boxback>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Accolade</developer>
+		<publisher>Accolade, Inc.</publisher>
+		<genre>Course</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T193450" />
+	</game>
+	<game>
+		<path>./Comix Zone (USA).md</path>
+		<name>Comix Zone (USA)</name>
+		<scrap name="HfsDB" date="20220918T193454" />
+	</game>
+	<game>
+		<path>./Contra - Hard Corps (USA).md</path>
+		<name>Contra - Hard Corps (USA)</name>
+		<scrap name="HfsDB" date="20220918T193457" />
+	</game>
+	<game>
+		<path>./Cool Spot (USA).md</path>
+		<name>Cool Spot</name>
+		<image>./images/Cool Spot (USA)-image.jpg</image>
+		<video>./videos/Cool Spot (USA)-video.mp4</video>
+		<boxback>./images/Cool Spot (USA)-boxback.jpg</boxback>
+		<releasedate>19940218T000000</releasedate>
+		<developer>Virgin Interactive</developer>
+		<publisher>Virgin Interactive</publisher>
+		<genre>Plate-formes</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193500" />
+	</game>
+	<game>
+		<path>./Cosmic Spacehead (USA, Europe) (En,Fr,De,Es).md</path>
+		<name>Cosmic Spacehead</name>
+		<desc>Linus is an alien from the planet Linoleum who crashed into the legendary planet Earth. After returning home and expecting a hero's welcome, Linus soon found his fellow Linomen were skeptical of the existence of the so-called "planet Earth" and decides to return to it, this time with a camera. However, he is flat on the planets' currency, Linobucks, and must deal across the planet to get a new cosmic car and a camera. In his adventures, Linus deals himself out of Linoleum (including using a fake ID for Larry Flint to compete in a bumper car contest), quash a robot revolution in Detroitica and gets gas from an abandoned space station.</desc>
+		<image>./images/Cosmic Spacehead (USA, Europe) (En,Fr,De,Es)-image.png</image>
+		<video>./videos/Cosmic Spacehead (USA, Europe) (En,Fr,De,Es)-video.mp4</video>
+		<boxback>./images/Cosmic Spacehead (USA, Europe) (En,Fr,De,Es)-boxback.png</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<lang>es,de,fr,en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T193503" />
+	</game>
+	<game>
+		<path>./Cross Fire (USA).md</path>
+		<name>Cross Fire (USA)</name>
+		<scrap name="HfsDB" date="20220918T193522" />
+	</game>
+	<game>
+		<path>./Crue Ball - Heavy Metal Pinball (USA, Europe).md</path>
+		<name>Crue Ball - Heavy Metal Pinball (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T193531" />
+	</game>
+	<game>
+		<path>./Crusader of Centy (USA).md</path>
+		<name>Crusader of Centy</name>
+		<desc>Crusader of Centy in the US, Soleil in Europe, Shin Souseiki Ragnacenty (新創世紀ラグナセンティ) in Japan, and Ragnacenty in Korea, is an adventure game developed by Nextech under contract from Sega in 1994 for the Sega Mega Drive. The game was translated to Korean, English, French, German, and Spanish. The North American release was localized and published by Atlus.</desc>
+		<image>./images/Crusader of Centy (USA)-image.png</image>
+		<video>./videos/Crusader of Centy (USA)-video.mp4</video>
+		<boxback>./images/Crusader of Centy (USA)-boxback.png</boxback>
+		<releasedate>19940101T000000</releasedate>
+		<developer>NexTech</developer>
+		<publisher>Sega</publisher>
+		<genre>RPG</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193537" />
+	</game>
+	<game>
+		<path>./Crying - Aseimei Sensou (Japan).md</path>
+		<name>Crying - Aseimei Sensou (Japan)</name>
+		<scrap name="HfsDB" date="20220918T193538" />
+	</game>
+	<game>
+		<path>./Crystal's Pony Tale (USA).md</path>
+		<name>Crystal's Pony Tale (USA)</name>
+		<scrap name="HfsDB" date="20220918T193543" />
+	</game>
+	<game>
+		<path>./Curse (Japan).md</path>
+		<name>Curse</name>
+		<desc>Curse is a 1989 Sega Mega Drive shoot-'em-up, among the first on the system, by Micronet released exclusively in Japan. You play as a ship that has to save an alien planet from destruction caused by a neighboring planet that had mysteriously changed from friend to enemy over the course of centuries.</desc>
+		<image>./images/Curse (Japan)-image.png</image>
+		<video>./videos/Curse (Japan)-video.mp4</video>
+		<boxback>./images/Curse (Japan)-boxback.jpg</boxback>
+		<releasedate>19891223T000000</releasedate>
+		<developer>Micronet</developer>
+		<publisher>Micronet</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="HfsDB" date="20220918T193548" />
+	</game>
+	<game>
+		<path>./CutThroat Island (USA, Europe).md</path>
+		<name>Cutthroat Island</name>
+		<desc>In this game you play the role of a pirate lady called Morgan who was given a piece of a map by her father before he died. In the game you set out to find more pieces of the map so that you can find the hidden treasure buried on Cutthroat Island. The gameplay involves you scrolling along the screen and sword fighting pirates and other scoundrels one on one with various different attacks. As you progress you unlock more combos. This game is based on the film by the same name.</desc>
+		<image>./images/CutThroat Island (USA, Europe)-image.jpg</image>
+		<video>./videos/CutThroat Island (USA, Europe)-video.mp4</video>
+		<boxback>./images/CutThroat Island (USA, Europe)-boxback.jpg</boxback>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Software Creations Ltd.</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T193552" />
+	</game>
+	<game>
+		<path>./Cyber-Cop (USA).md</path>
+		<name>Cyber-Cop</name>
+		<desc>A first person shooter that requires you to think things through rather than just attack anything that moves. This game preceded Wolfenstein 3D by a number of years, and while the walls were not ray cast, but solid fill polygons, it was still one of the earliest simulations to tackle a human viewpoint with complete, 360 degree freedom of movement.</desc>
+		<image>./images/Cyber-Cop (USA)-image.jpg</image>
+		<video>./videos/Cyber-Cop (USA)-video.mp4</video>
+		<boxback>./images/Cyber-Cop (USA)-boxback.jpg</boxback>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Core Design Ltd.</developer>
+		<publisher>Virgin Games</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193555" />
+	</game>
+	<game>
+		<path>./CyberBall (World).md</path>
+		<name>Cyberball</name>
+		<image>./images/CyberBall (World)-image.jpg</image>
+		<video>./videos/CyberBall (World)-video.mp4</video>
+		<boxback>./images/CyberBall (World)-boxback.jpg</boxback>
+		<releasedate>19900728T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Sega</publisher>
+		<genre>Sport</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="HfsDB" date="20220918T193558" />
+	</game>
+	<game>
+		<path>./Cyborg Justice (USA, Europe).md</path>
+		<name>Cyborg Justice (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T193616" />
+	</game>
+	<game>
+		<path>./Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It).md</path>
+		<name>Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)</name>
+		<scrap name="HfsDB" date="20220918T193619" />
+	</game>
+	<game>
+		<path>./Dahna (Korea).md</path>
+		<name>Dahna (Korea)</name>
+		<scrap name="HfsDB" date="20220918T193624" />
+	</game>
+	<game>
+		<path>./Daisenpuu ~ Twin Hawk (Japan, Europe).md</path>
+		<name>Daisenpuu ~ Twin Hawk (Japan, Europe)</name>
+		<scrap name="HfsDB" date="20220918T193625" />
+	</game>
+	<game>
+		<path>./Dark Castle (USA, Europe).md</path>
+		<name>Dark Castle (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T193632" />
+	</game>
+	<game>
+		<path>./Darwin 4081 (Japan).md</path>
+		<name>Darwin 4081 (Japan)</name>
+		<scrap name="HfsDB" date="20220918T193639" />
+	</game>
+	<game>
+		<path>./Dashin' Desperadoes (USA).md</path>
+		<name>Dashin' Desperadoes (USA)</name>
+		<scrap name="HfsDB" date="20220918T193644" />
+	</game>
+	<game>
+		<path>./David Crane's Amazing Tennis (USA).md</path>
+		<name>David Crane's Amazing Tennis</name>
+		<desc>Trade in your racquet for a game controller. The category of sports home video games has just taken a quantum leap forward into a new dimension of realism - David Crane's Amazing Tennis! Developed by David Crane, an industry pioneer and one of the best-selling game designers of all time, Amazing Tennis redefines the term "state of the art." Every aspect of play has been re-created to ensure a precision feel and accuracy other tennis video games can't match. Amazing Tennis utilizes 22 different planes of depth and motion-picture-quality animation to provide a revolutionary gaming experience - the next best thing to being out there on the court yourself!</desc>
+		<image>./images/David Crane's Amazing Tennis (USA)-image.jpg</image>
+		<video>./videos/David Crane's Amazing Tennis (USA)-video.mp4</video>
+		<boxback>./images/David Crane's Amazing Tennis (USA)-boxback.jpg</boxback>
+		<releasedate>19930301T000000</releasedate>
+		<developer>Farsight Technologies</developer>
+		<publisher>Absolute Entertainment, Inc.</publisher>
+		<genre>Sport</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193648" />
+	</game>
+	<game>
+		<path>./David Robinson's Supreme Court (USA, Europe).md</path>
+		<name>David Robinson's Supreme Court</name>
+		<desc>David Robinson's Supreme Court is a basketball game with both exhibition and tournament modes. Choose one out of four fictional teams and then draft various skilled fictional players onto the team. Exhibition mode lets the player choose to either player 3 on 3 or 5 on 5 while tournament mode only allows for 5 on 5 play. The game also features a roleplaying mode where the player takes the role of and controls only one player on the court. Tournament mode lets the players team play the three other teams with the prize being a chance to go up against David Robinson's All-Stars. Speaking of which, David Robinson offers commentary at the halftime of games.</desc>
+		<image>./images/David Robinson's Supreme Court (USA, Europe)-image.jpg</image>
+		<video>./videos/David Robinson's Supreme Court (USA, Europe)-video.mp4</video>
+		<boxback>./images/David Robinson's Supreme Court (USA, Europe)-boxback.jpg</boxback>
+		<releasedate>19920101T000000</releasedate>
+		<developer>ACME Interactive</developer>
+		<publisher>Sega</publisher>
+		<genre>Sport</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T193653" />
+	</game>
+	<game>
+		<path>./Davis Cup World Tour (USA, Europe) (July 1993).md</path>
+		<name>Davis Cup World Tour (USA, Europe) (July 1993)</name>
+		<scrap name="HfsDB" date="20220918T193700" />
+	</game>
+	<game>
+		<path>./Daze Before Christmas (Australia).md</path>
+		<name>Daze Before Christmas</name>
+		<desc>Daze Before Christmas is a Christmas-themed platformer developed by Funcom and published by Sunsoft for the Sega Mega Drive in 1994 and later for the SNES. You play as Santa Claus, tasked with saving all of his elves and retrieving his plans from the evil Timekeeper. Daze Before Christmas is notable for being the only Mega Drive game on record to be released exclusively in Australia. According to interviews with with Funcom programmer Carl-Henrik Skarstedt and Sunsoft developer David Siller, manufacturing was actually cancelled shortly after the first run had shipped due to quality issues.</desc>
+		<image>./images/Daze Before Christmas (Australia)-image.jpg</image>
+		<video>./videos/Daze Before Christmas (Australia)-video.mp4</video>
+		<boxback>./images/Daze Before Christmas (Australia)-boxback.jpg</boxback>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Funcom</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="HfsDB" date="20220918T193706" />
+	</game>
+	<game>
+		<path>./Deadly Moves (USA).md</path>
+		<name>Deadly Moves</name>
+		<desc>You are Joe, a young American who has been secretly training to become a powerful fighter. One day, he meets an old martial artist who tells him he should travel all over the world to meet other teachers and to learn from them. During his travels, Joe encounters many other fighters, and has to become more and more skillful in order to prove that he is the greatest fighter in the world.</desc>
+		<image>./images/Deadly Moves (USA)-image.jpg</image>
+		<video>./videos/Deadly Moves (USA)-video.mp4</video>
+		<boxback>./images/Deadly Moves (USA)-boxback.jpg</boxback>
+		<releasedate>19920101T000000</releasedate>
+		<developer>System Vision</developer>
+		<publisher>Kaneko</publisher>
+		<genre>Combat</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193710" />
+	</game>
+	<game>
+		<path>./Death and Return of Superman, The (USA).md</path>
+		<name>The Death and Return of Superman</name>
+		<desc>Brace yourself for a hard-hitting fight to the finish that lets you relive the classic DC comic book series! As Superman, fight for your life against mighty Doomsday, the vile distributor of death and destruction! Then, control the destiny of the four Supermen - each claiming to be the one, true Superman! Explode through 10 levels of super-powered battles and fly at furious speeds - until only the real Superman is left standing!</desc>
+		<image>./images/Death and Return of Superman, The (USA)-image.jpg</image>
+		<video>./videos/Death and Return of Superman, The (USA)-video.mp4</video>
+		<fanart>./images/Death and Return of Superman, The (USA)-fanart.png</fanart>
+		<boxback>./images/Death and Return of Superman, The (USA)-boxback.jpg</boxback>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193732" />
+	</game>
+	<game>
+		<path>./Death Duel (USA).md</path>
+		<name>Death Duel</name>
+		<desc>Death Duel is a tactical side-scrolling first-person shooter. The game consists of different time-limited rounds against a single enemy. Before each game, the player can spend Pheelae (money) on repairs and determine what weapons to take into battle. Each opponent has specific weaknesses and they can hide behind walls on the battlefield. To take them out, Jade needs to choose the most effective weapons and target specific parts before he runs out of time and ammo. Weapons include missiles, rockets, grenades that slow the opponent down, a machine gun and more. Only three weapons can be acquired at all times. Between missions there are short gallery shooting mini-games where additional money can be acquired.</desc>
+		<image>./images/Death Duel (USA)-image.jpg</image>
+		<video>./videos/Death Duel (USA)-video.mp4</video>
+		<boxback>./images/Death Duel (USA)-boxback.jpg</boxback>
+		<releasedate>19921001T000000</releasedate>
+		<developer>Razorsoft</developer>
+		<publisher>RazorSoft</publisher>
+		<genre>Shoot them up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193740" />
+	</game>
+	<game>
+		<path>./DecapAttack (USA, Europe).md</path>
+		<name>DecapAttack (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T193741" />
+	</game>
+	<game>
+		<path>./Demolition Man (USA, Europe).md</path>
+		<name>Demolition Man</name>
+		<desc>Demolition Man is a game based on the 1993 movie by the same name. As with the movie, the game takes place in a dystopian Los Angeles, in 1996. John Spartan is the country´s most fearsome cop and hunts his nemesis, Simon Phoenix. However in doing so, he kills several innocent civilians and both characters are sentenced to cryostasis rehabilitation where they will be brainwashed for 30 years. However the brainwashing does not go as planned and upon waking up, Phoenix goes on a new crime spree. However in 30 years the world has also changed and Los Angeles has become San Angeles, a utopian and violence-free society. As a remnant of a more violent past, police officer John Spartan is once again sent to capture Phoenix.</desc>
+		<image>./images/Demolition Man (USA, Europe)-image.jpg</image>
+		<video>./videos/Demolition Man (USA, Europe)-video.mp4</video>
+		<fanart>./images/Demolition Man (USA, Europe)-fanart.jpg</fanart>
+		<boxback>./images/Demolition Man (USA, Europe)-boxback.jpg</boxback>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Alexandria</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T193747" />
+	</game>
+	<game>
+		<path>./Desert Strike (USA, Europe).md</path>
+		<name>Desert Strike - Return to the Gulf</name>
+		<image>./images/Desert Strike (USA, Europe)-image.jpg</image>
+		<video>./videos/Desert Strike (USA, Europe)-video.mp4</video>
+		<boxback>./images/Desert Strike (USA, Europe)-boxback.jpg</boxback>
+		<releasedate>19920301T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T193753" />
+	</game>
+	<game>
+		<path>./Devilish - The Next Possession (USA).md</path>
+		<name>Devilish: The Next Possession</name>
+		<desc>"Devilish" is different from other paddle games by letting you play with two paddles. The lower one behaves just like a usual paddle - you use it to prevent the ball from dropping down. The upper one can move and turn, allowing you to hit the ball from different angles and from different parts of the screen. You advance through levels by destroying bricks and enemies, going up until the level boss enemy appears.</desc>
+		<image>./images/Devilish - The Next Possession (USA)-image.jpg</image>
+		<video>./videos/Devilish - The Next Possession (USA)-video.mp4</video>
+		<fanart>./images/Devilish - The Next Possession (USA)-fanart.png</fanart>
+		<boxback>./images/Devilish - The Next Possession (USA)-boxback.jpg</boxback>
+		<releasedate>19920424T000000</releasedate>
+		<developer>Aisystem Tokyo</developer>
+		<publisher>Sage's Creation</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193802" />
+	</game>
+	<game>
+		<path>./Dick Tracy (World).md</path>
+		<name>Dick Tracy (World)</name>
+		<scrap name="HfsDB" date="20220918T193806" />
+	</game>
+	<game>
+		<path>./Dick Vitale's 'Awesome, Baby!' College Hoops (USA).md</path>
+		<name>Dick Vitale's "Awesome, Baby!" College Hoops</name>
+		<desc>Dick Vitale, the famous college basketball coach and commentator, lent his unique voice to this game for the Sega Genesis. There are four levels of depth to the commentary. Another aspect of the license is that the variety of offensive and defensive strategies and formations for player and AI use are pulled from the pages of Coach Vitale's own playbook. The game features a 3/4 pseudo-3D perspective similar to that available on the SNES console in Mode 7. There are 32 college teams to choose from in four conferences, and games are played by official NCAA rules. Available gameplay modes include Single Game, 2-on-2, Slamfest (a simple slam-dunk contest), and Tournament. The AI can take control of defense, and the game can be played without foul rules.</desc>
+		<image>./images/Dick Vitale's 'Awesome, Baby!' College Hoops (USA)-image.jpg</image>
+		<video>./videos/Dick Vitale's 'Awesome, Baby!' College Hoops (USA)-video.mp4</video>
+		<boxback>./images/Dick Vitale's 'Awesome, Baby!' College Hoops (USA)-boxback.jpg</boxback>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Time Warner Interactive</developer>
+		<publisher>Time Warner Interactive</publisher>
+		<genre>Sport</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193810" />
+	</game>
+	<game>
+		<path>./Dino Dini's Soccer (Europe).md</path>
+		<name>Dino Dini's Soccer</name>
+		<desc>Dino Dini's Soccer is a top-down football game for the Sega Mega Drive programmed by Dino Dini, the man behind the first two Kick Off games by Anco Games. It was only released in Europe. Dino Dini's Soccer is a retooled version of an earlier Amiga game, Goal!, sporting superior graphics and support for four players via Sega's Team Player peripheral. Though this has not been confirmed, it has been suggested that during development Dino Dini's Soccer was set to be a straight port of Goal! with no extra features (this being the situation with the SNES version, which despite its name, was not personally handled by Dino Dini like this Mega Drive release). An unconfirmed working title appears to have been Dino Dini's Goal!. As a spiritual sequel to Kick Off 2 (or Super Kick Off, as it appeared on the Mega Drive), Dino Dini's Soccer offers similar gameplay but with the addition of smarter AI, multiple cameras and improved presentation.</desc>
+		<image>./images/Dino Dini's Soccer (Europe)-image.jpg</image>
+		<video>./videos/Dino Dini's Soccer (Europe)-video.mp4</video>
+		<boxback>./images/Dino Dini's Soccer (Europe)-boxback.jpg</boxback>
+		<releasedate>19941201T000000</releasedate>
+		<developer>Dini and Dini Productions</developer>
+		<publisher>Virgin Interactive</publisher>
+		<genre>Sport</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T193815" />
+	</game>
+	<game>
+		<path>./Dino Land (USA).md</path>
+		<name>Dino Land (USA)</name>
+		<scrap name="HfsDB" date="20220918T193820" />
+	</game>
+	<game>
+		<path>./Dinosaur's Tale, A (USA).md</path>
+		<name>We're Back!: A Dinosaur's Tale</name>
+		<desc>Play as characters from the Spielberg animated movie We're Back, based entirely on the preview trailer. Run and jump through a variety of levels and defeat Dr. Screweyes. Every second level is a side-scrolling platformer where you take the role of the human kids Cecilia or Louie and move through obstacles to get to the end of the level. These levels are set at various New York locations including a TV studio and a circus that wants to keep the dinosaurs as an exhibit. Every other level is a 3D level where you play one of the dinosaur characters, e.g. skateboarding on the back of a pickup truck as Rex or flying as Elsa over central park while collecting balloons. This is one of the earliest Genesis games with 3D gameplay.</desc>
+		<image>./images/Dinosaur's Tale, A (USA)-image.jpg</image>
+		<video>./videos/Dinosaur's Tale, A (USA)-video.mp4</video>
+		<boxback>./images/Dinosaur's Tale, A (USA)-boxback.jpg</boxback>
+		<releasedate>19930901T000000</releasedate>
+		<developer>Funcom</developer>
+		<publisher>Hi-Tech Expressions</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193825" />
+	</game>
+	<game>
+		<path>./Dinosaurs for Hire (USA).md</path>
+		<name>Tom Mason's Dinosaurs for Hire</name>
+		<desc>"Dinosaurs For Hire" does not really have a plot. Unknown monsters and weird robotic creatures attack the Earth. For some reason, the only ones who can stop the invasion are the three Dinosaurs for Hire: Archie, a tyrannosaurus rex and their leader; the triceratops Lorenzo, lover of fine food, fine wine, and fine clothes, and the one-eyed, unpredictable stegosaurus Reese. Each dino has its own strengths and weaknesses. You guide the dinosaur of your choice through the platform levels of the game. You are equipped with a gun: tons of enemies will attack you from all the sides, so your best bet will be walking with the fire button pressed down. You can shoot to all the directions and also engage in melee combat when the enemy is too close. Each level has a boss enemy waiting for you in the end. There is also a cooperative two-player mode.</desc>
+		<image>./images/Dinosaurs for Hire (USA)-image.jpg</image>
+		<video>./videos/Dinosaurs for Hire (USA)-video.mp4</video>
+		<boxback>./images/Dinosaurs for Hire (USA)-boxback.jpg</boxback>
+		<releasedate>19930501T000000</releasedate>
+		<developer>Sega interActive</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot them up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193830" />
+	</game>
+	<game>
+		<path>./Disney Collection, The (Europe).md</path>
+		<name>The Disney Collection</name>
+		<image>./images/Disney Collection, The (Europe)-image.png</image>
+		<video>./videos/Disney Collection, The (Europe)-video.mp4</video>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Disney Interactive Studios</developer>
+		<publisher>Sega</publisher>
+		<genre>Divers</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T193832" />
+	</game>
+	<game>
+		<path>./DJ Boy (USA).md</path>
+		<name>DJ Boy (USA)</name>
+		<scrap name="HfsDB" date="20220918T193835" />
+	</game>
+	<game>
+		<path>./Donald in Maui Mallard (Europe).md</path>
+		<name>Donald in Maui Mallard</name>
+		<desc>Disney's Donald Duck takes the starring role in this sidescrolling platform game. As the detective Maui Mallard, he's on the trail of a long lost Idol, which has recently vanished. Early on, Maui can also switch between his normal self and Ninja Maui, and with all the creepy voodoo enemies he'll encounter throughout his adventure, he's going to need all the help he can get. As previously mentioned, there are two personalities to Maui, and as a result, two different sets of controls. Normal Maui carries a bug gun, which can fire a variety of different insect ammo, from basic bugs, to the more powerful lightning and fire bugs. It's also possible for Maui to combine bugs to pack a more powerful blast at his enemies.</desc>
+		<image>./images/Donald in Maui Mallard (Europe)-image.png</image>
+		<video>./videos/Donald in Maui Mallard (Europe)-video.mp4</video>
+		<boxback>./images/Donald in Maui Mallard (Europe)-boxback.jpg</boxback>
+		<releasedate>19951208T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>Disney Interactive, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T193838" />
+	</game>
+	<game>
+		<path>./Doom Troopers - The Mutant Chronicles (USA).md</path>
+		<name>Doom Troopers - The Mutant Chronicles (USA)</name>
+		<scrap name="HfsDB" date="20220918T193854" />
+	</game>
+	<game>
+		<path>./Doraemon - Yume Dorobou to 7 Nin no Gozans (Japan).md</path>
+		<name>Doraemon - Yume Dorobou to 7 Nin no Gozans (Japan)</name>
+		<scrap name="HfsDB" date="20220918T193858" />
+	</game>
+	<game>
+		<path>./Double Dragon (USA, Europe).md</path>
+		<name>Double Dragon (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T193905" />
+	</game>
+	<game>
+		<path>./Double Dragon 3 - The Arcade Game (USA, Europe).md</path>
+		<name>Double Dragon 3 - The Arcade Game (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T193912" />
+	</game>
+	<game>
+		<path>./Double Dragon II - The Revenge (Japan).md</path>
+		<name>Double Dragon II - The Revenge</name>
+		<desc>At the end of the 20th century, violence ruled the city after the nuclear war. The people of the city were living in fear of the Black Warriors, a criminal organization that has acquired tremendous influence. On the outskirts of the city also lived twin brothers named Jimmy and Billy Lee, who were running their own kung-fu gym. One day, the Black Warriors were gathered on a certain spot after their usual rampaging of the city when a young woman accidentally stumbled into their meeting. The gang brutally murdered her without mercy. Her name was Marian, Billy Lee's girlfriend. With his older brother Jimmy, Billy sets out on a mission to get his revenge on the Black Warriors. Double Dragon II: The Revenge is a 1989 side-scrolling beat-'em-up released for the arcades by Technos. A Sega Mega Drive version was produced by PALSOFT in 1991. Unlike the earlier NES version that was developed in-house by Technos, which was a different game with a similar plot, this was intended to be a more direct conversion of the arcade game. While this version ended up being exclusive to Japan, other Double Dragon games (including a port of the first game) were later released for the Sega Genesis by other publishers in North America and Europe (which were conversely unreleased in Japan).</desc>
+		<image>./images/Double Dragon II - The Revenge (Japan)-image.jpg</image>
+		<video>./videos/Double Dragon II - The Revenge (Japan)-video.mp4</video>
+		<fanart>./images/Double Dragon II - The Revenge (Japan)-fanart.png</fanart>
+		<boxback>./images/Double Dragon II - The Revenge (Japan)-boxback.jpg</boxback>
+		<releasedate>19911220T000000</releasedate>
+		<developer>Palsoft</developer>
+		<publisher>Palsoft</publisher>
+		<genre>Beat them all</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="HfsDB" date="20220918T193922" />
+	</game>
+	<game>
+		<path>./Double Dragon V - The Shadow Falls (USA).md</path>
+		<name>Double Dragon V - The Shadow Falls</name>
+		<desc>The Shadow Master, who has created a deadly virus which he plans to destroy the world with, is waiting for you at the end of the path to victory. You'll have to fight your way through many evil characters before you face the Shadow Master. Beat him, and the world is saved for another day.</desc>
+		<image>./images/Double Dragon V - The Shadow Falls (USA)-image.jpg</image>
+		<video>./videos/Double Dragon V - The Shadow Falls (USA)-video.mp4</video>
+		<fanart>./images/Double Dragon V - The Shadow Falls (USA)-fanart.png</fanart>
+		<boxback>./images/Double Dragon V - The Shadow Falls (USA)-boxback.jpg</boxback>
+		<releasedate>19940801T000000</releasedate>
+		<developer>Leland Interactive</developer>
+		<publisher>Tradewest</publisher>
+		<genre>Combat</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193934" />
+	</game>
+	<game>
+		<path>./Double Dribble - The Playoff Edition (USA).md</path>
+		<name>Double Dribble - The Playoff Edition (USA)</name>
+		<scrap name="HfsDB" date="20220918T193934" />
+	</game>
+	<game>
+		<path>./Dr. Robotnik's Mean Bean Machine (USA).md</path>
+		<name>Dr. Robotnik's Mean Bean Machine (USA)</name>
+		<scrap name="HfsDB" date="20220918T193935" />
+	</game>
+	<game>
+		<path>./Dragon - The Bruce Lee Story (USA).md</path>
+		<name>Dragon - The Bruce Lee Story (USA)</name>
+		<scrap name="HfsDB" date="20220918T193935" />
+	</game>
+	<game>
+		<path>./Dragon Ball Z - L'Appel du Destin (France).md</path>
+		<name>Dragon Ball Z - L'Appel du Destin (France)</name>
+		<scrap name="HfsDB" date="20220918T193942" />
+	</game>
+	<game>
+		<path>./Dragon's Fury (USA, Europe).md</path>
+		<name>Dragon's Fury (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T193949" />
+	</game>
+	<game>
+		<path>./Dragon's Revenge (USA, Europe).md</path>
+		<name>Dragon's Revenge (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T193958" />
+	</game>
+	<game>
+		<path>./Duke Nukem 3D (Brazil).md</path>
+		<name>Duke Nukem 3D (Brazil)</name>
+		<scrap name="HfsDB" date="20220918T194004" />
+	</game>
+	<game>
+		<path>./Dune - The Battle for Arrakis (USA).md</path>
+		<name>Dune: The Battle for Arrakis</name>
+		<desc>Westwood Studios' real-time strategy classic Dune II received a major overhaul when ported to the Sega Genesis. While the basic concept remains the same, the game features all-new graphics, streamlined controls, changes to the tech tree as well as completely new levels. As in the original game, the player controls the troops of one of three noble Houses, called by the Emperor to mine the Spice Melange on the planet Arrakis, also known as Dune. A series of consecutive battles must be won by mining spice, constructing a base and building units to attack the enemy. The rather complex menu-based controls of the original game have been replaced by a context-sensitive cursor system, where a unit reacts according to what is below the cursor - either moving to a destination or attacking an enemy unit, for example.</desc>
+		<image>./images/Dune - The Battle for Arrakis (USA)-image.jpg</image>
+		<video>./videos/Dune - The Battle for Arrakis (USA)-video.mp4</video>
+		<fanart>./images/Dune - The Battle for Arrakis (USA)-fanart.jpg</fanart>
+		<boxback>./images/Dune - The Battle for Arrakis (USA)-boxback.jpg</boxback>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Westwood Studios</developer>
+		<publisher>Virgin Interactive</publisher>
+		<genre>Strategie</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T194009" />
+	</game>
+	<game>
+		<path>./Dynamite Duke (World).md</path>
+		<name>Dynamite Duke (World)</name>
+		<scrap name="HfsDB" date="20220918T194013" />
+	</game>
+	<game>
+		<path>./Dynamite Headdy (USA, Europe).md</path>
+		<name>Dynamite Headdy (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T194017" />
+	</game>
+	<game>
+		<path>./EA Sports Double Header (Europe).md</path>
+		<name>EA Sports Double Header</name>
+		<image>./images/EA Sports Double Header (Europe)-image.jpg</image>
+		<video>./videos/EA Sports Double Header (Europe)-video.mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Park Place Productions</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sport</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T194021" />
+	</game>
+	<game>
+		<path>./Earnest Evans (USA).md</path>
+		<name>Earnest Evans (USA)</name>
+		<scrap name="HfsDB" date="20220918T194043" />
+	</game>
+	<game>
+		<path>./Earth Defense (USA) (Unl).md</path>
+		<name>Earth Defense</name>
+		<desc>Earth Defense (aka: The Earth Defend) is an unlicensed game for the Sega Mega Drive/Genesis; it was developed by AV Artisan and published by Realtec in both North America and Taiwan, without a license from Sega.</desc>
+		<image>./images/Earth Defense (USA) (Unl)-image.jpg</image>
+		<video>./videos/Earth Defense (USA) (Unl)-video.mp4</video>
+		<developer>AV artisan</developer>
+		<publisher>Realtec</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T194048" />
+	</game>
+	<game>
+		<path>./Earthworm Jim (USA).md</path>
+		<name>Earthworm Jim</name>
+		<desc>The storyline involves many colorful characters. Jim (voiced by TenNapel) was at first an ordinary earthworm who did very earthworm-like things such as flee from crows and eat dirt. One day, in the space above Earth, the evil Psy-Crow had cornered a rebel spaceship pilot who had stolen an "Ultra-high-tech-indestructible-super-space-cyber-suit" built by Professor Monkey-for-a-Head. The suit had been commissioned by the evil Queen Pulsating, Bloated, Festering, Sweaty, Pus-filled, Malformed, Slug-for-a-Butt so that she could further conquer the galaxy. In the ensuing space fight, the suit was dropped to Earth, and fell on Jim. By a stroke of luck, Jim managed to land within the collar of the suit, and it ended up mutating him into the large and intelligent (at least by earthworm standards) superhero he is today.</desc>
+		<image>./images/Earthworm Jim (USA)-image.jpg</image>
+		<video>./videos/Earthworm Jim (USA)-video.mp4</video>
+		<boxback>./images/Earthworm Jim (USA)-boxback.jpg</boxback>
+		<releasedate>19940802T000000</releasedate>
+		<developer>Shiny</developer>
+		<publisher>Sega</publisher>
+		<genre>Action-Aventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T194056" />
+	</game>
+	<game>
+		<path>./Earthworm Jim 2 (USA).md</path>
+		<name>Earthworm Jim 2</name>
+		<desc>An ordinary average earthworm named Jim goes about his normal daily life, cruising around avoiding crows and doing other general worm-like things. Jim is suddenly struck by a very large ultra- high- tech- indestructible- super- space- cyber- suit. Through sheer luck, Jim rests safely in the neck ring of the suit.</desc>
+		<image>./images/Earthworm Jim 2 (USA)-image.jpg</image>
+		<video>./videos/Earthworm Jim 2 (USA)-video.mp4</video>
+		<fanart>./images/Earthworm Jim 2 (USA)-fanart.jpg</fanart>
+		<boxback>./images/Earthworm Jim 2 (USA)-boxback.jpg</boxback>
+		<releasedate>19951115T000000</releasedate>
+		<developer>Shiny Entertainment</developer>
+		<publisher>Playmates Interactive Entertainment</publisher>
+		<genre>Plate-formes</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T194101" />
+	</game>
+	<game>
+		<path>./Ecco - The Tides of Time (USA).md</path>
+		<name>Ecco - The Tides of Time (USA)</name>
+		<scrap name="HfsDB" date="20220918T194104" />
+	</game>
+	<game>
+		<path>./Ecco Jr. (USA, Australia) (March 1995).md</path>
+		<name>Ecco Jr. (USA, Australia) (March 1995)</name>
+		<scrap name="HfsDB" date="20220918T194107" />
+	</game>
+	<game>
+		<path>./Ecco the Dolphin (USA, Europe).md</path>
+		<name>Ecco the Dolphin (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T194110" />
+	</game>
+	<game>
+		<path>./El Viento (USA).md</path>
+		<name>El Viento (USA)</name>
+		<scrap name="HfsDB" date="20220918T194114" />
+	</game>
+	<game>
+		<path>./Elemental Master (USA).md</path>
+		<name>Elemental Master (USA)</name>
+		<scrap name="HfsDB" date="20220918T194117" />
+	</game>
+	<game>
+		<path>./Eliminate Down (Japan).md</path>
+		<name>Eliminate Down</name>
+		<desc>Mankind has begun its space pioneering era as the 30th century is about to begin. However, an alien race known as the Amuleto appears out of a space distortion and travels toward the Earth. Its intentions prove hostile as Human investigations are destroyed and the Amuleto space fleet grows. Mankind's best chance against the invaders is the Steel Pyron, a space fighter designed for multiple combat situations and warp drive jumping.</desc>
+		<image>./images/Eliminate Down (Japan)-image.jpg</image>
+		<video>./videos/Eliminate Down (Japan)-video.mp4</video>
+		<fanart>./images/Eliminate Down (Japan)-fanart.jpg</fanart>
+		<boxback>./images/Eliminate Down (Japan)-boxback.jpg</boxback>
+		<releasedate>19930625T000000</releasedate>
+		<developer>Aprinet</developer>
+		<publisher>Soft Vision International</publisher>
+		<genre>Shoot them up</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="HfsDB" date="20220918T194123" />
+	</game>
+	<game>
+		<path>./ESPN Baseball Tonight (USA).md</path>
+		<name>ESPN Baseball Tonight</name>
+		<desc>ESPN Baseball Tonight is a baseball game with both exhibition and playoff modes. Other modes included are both practice (both pitching and batting) and Home Run Derby modes. The game contains 28 real MLB teams but no actual players. Gameplay options include being able to turn errors on or off and to have assisted fielding on or off. Gameplay has the behind the batter viewpoint, whether pitching or batting. One thing to note when fielding, the player must manually throw the ball back to the pitcher for the game to continue.</desc>
+		<image>./images/ESPN Baseball Tonight (USA)-image.jpg</image>
+		<video>./videos/ESPN Baseball Tonight (USA)-video.mp4</video>
+		<boxback>./images/ESPN Baseball Tonight (USA)-boxback.jpg</boxback>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Park Place</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Sport</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T194127" />
+	</game>
+	<game>
+		<path>./ESPN Speed World (USA).md</path>
+		<name>ESPN Speed World</name>
+		<desc>ESPN Speed World is a generic racing game that is made to resemble NASCAR. The player is given a stock car and can tune the car from the angle of the spoiler, to the setting of the shocks, and up to the pressure of the tires. There are three different types of speedways to race on: Super Speedway, Short Track and Road Courses with 5 different tracks for each to choose from. Players can choose to race against the computer that has all 23 other stock cars on the track at once or play head-to-head on a split screen against a friend.</desc>
+		<image>./images/ESPN Speed World (USA)-image.jpg</image>
+		<video>./videos/ESPN Speed World (USA)-video.mp4</video>
+		<fanart>./images/ESPN Speed World (USA)-fanart.png</fanart>
+		<boxback>./images/ESPN Speed World (USA)-boxback.jpg</boxback>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Park Place Productions</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Course</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T194148" />
+	</game>
+	<game>
+		<path>./ESPN Sunday Night NFL (USA).md</path>
+		<name>ESPN Sunday Night NFL</name>
+		<desc>ESPN Sunday Night NFL was one of the many football games released back in the day. It features all 28 official NFL teams and their respective logos, but doesn't feature a license from the NFLPA, so there are no actual players names in the game. There are four different game modes to choose from: Playoffs, Single Game, Season and another season mode that lets the player act out the 1994 NFL season schedule. It also had variable weather conditions that the players on the field would react to and a battery back-up to save games. It also featured Chris Berman, who not only graced the front cover but also gives commentary as well.</desc>
+		<image>./images/ESPN Sunday Night NFL (USA)-image.png</image>
+		<video>./videos/ESPN Sunday Night NFL (USA)-video.mp4</video>
+		<boxback>./images/ESPN Sunday Night NFL (USA)-boxback.png</boxback>
+		<releasedate>19940801T000000</releasedate>
+		<developer>Ringler Studios</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Sport</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T194152" />
+	</game>
+	<game>
+		<path>./ESWAT - City Under Siege (USA).md</path>
+		<name>ESWAT - City Under Siege (USA)</name>
+		<scrap name="HfsDB" date="20220918T194156" />
+	</game>
+	<game>
+		<path>./Eternal Champions (USA).md</path>
+		<name>Eternal Champions (USA)</name>
+		<scrap name="HfsDB" date="20220918T194202" />
+	</game>
+	<game>
+		<path>./Evander Holyfield's 'Real Deal' Boxing (World).md</path>
+		<name>Evander Holyfield's 'Real Deal' Boxing (World)</name>
+		<scrap name="HfsDB" date="20220918T194206" />
+	</game>
+	<game>
+		<path>./Ex-Mutants (USA, Europe).md</path>
+		<name>Ex-Mutants (USA, Europe)</name>
+		<scrap name="HfsDB" date="20220918T194210" />
+	</game>
+	<game>
+		<path>./Exile (USA).md</path>
+		<name>Exile (USA)</name>
+		<scrap name="HfsDB" date="20220918T194212" />
+	</game>
+	<game>
+		<path>./3 Ninjas Kick Back (USA).md</path>
+		<name>3 Ninjas Kick Back</name>
+		<desc>3 Ninjas Kick Back follows 3 young ninja brothers, Rocky, Colt and Tum-Tum as they assist an old Samurai in retrieving a prized dagger which has been stolen by his rival. The dagger, once given to the Samurai as a reward, will be passed along to younger generations once it is restored to its rightful owner. The boys learn ninjitsu and karate as they fight evil forces that are older, more powerful, and bigger than them.</desc>
+		<image>./images/3 Ninjas Kick Back (USA)-image.png</image>
+		<video>./videos/3 Ninjas Kick Back (USA)-video.mp4</video>
+		<boxback>./images/3 Ninjas Kick Back (USA)-boxback.png</boxback>
+		<releasedate>19940601T000000</releasedate>
+		<developer>Malibu Interactive, Psygnosis</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20220921T211355</lastplayed>
+		<gametime>102</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192034" />
+	</game>
+	<game>
+		<path>./Alex Kidd in the Enchanted Castle (USA).md</path>
+		<name>Alex Kidd in the Enchanted Castle (USA)</name>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192243" />
+	</game>
+	<game>
+		<path>./Alien Soldier (Europe).md</path>
+		<name>Alien Soldier (Europe)</name>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192251" />
+	</game>
+	<game>
+		<path>./Alien Storm (World).md</path>
+		<name>Alien Storm (World)</name>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="HfsDB" date="20220918T192255" />
+	</game>
+	<game>
+		<path>./Back to the Future Part III (USA).md</path>
+		<name>Back to the Future Part III (USA)</name>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192443" />
+	</game>
+	<game>
+		<path>./Ball Jacks (Japan, Europe).md</path>
+		<name>Ball Jacks (Japan, Europe)</name>
+		<lang>jp</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192448" />
+	</game>
+	<game>
+		<path>./Ballz 3D - Fighting at Its Ballziest (USA, Europe).md</path>
+		<name>Ballz 3D - Fighting at Its Ballziest (USA, Europe)</name>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192452" />
+	</game>
+	<game>
+		<path>./Bare Knuckle - Ikari no Tetsuken ~ Streets of Rage (World) (Rev A).md</path>
+		<name>Bare Knuckle - Ikari no Tetsuken ~ Streets of Rage (World) (Rev A)</name>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="HfsDB" date="20220918T192516" />
+	</game>
+	<game>
+		<path>./Barkley Shut Up and Jam! 2 (USA).md</path>
+		<name>Barkley Shut Up and Jam! 2 (USA)</name>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192525" />
+	</game>
+	<game>
+		<path>./Barney's Hide &amp; Seek Game (USA).md</path>
+		<name>Barney's Hide &amp; Seek Game (USA)</name>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192530" />
+	</game>
+	<game>
+		<path>./Bare Knuckle II - Shitou heno Chingonka ~ Streets of Rage II (Japan, Europe).md</path>
+		<name>Bare Knuckle II - Shitou heno Chingonka ~ Streets of Rage II (Japan, Europe)</name>
+		<lang>jp</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192658" />
+	</game>
+	<game>
+		<path>./Blades of Vengeance (USA, Europe).md</path>
+		<name>Blades of Vengeance (USA, Europe)</name>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192709" />
+	</game>
+	<game>
+		<path>./Brian Lara Cricket 96 (Europe) (April 1996).md</path>
+		<name>Brian Lara Cricket 96 (Europe) (April 1996)</name>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192715" />
+	</game>
+	<game>
+		<path>./Beast Wrestler (USA).md</path>
+		<name>Beast Wrestler (USA)</name>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192745" />
+	</game>
+	<game>
+		<path>./Blaster Master 2 (USA).md</path>
+		<name>Blaster Master 2 (USA)</name>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192859" />
+	</game>
+	<game>
+		<path>./Blockbuster World Video Game Championship II (USA).md</path>
+		<name>Blockbuster World Video Game Championship II (USA)</name>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192901" />
+	</game>
+	<game>
+		<path>./Bloodshot (Europe) (En,Fr,De,Es).md</path>
+		<name>Bloodshot (Europe) (En,Fr,De,Es)</name>
+		<lang>es,de,fr,en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192925" />
+	</game>
+	<game>
+		<path>./Body Count (Europe) (En,Fr,De,Es,It).md</path>
+		<name>Body Count (Europe) (En,Fr,De,Es,It)</name>
+		<lang>it,es,de,fr,en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192929" />
+	</game>
+	<game>
+		<path>./Bonanza Bros. (USA, Europe).md</path>
+		<name>Bonanza Bros. (USA, Europe)</name>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T192937" />
+	</game>
+	<game>
+		<path>./Brett Hull Hockey '95 (USA).md</path>
+		<name>Brett Hull Hockey '95 (USA)</name>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T192957" />
+	</game>
+	<game>
+		<path>./Brian Lara Cricket (Europe) (June 1995).md</path>
+		<name>Brian Lara Cricket (Europe) (June 1995)</name>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="HfsDB" date="20220918T193017" />
+	</game>
+	<game>
+		<path>./Brutal - Paws of Fury (USA).md</path>
+		<name>Brutal - Paws of Fury (USA)</name>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="HfsDB" date="20220918T193018" />
+	</game>
+</gameList>
