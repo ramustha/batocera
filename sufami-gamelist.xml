@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="38800">
+		<path>./Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan).zip</path>
+		<name>Gekisou Sentai Car Rangers</name>
+		<desc>Gekisou Sentai Carranger: Zenkai! Racer Senshi  Gekiso Sentai Karenja Zenkai! Resa Senshi?, Racing Squadron Carranger: Full Force! Racer Warrior) is the licensed video game of the Carranger series. It was released in Japan by Bandai in 1996, and required the Sufami Turbo accessory. Despite the fact that Carranger was adapted into Power Rangers: Turbo, the game was never brought to the North American market as such because, by the time Turbo premiered in 1997, the Nintendo 64 had been on North American shores for several months. The N64 had only just come out in Japan when the game was released, so not everyone had switched yet.</desc>
+		<image>./images/Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)-image.png</image>
+		<video>./videos/Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)-video.mp4</video>
+		<marquee>./images/Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19960823T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<family>Power Rangers</family>
+		<players>1</players>
+		<md5>27eb2c85bb733416762fa1bcd91a4ab7</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221031T172420" />
+	</game>
+	<game id="38690">
+		<path>./Crayon Shin-chan - Nagagutsu Dobon!! (Japan).zip</path>
+		<name>Crayon Shin-chan - Nagagutsu Dobon!!</name>
+		<desc>Crayon Shin-Chan: Nagagutsu Dobon! ("Crayon Shin-Chan: Galoshes Splash!!") is an action game. It is based on the anime Crayon Shin-Chan.
+The goal of the game is to make puddles splash and soak the opponents. The puddles have their own specificities depending on their size. Taking advantage of their layout is the key to getting the opponents to get wet. There are also bonuses that the player can collect during the game.</desc>
+		<image>./images/Crayon Shin-chan - Nagagutsu Dobon!! (Japan)-image.png</image>
+		<video>./videos/Crayon Shin-chan - Nagagutsu Dobon!! (Japan)-video.mp4</video>
+		<marquee>./images/Crayon Shin-chan - Nagagutsu Dobon!! (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Crayon Shin-chan - Nagagutsu Dobon!! (Japan)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19960927T000000</releasedate>
+		<developer>Aim Software</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Shin-chan</family>
+		<players>1</players>
+		<md5>3c951183ae15567c811a675cf44aa22c</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221031T172445" />
+	</game>
+	<game id="38799">
+		<path>./Gegege no Kitarou - Youkai Donjara (Japan).zip</path>
+		<name>Gegege No Kitarou - Youkai Donjara</name>
+		<desc>A board game which required a Sufami Turbo</desc>
+		<image>./images/Gegege no Kitarou - Youkai Donjara (Japan)-image.png</image>
+		<video>./videos/Gegege no Kitarou - Youkai Donjara (Japan)-video.mp4</video>
+		<marquee>./images/Gegege no Kitarou - Youkai Donjara (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Gegege no Kitarou - Youkai Donjara (Japan)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19960719T000000</releasedate>
+		<developer>Tom Create</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Thinking</genre>
+		<players>1-4</players>
+		<md5>c9cae86f503bd0b6ebef6c481b179536</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221031T172447" />
+	</game>
+	<game id="64851">
+		<path>./Poi Poi Ninja World (Japan).zip</path>
+		<name>Poi Poi Ninja World</name>
+		<desc>Poi Poi Ninja World is a Bomberman-like multiplayer game in which players try to do in their opponents by tossing bombs, rocks, and other objects.
+
+Poi Poi Ninja World could be linked with other Poi Poi Ninja World carts inserted into the second slot of the Sufami Turbo, allowing the exchange of various save data.</desc>
+		<image>./images/Poi Poi Ninja World (Japan)-image.png</image>
+		<video>./videos/Poi Poi Ninja World (Japan)-video.mp4</video>
+		<marquee>./images/Poi Poi Ninja World (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Poi Poi Ninja World (Japan)-thumb.png</thumbnail>
+		<rating>0.4</rating>
+		<releasedate>19960628T000000</releasedate>
+		<developer>Tom Create</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1-4</players>
+		<md5>d5c6e9038e60c23b05d5690a03ffa4c9</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221031T172449" />
+	</game>
+	<game id="64953">
+		<path>./SD Gundam Generation - Axis Senki (Japan).zip</path>
+		<name>Sd Gundam Generation - Axis Senki</name>
+		<desc>SD Gundam Generation: Axis Senki , also called SD Gundam Generation C, is a strategy video game developed and published by Bandai in August 1996 for Super Nintendo. It is a video game adaptation of the series based on the anime Mobile Suit Gundam and especially Super Deformed Gundam. It is the third opus of a series of six video games called SD Gundam Generation.</desc>
+		<image>./images/SD Gundam Generation - Axis Senki (Japan)-image.png</image>
+		<video>./videos/SD Gundam Generation - Axis Senki (Japan)-video.mp4</video>
+		<marquee>./images/SD Gundam Generation - Axis Senki (Japan)-marquee.png</marquee>
+		<thumbnail>./images/SD Gundam Generation - Axis Senki (Japan)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>19960823T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<md5>16375432c8ffc540b459cfd31723572b</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221031T172451" />
+	</game>
+	<game id="64954">
+		<path>./SD Gundam Generation - Babylonia Kenkoku Senki (Japan).zip</path>
+		<name>Sd Gundam Generation - Babylonia Kenkoku Senki</name>
+		<desc>It is a video game adaptation of the series based on the anime Mobile Suit Gundam and especially Super Deformed Gundam. It is the fourth opus of a series of six video games called SD Gundam Generation</desc>
+		<image>./images/SD Gundam Generation - Babylonia Kenkoku Senki (Japan)-image.png</image>
+		<video>./videos/SD Gundam Generation - Babylonia Kenkoku Senki (Japan)-video.mp4</video>
+		<marquee>./images/SD Gundam Generation - Babylonia Kenkoku Senki (Japan)-marquee.png</marquee>
+		<thumbnail>./images/SD Gundam Generation - Babylonia Kenkoku Senki (Japan)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19960823T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<md5>c1305ecd913e12719c5ea07eea4a440e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221031T172455" />
+	</game>
+	<game id="64955">
+		<path>./SD Gundam Generation - Colony Kakutouki (Japan).zip</path>
+		<name>Sd Gundam Generation - Colony Kakutouki</name>
+		<desc>It is a video game adaptation of the anime series Mobile Suit Gundam and specifically Super Deformed Gundam. It is the latest installment in a series of six video games called SD Gundam Generation 1.</desc>
+		<image>./images/SD Gundam Generation - Colony Kakutouki (Japan)-image.png</image>
+		<video>./videos/SD Gundam Generation - Colony Kakutouki (Japan)-video.mp4</video>
+		<marquee>./images/SD Gundam Generation - Colony Kakutouki (Japan)-marquee.png</marquee>
+		<thumbnail>./images/SD Gundam Generation - Colony Kakutouki (Japan)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19960927T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<md5>3e84a2bccc251ff42c01166ba55dfdaf</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221031T172500" />
+	</game>
+	<game id="64956">
+		<path>./SD Gundam Generation - Gryps Senki (Japan).zip</path>
+		<name>Sd Gundam Generation - Gryps Senki</name>
+		<desc>It is the second of six SD Gundam Generation games released for the Sufami Turbo peripheral, which uses smaller carts that can communicate with each other when inserted into the Sufami Turbo device.</desc>
+		<image>./images/SD Gundam Generation - Gryps Senki (Japan)-image.png</image>
+		<video>./videos/SD Gundam Generation - Gryps Senki (Japan)-video.mp4</video>
+		<marquee>./images/SD Gundam Generation - Gryps Senki (Japan)-marquee.png</marquee>
+		<thumbnail>./images/SD Gundam Generation - Gryps Senki (Japan)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19960726T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<md5>3bf7fd80b609beb19fd4c40b65f9224c</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221031T172502" />
+	</game>
+	<game id="64957">
+		<path>./SD Gundam Generation - Ichinen Sensouki (Japan).zip</path>
+		<name>Sd Gundam Generation - Ichinen Sensouki</name>
+		<desc>It is a video game adaptation of the series based on the Mobile Suit Gundam anime, specifically Super Deformed Gundam. This is the first in a series of six video games called SD Gundam Generation1,2.</desc>
+		<image>./images/SD Gundam Generation - Ichinen Sensouki (Japan)-image.png</image>
+		<video>./videos/SD Gundam Generation - Ichinen Sensouki (Japan)-video.mp4</video>
+		<marquee>./images/SD Gundam Generation - Ichinen Sensouki (Japan)-marquee.png</marquee>
+		<thumbnail>./images/SD Gundam Generation - Ichinen Sensouki (Japan)-thumb.png</thumbnail>
+		<fanart>./images/SD Gundam Generation - Ichinen Sensouki (Japan)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19960726T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<md5>84d83ded05c6ec31654dd1e2116e32d3</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221031T172505" />
+	</game>
+	<game id="64958">
+		<path>./SD Gundam Generation - Zanscare Senki (Japan).zip</path>
+		<name>Sd Gundam Generation - Zanscare Senki</name>
+		<desc>SD Gundam Generation: Zanscare Senki ("Record of Zanscare War") is a licensed strategy game for the Super Famicom. It draws its conflicts and characters from the Mobile Suit Victory Gundam series.
+It is the fifth of six SD Gundam Generation games released for the Sufami Turbo peripheral, which uses smaller carts that can communicate with each other when inserted into the Sufami Turbo device.</desc>
+		<image>./images/SD Gundam Generation - Zanscare Senki (Japan)-image.png</image>
+		<video>./videos/SD Gundam Generation - Zanscare Senki (Japan)-video.mp4</video>
+		<marquee>./images/SD Gundam Generation - Zanscare Senki (Japan)-marquee.png</marquee>
+		<thumbnail>./images/SD Gundam Generation - Zanscare Senki (Japan)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19960927T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<md5>9892637e1523509c16b4e8017e99200f</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221031T172508" />
+	</game>
+	<game id="64964">
+		<path>./SD Ultra Battle - Seven Densetsu (Japan).zip</path>
+		<name>Sd Ultra Battle - Seven Densetsu</name>
+		<desc>SD Ultra Battle: Seven Densetsu ("SD Ultra Battle: Seven Legend") is a fighter game for the Super Famicom that features super deformed characters from the Ultra Seven series, itself a follow-up to the original Ultraman tokusatsu show.
+
+Along with series protagonist Ultraseven, the game also features major kaiju villains Eleking and King Joe as playable characters.
+
+The game was a companion product to SD Ultra Battle: Ultraman Densetsu, and was released the same day. Both carts employ Bandai's officially licensed Nintendo peripheral the Sufami Turbo to link together to share game data, allowing characters from one game to appear and fight characters in the other. Because Seven Densetsu was released in the miniature Sufami Turbo cartridge format, it cannot be played without that peripheral.</desc>
+		<image>./images/SD Ultra Battle - Seven Densetsu (Japan)-image.png</image>
+		<video>./videos/SD Ultra Battle - Seven Densetsu (Japan)-video.mp4</video>
+		<marquee>./images/SD Ultra Battle - Seven Densetsu (Japan)-marquee.png</marquee>
+		<thumbnail>./images/SD Ultra Battle - Seven Densetsu (Japan)-thumb.png</thumbnail>
+		<releasedate>19960628T000000</releasedate>
+		<developer>Tom Create</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>bb8daddcf18fc44442baa041888da924</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221031T172514" />
+	</game>
+	<game id="64965">
+		<path>./SD Ultra Battle - Ultraman Densetsu (Japan).zip</path>
+		<name>Sd Ultra Battle - Ultraman Densetsu</name>
+		<desc>SD Ultra Battle: Ultraman Densetsu ("SD Ultra Battle: Ultraman Legend") is a fighter game for the Super Famicom that features super deformed characters from the Ultraman series. Along with series protagonist Ultraman, the game also features two of his most memorable opponents Alien Baltan and the Red King.
+
+The game was a companion product to SD Ultra Battle: Seven Densetsu, and was released the same day. Both carts employ Bandai's officially licensed Nintendo peripheral the Sufami Turbo to link together to share game data, allowing characters from one game to appear and fight characters in the other. Because Ultraman Densetsu was released in the miniature Sufami Turbo cartridge format, it cannot be played without that peripheral. One version of Ultraman Densetsu included the Sufami Turbo peripheral as a pack-in bundle.</desc>
+		<image>./images/SD Ultra Battle - Ultraman Densetsu (Japan)-image.png</image>
+		<video>./videos/SD Ultra Battle - Ultraman Densetsu (Japan)-video.mp4</video>
+		<marquee>./images/SD Ultra Battle - Ultraman Densetsu (Japan)-marquee.png</marquee>
+		<thumbnail>./images/SD Ultra Battle - Ultraman Densetsu (Japan)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19960628T000000</releasedate>
+		<developer>Tom Create</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Action</genre>
+		<family>Ultraman</family>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221031T172342</lastplayed>
+		<md5>bd6aee0e7a861fe738f9cfe69084a3c5</md5>
+		<gametime>39</gametime>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221031T172519" />
+	</game>
+	<game id="2717">
+		<path>./Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan).zip</path>
+		<name>Bishoujo Senshi Sailor Moon S - Fuwa Fuwa Panic 2</name>
+		<desc>Bishoujo Senshi Sailor Moon Super S: Fuwa Fuwa Panic is a Sailor Moon themed competitive puzzle game. Players first select a character from among five Sailor Scouts and Chibiusa, each with a unique special move. They will then challenge each other in competition. Each player has a board which contains some balloons, in either red, yellow, green or blue. These balloons can be shot at in order to gain points and fill up the power bar. Balloons of the same color that are adjacent to one another with all be destroyed and generate more points. The goal is to avoid being the player whose balloons are pushed downwards off the board, and to make the opponent receive this fate. As groups of balloons are destroyed, they can reveal power-ups as well as produce black balloons on the opponent's board. Black balloons can only be destroyed by groups of colored balloons being removed adjacent to them. Players with a filled power bar can unleash special abilities.</desc>
+		<image>./images/Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)-image.png</image>
+		<video>./videos/Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)-video.mp4</video>
+		<marquee>./images/Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19960927T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Sailor Moon</family>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221031T172530</lastplayed>
+		<md5>55d6940953b7e1ea4d88725cba2fdbca</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221031T172442" />
+	</game>
+</gameList>
