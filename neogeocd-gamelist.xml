@@ -84,4 +84,574 @@
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20221031T170811" />
 	</game>
+	<game id="38341">
+		<path>./3 Count Bout (World).cue</path>
+		<name>3 Count Bout</name>
+		<desc>3 Count Bout is a one-on-one fighting game. Choose from ten wrestlers who have their own power attacks. There are ten rounds in the game, and each one of them has you fighting other wrestlers that are much tougher than the previous ones. You defeat each one by biting, kicking, and performing other moves to the point where their damage meter is empty. But just because it is empty doesn't mean that you win. You have to pin him for the infamous-three count. Also features competitive play and tag match battles.</desc>
+		<image>./images/3 Count Bout (World)-image.png</image>
+		<video>./videos/3 Count Bout (World)-video.mp4</video>
+		<marquee>./images/3 Count Bout (World)-marquee.png</marquee>
+		<thumbnail>./images/3 Count Bout (World)-thumb.png</thumbnail>
+		<fanart>./images/3 Count Bout (World)-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>19950421T000000</releasedate>
+		<developer>UPL</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<md5>8cbec431fd61d8751622b94c366b491d</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163541" />
+	</game>
+	<game id="38342">
+		<path>./Aero Fighters 2 (World).cue</path>
+		<name>Aero Fighters 2</name>
+		<desc>Aero Fighters 2 is a vertically-scrolling shooter in the same vein as 1942 and similar games. It supports up to two players and  has 8 different aircraft to choose from, each equipped with unique primary and secondary weapons. Power-ups upgrade the look, power, size and shape of the shots. Bombs activate a special power that usually wipes off the enemies on the screen. The game has a total of 10 stages (Japan, Brazil, Atlantic, U.S.A., France, Australia, Himalayas, Mexico, Hawaii and Space), all of them with a boss battle.</desc>
+		<image>./images/Aero Fighters 2 (World)-image.png</image>
+		<video>./videos/Aero Fighters 2 (World)-video.mp4</video>
+		<marquee>./images/Aero Fighters 2 (World)-marquee.png</marquee>
+		<thumbnail>./images/Aero Fighters 2 (World)-thumb.png</thumbnail>
+		<fanart>./images/Aero Fighters 2 (World)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19940929T000000</releasedate>
+		<developer>Video System</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>b98943e66390aeab3130b73adf40c135</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163547" />
+	</game>
+	<game id="38343">
+		<path>./Aero Fighters 3 (World).cue</path>
+		<name>Aero Fighters 3</name>
+		<desc>Aero Fighters 3 is a vertically-scrolling shooter in the same vein as 1942 and similar games. It supports up to two players and  has 10 different aircraft to choose from, each equipped with unique primary and secondary weapons. Power-ups upgrade the look, power, size and shape of the shots. Bombs activate a special power that usually wipes off the enemies on the screen. The game has a total of 8 stages placed on several countries (Japan, Germany, Libya, Egypt, Pacific, U.S.A., England, France, Panama, Thailand, Ukraine, Atlantic and Space), all of them with a boss battle.</desc>
+		<image>./images/Aero Fighters 3 (World)-image.png</image>
+		<video>./videos/Aero Fighters 3 (World)-video.mp4</video>
+		<marquee>./images/Aero Fighters 3 (World)-marquee.png</marquee>
+		<thumbnail>./images/Aero Fighters 3 (World)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19951208T000000</releasedate>
+		<developer>Video System</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>dfb0941cccde825555e237344955e6d0</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163552" />
+	</game>
+	<game id="38344">
+		<path>./Aggressors of Dark Kombat (World).cue</path>
+		<name>Aggressors Of Dark Kombat</name>
+		<desc>Aggressors of Dark Kombat is another one-on-one street fighting beat 'em up from the Neo-Geo's seemingly endless library of fighters.
+
+It pits 8 fighters of different styles and strengths against each other in a tournament to see who's the toughest mofo on the streets of Tokyo. Your objective as usual is to deplete your opponent's health bar within the time limit by using your basic attacks and special moves (triggered by specific controller motions) while avoiding his moves and attacks.
+
+Unique to Aggressors of Dark Kombat is the combination of traditional side-scrolling beat 'em up elements, meaning characters can freely move in an isometric space instead of being restricted to a single plane of movement. Weapons and throw-able items are usually thrown into the arena by the crowds and you can pick them up and wield them for added damage. Additionally, matches are 1-round only affairs, with an extended multi-layered health bar that allows for longer rounds than usual.</desc>
+		<image>./images/Aggressors of Dark Kombat (World)-image.png</image>
+		<video>./videos/Aggressors of Dark Kombat (World)-video.mp4</video>
+		<marquee>./images/Aggressors of Dark Kombat (World)-marquee.png</marquee>
+		<thumbnail>./images/Aggressors of Dark Kombat (World)-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>19950113T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>f7d3cbc80d6a4a41d57a5e898178bf95</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163559" />
+	</game>
+	<game id="38345">
+		<path>./Art of Fighting (World).cue</path>
+		<name>Art of Fighting</name>
+		<desc>Yuri Sakazaki has been kidnapped! Her big brother Ryo Sakazaki and Robert Garcia, his best friend, go search for her on the streets of South Town. As they go deeper and deeper they will find clues as to who ordered the kidnapping, the Sakazaki family's relation to the mob, and a person from their past.
+
+This fighting game is a coin-op conversion of the Neo-Geo hit of the same name, and has all characters, stages, and moves featured in the arcade unit. Unlike the original arcade version, players can now play as Mr. Big and the elusive Mr. Karate.
+
+The gameplay differs from most fighting games. In this game, you have a Spirit meter. A Spirit meter is in the game and will decrease as you perform special moves. It can be recharged, but doing so leaves you open to attack. When your health is almost gone, you can perform a secret combination that will unleash a deadly attack on your opponent - provided you have a full Spirit meter.</desc>
+		<image>./images/Art of Fighting (World)-image.png</image>
+		<video>./videos/Art of Fighting (World)-video.mp4</video>
+		<marquee>./images/Art of Fighting (World)-marquee.png</marquee>
+		<thumbnail>./images/Art of Fighting (World)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>4039339922bc61193c9794c693888713</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163718" />
+	</game>
+	<game id="38346">
+		<path>./Art of Fighting 2 (World).cue</path>
+		<name>Art of Fighting 2</name>
+		<desc>In this sequel to the original Art of Fighting, and prequel to the original Fatal Fury, we learn that Mr. Karate, the final boss of the original game, behind the mask, is really Takuma Sakazaki, Ryo and Yuri's father, that Takuma was being used by Geese Howard for his own evil intentions, and that Mr. Big was the one who had originally kidnapped Yuri.
+
+Many of the problems that existed in the first game have been fixed in this installment (it is easier to execute special moves, you no longer have only Ryo or Robert to choose from in 1 player mode, etc.).
+
+The entire cast from the first Art of Fighting is here (with the exceptions of Todo and Mr. Karate), along with a few new characters: Takuma Sakazaki, Ryo and Yuri's father; Yuri Sakazaki, Takuma's daughter and Ryo's sister; Eiji Kisaragi, a sworn enemy of the Sakazakis; Temjin, a Mongolian trucker; and a younger version of Geese Howard, whom you face as the last boss if you beat the game without losing a round.</desc>
+		<image>./images/Art of Fighting 2 (World)-image.png</image>
+		<video>./videos/Art of Fighting 2 (World)-video.mp4</video>
+		<marquee>./images/Art of Fighting 2 (World)-marquee.png</marquee>
+		<thumbnail>./images/Art of Fighting 2 (World)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>073e687951148b1925e34d48fcd7272e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163718" />
+	</game>
+	<game id="38347">
+		<path>./Art of Fighting 3 - The Path of the Warrior (World) - [CDZ patched].cue</path>
+		<name>Art of Fighting 3 : The Path of the Warrior</name>
+		<desc>In this third and final entry in the Art of Fighting series, the story shifts from Ryo Sakazaki to his best friend and rival, Robert Garcia, as he ventures into Mexico to try and locate Freia Lawrence, a childhood friend, who asked for his help. However, he leaves without the consent of The Garcia Foundation, which sends an agent named Karman Cole to get him back. But not everything is as simple as it looks... because Robert is not the only one looking for Freia.
+
+Art of Fighting 3: The Path of The Warrior features ten playable characters with different fighting styles, a completely new fighting system based on joystick and button combinations, and incredibly detailed graphics and animation.</desc>
+		<image>./images/Art of Fighting 3 - The Path of the Warrior (World) - [CDZ patched]-image.png</image>
+		<video>./videos/Art of Fighting 3 - The Path of the Warrior (World) - [CDZ patched]-video.mp4</video>
+		<marquee>./images/Art of Fighting 3 - The Path of the Warrior (World) - [CDZ patched]-marquee.png</marquee>
+		<thumbnail>./images/Art of Fighting 3 - The Path of the Warrior (World) - [CDZ patched]-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>19960914T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>230dae612632dcb78623c24e0b75e692</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163718" />
+	</game>
+	<game id="190921">
+		<path>./Bang Bang Busters (World).cue</path>
+		<name>Bang Bang Busters</name>
+		<desc>After choosing your favorite character (Lazy or Refia), you come to a cute kinematic with our heroes in their space ship, landing on the planet Palua. Seven zones await players, broken down into numerous levels. Ice, green forests, towering waterfalls, castles, evil mountains, Egyptian pyramids... What a world! With such diversity, the no need to say the backgrounds are varied and the graphics exotic!</desc>
+		<image>./images/Bang Bang Busters (World)-image.png</image>
+		<video>./videos/Bang Bang Busters (World)-video.mp4</video>
+		<marquee>./images/Bang Bang Busters (World)-marquee.png</marquee>
+		<thumbnail>./images/Bang Bang Busters (World)-thumb.png</thumbnail>
+		<releasedate>20120628T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>Neo Conception International</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>1-2</players>
+		<md5>c2537724f107e3c4f9cb67fa42a8da02</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163718" />
+	</game>
+	<game id="38351">
+		<path>./Breakers (World).cue</path>
+		<name>Breakers</name>
+		<desc>In Breakers, choose one of eight fighters who have their own moves and special attacks. There are eight stages in the game, and each stage has two battles. The object of each battle is to drain your opponent's energy in order to win the battle. If there is a draw, a third battle takes place. If the time limit expires, the player with the less energy loses the battle. Once you have completed all eight stages, you will face a opponent that is much tougher than previous ones. Different endings and in-game dialog are viewed depending on the character that you select.</desc>
+		<image>./images/Breakers (World)-image.png</image>
+		<video>./videos/Breakers (World)-video.mp4</video>
+		<marquee>./images/Breakers (World)-marquee.png</marquee>
+		<thumbnail>./images/Breakers (World)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19970425T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>Visco</publisher>
+		<genre>Fight / 2D</genre>
+		<players>1-2</players>
+		<md5>e4b91f979cd2d1c19d4b09ae297c0772</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163718" />
+	</game>
+	<game id="38352">
+		<path>./Burning Fight (World).cue</path>
+		<name>Burning Fight</name>
+		<desc>The Castella family from the Metro City started ruining the peaceful city of Osaka with the violent Japanese group, "Heiwa-gumi". To stop the fight, Metro police detectives dispatched two dangerous characters, Duke and Billy, to Japan. With the support of the famous Japanese detective Ryu, they decided to rush into the enemy's fortress. Ruthless violence in the neon lights of Osaka. Will there be an end to this war?
+
+Burning Fight is a side-scrolling street-fighting game similar to Final Fight. As Duke, Billy, or Ryu, you must fight your way through the various locations in Osaka. At the start of the game, you can only use your fists to deal with gangs, but by by breaking things like phone booths and street signs along the way, you can get new weapons and more health. At the end of each location, you will have to defeat a boss in order to continue the mission.</desc>
+		<image>./images/Burning Fight (World)-image.png</image>
+		<video>./videos/Burning Fight (World)-video.mp4</video>
+		<marquee>./images/Burning Fight (World)-marquee.png</marquee>
+		<thumbnail>./images/Burning Fight (World)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>5235f02500d104858954ab682e05f3c7</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163718" />
+	</game>
+	<game id="38354">
+		<path>./Crossed Swords (World).cue</path>
+		<name>Crossed Swords</name>
+		<desc>As a knight, you must travel the countryside fighting monsters and bandits using your sword and shield. When you enter combat the view changes to a pseudo 1st-person perspective where the body of your knight is outlined so that you can see the creatures that you are fighting. When enemies have been defeated, they drop money and power-ups. There are seven chapters in the game, and each chapter (except one) starts with you entering a merchant's shop and buying weapons using the money that you have collected so far. There are also alternate paths which take you to different parts of the game. At the start of the game, you may choose a chapter (from one to three only) you want to start at.</desc>
+		<image>./images/Crossed Swords (World)-image.png</image>
+		<video>./videos/Crossed Swords (World)-video.mp4</video>
+		<marquee>./images/Crossed Swords (World)-marquee.png</marquee>
+		<thumbnail>./images/Crossed Swords (World)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19941031T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+		<md5>8b7edecc15d2b15a6153a79521f11d13</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163718" />
+	</game>
+	<game id="143259">
+		<path>./Crossed Swords II (World).cue</path>
+		<name>Crossed Swords II</name>
+		<desc>Crossed Swords II features the same gameplay from its predecessor (Crossed Swords on Neo Geo MVS and AES). The player is given a first-person view with a third-person silhouette/wire-frame view of the character similar to the Punch-Out!! arcade game. New to this sequel is the addition of a new button for jumping and dashing, giving the player more maneuverability and allowing him to dodge incoming attacks. By pressing the attack button after dashing the player will make a horizontal slash which stuns enemies briefly, and by pressing the attack button after jumping the player will make a powerful downward slash.</desc>
+		<image>./images/Crossed Swords II (World)-image.png</image>
+		<video>./videos/Crossed Swords II (World)-video.mp4</video>
+		<marquee>./images/Crossed Swords II (World)-marquee.png</marquee>
+		<thumbnail>./images/Crossed Swords II (World)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19950502T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>ADK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>2d254479bd108eb672254a3481e50ae4</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163718" />
+	</game>
+	<game id="38355">
+		<path>./Cyber-Lip (World).cue</path>
+		<name>Cyber-lip</name>
+		<desc>Cyber-Lip is a 1-2 player side-scrolling game where you must fight your way through several areas, and defeat a boss at the end of each one. Along the way, you can pick up a variety of weapons along the way, and use them against the invaders. By destroying certain enemies, you receive a "core bot", which is a ring that surrounds you, and when this touches the invaders, they are destroyed. Time is against you. When it expires, you lose a life. Between most levels, you enter an elevator that allows you to go in whatever direction that you please: up or down. If you wait to long to make a selection, you are automatically placed in the "Danger" mission.</desc>
+		<image>./images/Cyber-Lip (World)-image.png</image>
+		<video>./videos/Cyber-Lip (World)-video.mp4</video>
+		<marquee>./images/Cyber-Lip (World)-marquee.png</marquee>
+		<thumbnail>./images/Cyber-Lip (World)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19950421T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>99b8b4dd969ab789346634508c40804c</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163718" />
+	</game>
+	<game id="38353">
+		<path>./Bust-A-Move (World).cue</path>
+		<name>Bust-A-Move</name>
+		<desc>The classic game Bubble Bobble is the ancestor of Puzzle Bobble. Your aim in each stage is to break all the bubbles, by breaking 3 or more of the same color.  The game contains a two-player mode where each player tries to break all bubbles first.</desc>
+		<image>./images/Bust-A-Move (World)-image.png</image>
+		<video>./videos/Bust-A-Move (World)-video.mp4</video>
+		<marquee>./images/Bust-A-Move (World)-marquee.png</marquee>
+		<thumbnail>./images/Bust-A-Move (World)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19950502T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<md5>8d67f38f13a36a7980630124e2caf68f</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163718" />
+	</game>
+	<game id="38371">
+		<path>./King of Fighters '99, The - Millennium Battle (World) - [CDZ patched].cue</path>
+		<name>The King of Fighters '99: Millennium Battle</name>
+		<desc>It's time once again for the famous KOF Tournament! New faces and old alike join together to participate in the latest KOF tournament, but something seems wrong. Why was this year's tournament announced without fanfare? What could be up? That's for you to find out! Featuring classic KOF gameplay with a new twist: The Striker Match!</desc>
+		<image>./images/King of Fighters '99, The - Millennium Battle (World) - [CDZ patched]-image.png</image>
+		<video>./videos/King of Fighters '99, The - Millennium Battle (World) - [CDZ patched]-video.mp4</video>
+		<marquee>./images/King of Fighters '99, The - Millennium Battle (World) - [CDZ patched]-marquee.png</marquee>
+		<thumbnail>./images/King of Fighters '99, The - Millennium Battle (World) - [CDZ patched]-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19991202T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<family>The King of Fighters</family>
+		<players>1-2</players>
+		<md5>e9a123275defe84be6a2c6f319346ad4</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163718" />
+	</game>
+	<game id="38377">
+		<path>./Magical Drop 2 (World).cue</path>
+		<name>Magical Drop II</name>
+		<desc>In Magical Drop II, you control a clown that can grab and throw balloons. You have to match three balloons of the same colour or more vertically to pop them and clear the screen. You can hold multiple balloons of the same colour at once and cause consecutive collisions. There are special balloons that cannot be removed that easily and power-ups that clear entire rows or provide additional help.
+
+Depending of the originating country, there are different game modes:
+
+1. Survival: Play as long as you can - an endless flow of balloons appears at a rapidly increasing speed while you move up levels.
+
+2. Puzzle: You have a limited time to clear a fixed set of balloons before time runs out.
+
+3. VS Mode: Fight the CPU or a fellow player in a direct split-screen duel. Each character has specific item balloons during gameplay.</desc>
+		<image>./images/Magical Drop 2 (World)-image.png</image>
+		<video>./videos/Magical Drop 2 (World)-video.mp4</video>
+		<marquee>./images/Magical Drop 2 (World)-marquee.png</marquee>
+		<thumbnail>./images/Magical Drop 2 (World)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19960524T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+		<md5>fb375e64bb8e49c3b5cc66b1c65e44f9</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163720" />
+	</game>
+	<game id="143265">
+		<path>./Puzzled (World).cue</path>
+		<name>Puzzled</name>
+		<desc>This game is a crossover between Tetris and Breakout (or Arkanoid) in that your balloon is trapped at the bottom of the puzzle, and you have to break the lines down far enough to give it a clear flight path to the top. Open up a space, and your balloon (shark-shaped if you're the boy) floats to the top, and it's on to the next floor in the tower. Sound easy? It is... at first. The tower is divided into multiple floors, with 10 stages (puzzles) per floor. There are over 50 puzzles here and the action gets pretty furious.</desc>
+		<image>./images/Puzzled (World)-image.png</image>
+		<video>./videos/Puzzled (World)-video.mp4</video>
+		<marquee>./images/Puzzled (World)-marquee.png</marquee>
+		<thumbnail>./images/Puzzled (World)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Thinking</genre>
+		<players>1-2</players>
+		<md5>7cf53bc99ea9e9458a290f63866bb79d</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163724" />
+	</game>
+	<game id="38388">
+		<path>./Real Bout Fatal Fury 2 - The Newcomers (World) - [CDZ patched].cue</path>
+		<name>Real Bout Fatal Fury 2: The Newcomers</name>
+		<desc>SNK's Fatal Fury fighting series reaches its 7th episode bringing a lot of "innovations" and some significant changes, starting from characters: all the 20 fighters from previous game return with new artworks and battle stages completely redrawn, as well as some remodeled (or new) moves.
+
+The traditional fighting system comes with sensible modifications, like the removal of both "Rank System" (SSS, SS, S, AAA etc.) and ground breakable objects. The match system using 2 battle plans (foreground/background) remains semi-intact, because now some battle fields (like Cheng Sinzan's stage) uses a single plane, forcing the players to use only the basic defense to avoid attacks.
+
+But the main addition of this title (and the reason for subtitle "The Newcomers") are 2 new characters entering for Fatal Fury's main cast: Rick Strowd, a mysterious fighter with a particular fighting style and Li Xiangfei, a young female Chinese martial arts fighter.</desc>
+		<image>./images/Real Bout Fatal Fury 2 - The Newcomers (World) - [CDZ patched]-image.png</image>
+		<video>./videos/Real Bout Fatal Fury 2 - The Newcomers (World) - [CDZ patched]-video.mp4</video>
+		<marquee>./images/Real Bout Fatal Fury 2 - The Newcomers (World) - [CDZ patched]-marquee.png</marquee>
+		<thumbnail>./images/Real Bout Fatal Fury 2 - The Newcomers (World) - [CDZ patched]-thumb.png</thumbnail>
+		<fanart>./images/Real Bout Fatal Fury 2 - The Newcomers (World) - [CDZ patched]-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>19980723T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<family>Fatal Fury</family>
+		<players>1-2</players>
+		<md5>44c499cf12a04a40d3179ba030f9b854</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163735" />
+	</game>
+	<game id="38408">
+		<path>./Wind Jammers (World).cue</path>
+		<name>Windjammers</name>
+		<desc>Windjammers is based on a real-life sport known as Saucer Tennis or Frisbee Tennis. You and an opponent face off in an arena with a low net in the middle. Points are scored by throwing a disc into the goals behind a player or whenever your opponent is not able to catch the disc in time. There are two moves: a regular throw and a lob. By using quarter-circle movement, you can also add effect to the throw. To catch difficult discs, you can slide to move more quickly.
+
+There are six characters to choose from, with specific abilities and their own court fit for their skills. A single game consists of short sets of thirty seconds. The game is won after two winning sets or sudden death after two draws.
+
+For the futuristic touch, signature moves are added. To charge these special moves, you need to block, toss or lob the disc and then charge while the disc is in the air. These moves can be countered and sometimes they knock an opponent into the goal.
+
+Two mini-games are included in-between levels: play fetch with a dog and Flying Disc Bowling.</desc>
+		<image>./images/Wind Jammers (World)-image.png</image>
+		<video>./videos/Wind Jammers (World)-video.mp4</video>
+		<marquee>./images/Wind Jammers (World)-marquee.png</marquee>
+		<thumbnail>./images/Wind Jammers (World)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19950120T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<md5>e0f6e705669070dec29fa341ed2862b3</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163744" />
+	</game>
+	<game id="38356">
+		<path>./Double Dragon (World) - [19950424].cue</path>
+		<name>Double Dragon</name>
+		<desc>Released around the same time as the film of the same name and loosely based on its story, this installment in the Double Dragon series also moves away from the traditional roam-the-streets-fighting to a pure one-on-one fighter. There are ten characters to choose from, including Billy and Jimmy and the game has colorful interactive backgrounds, screen zooming, over-the-top special moves and with the inclusion of double jumps, combos, charges for the losing player and counter hits, there is plenty of room for advanced fighting strategies.</desc>
+		<image>./images/Double Dragon (World) - [19950424]-image.png</image>
+		<video>./videos/Double Dragon (World) - [19950424]-video.mp4</video>
+		<marquee>./images/Double Dragon (World) - [19950424]-marquee.png</marquee>
+		<thumbnail>./images/Double Dragon (World) - [19950424]-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19950602T000000</releasedate>
+		<developer>Technos Japan Corp.</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight</genre>
+		<family>Double Dragon</family>
+		<players>1-2</players>
+		<md5>15cba0fab2884c6c4d5c8cdf3ec23006</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163804" />
+	</game>
+	<game id="143262">
+		<path>./Fatal Fury - The Battle of Fury (World).cue</path>
+		<name>Fatal Fury : King of Fighters</name>
+		<desc>This is the first game in the Fatal Fury series. It marks the appearance of Terry Bogard, a character appreciated by players.
+Geese Howard, the leader of South Town, killed Jeff Bogard, Terry Bogard's father and Andy Bogard, they vowed to avenge their father. Tung Fu Rue then decided to train Terry and Andy in martial arts. A few years later, Geese announced the King of Fighters tournament. Terry and Andy, accompanied by their friend Joe Higashi, signed up for the King of Fighters in the hope of reaching the final round against Geese, and taking revenge on Jeff.</desc>
+		<image>./images/Fatal Fury - The Battle of Fury (World)-image.png</image>
+		<video>./videos/Fatal Fury - The Battle of Fury (World)-video.mp4</video>
+		<marquee>./images/Fatal Fury - The Battle of Fury (World)-marquee.png</marquee>
+		<thumbnail>./images/Fatal Fury - The Battle of Fury (World)-thumb.png</thumbnail>
+		<fanart>./images/Fatal Fury - The Battle of Fury (World)-fanart.jpg</fanart>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight</genre>
+		<family>Fatal Fury</family>
+		<players>1-2</players>
+		<md5>286ce51b3fcf7c78a032918c0dfed6f8</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163804" />
+	</game>
+	<game id="38358">
+		<path>./Fatal Fury 2 (World).cue</path>
+		<name>Fatal Fury 2</name>
+		<desc>Again, the Lone Wolves return!
+
+Geese Howard may have been defeated, but that doesn't mean all is peaceful. A new opponent, Wolfgang Krauser, has come forth to begin a new Fatal Fury tournament. The Lone Wolves return, with new faces amongst them. Only one can be declared the winner though.</desc>
+		<image>./images/Fatal Fury 2 (World)-image.png</image>
+		<video>./videos/Fatal Fury 2 (World)-video.mp4</video>
+		<marquee>./images/Fatal Fury 2 (World)-marquee.png</marquee>
+		<thumbnail>./images/Fatal Fury 2 (World)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<family>Fatal Fury</family>
+		<players>1-2</players>
+		<md5>37dc08957e6a11561b4ba4a4b82e5083</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163821" />
+	</game>
+	<game id="38359">
+		<path>./Fatal Fury 3 - Road to the Final Victory (World).cue</path>
+		<name>Fatal Fury 3 : Road to the Final Victory</name>
+		<desc>An adaptation of the Neo-Geo fighting game.  2-D scrolling one-on-one fighter with pseudo-3D aspects (that allows for players to "escape" holds, throws, and other attacks.)  Part of the incestuously-popular SNK fighting game pantheon...</desc>
+		<image>./images/Fatal Fury 3 - Road to the Final Victory (World)-image.png</image>
+		<video>./videos/Fatal Fury 3 - Road to the Final Victory (World)-video.mp4</video>
+		<marquee>./images/Fatal Fury 3 - Road to the Final Victory (World)-marquee.png</marquee>
+		<thumbnail>./images/Fatal Fury 3 - Road to the Final Victory (World)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19950428T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<family>Fatal Fury</family>
+		<players>1-2</players>
+		<md5>165e136b178083ba7e93dc1e6c910539</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T163932" />
+	</game>
+	<game id="38360">
+		<path>./Fatal Fury Special (World).cue</path>
+		<name>Fatal Fury Special</name>
+		<desc>Fatal Fury Special is an improved version of SNK's 2D one-on-one fighter Fatal Fury 2. It's a conversion of the 1993 arcade game of the same name. The objective is still to win the tournament by defeating all other fighters including end boss Wolfgang Krauser. A new Count Down mode (defeat as many opponents as possible in 3 minutes). Extra color schemes for every character. New and improved background graphics. Dolby Surround Sound support. Fatal Fury Special still features the series' trademark pseudo-3D movement along two planes.</desc>
+		<image>./images/Fatal Fury Special (World)-image.png</image>
+		<video>./videos/Fatal Fury Special (World)-video.mp4</video>
+		<marquee>./images/Fatal Fury Special (World)-marquee.png</marquee>
+		<thumbnail>./images/Fatal Fury Special (World)-thumb.png</thumbnail>
+		<fanart>./images/Fatal Fury Special (World)-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<family>Fatal Fury</family>
+		<players>1-2</players>
+		<md5>c11e8a7356d5dd212b31b376346cd3ba</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T164057" />
+	</game>
+	<game id="38363">
+		<path>./Galaxy Fight - Universal Warriors (World).cue</path>
+		<name>Galaxy Fight: Universal Warriors</name>
+		<desc>As the millennium nears in the far future, a being of ultimate power named Felden will make his appearance in the galaxy. It is unknown whether he comes to destroy all living beings or use his powers for good, but whatever the reason a group of skilled fighters from all corners of the universe have decided to beat each other up in order to face off against him and claim his power.
+
+Enter Galaxy Fight, a one-on-one 2D fighter set in the far future and featuring sci-fi characters and settings. In the game itself, you have to select from 8 fighters, each with his unique moveset and stats, and then attempt to defeat the other character in 2 out of 3 matches using your special moves and attacks while avoiding your opponent's strikes.
+
+Features single player and 2-player Vs. game modes, secret bosses and bonus rounds.</desc>
+		<image>./images/Galaxy Fight - Universal Warriors (World)-image.png</image>
+		<video>./videos/Galaxy Fight - Universal Warriors (World)-video.mp4</video>
+		<marquee>./images/Galaxy Fight - Universal Warriors (World)-marquee.png</marquee>
+		<thumbnail>./images/Galaxy Fight - Universal Warriors (World)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19950421T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>c311e34186ad3f25211df1ddbf1bd627</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T164057" />
+	</game>
+	<game id="38364">
+		<path>./Ghost Pilots (World).cue</path>
+		<name>Ghost Pilots</name>
+		<desc>Ghost Pilots is an overhead military plane shooter, in which you must shoot down fighter jets by either using bullets or bombs. Once you have killed enough fighter jets, you will have to defeat a boss fighter jet in order to continue. After some stages, you must select a route to continue your journey on. Power-ups can be collected that will increase your firepower, and stars can be obtained for extra points.</desc>
+		<image>./images/Ghost Pilots (World)-image.png</image>
+		<video>./videos/Ghost Pilots (World)-video.mp4</video>
+		<marquee>./images/Ghost Pilots (World)-marquee.png</marquee>
+		<thumbnail>./images/Ghost Pilots (World)-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>19950317T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>90aab81ed32aadfa8a334af0a3bd1e93</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T164057" />
+	</game>
+	<game id="143257">
+		<path>./Ironclad (World).cue</path>
+		<name>Ironclad</name>
+		<desc>Ironclad is a side-scrolling shoot 'em up for the Neo Geo CD. Use your war ship to save the Kingdom of Chop from the Iron Mask Republic. You can use three main blast weapons, which are upgradable when you collect more items, a charged attack available when Iron Clad is attached to your ship, three melee weapons, a bomber that clears all enemy bullets, and varying shooting patterns. Stages are selectable, and there are multiple endings.</desc>
+		<image>./images/Ironclad (World)-image.png</image>
+		<video>./videos/Ironclad (World)-video.mp4</video>
+		<marquee>./images/Ironclad (World)-marquee.png</marquee>
+		<thumbnail>./images/Ironclad (World)-thumb.png</thumbnail>
+		<fanart>./images/Ironclad (World)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>19960920T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<md5>d0d56ec9421522790ff2403416bfaf09</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221101T164057" />
+	</game>
+	<game>
+		<path>./Kabuki Klash (World).cue</path>
+		<name>Kabuki Klash (World)</name>
+		<md5>923efe1f5c0b54003a60767dc8e44eb2</md5>
+	</game>
 </gameList>
