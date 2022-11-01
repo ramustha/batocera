@@ -1,0 +1,1074 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="191685">
+		<path>./2048.uze</path>
+		<name>2048</name>
+		<desc>2048 is played on a simple gray 4×4 grid, with numbered tiles that slide smoothly when a player moves them using the four arrow keys. Every turn, a new tile will randomly appear in an empty spot on the board with a value of either 2 or 4. Tiles slide as far as possible in the chosen direction until they are stopped by either another tile or the edge of the grid. If two tiles of the same number collide while moving, they will merge into a tile with the total value of the two tiles that collided. The resulting tile cannot merge with another tile again in the same move. (source Wikipedia).</desc>
+		<image>./images/2048-image.png</image>
+		<video>./videos/2048-video.mp4</video>
+		<marquee>./images/2048-marquee.png</marquee>
+		<thumbnail>./images/2048-thumb.png</thumbnail>
+		<releasedate>20140816T000000</releasedate>
+		<developer>Hartmut Wendt</developer>
+		<publisher>Uzebox</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>6696dad0719df3341b14e4c371286a4a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175428" />
+	</game>
+	<game id="191686">
+		<path>./65536in1.uze</path>
+		<name>65536 In 1</name>
+		<desc>65536 glorious games packed into less than 60kB! The result is a consistent experience comparable to those chinese cartridges we used to buy in the 90s and early 00s with a ludicrous amount of games, some good, some bad. Figuring out the games is supposed to be part of the fun, like it was back in the day when you didn't have the manual.</desc>
+		<image>./images/65536in1-image.png</image>
+		<marquee>./images/65536in1-marquee.png</marquee>
+		<thumbnail>./images/65536in1-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>20161218T000000</releasedate>
+		<developer>Flavio Zavan</developer>
+		<publisher>Uzebox</publisher>
+		<genre>Thinking</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221101T180338</lastplayed>
+		<md5>a4948466074e9e2a54796c38e1259afd</md5>
+		<gametime>10</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175430" />
+	</game>
+	<game id="191687">
+		<path>./ae (1).uze</path>
+		<name>Alter Ego</name>
+		<desc>Alter Ego is a unique platform puzzle game. Players will use their alter ego to swap position, collect pixels, and solve levels. The gameplay explains itself starting from very easy to some difficult parts later on. At the time of original release, all 25 levels from the original Alter Ego are included. The following episode includes all the levels from Alter Ego 2 with all the new gameplay elements supported.</desc>
+		<image>./images/ae (1)-image.png</image>
+		<video>./videos/ae (1)-video.mp4</video>
+		<marquee>./images/ae (1)-marquee.png</marquee>
+		<thumbnail>./images/ae (1)-thumb.png</thumbnail>
+		<releasedate>20141120T000000</releasedate>
+		<developer>Lee Weber (D3thAdd3r)</developer>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>234bc85bddf914b28f662323540afd89</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175434" />
+	</game>
+	<game id="191687">
+		<path>./ae.uze</path>
+		<name>Alter Ego</name>
+		<desc>Alter Ego is a unique platform puzzle game. Players will use their alter ego to swap position, collect pixels, and solve levels. The gameplay explains itself starting from very easy to some difficult parts later on. At the time of original release, all 25 levels from the original Alter Ego are included. The following episode includes all the levels from Alter Ego 2 with all the new gameplay elements supported.</desc>
+		<image>./images/ae-image.png</image>
+		<video>./videos/ae-video.mp4</video>
+		<marquee>./images/ae-marquee.png</marquee>
+		<thumbnail>./images/ae-thumb.png</thumbnail>
+		<releasedate>20141120T000000</releasedate>
+		<developer>Lee Weber (D3thAdd3r)</developer>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>234bc85bddf914b28f662323540afd89</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175437" />
+	</game>
+	<game id="191688">
+		<path>./Arkanoid.uze</path>
+		<name>Arkanoid</name>
+		<desc>The classic arcade game ported to the Uzebox. There's no enemies though due to RAM and CPU limitations.</desc>
+		<image>./images/Arkanoid-image.png</image>
+		<video>./videos/Arkanoid-video.mp4</video>
+		<marquee>./images/Arkanoid-marquee.png</marquee>
+		<thumbnail>./images/Arkanoid-thumb.png</thumbnail>
+		<fanart>./images/Arkanoid-fanart.jpg</fanart>
+		<releasedate>20081228T000000</releasedate>
+		<developer>Uze (Alec Bourque)</developer>
+		<genre>Action / Breakout games</genre>
+		<family>Arkanoid</family>
+		<players>1</players>
+		<md5>011a0f5880c4c2baf6c5bfbac6b28129</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175441" />
+	</game>
+	<game id="191689">
+		<path>./Atomix.uze</path>
+		<name>Atomix</name>
+		<desc>Logical puzzle, goal is to build molecule of atoms.
+50 levels (by Andreas Wuest)
+Status of each level (if is done) is saved in EEPROM.
+Counting moves, distance and time in level</desc>
+		<image>./images/Atomix-image.png</image>
+		<video>./videos/Atomix-video.mp4</video>
+		<marquee>./images/Atomix-marquee.png</marquee>
+		<thumbnail>./images/Atomix-thumb.png</thumbnail>
+		<releasedate>20110914T000000</releasedate>
+		<developer>Martin Šustek</developer>
+		<publisher>Uzebox</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>0361bd8008d583670210627eda1fe482</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175445" />
+	</game>
+	<game id="191691">
+		<path>./BABTOWER.UZE</path>
+		<name>Babylon Tower</name>
+		<desc>Babylon Tower is a puzzle game where the goal is to line up colored balls 5 in a row either horizontally or vertically. All balls are inside movable rings that can rotate on 1 axis. There is an additional ring with a cutaway that can be used to move a ball from one column to the next.</desc>
+		<image>./images/BABTOWER-image.png</image>
+		<video>./videos/BABTOWER-video.mp4</video>
+		<marquee>./images/BABTOWER-marquee.png</marquee>
+		<thumbnail>./images/BABTOWER-thumb.png</thumbnail>
+		<releasedate>20150306T000000</releasedate>
+		<developer>Kerby</developer>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>169256735e017c1fb8632168c4450b07</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175449" />
+	</game>
+	<game id="191690">
+		<path>./BCDASH.UZE</path>
+		<name>B.C. Dash</name>
+		<desc>B.C. Dash is a platformer game that pits you against the environment as you race against the clock for the fastest time. On your hazardous journey you will negotiate all manner of awkward terrain and encounter a host of strange artifacts that may aid or ail. You must combine your swift feline reactions with the cunning of a ...snail? Yes, a snail, in order to achieve the fastest dash since Thor and Grog!
+
+Bob B.C. Dash was originally named B.C. Bob and was to star Bob. But Bob lost his stone wheel... maybe he'll find it again at a later date.
+
+B.C. Dash was made with the help of the Platz toolset.</desc>
+		<image>./images/BCDASH-image.png</image>
+		<video>./videos/BCDASH-video.mp4</video>
+		<marquee>./images/BCDASH-marquee.png</marquee>
+		<thumbnail>./images/BCDASH-thumb.png</thumbnail>
+		<releasedate>20091025T000000</releasedate>
+		<developer>Paul McPhee</developer>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>a5168f771b38d1e3a379076e7b7a04c0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175453" />
+	</game>
+	<game id="191694">
+		<path>./Boulderdash.uze</path>
+		<name>Boulderdash</name>
+		<desc>A version of the classic Boulderdash game from the C64 era.
+Collect diamonds and don't get crushed!</desc>
+		<image>./images/Boulderdash-image.png</image>
+		<video>./videos/Boulderdash-video.mp4</video>
+		<marquee>./images/Boulderdash-marquee.png</marquee>
+		<thumbnail>./images/Boulderdash-thumb.png</thumbnail>
+		<releasedate>20090402T000000</releasedate>
+		<developer>AJX</developer>
+		<genre>Puzzle-Game</genre>
+		<family>Boulder Dash</family>
+		<players>1</players>
+		<md5>efad4c80dcbcbc49ef6e5f6cd1828eb4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175456" />
+	</game>
+	<game id="191696">
+		<path>./bugz.uze</path>
+		<name>Bugz</name>
+		<desc>Bugz is an all-original 2D platformer, written specifically for the Uzebox. It has 21 levels, and the object is to collect all the cookies in each level without dying. If you can finish the level before the time bonus reaches zero, you'll get a higher score. Killing the bugs will also increase your score. Includes single player, and multiplayer modes.</desc>
+		<image>./images/bugz-image.png</image>
+		<video>./videos/bugz-video.mp4</video>
+		<marquee>./images/bugz-marquee.png</marquee>
+		<thumbnail>./images/bugz-thumb.png</thumbnail>
+		<releasedate>20151003T000000</releasedate>
+		<developer>Matt Pandina (Artcfox)</developer>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<md5>b62117e7c6448e266ce9f7f8d46def5a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175500" />
+	</game>
+	<game id="191697">
+		<path>./Candle.uze</path>
+		<name>Candle Burner</name>
+		<desc>'Candle Burner' it's a small sleight game inspired by this homebrew game for the Commodore C64.
+
+Of course with better graphic as the C64 version ;-) and some additional twists.</desc>
+		<image>./images/Candle-image.png</image>
+		<video>./videos/Candle-video.mp4</video>
+		<marquee>./images/Candle-marquee.png</marquee>
+		<thumbnail>./images/Candle-thumb.png</thumbnail>
+		<releasedate>20131225T000000</releasedate>
+		<developer>Hartmut Wendt (Harty123)</developer>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>497903b2bedbe9628e2d9cb752c97b6c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175503" />
+	</game>
+	<game id="191699">
+		<path>./CCHOPPER.UZE</path>
+		<name>Chickens In Choppers</name>
+		<desc>The whole game references a folkish song called "Cows with guns" by an artist called Dana Lyons. In the song the said cows (with guns) were evading capture so they would not be sent to Macdonalds to be turned into burgers. The final verse of the song goes
+
+The order was given to turn cows to whoppers Enforced by the might of ten thousand coppers But on the horizon surrounding the shoppers Came the deafening roar of chickens in choppers</desc>
+		<image>./images/CCHOPPER-image.png</image>
+		<video>./videos/CCHOPPER-video.mp4</video>
+		<marquee>./images/CCHOPPER-marquee.png</marquee>
+		<thumbnail>./images/CCHOPPER-thumb.png</thumbnail>
+		<releasedate>20161218T000000</releasedate>
+		<developer>CunningFellow</developer>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<md5>d781bdc469c322270bb7b6f177435e8a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175512" />
+	</game>
+	<game id="191698">
+		<path>./Chess4uzebox.uze</path>
+		<name>Chess For Uzebox</name>
+		<desc>The game chess4uzebox is implementation of well-known board game.
+1 player game (player vs. CPU) / 2 player game (multiplayer on 1 or 2 controllers) / CPU vs. CPU game.
+4 levels of CPU skills (ELO rating around 1060-1575 according to some position test).
+Option to temporarily disable display during computations, to make it faster.
+Demo mode (no music, no turbo, easy vs easy).
+Minimalistic chess engine - originally it was micro-Max by by H.G. Muller (http://home.hccnet.nl/h.g.muller/max-src2.html), ported to AVR by Andre Adrian (http://www.andreadrian.de/schach/#Selbstbau_Schachcomputer_SHAH).
+Full FIDE rules.</desc>
+		<image>./images/Chess4uzebox-image.png</image>
+		<marquee>./images/Chess4uzebox-marquee.png</marquee>
+		<thumbnail>./images/Chess4uzebox-thumb.png</thumbnail>
+		<releasedate>20110911T000000</releasedate>
+		<developer>Martin Šustek</developer>
+		<publisher>Uzebox</publisher>
+		<genre>Board game</genre>
+		<players>1-2</players>
+		<md5>573592c9c5d96f42f6860db20cf4a645</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175515" />
+	</game>
+	<game>
+		<path>./circuit.uze</path>
+		<name>circuit</name>
+		<md5>3554678c7668db469c667d3588268146</md5>
+		<scrap name="ScreenScraper" date="20221101T175516" />
+	</game>
+	<game id="191702">
+		<path>./cn.uze</path>
+		<name>Corrida Nebososa</name>
+		<desc>Corrida Nebososa is a racing game where you can race you friends or the computer. Race the computer or your friends. Create your own tracks and save up to two of them at the same time in just one EEPROM block. Four original songs.</desc>
+		<image>./images/cn-image.png</image>
+		<marquee>./images/cn-marquee.png</marquee>
+		<thumbnail>./images/cn-thumb.png</thumbnail>
+		<releasedate>20100404T000000</releasedate>
+		<developer>Flavio Zavan (Nebososo)</developer>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<md5>14a856d8d6a52ed80d5185bc7437bbff</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175519" />
+	</game>
+	<game id="191701">
+		<path>./COLUMNS.UZE</path>
+		<name>Columns</name>
+		<desc>Columns if a fast paced competitive puzzle game for 1 or 2 players. Fight to the end, crush or be crushed!</desc>
+		<image>./images/COLUMNS-image.png</image>
+		<video>./videos/COLUMNS-video.mp4</video>
+		<marquee>./images/COLUMNS-marquee.png</marquee>
+		<thumbnail>./images/COLUMNS-thumb.png</thumbnail>
+		<releasedate>20130310T000000</releasedate>
+		<developer>Lee Weber (D3thAdd3r)</developer>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<md5>99666b7c93aca68c5522c2e7b412f98b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175524" />
+	</game>
+	<game>
+		<path>./ControllerTester.uze</path>
+		<name>ControllerTester</name>
+		<md5>9f01258e4a16d4bd6ef32611f3433203</md5>
+		<scrap name="ScreenScraper" date="20221101T175525" />
+	</game>
+	<game id="191703">
+		<path>./Daleks.uze</path>
+		<name>Daleks</name>
+		<desc>You get an action which includes: a move, teleport, or use of the Sonic Screwdriver. The Daleks will then move. If Daleks occupy the same space, they crash and die. Daleks are stupid and will run into other already crashed Daleks and die as well.
+
+The sonic screw driver can be used once be level, and will kill/remove all LIVING Dalek adjacent to the player.
+
+To keep order to the game, you need to press "A" to confirm your move,
+
+After all the Daleks are killed in a level, you start the next level which has more Daleks.
+
+You can teleport any unlimited number of times, but MAY teleport into a Dalek, including a crashed Dalek, and adjacent to a Dalek which will then move and kill the player.</desc>
+		<image>./images/Daleks-image.png</image>
+		<video>./videos/Daleks-video.mp4</video>
+		<marquee>./images/Daleks-marquee.png</marquee>
+		<thumbnail>./images/Daleks-thumb.png</thumbnail>
+		<releasedate>20120815T000000</releasedate>
+		<developer>Mapes</developer>
+		<genre>Action</genre>
+		<family>Doctor Who</family>
+		<players>1</players>
+		<md5>48a82c45bf09aeec3f31472ca1b2ab13</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175530" />
+	</game>
+	<game id="191704">
+		<path>./Dasboot.uze</path>
+		<name>Boot, Das</name>
+		<desc>Das Boot is a submarine simulation which takes place in a fictional war. The eponymous german film 'Das Boot' lent the game soundtrack, title and name. In the simulation, you command a submarine in the pacific with which you must sink enemy destroyers and submarines. One of the first simulations on the Uzebox, this game uses all the memory, and input functions on gamepad.</desc>
+		<image>./images/Dasboot-image.png</image>
+		<video>./videos/Dasboot-video.mp4</video>
+		<marquee>./images/Dasboot-marquee.png</marquee>
+		<thumbnail>./images/Dasboot-thumb.png</thumbnail>
+		<releasedate>20130122T000000</releasedate>
+		<developer>Dominik Kristen (KILO)</developer>
+		<genre>Simulation / Vehicle</genre>
+		<players>1</players>
+		<md5>ec3e685bfe63a62aee21697277cc640f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175534" />
+	</game>
+	<game id="191705">
+		<path>./DonkeyKong.uze</path>
+		<name>Donkey Kong</name>
+		<desc>Donkey Kong is a re-make of the 1981 classic arcade game. Every attempt was made to keep the Uzebox version faithful to the original.</desc>
+		<image>./images/DonkeyKong-image.png</image>
+		<video>./videos/DonkeyKong-video.mp4</video>
+		<marquee>./images/DonkeyKong-marquee.png</marquee>
+		<thumbnail>./images/DonkeyKong-thumb.png</thumbnail>
+		<fanart>./images/DonkeyKong-fanart.jpg</fanart>
+		<releasedate>20100323T000000</releasedate>
+		<developer>Paul McPhee (music &amp; sfx by Lee Weber)</developer>
+		<genre>Platform</genre>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<md5>079f2159449e1f47b94a4bf907203cc4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175539" />
+	</game>
+	<game id="191706">
+		<path>./DrMario.uze</path>
+		<name>Dr. Mario</name>
+		<desc>This is a remake of Dr.Mario, a classic "falling blocks" game published by Nintendo for the NES in 1990.
+2 player gameplay
+Original gameplay rules with virus numbers configurable per player
+Original music</desc>
+		<image>./images/DrMario-image.png</image>
+		<marquee>./images/DrMario-marquee.png</marquee>
+		<thumbnail>./images/DrMario-thumb.png</thumbnail>
+		<releasedate>20081228T000000</releasedate>
+		<developer>Codecrank</developer>
+		<genre>Puzzle-Game / Fall</genre>
+		<players>2</players>
+		<md5>a28ff30f3dc084e58b9a96dd002711d7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175542" />
+	</game>
+	<game id="191716">
+		<path>./easter.uze</path>
+		<name>Happy Easter</name>
+		<desc>'Happy Easter' is a small arcade game. Help the Easter bunny!
+animated easter bunny, chicken and falling objects
+hall of fame with the names and scores of 3 best players
+2 sound tracks and sound effects</desc>
+		<image>./images/easter-image.png</image>
+		<video>./videos/easter-video.mp4</video>
+		<marquee>./images/easter-marquee.png</marquee>
+		<thumbnail>./images/easter-thumb.png</thumbnail>
+		<releasedate>20120405T000000</releasedate>
+		<developer>Hartmut Wendt (Harty123)</developer>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>24641bee976d06dd5bc7c354b349338c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175547" />
+	</game>
+	<game id="191708">
+		<path>./FinalBlood.uze</path>
+		<name>Final Blood</name>
+		<desc>Final Blood is a little arcade shooter which based on a small game of a 220in1 retro gaming console. Various enemies appear and drive from the left to the right edge of the screen.</desc>
+		<image>./images/FinalBlood-image.png</image>
+		<marquee>./images/FinalBlood-marquee.png</marquee>
+		<thumbnail>./images/FinalBlood-thumb.png</thumbnail>
+		<releasedate>20181221T000000</releasedate>
+		<developer>Dominik Kristen (KILO)</developer>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<md5>77c8c33ebedab4381ea7914fafdb97f0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175549" />
+	</game>
+	<game id="191709">
+		<path>./FIRERSCU.UZE</path>
+		<name>Fireman Rescue</name>
+		<desc>You are part of a firemen team and you must save people jumping out of windows and extinguish all fires!</desc>
+		<image>./images/FIRERSCU-image.png</image>
+		<video>./videos/FIRERSCU-video.mp4</video>
+		<marquee>./images/FIRERSCU-marquee.png</marquee>
+		<thumbnail>./images/FIRERSCU-thumb.png</thumbnail>
+		<releasedate>20130701T000000</releasedate>
+		<developer>Arlof</developer>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>bc56a4264e5de20a18c83d4363a969b4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175553" />
+	</game>
+	<game id="417094">
+		<path>./Foadjam.uze</path>
+		<name>Foadjam</name>
+		<md5>cd86914da608e4cb6fba9c7466105c2a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175554" />
+	</game>
+	<game id="191711">
+		<path>./FRGFEAST.UZE</path>
+		<name>Frog Feast</name>
+		<desc>Frog Feast is a simple game where you control frogs intent on eating flies. The frog with the highest score at the end of the round wins, and perhaps even passes on his legacy to the high score table!</desc>
+		<image>./images/FRGFEAST-image.png</image>
+		<video>./videos/FRGFEAST-video.mp4</video>
+		<marquee>./images/FRGFEAST-marquee.png</marquee>
+		<thumbnail>./images/FRGFEAST-thumb.png</thumbnail>
+		<releasedate>20150215T000000</releasedate>
+		<developer>Lee Weber (D3thAdd3r)</developer>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<md5>8680e6d9eb3ec06580fa220eef21ef14</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175559" />
+	</game>
+	<game id="191713">
+		<path>./gameoflife_1.1.uze</path>
+		<name>Conway's Game Of Life</name>
+		<desc>An implementation Conway's Game Of Life. It's not really a game per se, more a cellular automaton were you set "cells" and watch them evolve according to 4 simple rules.</desc>
+		<image>./images/gameoflife_1.1-image.png</image>
+		<marquee>./images/gameoflife_1.1-marquee.png</marquee>
+		<thumbnail>./images/gameoflife_1.1-thumb.png</thumbnail>
+		<releasedate>20130619T000000</releasedate>
+		<developer>Uze (Alec Bourque)</developer>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<md5>68d2d1eec76343e1e56cb5c8b75e992a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175602" />
+	</game>
+	<game id="191714">
+		<path>./Gghost.uze</path>
+		<name>Ghosty Ghost</name>
+		<desc>Ghosty Ghost is the epic tale of a brand new ghost who's just learning to fly... or something like that.
+
+Simple, familiar, and addictive gameplay. Avoid the obstacles to get as far as you can and beat the top score.</desc>
+		<image>./images/Gghost-image.png</image>
+		<marquee>./images/Gghost-marquee.png</marquee>
+		<thumbnail>./images/Gghost-thumb.png</thumbnail>
+		<releasedate>20150613T000000</releasedate>
+		<developer>James Elliott (kivan117)</developer>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>3d7203fcac915dff266b5d43afd596bf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175605" />
+	</game>
+	<game id="191715">
+		<path>./Gorillas.uze</path>
+		<name>Gorillas</name>
+		<desc>Gorillas is a re-make of the famous QBASIC game Gorillas developed by IBM and published by Microsoft 1991 with MS-DOS 5. 
+1 player mode vs CPU
+2 player mode
+original grafic and game play
+original sound tracks
+enhanced PCM sound effects
+wind speed simulation</desc>
+		<image>./images/Gorillas-image.png</image>
+		<video>./videos/Gorillas-video.mp4</video>
+		<marquee>./images/Gorillas-marquee.png</marquee>
+		<thumbnail>./images/Gorillas-thumb.png</thumbnail>
+		<releasedate>20110804T000000</releasedate>
+		<developer>Hartmut Wendt (Harty123)</developer>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<md5>18dba6d29e7f47b466033a724433f1e0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175609" />
+	</game>
+	<game id="191718">
+		<path>./IROS.UZE</path>
+		<name>Iros</name>
+		<desc>Iros is a platform and shooting game inspired by Solar-Warrior from Technos. It's played on and around 5 diverse planets featuring alternating stages of action platforming and space shooting.
+
+The 5 knights of Iros have stolen your power ups and fled to their home worlds. Destroy them and take back your swag!</desc>
+		<image>./images/IROS-image.png</image>
+		<video>./videos/IROS-video.mp4</video>
+		<marquee>./images/IROS-marquee.png</marquee>
+		<thumbnail>./images/IROS-thumb.png</thumbnail>
+		<releasedate>20180329T000000</releasedate>
+		<developer>Lawrence Brooks</developer>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1</players>
+		<md5>c4f00942900c4a6ef29cf1006966205e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175614" />
+	</game>
+	<game id="191718">
+		<path>./IROSGM.UZE</path>
+		<name>Iros</name>
+		<desc>Iros is a platform and shooting game inspired by Solar-Warrior from Technos. It's played on and around 5 diverse planets featuring alternating stages of action platforming and space shooting.
+
+The 5 knights of Iros have stolen your power ups and fled to their home worlds. Destroy them and take back your swag!</desc>
+		<image>./images/IROSGM-image.png</image>
+		<video>./videos/IROSGM-video.mp4</video>
+		<marquee>./images/IROSGM-marquee.png</marquee>
+		<thumbnail>./images/IROSGM-thumb.png</thumbnail>
+		<releasedate>20180329T000000</releasedate>
+		<developer>Lawrence Brooks</developer>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1</players>
+		<md5>8a32f977af86708289f09075e92d8eea</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175618" />
+	</game>
+	<game>
+		<path>./IROSJAMMA.UZE</path>
+		<name>IROSJAMMA</name>
+		<md5>3e5715f50c9b88cd10d6a2c2033ea064</md5>
+		<scrap name="ScreenScraper" date="20221101T175618" />
+	</game>
+	<game id="191719">
+		<path>./Joyrider.uze</path>
+		<name>Joyrider</name>
+		<desc>Joyrider is an action / driving game for the Uzebox, in the style of the original Grand Theft Auto and Driver games, created by James Howard for the Uzebox Coding Competition 2014.</desc>
+		<image>./images/Joyrider-image.png</image>
+		<video>./videos/Joyrider-video.mp4</video>
+		<marquee>./images/Joyrider-marquee.png</marquee>
+		<thumbnail>./images/Joyrider-thumb.png</thumbnail>
+		<releasedate>20140906T000000</releasedate>
+		<developer>jhhoward</developer>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<md5>7f353ceb0bb15f87917355cf62a3c909</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175623" />
+	</game>
+	<game id="191720">
+		<path>./Lander.uze</path>
+		<name>Lander</name>
+		<desc>Lander is a remake of the 80's ATARI game Lunar Lander.
+land a space ship save on the moonnn7 levels with different backgrounds, ground profiles, fuel capacity and skillsnnSoundtrack: Rocket Man, Championsnnhall of fame with the names and scores of 3 best players</desc>
+		<image>./images/Lander-image.png</image>
+		<marquee>./images/Lander-marquee.png</marquee>
+		<thumbnail>./images/Lander-thumb.png</thumbnail>
+		<releasedate>20110219T000000</releasedate>
+		<developer>Hartmut Wendt (Harty123)</developer>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<md5>187bc5fd6d073047cf0f06df8d5465bc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175625" />
+	</game>
+	<game id="191721">
+		<path>./laser.uze</path>
+		<name>Laser Puzzle</name>
+		<desc>Laser Puzzle is a Uzebox implementation of a laser-based puzzle game. It has 40 levels, and the object is to place pieces on the board in such a way that the laser beam is deflected into one or two targets from the proper direction. Pieces that aren't fixed in place (indicated by a lock icon) may be dragged and dropped onto any blank square, or rotated to face any direction. In order to properly solve each puzzle, the laser beam must pass through all of the pieces that aren't blockers.</desc>
+		<image>./images/laser-image.png</image>
+		<video>./videos/laser-video.mp4</video>
+		<marquee>./images/laser-marquee.png</marquee>
+		<thumbnail>./images/laser-thumb.png</thumbnail>
+		<releasedate>20170126T000000</releasedate>
+		<developer>Matt Pandina (Artcfox)</developer>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>03119f51f7eeb5cd603dfd2393bfd456</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175630" />
+	</game>
+	<game id="191722">
+		<path>./laser2.uze</path>
+		<name>Laser Puzzle 2</name>
+		<desc>Laser Puzzle II is a Uzebox implementation of a laser-based puzzle game. Gameplay is very similar to Laser Puzzle, but there are additional tokens, and some behave differently. Tokens with a padlock overlay cannot be moved or rotated, but tokens with a rotation overlay can be rotated in place, but not moved. The laser itself is a now a token, there are two beam splitters, a double sided mirror, a checkpoint, combination mirror/target tokens, and a cell blocker (which doesn't block the laser). As one might expect, this provides for much more challenging game play!
+
+There are 60 levels, which include beginner, intermediate, advanced, and expert challenges. The controls and instructions are included in the game, though I still haven't figured out how to force people to actually read them before playing.</desc>
+		<image>./images/laser2-image.png</image>
+		<marquee>./images/laser2-marquee.png</marquee>
+		<thumbnail>./images/laser2-thumb.png</thumbnail>
+		<releasedate>20170131T000000</releasedate>
+		<developer>Matt Pandina (Artcfox)</developer>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>bc5538a7f15fc556dc1c91df1fe42a16</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175632" />
+	</game>
+	<game id="191723">
+		<path>./loderunner.uze</path>
+		<name>Lode Runner</name>
+		<desc>Lode Runner is a remake of the classic PC/Apple II/C64 game of the same name. The player controls a character who must collect all the gold in a level while avoiding guards who try to catch him. After collecting all the gold, the player must travel to the top of the screen to reach the next level. There are 50 levels in the game which progressively challenge players' problem-solving abilities or reaction times.</desc>
+		<image>./images/loderunner-image.png</image>
+		<video>./videos/loderunner-video.mp4</video>
+		<marquee>./images/loderunner-marquee.png</marquee>
+		<thumbnail>./images/loderunner-thumb.png</thumbnail>
+		<releasedate>20100824T000000</releasedate>
+		<developer>Uze (Alec Bourque)</developer>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>35fb64d5145d939738b30f4806d315ee</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175636" />
+	</game>
+	<game id="191724">
+		<path>./Maze.uze</path>
+		<name>Maze</name>
+		<desc>Labyrinth game!</desc>
+		<image>./images/Maze-image.png</image>
+		<video>./videos/Maze-video.mp4</video>
+		<marquee>./images/Maze-marquee.png</marquee>
+		<thumbnail>./images/Maze-thumb.png</thumbnail>
+		<releasedate>20081228T000000</releasedate>
+		<developer>Clay Cowgill</developer>
+		<genre>Action / Labyrinth</genre>
+		<players>1</players>
+		<md5>c13bc90a91659c7913e79931d15eb2af</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175640" />
+	</game>
+	<game id="191725">
+		<path>./MegaSokoban.uze</path>
+		<name>Mega Sokoban</name>
+		<desc>Classical sokoban game with minimalistic engine and 999 levels.
+Simple game engine (copied from Sokoban for AVR TV Game)nnUnique level compression algorithm (average level has less than 27B, very cheap decompression)nn999 levels (selected levels from collections Microban, Sasquatch by David W. Skinner and Procedural Sokoban Level Generation - algorithmically generated by Joshua Taylor and Ian Parberry)nnCustom video engine (modified engine 5 with tile size 12x16 px and screen size 16x12 tiles, no scrolling or sprites - around 3KB of SRAM free!)nn1000 moves undo push ringbuffer (thanks to lot of free RAM)nnRemembers last opened level and state of completion (if was done) of each level in EEPROM (5 slots)</desc>
+		<image>./images/MegaSokoban-image.png</image>
+		<marquee>./images/MegaSokoban-marquee.png</marquee>
+		<thumbnail>./images/MegaSokoban-thumb.png</thumbnail>
+		<releasedate>20120122T000000</releasedate>
+		<developer>Martin Šustek</developer>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>f2b7be0bf03db4b1c1e0fed810cabd32</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175643" />
+	</game>
+	<game id="191729">
+		<path>./Njbeatdn.uze</path>
+		<name>Ninja Beatdown</name>
+		<desc>Ninja beatdown is a double-dragon type beat'em up where you kick Ninjas asses!</desc>
+		<image>./images/Njbeatdn-image.png</image>
+		<marquee>./images/Njbeatdn-marquee.png</marquee>
+		<thumbnail>./images/Njbeatdn-thumb.png</thumbnail>
+		<releasedate>20100419T000000</releasedate>
+		<developer>Vertig0zone</developer>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<md5>38a569f246c35a776ceb90b713338007</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175646" />
+	</game>
+	<game id="191733">
+		<path>./pipes.uze</path>
+		<name>Pipes</name>
+		<desc>Pipes is an original game in the style of "Pipe Mania" aka "Pipe Dream" developed by The Assembly Line in 1989.</desc>
+		<image>./images/pipes-image.png</image>
+		<video>./videos/pipes-video.mp4</video>
+		<marquee>./images/pipes-marquee.png</marquee>
+		<thumbnail>./images/pipes-thumb.png</thumbnail>
+		<releasedate>20121207T000000</releasedate>
+		<developer>Hartmut Wendt (Harty123)</developer>
+		<players>1</players>
+		<md5>1cd58b25f4b857a1a53c629dc7c626d9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175650" />
+	</game>
+	<game id="191734">
+		<path>./Pong.uze</path>
+		<name>Pong</name>
+		<desc>A remake of the classic Pong game from 1972!</desc>
+		<image>./images/Pong-image.png</image>
+		<marquee>./images/Pong-marquee.png</marquee>
+		<thumbnail>./images/Pong-thumb.png</thumbnail>
+		<releasedate>20090603T000000</releasedate>
+		<developer>DaveyPocket</developer>
+		<players>2</players>
+		<md5>88bc1c292b04a594eabc62dd9a074052</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175652" />
+	</game>
+	<game id="191735">
+		<path>./Reels.uze</path>
+		<name>Reels Of Fortune</name>
+		<desc>Reels of fortune is a slot machine game which is known from the most casinos. Win as much money as you can with your 100 credits and finally climb the high score ladder.</desc>
+		<image>./images/Reels-image.png</image>
+		<marquee>./images/Reels-marquee.png</marquee>
+		<thumbnail>./images/Reels-thumb.png</thumbnail>
+		<releasedate>20190101T000000</releasedate>
+		<developer>Dominik Kristen (KILO)</developer>
+		<genre>Casino / Slot machine</genre>
+		<players>1</players>
+		<md5>d7aa7d8e9e33c7221dabee40cfecaded</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175655" />
+	</game>
+	<game id="191736">
+		<path>./ROGUZE.UZE</path>
+		<name>Roguze</name>
+		<desc>Welcome to Roguze.
+
+You are an adventurer. You've been asked by one of the gods, to travel deep into the earth, and get the sickle. You are represented by the symbol @. Explore the dungeon. When you see a monster, to attack it, simply walk into it. Find new weapons and upgrade your skills to make it to get to the bottom of the lair.</desc>
+		<image>./images/ROGUZE-image.png</image>
+		<marquee>./images/ROGUZE-marquee.png</marquee>
+		<thumbnail>./images/ROGUZE-thumb.png</thumbnail>
+		<releasedate>20161218T000000</releasedate>
+		<developer>Yllawwally</developer>
+		<players>1</players>
+		<md5>51695d09e935c2ca92ba93a53adc2e5c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175658" />
+	</game>
+	<game id="191737">
+		<path>./rubycrush.uze</path>
+		<name>Ruby Crush</name>
+		<desc>Ruby Crush is an open source clone of Bejeweled (or any other match-3 game). It is currently single player, with two modes: Classic and Timed.
+
+Gameplay is more or less identical to Bejeweled, or any other match-3 games floating about. The goal is to get at least 3 gems of the same type in a horizontal or vertical row. You do this by swapping two adjacent gems. The only way you can swap a gem is if doing so would line up at least 3 gems of the same type in a row. Getting at least 3 gems in a row clears those gems, and new ones drop down from the top of the board. In both modes, you can get a hint about which gem can be moved to score some points. Note that this is not necessarily the best move possible, it's just *a* move, in case you get stuck.</desc>
+		<image>./images/rubycrush-image.png</image>
+		<marquee>./images/rubycrush-marquee.png</marquee>
+		<thumbnail>./images/rubycrush-thumb.png</thumbnail>
+		<releasedate>20100320T000000</releasedate>
+		<developer>Adrastos</developer>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>6bbdc7c6e4f15c3981b7493998df117f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175702" />
+	</game>
+	<game id="191739">
+		<path>./Snake.uze</path>
+		<name>Snake</name>
+		<desc>A simple snake game.</desc>
+		<image>./images/Snake-image.png</image>
+		<marquee>./images/Snake-marquee.png</marquee>
+		<thumbnail>./images/Snake-thumb.png</thumbnail>
+		<releasedate>20171210T000000</releasedate>
+		<developer>Bytesquid</developer>
+		<players>1</players>
+		<md5>391be3f5c01fb319773fe88872c19ca3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175705" />
+	</game>
+	<game id="191740">
+		<path>./Snakes.uze</path>
+		<name>Snakes</name>
+		<desc>A simple snake game.</desc>
+		<image>./images/Snakes-image.png</image>
+		<marquee>./images/Snakes-marquee.png</marquee>
+		<thumbnail>./images/Snakes-thumb.png</thumbnail>
+		<releasedate>20081217T000000</releasedate>
+		<developer>DaveyPocket</developer>
+		<players>1-2</players>
+		<md5>f98c48f7f157dbb683f41cb4303d11b0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175708" />
+	</game>
+	<game id="191742">
+		<path>./SOLITAIR.UZE</path>
+		<name>Solitaire</name>
+		<desc>Solitaire is a classic card game where the goal is to get all cards onto the 4 home piles based on their suit. Strategy and luck are at play in this "patience game" that has been ported to a huge number of operating systems and game consoles in various forms. Also known as Klondike, it has proved to be a popular past time for those looking to burn 15 minutes or so.</desc>
+		<image>./images/SOLITAIR-image.png</image>
+		<video>./videos/SOLITAIR-video.mp4</video>
+		<marquee>./images/SOLITAIR-marquee.png</marquee>
+		<thumbnail>./images/SOLITAIR-thumb.png</thumbnail>
+		<releasedate>20150814T000000</releasedate>
+		<developer>Lee Weber (D3thAdd3r)</developer>
+		<genre>Playing cards</genre>
+		<players>1</players>
+		<md5>96d62386036c99f054e6e0506b2385c1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175713" />
+	</game>
+	<game id="191743">
+		<path>./SPINVADR.UZE</path>
+		<name>Space Invaders</name>
+		<desc>Space Invaders is a re-make of the 1978 classic arcade game.</desc>
+		<image>./images/SPINVADR-image.png</image>
+		<marquee>./images/SPINVADR-marquee.png</marquee>
+		<thumbnail>./images/SPINVADR-thumb.png</thumbnail>
+		<releasedate>20100225T000000</releasedate>
+		<developer>Paul McPhee</developer>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Space Invaders</family>
+		<players>1</players>
+		<md5>3f8ee1de7481b0d34da51a07c96786fa</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175717" />
+	</game>
+	<game id="191745">
+		<path>./STMFORCE.UZE</path>
+		<name>Storm Force</name>
+		<desc>Stormforce is a vertical shooter. Use your star fighter to fight your way through 4 levels. There are no shields, so use your 3 smartbombs and 3 lives carefully.</desc>
+		<image>./images/STMFORCE-image.png</image>
+		<video>./videos/STMFORCE-video.mp4</video>
+		<marquee>./images/STMFORCE-marquee.png</marquee>
+		<thumbnail>./images/STMFORCE-thumb.png</thumbnail>
+		<releasedate>20161218T000000</releasedate>
+		<developer>Grobian99</developer>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<md5>160facb0da473fc4e0684b709c0561c7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175722" />
+	</game>
+	<game id="191746">
+		<path>./Submarine.uze</path>
+		<name>Submarine</name>
+		<desc>Submarine is an action game that appeared on many older game consoles.</desc>
+		<image>./images/Submarine-image.png</image>
+		<marquee>./images/Submarine-marquee.png</marquee>
+		<thumbnail>./images/Submarine-thumb.png</thumbnail>
+		<releasedate>20130122T000000</releasedate>
+		<developer>Dominik Kristen (KILO)</developer>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>7d5f5e31b9cc81846bbfa1f1c2c1d5d8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175724" />
+	</game>
+	<game id="191747">
+		<path>./TankFu.uze</path>
+		<name>Tank Fu</name>
+		<desc>Tank Fu is a tank-on-tank multiplayer deathmatch game. Best played with two players but also supports a single player against CPU mode. Challenge your friends to own bragging rights as Tank Fu master!</desc>
+		<image>./images/TankFu-image.png</image>
+		<video>./videos/TankFu-video.mp4</video>
+		<marquee>./images/TankFu-marquee.png</marquee>
+		<thumbnail>./images/TankFu-thumb.png</thumbnail>
+		<releasedate>20190216T000000</releasedate>
+		<developer>Lawrence Brooks</developer>
+		<players>1-2</players>
+		<md5>3ba7c95038c0727569164df536af101f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175729" />
+	</game>
+	<game id="191748">
+		<path>./Tetris.uze</path>
+		<name>Tetris</name>
+		<desc>Tetris is a Tetris clone and a modification of the game Megatris. While Megatris is designed for 2 players, Tetris has removed any multiplayer feature and replaced it with other display options such as Lines, Score, and Level. The gameplay mechanics closely resemble those of Tetris DS for the Nintendo DS.</desc>
+		<image>./images/Tetris-image.png</image>
+		<marquee>./images/Tetris-marquee.png</marquee>
+		<thumbnail>./images/Tetris-thumb.png</thumbnail>
+		<releasedate>20080824T000000</releasedate>
+		<developer>Uze (Alec Bourque)</developer>
+		<genre>Puzzle-Game</genre>
+		<family>Tetris</family>
+		<players>1</players>
+		<md5>057901ec79b964fa5a75965f4d48a5d4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175732" />
+	</game>
+	<game id="191751">
+		<path>./tron.uze</path>
+		<name>Tron</name>
+		<desc>Tron is an open source competitive game based on the 1982 film of the same name. The goal of the game is to get your opponent to crash into a wall (either the outer rim, or one the tails left behind your light cycles).</desc>
+		<image>./images/tron-image.png</image>
+		<marquee>./images/tron-marquee.png</marquee>
+		<thumbnail>./images/tron-thumb.png</thumbnail>
+		<releasedate>20100615T000000</releasedate>
+		<developer>Adrastos</developer>
+		<players>2</players>
+		<md5>46d6242b30190ab7dd9ca62561218242</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175734" />
+	</game>
+	<game id="361953">
+		<path>./uze8.uze</path>
+		<name>ZZZ(notgame):uze8</name>
+		<hidden>true</hidden>
+		<md5>536628faf11cdb6619b65c11023140c6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175735" />
+	</game>
+	<game id="255091">
+		<path>./Uzeamp.uze</path>
+		<name>ZZZ(notgame):uzeamp</name>
+		<hidden>true</hidden>
+		<md5>454afaf7e1686032d870de51e1ed5ac7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175735" />
+	</game>
+	<game id="191755">
+		<path>./UzeboxTactics.uze</path>
+		<name>Uzebox Tactics</name>
+		<desc>Uzebox Tactics is a turned based strategy game which is inspired by the game Advance Wars for the Gameboy Advance. Also some games like Batle Isle, Tom Clancy's Endwar or C&amp;C took influence. It was started in 2014 by Edward Shin unfortunately not finished. Until now!</desc>
+		<image>./images/UzeboxTactics-image.png</image>
+		<marquee>./images/UzeboxTactics-marquee.png</marquee>
+		<thumbnail>./images/UzeboxTactics-thumb.png</thumbnail>
+		<releasedate>20190106T000000</releasedate>
+		<developer>Dominik Kristen (KILO) / Edward Shin</developer>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<md5>2d9fbe400d590077083cf6390ba49f38</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175739" />
+	</game>
+	<game id="418896">
+		<path>./Uzeburn.uze</path>
+		<name>Uzeburn</name>
+		<md5>896b944f58d7d83df065c87e32085699</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175739" />
+	</game>
+	<game id="191752">
+		<path>./uzefeud.uze</path>
+		<name>Uze Feud</name>
+		<desc>A game similar to Family Feud for the Uzebox, it supports up to 8 players, includes original art and music, but not original questions.</desc>
+		<image>./images/uzefeud-image.png</image>
+		<video>./videos/uzefeud-video.mp4</video>
+		<marquee>./images/uzefeud-marquee.png</marquee>
+		<thumbnail>./images/uzefeud-thumb.png</thumbnail>
+		<releasedate>20100620T000000</releasedate>
+		<developer>Flavio Zavan (Nebososo)</developer>
+		<players>1-2</players>
+		<md5>536cbbec55f8a49ffefd19d6c0a37ebb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175745" />
+	</game>
+	<game id="191756">
+		<path>./Uzekickers.uze</path>
+		<name>Uzekickers</name>
+		<desc>Uzekickers: a Penalty Kick game</desc>
+		<image>./images/Uzekickers-image.png</image>
+		<marquee>./images/Uzekickers-marquee.png</marquee>
+		<thumbnail>./images/Uzekickers-thumb.png</thumbnail>
+		<releasedate>20140627T000000</releasedate>
+		<developer>Gosma</developer>
+		<genre>Sports / Soccer</genre>
+		<players>1-2</players>
+		<md5>e7322725351cfe0b65cbf24a6410e27d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175748" />
+	</game>
+	<game id="191738">
+		<path>./UzeSimon.uze</path>
+		<name>Simon</name>
+		<desc>Simon is an implementation of the electronic game Simon says also known as Senso from the 70s...</desc>
+		<image>./images/UzeSimon-image.png</image>
+		<video>./videos/UzeSimon-video.mp4</video>
+		<marquee>./images/UzeSimon-marquee.png</marquee>
+		<thumbnail>./images/UzeSimon-thumb.png</thumbnail>
+		<releasedate>20111205T000000</releasedate>
+		<developer>Hartmut Wendt (Harty123)</developer>
+		<genre>Casual Game</genre>
+		<players>1</players>
+		<md5>964e7e186c8b54bcba068a68928fc391</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175753" />
+	</game>
+	<game id="191753">
+		<path>./UzeSnakes.uze</path>
+		<name>Uze Snakes</name>
+		<desc>Uze Snakes is a classic "snakes" game using mode 9.</desc>
+		<image>./images/UzeSnakes-image.png</image>
+		<marquee>./images/UzeSnakes-marquee.png</marquee>
+		<thumbnail>./images/UzeSnakes-thumb.png</thumbnail>
+		<releasedate>20100604T000000</releasedate>
+		<developer>Flavio Zavan (Nebososo)</developer>
+		<players>1-2</players>
+		<md5>24e88aad103034d13c4ab253edfd8454</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175756" />
+	</game>
+	<game id="191757">
+		<path>./uzesweeper.uze</path>
+		<name>Uzesweeper</name>
+		<desc>Uzesweeper is close remake of the classic game Minesweeper. I tried to stay true to the original while adding my own little bit of design to the feel. It has been optimized for easy menu navigation and gameplay on the Uzebox.</desc>
+		<image>./images/uzesweeper-image.png</image>
+		<marquee>./images/uzesweeper-marquee.png</marquee>
+		<thumbnail>./images/uzesweeper-thumb.png</thumbnail>
+		<releasedate>20110116T000000</releasedate>
+		<developer>Lee Weber (D3thAdd3r)</developer>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>04289f56bf870a9c75a9bf7e995dd684</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175800" />
+	</game>
+	<game id="191759">
+		<path>./Vectgame.uze</path>
+		<name>Vector Game</name>
+		<desc>VectorGame is an enhanced port of the arcade classic Asteroids. The games uses a true vector based video mode developed specifically for this game ("enhanced" mode 6).</desc>
+		<image>./images/Vectgame-image.png</image>
+		<marquee>./images/Vectgame-marquee.png</marquee>
+		<thumbnail>./images/Vectgame-thumb.png</thumbnail>
+		<releasedate>20130706T000000</releasedate>
+		<developer>CunningFellow</developer>
+		<players>1</players>
+		<md5>cdf22579626b520b2a1936d63d1e0fd5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175803" />
+	</game>
+	<game id="191750">
+		<path>./VectorDemo_20150617.Uze</path>
+		<name>Tornado 2000</name>
+		<desc>Tornado 2000 is an 8bit de-make of Tempest 2000 for the 64 bit Atari Jaguar. The games uses a custom two bit per pixel ramTile based video mode enhanced with SD card streaming. The mode was developed specifically for this game.
+
+Features of the video mode that enable the fast paced action arenn- 256 pixels (and 32 tiles wide) to speed up mathsnn- Fixed RAM locations (on boundaries) for VRAM and tileRAMnn- Interrupt ended pixel output routinesnn- Pixel output colour decisions made in a giant ASM "Case" statementnn- Simplified mathematical approximations for jump vectors in the above "Case" statementnn- Extended front and back porch that gives time for the CPU to clear the screen during video rendernn- Background "web" streamed from SD card behind the foreground coloursnn- Hand crafted ASM code for Bresenham line draw codenn- Mild amount of insanity on the part of the coder :)</desc>
+		<image>./images/VectorDemo_20150617-image.png</image>
+		<marquee>./images/VectorDemo_20150617-marquee.png</marquee>
+		<thumbnail>./images/VectorDemo_20150617-thumb.png</thumbnail>
+		<releasedate>20141102T000000</releasedate>
+		<developer>CunningFellow</developer>
+		<players>1</players>
+		<md5>a74d1bce9d03a358176efbf5ed439598</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175806" />
+	</game>
+	<game id="191760">
+		<path>./VideoPoker.uze</path>
+		<name>Videopoker</name>
+		<desc>Video Poker (based on the arcade version "Jack's or Better")</desc>
+		<image>./images/VideoPoker-image.png</image>
+		<marquee>./images/VideoPoker-marquee.png</marquee>
+		<thumbnail>./images/VideoPoker-thumb.png</thumbnail>
+		<developer>Roukan (Jim Croskell)</developer>
+		<genre>Casino / Cards</genre>
+		<players>1</players>
+		<md5>e7479a09e86d101c06738c3e95eff3bd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175809" />
+	</game>
+	<game id="191761">
+		<path>./Whack-a-Mole.uze</path>
+		<name>Whack-a-mole</name>
+		<desc>Adaptation of the world famous game.
+This game is the first one to use the SNES mouse.</desc>
+		<image>./images/Whack-a-Mole-image.png</image>
+		<video>./videos/Whack-a-Mole-video.mp4</video>
+		<marquee>./images/Whack-a-Mole-marquee.png</marquee>
+		<thumbnail>./images/Whack-a-Mole-thumb.png</thumbnail>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Uze (Alec Bourque)</developer>
+		<players>1</players>
+		<md5>46c206e259d89324c0f2925f7922219a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175813" />
+	</game>
+	<game id="191763">
+		<path>./Zombienator.uze</path>
+		<name>Zombienator</name>
+		<desc>Zombinator is a shoot-em-up game taking place in a cemetery where you must shoot onslaughts of zombies.</desc>
+		<image>./images/Zombienator-image.png</image>
+		<marquee>./images/Zombienator-marquee.png</marquee>
+		<thumbnail>./images/Zombienator-thumb.png</thumbnail>
+		<releasedate>20090620T000000</releasedate>
+		<developer>Peter Hedman (Phog)</developer>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<md5>931e4c2e417a305aaabb1d11551c25d9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175815" />
+	</game>
+	<game id="191764">
+		<path>./ZoomingSecretary.uze</path>
+		<name>Zooming Secretary</name>
+		<desc>Zooming Secretary is an action platform game reminiscent of earlier classic arcade games, with new original concepts. This game is based on the NES port(an original title) by Shiru(programming) and Pinwizz(media). You take the role of an overworked secretary who must answer phone calls before they hang up. Each phone call requires information related to 4 different topics: Earth, History, Literature, and Space. By going to a file cabinet with the specific icon, she will acquire the information related to the topic and can answer any phone call requiring this type information.
+
+The player will need to use quick thinking and cunning to minimize travel time between points and avoid unnecessary trips which may mean answering calls out of order or damage control sacrifices; too many failures and the secretary will be fired(though they have no replacement)! Avoid the boss who slows the secretary down with babble, the unmovable gossiper, the confusing assistant, the wreckless moving man, the creepy secret admirer....all while using healthy dosages of caffeine to speed through the level, and catch her dreamy but elusive "bad boy love interest". After all this, she is really going to need a vacation!</desc>
+		<image>./images/ZoomingSecretary-image.png</image>
+		<video>./videos/ZoomingSecretary-video.mp4</video>
+		<marquee>./images/ZoomingSecretary-marquee.png</marquee>
+		<thumbnail>./images/ZoomingSecretary-thumb.png</thumbnail>
+		<releasedate>20170829T000000</releasedate>
+		<developer>Lee Weber (D3thAdd3r)</developer>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>62c760da542257ea1f1ca53e19c227b1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175819" />
+	</game>
+</gameList>
