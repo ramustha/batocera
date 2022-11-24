@@ -16,7 +16,7 @@
 		<players>1</players>
 		<md5>24fa782ff3e76241c4862481802e5347</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T115326" />
+		<scrap name="ScreenScraper" date="20221121T193918" />
 	</game>
 	<game id="46347">
 		<path>./Space Force (1982)(Entex Industries)[release number 6078].zip</path>
@@ -34,7 +34,7 @@
 		<players>1</players>
 		<md5>a991ce001b95c2c3455a8b2b30a47f61</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T115329" />
+		<scrap name="ScreenScraper" date="20221121T193918" />
 	</game>
 	<game id="46348">
 		<path>./Super Cobra (1982)(Entex Industries)[release number 6077].zip</path>
@@ -44,15 +44,16 @@
 		<video>./videos/Super Cobra (1982)(Entex Industries)[release number 6077]-video.mp4</video>
 		<marquee>./images/Super Cobra (1982)(Entex Industries)[release number 6077]-marquee.png</marquee>
 		<thumbnail>./images/Super Cobra (1982)(Entex Industries)[release number 6077]-thumb.png</thumbnail>
+		<fanart>./images/Super Cobra (1982)(Entex Industries)[release number 6077]-fanart.jpg</fanart>
 		<rating>0.75</rating>
 		<releasedate>19820101T000000</releasedate>
-		<developer>Entex Industries, Inc</developer>
+		<developer>Konami</developer>
 		<publisher>Entex Industries, Inc</publisher>
-		<genre>Shoot'em Up</genre>
+		<genre>Shoot'em up / Horizontal</genre>
 		<players>1</players>
 		<md5>42acae1f1005044cc912853bf729331c</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T115332" />
+		<scrap name="ScreenScraper" date="20221121T193921" />
 	</game>
 	<game id="46349">
 		<path>./Turtles (1982)(Entex Industries)[release number 6076].zip</path>
@@ -70,6 +71,6 @@
 		<players>1</players>
 		<md5>3e7a1ce7b7d69fecd67792a375864759</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T115336" />
+		<scrap name="ScreenScraper" date="20221121T193922" />
 	</game>
 </gameList>
