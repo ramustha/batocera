@@ -1,92 +1,61 @@
 <?xml version="1.0"?>
 <gameList>
-	<game>
-		<path>./Blast Works - Build, Trade, Destroy.side.wbfs</path>
-		<name>Blast Works - Build, Trade, Destroy</name>
-		<image>./images/Blast Works - Build, Trade, Destroy.side-image.png</image>
-		<marquee>./images/Blast Works - Build, Trade, Destroy.side-marquee.png</marquee>
-		<thumbnail>./images/Blast Works - Build, Trade, Destroy.side-thumb.png</thumbnail>
-		<publisher>Majesco Entertainment</publisher>
-		<genre>Shooter</genre>
-		<playcount>1</playcount>
-		<lastplayed>20221016T123422</lastplayed>
-		<gametime>92</gametime>
+	<game id="9254">
+		<path>./Kirby's Dream Collection - Special Edition.wbfs</path>
+		<name>Kirby's Dream Collection : Special Edition</name>
+		<desc>Celebrate 20 Years of Kirby Fun with a Special Collection for Wii The pink, surprisingly powerful Kirby character is one of the most iconic heroes in video game history. To celebrate two decades of rollicking Kirby action, Nintendo has packed a wealth of games and commemorative content onto one special disc to create Kirby s Dream Collection: Special Edition, available exclusively for the Wii system. From the original Game Boy classic Kirby s Dream Land to New Challenge Stages based on 2011 s Kirby s Return to Dream Land, players can follow the evolution of Kirby s remarkable abilities - and his pesky enemies - through six complete games and then some. The collection also includes a music CD*, an interactive timeline and a special anniversary book, giving both new and experienced players a way to fully immerse themselves in the one-of-a-kind fun of Kirby.</desc>
+		<image>./images/Kirby's Dream Collection - Special Edition-image.jpg</image>
+		<video>./videos/Kirby's Dream Collection - Special Edition-video.mp4</video>
+		<marquee>./images/Kirby's Dream Collection - Special Edition-marquee.png</marquee>
+		<thumbnail>./images/Kirby's Dream Collection - Special Edition-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20120916T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<family>Kirby</family>
+		<players>1-4</players>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T123625" />
-		<scrap name="HfsDB" date="20221016T123244" />
+		<scrap name="ScreenScraper" date="20221103T192309" />
 	</game>
-	<game id="9591">
-		<path>./Emergency Heroes_[REHE41].side.wbfs</path>
-		<name>Emergency Heroes</name>
-		<desc>Emergency Heroes is the open world rescue driving game that is designed for the next generation of young rescue heroes.Race to the scene in advanced police, fire and EMT rescue vehicles that let you jump over four-lane highways, power-slide into water towers and track down criminals at high speeds. By combining simple intuitive controls with fast, exhilarating action, Emergency Heroes offers an exciting experience the whole family can enjoy, exclusively on Wii?.</desc>
-		<image>./images/Emergency Heroes_[REHE41].side-image.png</image>
-		<video>./videos/Emergency Heroes_[REHE41].side-video.mp4</video>
-		<marquee>./images/Emergency Heroes_[REHE41].side-marquee.png</marquee>
-		<thumbnail>./images/Emergency Heroes_[REHE41].side-thumb.png</thumbnail>
-		<rating>0.55</rating>
-		<releasedate>20080619T000000</releasedate>
-		<publisher>Ubisoft</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<playcount>4</playcount>
-		<lastplayed>20221012T185707</lastplayed>
-		<gametime>473</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T123931" />
-	</game>
-	<game id="9162">
-		<path>./Excite Truck_[REXE01].side.wbfs</path>
-		<name>Excite Truck</name>
-		<desc>In the grand racing tradition of Excitebike, get ready for a big-air experience like no other! Players rocket their trucks across dynamically changing terrain in this nitrous-injected, high-flying racer for speed junkies. Showing the Wii Remote's versatility, players tilt the controller on its side to turn it into a wireless steering wheel!* Body English: Remember tilting your arms while playing Excitebike to try to make your character land a huge jump? Now that move will actually affect the game in Excite Truck.* Controller as a Steering Wheel: Players hold the Wii Remote like an NES controller to control the truck. The 2 Button is the accelerator, the 1 Button is the brake, the +Control Pad is the turbo... but that's just the beginning. Tilt the Wii Remote controller right and left like a steering wheel to steer. Once the truck goes airborne, tilt the Wii Remote controller every which way to line up the wheels for landing boosts.* Dynamic Terrain: Pick up items on the courses to make the terrain deform in real time, turning innocent bumps into massive launch pads that affect not only the player's route, but that of his or her rivals. Players jump and bump their way to the highest score and highest finish.</desc>
-		<image>./images/Excite Truck_[REXE01].side-image.jpg</image>
-		<video>./videos/Excite Truck_[REXE01].side-video.mp4</video>
-		<marquee>./images/Excite Truck_[REXE01].side-marquee.png</marquee>
-		<thumbnail>./images/Excite Truck_[REXE01].side-thumb.png</thumbnail>
-		<fanart>./images/Excite Truck_[REXE01].side-fanart.jpg</fanart>
-		<rating>0.75</rating>
-		<releasedate>20070216T000000</releasedate>
-		<developer>Monster Games</developer>
+	<game id="8694">
+		<path>./Mario Kart Wii.wbfs</path>
+		<name>Mario Kart Wii</name>
+		<desc>Mario Kart Wii is an installment of the long-running Mario Kart series, but here for the Nintendo Wii, where you take control of various Nintendo characters to race through different tracks and win the Grand Prix, using a variety of vehicles and items spread through the track to help you.
+
+There are various additions to the series. Players can now also play with motorbikes, which can do wheelies but are lighter and can't super boost, in contrast with karts. There's 6 varieties of each for each character class to choose from, and 4 new characters have been added as well as being able to drive with your Mii. Finally, there's 16 new tracks as well as 16 returning from previous games.
+
+Gameplay has also been modified. Drifting has been tweaked so that it's easier to use and players only get a turbo boost based on how well they perform the drift. It can be set to Manual, where players press a button to drift, or Automatic, where it's automatically triggered on curves but provides no turbo boost. Stunts can also be performed in the air to gain turbo boosts. Races have also been bolstered to support up to 12 players now.
+
+There's 4 modes of play to choose from: Grand Prix, where you race through series of tracks in the 50cc (karts only), 100cc (bikes only) and 150cc (karts and bikes) cups; Time Trial, where you take on ghost replays and try to finish in the least time; Versus, where you race against opponents on a single track; and Battle, where you can compete against your foes in either hitting them with weapons or collecting coins.
+
+Multiplayer is also supported, allowing up to 4 players in hotseat and 12 online on Nintendo Wi-Fi, where you can take on strangers and friends (with Friend Codes) in any game mode, play in competitions, beat other's ghost replays or check online rankings. The game can be played using a Wii Wheel (included), Wii Remote, Nunchuck, Classic Controller, or Gamecube Controller.</desc>
+		<image>./images/Mario Kart Wii-image.png</image>
+		<video>./videos/Mario Kart Wii-video.mp4</video>
+		<marquee>./images/Mario Kart Wii-marquee.png</marquee>
+		<thumbnail>./images/Mario Kart Wii-thumb.png</thumbnail>
+		<fanart>./images/Mario Kart Wii-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20080427T000000</releasedate>
+		<developer>Nintendo EAD</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Race, Driving</genre>
-		<players>2</players>
-		<playcount>2</playcount>
-		<lastplayed>20221012T192312</lastplayed>
-		<gametime>157</gametime>
+		<family>Mario Kart</family>
+		<players>4</players>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T123931" />
-	</game>
-	<game id="9817">
-		<path>./ExciteBots - Trick Racing_[RX3E01].side.wbfs</path>
-		<name>Excitebots : Trick Racing</name>
-		<desc>Excitebots is controlled with the Wii remote horizontally or optionally with the Wii Wheel. Most of the games are played on courses large in size with many opportunities to take meandering paths. The 25 different courses offered are modeled after real locations on Earth. Because of the size of each course, most races are two laps long and offer opportunities to gain massive altitude, perform various maneuvers, and obtain various items.</desc>
-		<image>./images/ExciteBots - Trick Racing_[RX3E01].side-image.jpg</image>
-		<video>./videos/ExciteBots - Trick Racing_[RX3E01].side-video.mp4</video>
-		<marquee>./images/ExciteBots - Trick Racing_[RX3E01].side-marquee.png</marquee>
-		<thumbnail>./images/ExciteBots - Trick Racing_[RX3E01].side-thumb.png</thumbnail>
-		<fanart>./images/ExciteBots - Trick Racing_[RX3E01].side-fanart.jpg</fanart>
-		<rating>0.75</rating>
-		<releasedate>20090420T000000</releasedate>
-		<developer>Monster Games</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20221012T192611</lastplayed>
-		<gametime>61</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T123931" />
+		<scrap name="ScreenScraper" date="20221103T192315" />
 	</game>
 	<game id="8842">
-		<path>./Mario Sports Mix (Europe) (En,Fr,De,Es,It).side.wbfs</path>
+		<path>./Mario Sports Mix (Europe) (En,Fr,De,Es,It).wbfs</path>
 		<name>Mario Sports Mix</name>
 		<desc>The games include volleyball, hockey (both field and ice), dodgeball, and basketball in the vein of the two companies  earlier collaboration, Mario Hoops 3 on 3. There are power-up items which give advantages to the team that attains them. Each game has an Exhibition mode, in which up to four human players compete in individual matches, and Tournament mode, where up to three players play matches in a tournament structure, with modes of difficulty named Mushroom, Flower and Star.
 
 Mario Sports Mix also includes several party games based on the mechanics of each sport. Smash Skate is based on Hockey, Bob-omb Dodge is based on Dodgeball, Feed Petey is based on Basketball, and Harmony Hustle is based on Volleyball.</desc>
-		<image>./images/Mario Sports Mix (Europe) (En,Fr,De,Es,It).side-image.jpg</image>
-		<video>./videos/Mario Sports Mix (Europe) (En,Fr,De,Es,It).side-video.mp4</video>
-		<marquee>./images/Mario Sports Mix (Europe) (En,Fr,De,Es,It).side-marquee.png</marquee>
-		<thumbnail>./images/Mario Sports Mix (Europe) (En,Fr,De,Es,It).side-thumb.png</thumbnail>
-		<fanart>./images/Mario Sports Mix (Europe) (En,Fr,De,Es,It).side-fanart.jpg</fanart>
+		<image>./images/Mario Sports Mix (Europe) (En,Fr,De,Es,It)-image.jpg</image>
+		<video>./videos/Mario Sports Mix (Europe) (En,Fr,De,Es,It)-video.mp4</video>
+		<marquee>./images/Mario Sports Mix (Europe) (En,Fr,De,Es,It)-marquee.png</marquee>
+		<thumbnail>./images/Mario Sports Mix (Europe) (En,Fr,De,Es,It)-thumb.png</thumbnail>
+		<fanart>./images/Mario Sports Mix (Europe) (En,Fr,De,Es,It)-fanart.jpg</fanart>
 		<rating>0.8</rating>
 		<releasedate>20110128T000000</releasedate>
 		<developer>Square Enix</developer>
@@ -94,218 +63,65 @@ Mario Sports Mix also includes several party games based on the mechanics of eac
 		<genre>Sports</genre>
 		<players>4</players>
 		<playcount>1</playcount>
-		<lastplayed>20221012T183125</lastplayed>
-		<gametime>1491</gametime>
+		<lastplayed>20220916T154707</lastplayed>
+		<gametime>19</gametime>
 		<lang>it,es,de,fr,en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20221101T123931" />
+		<scrap name="ScreenScraper" date="20221103T192316" />
 	</game>
-	<game>
-		<path>./Naruto Shippuden - Dragon Blade Chronicles.side.wbfs</path>
-		<name>Naruto Shippuden: Dragon Blade Chronicles</name>
-		<desc>Naruto Shippūden: Dragon Blade Chronicles, known as Naruto Shippūden: Ryūjinki (ナルト- 疾風伝 龍刃記, Literally meaning: Naruto Hurricane Chronicles: Dragon Sword Chronicles) in Japan, is a video game for the Wii.
-
-Unlike the Clash of Ninja series, the game is more of a free-roaming hack-and-slash video game. Despite this, it seems to use graphics similar to the aforementioned Clash of Ninja games, and even reuses several models. All characters wear new, armoured outfits that are based on their normal attire, with the exception of Tsunade and Jiraiya.</desc>
-		<thumbnail>./images/Naruto Shippuden - Dragon Blade Chronicles.side-thumb.jpg</thumbnail>
-		<releasedate>20101116T000000</releasedate>
-		<developer>TOMY</developer>
-		<publisher>505 Games</publisher>
-		<genre>Action, Adventure</genre>
-		<players>1</players>
-		<playcount>2</playcount>
-		<lastplayed>20221017T200406</lastplayed>
-		<gametime>285</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T123805" />
-		<scrap name="TheGamesDB" date="20221017T200435" />
-	</game>
-	<game id="8841">
-		<path>./Need for Speed - Undercover.side.ti.wbfs</path>
-		<name>Need For Speed Undercover</name>
-		<desc>Undercover features a new open world map consisting of 109 miles (175 km) of road and a large highway system, making it the largest Need for Speed "world" EA has created so far. The game s environment consists of four boroughs: Palm Harbor, Port Crescent, Gold Coast Mountains, and Sunset Hills. In the Wii and PS2 versions two boroughs are copied off Need for Speed Most Wanted and put into different positions. These four boroughs make up the city, Tri-City (referring to the real-life city in Tri-City, Oregon), presumably a city located on the Gulf Coast or on the California Coast although the city itself heavily resembles Miami.</desc>
-		<image>./images/Need for Speed - Undercover.side.ti-image.jpg</image>
-		<video>./videos/Need for Speed - Undercover.side.ti-video.mp4</video>
-		<marquee>./images/Need for Speed - Undercover.side.ti-marquee.png</marquee>
-		<thumbnail>./images/Need for Speed - Undercover.side.ti-thumb.png</thumbnail>
-		<rating>0.65</rating>
-		<releasedate>20081118T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Race, Driving</genre>
-		<family>Need for Speed</family>
-		<players>4</players>
-		<playcount>2</playcount>
-		<lastplayed>20221016T130901</lastplayed>
-		<gametime>350</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T123805" />
-	</game>
-	<game id="8698">
-		<path>./New Super Mario Bros. Wii.side.wbfs</path>
-		<name>New Super Mario Bros. Wii</name>
-		<desc>New Super Mario Bros. Wii offers a combination of cooperation and competition. Players can pick each other up to save them from danger or toss them into it.* Mario™, Luigi™ and two Toads are all playable characters, while many others from the Mushroom Kingdom make appearances throughout the game. Players can even ride different Yoshi characters and use their tongues to swallow enemies – or their fellow players.* In some areas, players use the motion abilities of the Wii Remote™ controller. The first player to reach a seesaw might make it tilt to help his or her character reach a higher platform – and then tilt it incorrectly just to mess with other players.* New items include the propeller suit, which will shoot players high into the sky with just a shake of the Wii Remote and Mario's new ability to transform into Penguin Mario.</desc>
-		<image>./images/New Super Mario Bros. Wii.side-image.png</image>
-		<video>./videos/New Super Mario Bros. Wii.side-video.mp4</video>
-		<marquee>./images/New Super Mario Bros. Wii.side-marquee.png</marquee>
-		<thumbnail>./images/New Super Mario Bros. Wii.side-thumb.png</thumbnail>
-		<fanart>./images/New Super Mario Bros. Wii.side-fanart.jpg</fanart>
-		<rating>0.85</rating>
-		<releasedate>20091115T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<family>Super Mario Bros</family>
-		<players>1</players>
-		<playcount>1</playcount>
-		<lastplayed>20221016T131621</lastplayed>
-		<gametime>300</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T123806" />
-	</game>
-	<game id="9507">
-		<path>./NHL 2K10.side.wbfs</path>
-		<name>Nhl 2k10</name>
-		<desc>NHL 2K10 returns to the ice; in its second year of being developed by Visual Concepts. 
-
-New features include improved graphics/presentation; which includes brand new player models, player faces and all new intros unique for all 30 teams in the league.
-
-There is also a revamped franchise mode; which includes new GM Personalities, Roster Management, League Records, Team States, and support for fantasy drafts and created teams.
-
-The Wii version includes Mii Superskills that offers five new mini-games to play with your own avatar.  These includes Hardest Shot, Fastest Skater, Accuracy Shooting, Breakaway Relay, and Goalie Supersave.
-
-Also on the Nintendo Wii this year is support for Wii motion plus allowing for 1:1 on ice motions, as well as online support with 2K's full suite (leagues, team up, quick matches). The game also supports Wii Speak so you can chat with your friends during online games.</desc>
-		<video>./videos/NHL 2K10.side-video.mp4</video>
-		<marquee>./images/NHL 2K10.side-marquee.png</marquee>
-		<thumbnail>./images/NHL 2K10.side-thumb.png</thumbnail>
-		<fanart>./images/NHL 2K10.side-fanart.jpg</fanart>
-		<rating>0.85</rating>
-		<developer>2K Games</developer>
-		<publisher>Visual Concepts</publisher>
-		<genre>Sports</genre>
-		<family>NHL</family>
-		<playcount>2</playcount>
-		<lastplayed>20221016T140049</lastplayed>
-		<gametime>398</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T123806" />
-	</game>
-	<game id="9593">
-		<path>./Offroad Extreme Special Edition_[ROFE5Z].side.wbfs</path>
-		<name>Offroad Extreme !</name>
-		<desc>Enter the super-charged turbo driven world of Off Road Extreme. This is where off road racing takes on a whole new meaning! From Karts to Baja Buggies, Offroad Extreme delivers a unique and exciting gamplay experience. You will race a variety of off road vehicles through visually stunning environments, around rugged terrain, along valleys and through ancient cave structures. Choose from a vast selection of detailed off road machines with an impressive 32 unique track variations including quarries, canyons and mines. Featuring realistic weather conditions during day and night. Earn prize money to unlock hidden extras, including upgrades, extra challenges, extra courses and much more. Utilising the Wii controls to allow you to use the wireless Wii Remote as a steering wheel. Be careful though, every time your vehicle takes some on damage you will have to pay for your repairs.</desc>
-		<image>./images/Offroad Extreme Special Edition_[ROFE5Z].side-image.jpg</image>
-		<video>./videos/Offroad Extreme Special Edition_[ROFE5Z].side-video.mp4</video>
-		<marquee>./images/Offroad Extreme Special Edition_[ROFE5Z].side-marquee.png</marquee>
-		<rating>0.3</rating>
-		<developer>Data Design</developer>
-		<publisher>Data Design</publisher>
-		<genre>Race, Driving</genre>
-		<playcount>1</playcount>
-		<lastplayed>20221012T194334</lastplayed>
-		<md5>6f668e2bcc499b485d7ab277785215d7</md5>
-		<gametime>140</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T123931" />
-	</game>
-	<game id="9411">
-		<path>./Rampage - Total Destruction.ti.wbfs</path>
-		<name>Rampage: Total Destruction</name>
-		<desc>Get ready to roam, rage and Rampage your way through cities of the world destroying everything in your path in Rampage: Total Destruction! George, Lizzy and Ralph are back along with 27 new monsters that you can find, collect and play as. Wander through 3D neighborhoods of major cities trashing everything in sight as you uncover hidden monsters and power-ups.In Rampage, players take on the role of Mutated Giant Monsters created by the unscrupulous scum labs corporation (operating under the guise of a soft drink company.) The player's goal is to progress through a series of cities around the globe destroying as much of them as possible in an effort to locate all the other captive monsters. Features:? Collect Monsters - Collect and Play as 30 different monsters each with their own unique attributes!? Destroy It All - Roam through 7 major cities around the globe destroying everything in your path!? Throw Stuff - Increase the levels of damage and destruction by throwing objects around!</desc>
-		<image>./images/Rampage - Total Destruction.ti-image.jpg</image>
-		<video>./videos/Rampage - Total Destruction.ti-video.mp4</video>
-		<marquee>./images/Rampage - Total Destruction.ti-marquee.png</marquee>
-		<thumbnail>./images/Rampage - Total Destruction.ti-thumb.png</thumbnail>
-		<fanart>./images/Rampage - Total Destruction.ti-fanart.jpg</fanart>
-		<rating>0.55</rating>
-		<releasedate>20070119T000000</releasedate>
-		<developer>Pipeworks Software</developer>
-		<publisher>Midway</publisher>
-		<genre>Action</genre>
-		<players>4</players>
-		<playcount>2</playcount>
-		<lastplayed>20221016T141939</lastplayed>
-		<gametime>214</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T123810" />
-		<scrap name="TheGamesDB" date="20221016T141959" />
-	</game>
-	<game>
-		<path>./Resident Evil Archives - Resident Evil.side.wbfs</path>
-		<name>Resident Evil Archives: Resident Evil</name>
-		<desc>Resident Evil Archives: Resident Evil is a near bare-bones Wii port of the 2002's Resident Evil (remake) for the Nintendo GameCube, which was itself essentially the 1996 PlayStation classic with a massive visual overhaul.</desc>
-		<image>./images/Resident Evil Archives - Resident Evil.side-image.jpg</image>
-		<marquee>./images/Resident Evil Archives - Resident Evil.side-marquee.png</marquee>
-		<thumbnail>./images/Resident Evil Archives - Resident Evil.side-thumb.jpg</thumbnail>
-		<fanart>./images/Resident Evil Archives - Resident Evil.side-fanart.jpg</fanart>
-		<releasedate>20090623T000000</releasedate>
+	<game id="8704">
+		<path>./Monster Hunter Tri.wbfs</path>
+		<name>Monster Hunter 3</name>
+		<desc>Monster Hunter Tri depicts an ecosystem where man co-exists with fantastic beasts that roam both the land and the sea. Featuring both online and offline cooperative modes, players can join online hunting parties with up to four players or play with two players on a single TV for select quests. Players also have the option to face Monster Hunter Tri s quests as a single player experience accompanied by Cha-Cha, an AI hunting partner whose tracking and trapping skills will prove invaluable in the hunt.</desc>
+		<image>./images/Monster Hunter Tri-image.jpg</image>
+		<video>./videos/Monster Hunter Tri-video.mp4</video>
+		<marquee>./images/Monster Hunter Tri-marquee.png</marquee>
+		<thumbnail>./images/Monster Hunter Tri-thumb.png</thumbnail>
+		<rating>0.9</rating>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
-		<genre>Horror</genre>
-		<playcount>1</playcount>
-		<lastplayed>20221016T142808</lastplayed>
-		<gametime>308</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T123811" />
-		<scrap name="TheGamesDB" date="20221016T142836" />
-	</game>
-	<game id="8769">
-		<path>./Rune Factory - Frontier.ni.wbfs</path>
-		<name>Rune Factory Frontier</name>
-		<desc>The player can own a farm. There are 4 distinct seasons, 3 of which you can grow different types of crops. Examples include: Strawberries and turnips in the spring, tomatoes and pineapples in the summer, and yams in the fall. There are many other crops, and you can grow flowers, which can all be sold for gold (the game's currency.) Farming is only half of the game. The other half is dungeon crawling. There are four very different dungeons, three of which represent the four different seasons (the third dungeon represents both autumn and winter). In these dungeons, crops of that dungeon's seasonal affiliation can be grown. The fourth dungeon, Whale Island, is omni-seasonal, and all crops can be grown there at any time.</desc>
-		<image>./images/Rune Factory - Frontier.ni-image.png</image>
-		<video>./videos/Rune Factory - Frontier.ni-video.mp4</video>
-		<marquee>./images/Rune Factory - Frontier.ni-marquee.png</marquee>
-		<thumbnail>./images/Rune Factory - Frontier.ni-thumb.png</thumbnail>
-		<rating>0.9</rating>
-		<releasedate>20090317T000000</releasedate>
-		<developer>Xseed Games</developer>
-		<publisher>Rising Star Games</publisher>
 		<genre>Role playing games</genre>
+		<family>Monster Hunter</family>
 		<players>1</players>
-		<playcount>1</playcount>
-		<lastplayed>20221016T144707</lastplayed>
-		<gametime>876</gametime>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T123812" />
+		<scrap name="ScreenScraper" date="20221103T192328" />
 	</game>
-	<game id="9289">
-		<path>./Samurai Shodown Anthology.side.wbfs</path>
-		<name>Samurai Shodown Anthology</name>
-		<desc>Samurai Shodown Anthology is a compilation of games from the groundbreaking SNK weapon-based fighting Samurai Shodown series. Celebrate the history of the franchise through the years by battling as one of the greatest Samurai of all time, through six separate adventures in this incredible collection. The collection includes six games from the series including Samurai Shodown I, II, III, IV, V and the never before released in North America Samurai Shodown VI.</desc>
-		<video>./videos/Samurai Shodown Anthology.side-video.mp4</video>
-		<marquee>./images/Samurai Shodown Anthology.side-marquee.png</marquee>
-		<thumbnail>./images/Samurai Shodown Anthology.side-thumb.png</thumbnail>
-		<fanart>./images/Samurai Shodown Anthology.side-fanart.jpg</fanart>
-		<rating>1</rating>
-		<releasedate>20090215T000000</releasedate>
-		<genre>Action</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20221016T145140</lastplayed>
-		<gametime>94</gametime>
+	<game id="8879">
+		<path>./Mortal Kombat - Armageddon.wbfs</path>
+		<name>Mortal Kombat Armageddon</name>
+		<desc>For the first time ever on the Wii?, players will be able to experience the latest chapter in Midway's award-winning, best selling video game fi ghting franchise, Mortal Kombat®: Armageddon?. With the most complete roster ever, including more than 60 fighters from the entire Mortal Kombat® universe (past, present and future), a revolutionary Kreate-A-Fighter mode and Kreate-A-Fatality mode, plus a brand new Konquest mode and Endurance Mode, Mortal Kombat®: Armageddon? promises to be the most complete, intensely lethal, fighting experience ever!</desc>
+		<image>./images/Mortal Kombat - Armageddon-image.jpg</image>
+		<video>./videos/Mortal Kombat - Armageddon-video.mp4</video>
+		<marquee>./images/Mortal Kombat - Armageddon-marquee.png</marquee>
+		<thumbnail>./images/Mortal Kombat - Armageddon-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20070529T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Fight</genre>
+		<family>Mortal Kombat</family>
+		<players>2-4</players>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T123812" />
+		<scrap name="ScreenScraper" date="20221103T192331" />
 	</game>
-	<game id="8897">
-		<path>./Sengoku Basara - Samurai Heroes.ni.wbfs</path>
-		<name>Sengoku Basara Samurai Heroes</name>
-		<desc>Featuring unique playable characters, as well as supporting generals who will make it easier to command and lead armies, players will see the battle from the perspective of each military commander with the ultimate goal of re-writing history to rule all of 16th century Japan. In the dynamic new "Hero s Story" mode, the player s decisions impact history with a redesigned story mode. Based on choices made by the player, new drama unfolds as friends become enemies, enemies become friends, and a new Sengoku story unfolds. Adding a new strategic element to the game, forces can fight for control/taking over of camps and ultimately entire battlefields.</desc>
-		<image>./images/Sengoku Basara - Samurai Heroes.ni-image.jpg</image>
-		<video>./videos/Sengoku Basara - Samurai Heroes.ni-video.mp4</video>
-		<marquee>./images/Sengoku Basara - Samurai Heroes.ni-marquee.png</marquee>
-		<thumbnail>./images/Sengoku Basara - Samurai Heroes.ni-thumb.png</thumbnail>
-		<rating>0.9</rating>
-		<releasedate>20100729T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<family>Sengoku Basara</family>
-		<players>2</players>
-		<playcount>2</playcount>
-		<lastplayed>20221101T124708</lastplayed>
-		<gametime>312</gametime>
+	<game id="8912">
+		<path>./Harvest Moon - Tree of Tranquility.wbfs</path>
+		<name>Harvest Moon: Tree of Tranquility</name>
+		<desc>You have moved to an island town that was once enchanted ... however it has been years since the mystical Mother Tree has shown any signs of life and the Harvest Goddess has vanished. The island has lost its connection with nature and the inhabitants don t know what to do. It is up to you to save the island!
+In Harvest Moon: Tree of Tranquility, players find themselves in a troubled island town which once prospered with life and energy, but is now in serious trouble. You must help to rebuild the island by tending to the earth, befriending and raising animals, nurturing friendships, and creating a family. Long-time Harvest Moon fans as well as new players will find an exciting, involving storyline and plenty of activities including cultivating crops, caring for animals, and participating in festivals. All-new controls for the Nintendo Wii Remote give players the chance to feel like they re really farming!</desc>
+		<image>./images/Harvest Moon - Tree of Tranquility-image.jpg</image>
+		<video>./videos/Harvest Moon - Tree of Tranquility-video.mp4</video>
+		<marquee>./images/Harvest Moon - Tree of Tranquility-marquee.png</marquee>
+		<thumbnail>./images/Harvest Moon - Tree of Tranquility-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20091008T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Rising Star Games</publisher>
+		<genre>Simulation</genre>
+		<family>Harvest Moon</family>
+		<players>4</players>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T123813" />
+		<scrap name="ScreenScraper" date="20221103T193927" />
 	</game>
 	<game id="9663">
 		<path>./Blast Works - Build, Trade, Destroy.wbfs</path>
@@ -322,7 +138,7 @@ Also on the Nintendo Wii this year is support for Wii motion plus allowing for 1
 		<genre>Shoot'em Up</genre>
 		<players>2-4</players>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125625" />
+		<scrap name="ScreenScraper" date="20221121T223150" />
 	</game>
 	<game id="8696">
 		<path>./Call of Duty - Black Ops.wbfs</path>
@@ -332,7 +148,6 @@ Also on the Nintendo Wii this year is support for Wii motion plus allowing for 1
 		<video>./videos/Call of Duty - Black Ops-video.mp4</video>
 		<marquee>./images/Call of Duty - Black Ops-marquee.png</marquee>
 		<thumbnail>./images/Call of Duty - Black Ops-thumb.png</thumbnail>
-		<fanart>./images/Call of Duty - Black Ops-fanart.jpg</fanart>
 		<rating>0.8</rating>
 		<releasedate>20101126T000000</releasedate>
 		<developer>Treyarch Corporation</developer>
@@ -340,12 +155,27 @@ Also on the Nintendo Wii this year is support for Wii motion plus allowing for 1
 		<genre>Action</genre>
 		<family>Call Of Duty</family>
 		<players>10</players>
-		<playcount>5</playcount>
-		<lastplayed>20221101T124139</lastplayed>
-		<gametime>1176</gametime>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125629" />
-		<scrap name="TheGamesDB" date="20221017T195958" />
+		<scrap name="ScreenScraper" date="20221121T223152" />
+	</game>
+	<game id="8693">
+		<path>./Call of Duty - Modern Warfare 3.wbfs</path>
+		<name>Call of Duty: Modern Warfare 3</name>
+		<desc>Call of Duty: Modern Warfare 3 (stylized as Call of Duty: MW3) is a 2011 first-person shooter video game, developed by Infinity Ward and Sledgehammer Games (Treyarch for the Wii version), with development assistance from Raven Software, and published by Activision. It is the third installment in the Modern Warfare saga, a direct sequel to 2009 s Call of Duty: Modern Warfare 2, and the eighth Call of Duty installment.
+
+The game was released worldwide in November 2011 on Microsoft Windows, Xbox 360, PlayStation 3,[8] and Wii,[7] with a separate version for Nintendo DS developed by n-Space. In Japan, Square Enix handled the installment with a separate subtitled and dubbed version, as they did for Call of Duty: Black Ops. Within 24 hours of going on sale, the game sold 6.5 million copies in the U.S. and UK alone and grossed $400 million, making it the biggest entertainment launch of all time,[9][10][11] until it was surpassed by Call of Duty: Black Ops II in November 2012.</desc>
+		<image>./images/Call of Duty - Modern Warfare 3-image.png</image>
+		<video>./videos/Call of Duty - Modern Warfare 3-video.mp4</video>
+		<marquee>./images/Call of Duty - Modern Warfare 3-marquee.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20111108T000000</releasedate>
+		<developer>Treyarch Corporation</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<family>Call Of Duty</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T223152" />
 	</game>
 	<game id="8891">
 		<path>./Castlevania Judgment.wbfs</path>
@@ -367,7 +197,23 @@ Castlevania Judgement is a 3D beat em up where you go one-on-one against friends
 		<family>Castlevania</family>
 		<players>2</players>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125635" />
+		<scrap name="ScreenScraper" date="20221121T223153" />
+	</game>
+	<game id="9211">
+		<path>./Dokapon Kingdom.wbfs</path>
+		<name>Dokapon Kingdom</name>
+		<desc>The Kingdom of Dokapon is a land of wealth and riches ruled by a gold-loving King and his daughter Princess Penny. One day, monsters begin appearing all over the realm, assaulting the towns and stealing all of the empire¿s wealth. The King, unable to collect taxes from his impoverished citizens, calls for heroes from across the land to come and rid his monarchy of these monsters. The prize for the hero who is able to free the land: The hand of Princess Penny and rule of the Kingdom itself! Warning : relationship counseling not included!</desc>
+		<image>./images/Dokapon Kingdom-image.png</image>
+		<video>./videos/Dokapon Kingdom-video.mp4</video>
+		<marquee>./images/Dokapon Kingdom-marquee.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20081014T000000</releasedate>
+		<developer>Sting Entertainment</developer>
+		<publisher>Bigben Interactive</publisher>
+		<genre>Role playing games</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T223153" />
 	</game>
 	<game id="8739">
 		<path>./Dragon Ball Z - Budokai Tenkaichi 2.wbfs</path>
@@ -386,7 +232,23 @@ Lightning-fast fighting, light RPG and action gameplay elements give players the
 		<family>Dragon Ball Z</family>
 		<players>2</players>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125640" />
+		<scrap name="ScreenScraper" date="20221121T223154" />
+	</game>
+	<game id="8919">
+		<path>./Naruto - Clash of Ninja Revolution.wbfs</path>
+		<name>Naruto : Clash of Ninja Revolution - European Vers</name>
+		<desc>Clash of Ninja Revolution covers the events of the Chunin Exams arc to the end of the Search for Tsunade arc. Clash of Ninja Revolution uses the same gameplay engine as GekitÅ Ninja Taisen! EX. The game utilizes the Nunchuk accessory for the Wii Remote, for basic attacks and for special attacks that require specific movements from both items. The Classic controller and GameCube controller are also compatible with the game.</desc>
+		<image>./images/Naruto - Clash of Ninja Revolution-image.jpg</image>
+		<marquee>./images/Naruto - Clash of Ninja Revolution-marquee.png</marquee>
+		<thumbnail>./images/Naruto - Clash of Ninja Revolution-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20071023T000000</releasedate>
+		<developer>Takara</developer>
+		<publisher>8ing/Raizing</publisher>
+		<genre>Fight</genre>
+		<family>Naruto</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T223156" />
 	</game>
 	<game id="9591">
 		<path>./Emergency Heroes_[REHE41].wbfs</path>
@@ -402,7 +264,7 @@ Lightning-fast fighting, light RPG and action gameplay elements give players the
 		<genre>Race, Driving</genre>
 		<players>2</players>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125641" />
+		<scrap name="ScreenScraper" date="20221121T223158" />
 	</game>
 	<game id="140339">
 		<path>./Endless Ocean - Blue World_[R4EE01].wbfs</path>
@@ -415,11 +277,8 @@ Lightning-fast fighting, light RPG and action gameplay elements give players the
 		<publisher>Nintendo</publisher>
 		<genre>Adventure</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20221012T191128</lastplayed>
-		<gametime>547</gametime>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125644" />
+		<scrap name="ScreenScraper" date="20221121T223159" />
 	</game>
 	<game id="8965">
 		<path>./Endless Ocean_[RFBE01].wbfs</path>
@@ -429,18 +288,14 @@ Lightning-fast fighting, light RPG and action gameplay elements give players the
 		<video>./videos/Endless Ocean_[RFBE01]-video.mp4</video>
 		<marquee>./images/Endless Ocean_[RFBE01]-marquee.png</marquee>
 		<thumbnail>./images/Endless Ocean_[RFBE01]-thumb.png</thumbnail>
-		<fanart>./images/Endless Ocean_[RFBE01]-fanart.jpg</fanart>
 		<rating>0.8</rating>
 		<releasedate>20080121T000000</releasedate>
 		<developer>Arika</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Adventure</genre>
 		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20221012T191456</lastplayed>
-		<gametime>172</gametime>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125647" />
+		<scrap name="ScreenScraper" date="20221121T223200" />
 	</game>
 	<game id="9993">
 		<path>./Escape The Museum_[R7SE5G].wbfs</path>
@@ -458,11 +313,8 @@ There are some mini-games: paintings work like jigsaw puzzles that have to be re
 		<developer>Majesco</developer>
 		<publisher>Majesco</publisher>
 		<genre>Adventure</genre>
-		<playcount>1</playcount>
-		<lastplayed>20221012T191856</lastplayed>
-		<gametime>160</gametime>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125650" />
+		<scrap name="ScreenScraper" date="20221121T223200" />
 	</game>
 	<game id="9162">
 		<path>./Excite Truck_[REXE01].wbfs</path>
@@ -472,7 +324,6 @@ There are some mini-games: paintings work like jigsaw puzzles that have to be re
 		<video>./videos/Excite Truck_[REXE01]-video.mp4</video>
 		<marquee>./images/Excite Truck_[REXE01]-marquee.png</marquee>
 		<thumbnail>./images/Excite Truck_[REXE01]-thumb.png</thumbnail>
-		<fanart>./images/Excite Truck_[REXE01]-fanart.jpg</fanart>
 		<rating>0.75</rating>
 		<releasedate>20070216T000000</releasedate>
 		<developer>Monster Games</developer>
@@ -480,7 +331,7 @@ There are some mini-games: paintings work like jigsaw puzzles that have to be re
 		<genre>Race, Driving</genre>
 		<players>2</players>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125651" />
+		<scrap name="ScreenScraper" date="20221121T223201" />
 	</game>
 	<game id="9817">
 		<path>./ExciteBots - Trick Racing_[RX3E01].wbfs</path>
@@ -490,7 +341,6 @@ There are some mini-games: paintings work like jigsaw puzzles that have to be re
 		<video>./videos/ExciteBots - Trick Racing_[RX3E01]-video.mp4</video>
 		<marquee>./images/ExciteBots - Trick Racing_[RX3E01]-marquee.png</marquee>
 		<thumbnail>./images/ExciteBots - Trick Racing_[RX3E01]-thumb.png</thumbnail>
-		<fanart>./images/ExciteBots - Trick Racing_[RX3E01]-fanart.jpg</fanart>
 		<rating>0.75</rating>
 		<releasedate>20090420T000000</releasedate>
 		<developer>Monster Games</developer>
@@ -498,24 +348,7 @@ There are some mini-games: paintings work like jigsaw puzzles that have to be re
 		<genre>Race, Driving</genre>
 		<players>2</players>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125652" />
-	</game>
-	<game id="8856">
-		<path>./Final Fantasy Crystal Chronicles - Echoes of Time.wbfs</path>
-		<name>Final Fantasy Crystal Chronicles : Echoes of Time</name>
-		<desc>Journey forth into the world of FINAL FANTASY CRYSTAL CHRONICLES: ECHOES OF TIME, as you select your own adventurer and take on the challenges of the world. Choose your race, gender, and equipment as you battle your way through dungeons of hordes of creatures. Join with others for Wi-Fi and cross platform play! For the first time ever adventurers now come together on Wii and Nintendo DS the world over!</desc>
-		<video>./videos/Final Fantasy Crystal Chronicles - Echoes of Time-video.mp4</video>
-		<marquee>./images/Final Fantasy Crystal Chronicles - Echoes of Time-marquee.png</marquee>
-		<thumbnail>./images/Final Fantasy Crystal Chronicles - Echoes of Time-thumb.png</thumbnail>
-		<rating>0.6</rating>
-		<releasedate>20090324T000000</releasedate>
-		<developer>Square Enix</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Role playing games</genre>
-		<family>Final Fantasy</family>
-		<players>1-4</players>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125655" />
+		<scrap name="ScreenScraper" date="20221121T223202" />
 	</game>
 	<game id="8714">
 		<path>./Fire Emblem - Radiant Dawn.wbfs</path>
@@ -537,7 +370,7 @@ The player must lead a band of heroes against the Begnion Empire s oppression of
 		<family>Fire Emblem</family>
 		<players>1</players>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125657" />
+		<scrap name="ScreenScraper" date="20221121T223204" />
 	</game>
 	<game id="9823">
 		<path>./G.I. JOE - The Rise of Cobra.wbfs</path>
@@ -547,52 +380,134 @@ The player must lead a band of heroes against the Begnion Empire s oppression of
 		<video>./videos/G.I. JOE - The Rise of Cobra-video.mp4</video>
 		<marquee>./images/G.I. JOE - The Rise of Cobra-marquee.png</marquee>
 		<thumbnail>./images/G.I. JOE - The Rise of Cobra-thumb.png</thumbnail>
-		<fanart>./images/G.I. JOE - The Rise of Cobra-fanart.jpg</fanart>
 		<rating>0.5</rating>
 		<developer>Double Helix Games</developer>
 		<publisher>Electronic Arts</publisher>
 		<genre>Shooter / 3rd person</genre>
 		<players>1-2</players>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125701" />
+		<scrap name="ScreenScraper" date="20221121T223204" />
 	</game>
-	<game id="8842">
-		<path>./Mario Sports Mix (Europe) (En,Fr,De,Es,It).wbfs</path>
-		<name>Mario Sports Mix</name>
-		<desc>The games include volleyball, hockey (both field and ice), dodgeball, and basketball in the vein of the two companies  earlier collaboration, Mario Hoops 3 on 3. There are power-up items which give advantages to the team that attains them. Each game has an Exhibition mode, in which up to four human players compete in individual matches, and Tournament mode, where up to three players play matches in a tournament structure, with modes of difficulty named Mushroom, Flower and Star.
-
-Mario Sports Mix also includes several party games based on the mechanics of each sport. Smash Skate is based on Hockey, Bob-omb Dodge is based on Dodgeball, Feed Petey is based on Basketball, and Harmony Hustle is based on Volleyball.</desc>
-		<image>./images/Mario Sports Mix (Europe) (En,Fr,De,Es,It)-image.jpg</image>
-		<video>./videos/Mario Sports Mix (Europe) (En,Fr,De,Es,It)-video.mp4</video>
-		<marquee>./images/Mario Sports Mix (Europe) (En,Fr,De,Es,It)-marquee.png</marquee>
-		<thumbnail>./images/Mario Sports Mix (Europe) (En,Fr,De,Es,It)-thumb.png</thumbnail>
-		<fanart>./images/Mario Sports Mix (Europe) (En,Fr,De,Es,It)-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>20110128T000000</releasedate>
-		<developer>Square Enix</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports</genre>
-		<players>4</players>
-		<lang>it,es,de,fr,en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20221101T125702" />
-	</game>
-	<game id="8941">
-		<path>./Naruto Shippuden - Dragon Blade Chronicles.wbfs</path>
-		<name>Naruto Shippuden: Dragon Blade Chronicles</name>
-		<desc>Unlike the Clash of Ninja series, the game is more of a free-roaming hack-and-slash video game. Despite this, it seems to use graphics similar to the aforementioned Clash of Ninja games, and even reuses several models. All characters wear new, armoured outfits that are based on their normal attire, with the exception of Tsunade and Jiraiya.</desc>
-		<video>./videos/Naruto Shippuden - Dragon Blade Chronicles-video.mp4</video>
-		<marquee>./images/Naruto Shippuden - Dragon Blade Chronicles-marquee.png</marquee>
-		<thumbnail>./images/Naruto Shippuden - Dragon Blade Chronicles-thumb.png</thumbnail>
-		<rating>0.45</rating>
-		<releasedate>20101116T000000</releasedate>
-		<developer>Tomy</developer>
-		<publisher>505 Games</publisher>
+	<game id="8921">
+		<path>./Guilty Gear XX Accent Core.wbfs</path>
+		<name>Guilty Gear XX Accent Core Plus</name>
+		<desc>The fighting franchise that launched an entirely new style of fighting games is celebrating its 10th anniversary with the most complete and definitive version of the game on the Nintendo Wii. Follow the stories of the 25 crazy combatants and dish out a mind-numbing amount of insane combos that the series is known for.</desc>
+		<image>./images/Guilty Gear XX Accent Core-image.jpg</image>
+		<video>./videos/Guilty Gear XX Accent Core-video.mp4</video>
+		<marquee>./images/Guilty Gear XX Accent Core-marquee.png</marquee>
+		<thumbnail>./images/Guilty Gear XX Accent Core-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20090512T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>Zen United</publisher>
 		<genre>Fight</genre>
-		<family>Naruto</family>
+		<family>Guilty Gear</family>
 		<players>2</players>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125705" />
+		<scrap name="ScreenScraper" date="20221121T223205" />
+	</game>
+	<game id="8698">
+		<path>./New Super Mario Bros. Wii.wbfs</path>
+		<name>New Super Mario Bros. Wii</name>
+		<desc>New Super Mario Bros. Wii offers a combination of cooperation and competition. Players can pick each other up to save them from danger or toss them into it.* Mario™, Luigi™ and two Toads are all playable characters, while many others from the Mushroom Kingdom make appearances throughout the game. Players can even ride different Yoshi characters and use their tongues to swallow enemies – or their fellow players.* In some areas, players use the motion abilities of the Wii Remote™ controller. The first player to reach a seesaw might make it tilt to help his or her character reach a higher platform – and then tilt it incorrectly just to mess with other players.* New items include the propeller suit, which will shoot players high into the sky with just a shake of the Wii Remote and Mario's new ability to transform into Penguin Mario.</desc>
+		<image>./images/New Super Mario Bros. Wii-image.png</image>
+		<video>./videos/New Super Mario Bros. Wii-video.mp4</video>
+		<marquee>./images/New Super Mario Bros. Wii-marquee.png</marquee>
+		<thumbnail>./images/New Super Mario Bros. Wii-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20091115T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<family>Super Mario Bros</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T223206" />
+	</game>
+	<game id="9593">
+		<path>./Offroad Extreme Special Edition_[ROFE5Z].wbfs</path>
+		<name>Offroad Extreme !</name>
+		<desc>Enter the super-charged turbo driven world of Off Road Extreme. This is where off road racing takes on a whole new meaning! From Karts to Baja Buggies, Offroad Extreme delivers a unique and exciting gamplay experience. You will race a variety of off road vehicles through visually stunning environments, around rugged terrain, along valleys and through ancient cave structures. Choose from a vast selection of detailed off road machines with an impressive 32 unique track variations including quarries, canyons and mines. Featuring realistic weather conditions during day and night. Earn prize money to unlock hidden extras, including upgrades, extra challenges, extra courses and much more. Utilising the Wii controls to allow you to use the wireless Wii Remote as a steering wheel. Be careful though, every time your vehicle takes some on damage you will have to pay for your repairs.</desc>
+		<image>./images/Offroad Extreme Special Edition_[ROFE5Z]-image.jpg</image>
+		<video>./videos/Offroad Extreme Special Edition_[ROFE5Z]-video.mp4</video>
+		<marquee>./images/Offroad Extreme Special Edition_[ROFE5Z]-marquee.png</marquee>
+		<rating>0.3</rating>
+		<developer>Data Design</developer>
+		<publisher>Data Design</publisher>
+		<genre>Race, Driving</genre>
+		<md5>6f668e2bcc499b485d7ab277785215d7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T223211" />
+	</game>
+	<game id="9411">
+		<path>./Rampage - Total Destruction.wbfs</path>
+		<name>Rampage: Total Destruction</name>
+		<desc>Get ready to roam, rage and Rampage your way through cities of the world destroying everything in your path in Rampage: Total Destruction! George, Lizzy and Ralph are back along with 27 new monsters that you can find, collect and play as. Wander through 3D neighborhoods of major cities trashing everything in sight as you uncover hidden monsters and power-ups.In Rampage, players take on the role of Mutated Giant Monsters created by the unscrupulous scum labs corporation (operating under the guise of a soft drink company.) The player's goal is to progress through a series of cities around the globe destroying as much of them as possible in an effort to locate all the other captive monsters. Features:? Collect Monsters - Collect and Play as 30 different monsters each with their own unique attributes!? Destroy It All - Roam through 7 major cities around the globe destroying everything in your path!? Throw Stuff - Increase the levels of damage and destruction by throwing objects around!</desc>
+		<image>./images/Rampage - Total Destruction-image.jpg</image>
+		<video>./videos/Rampage - Total Destruction-video.mp4</video>
+		<marquee>./images/Rampage - Total Destruction-marquee.png</marquee>
+		<thumbnail>./images/Rampage - Total Destruction-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>20070119T000000</releasedate>
+		<developer>Pipeworks Software</developer>
+		<publisher>Midway</publisher>
+		<genre>Action</genre>
+		<family>Rampage</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T223213" />
+	</game>
+	<game id="8710">
+		<path>./Resident Evil 4 - Wii Edition.wbfs</path>
+		<name>Resident Evil 4: Wii Edition</name>
+		<desc>A remake of the blockbuster survival horror game, fourth entry in the Resident Evil universe not only takes players out of the country on a recovery mission but also into the arms of a whole new enemy. As Leon Kennedy, players will explore a town overrun by cultists, mutants and mind-controlled villagers, using the Wii Remote to aim, fire, slash and avoid oncoming adversaries with intuitive motions and movements. Added Wii Remote and Nunchuck support allows players to immerse themselves in the game as never before. This package includes the original game (with tuned-up control for the Wiimote) plus the playable bonus Ada Wong side-story, The Another Order not available in the original GameCube version.</desc>
+		<image>./images/Resident Evil 4 - Wii Edition-image.png</image>
+		<video>./videos/Resident Evil 4 - Wii Edition-video.mp4</video>
+		<marquee>./images/Resident Evil 4 - Wii Edition-marquee.png</marquee>
+		<thumbnail>./images/Resident Evil 4 - Wii Edition-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure / Survival Horror</genre>
+		<family>Resident Evil</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T223214" />
+	</game>
+	<game id="8700">
+		<path>./Resident Evil Archives - Resident Evil.wbfs</path>
+		<name>Resident Evil Archives: Resident Evil</name>
+		<desc>Resident Evil Archives: Resident Evil is a near bare-bones Wii port of the 2002 s Resident Evil (remake) for the Nintendo GameCube, which was itself essentially the 1996 PlayStation classic with a massive visual overhaul.</desc>
+		<image>./images/Resident Evil Archives - Resident Evil-image.png</image>
+		<video>./videos/Resident Evil Archives - Resident Evil-video.mp4</video>
+		<marquee>./images/Resident Evil Archives - Resident Evil-marquee.png</marquee>
+		<thumbnail>./images/Resident Evil Archives - Resident Evil-thumb.png</thumbnail>
+		<rating>1</rating>
+		<releasedate>20081225T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure / Survival Horror</genre>
+		<family>Resident Evil</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T223215" />
+	</game>
+	<game id="8769">
+		<path>./Rune Factory - Frontier.wbfs</path>
+		<name>Rune Factory Frontier</name>
+		<desc>The player can own a farm. There are 4 distinct seasons, 3 of which you can grow different types of crops. Examples include: Strawberries and turnips in the spring, tomatoes and pineapples in the summer, and yams in the fall. There are many other crops, and you can grow flowers, which can all be sold for gold (the game's currency.) Farming is only half of the game. The other half is dungeon crawling. There are four very different dungeons, three of which represent the four different seasons (the third dungeon represents both autumn and winter). In these dungeons, crops of that dungeon's seasonal affiliation can be grown. The fourth dungeon, Whale Island, is omni-seasonal, and all crops can be grown there at any time.</desc>
+		<image>./images/Rune Factory - Frontier-image.png</image>
+		<video>./videos/Rune Factory - Frontier-video.mp4</video>
+		<marquee>./images/Rune Factory - Frontier-marquee.png</marquee>
+		<thumbnail>./images/Rune Factory - Frontier-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20090317T000000</releasedate>
+		<developer>Xseed Games</developer>
+		<publisher>Rising Star Games</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T223215" />
 	</game>
 	<game id="8841">
 		<path>./Need for Speed - Undercover.wbfs</path>
@@ -610,26 +525,315 @@ Mario Sports Mix also includes several party games based on the mechanics of eac
 		<family>Need for Speed</family>
 		<players>1-4</players>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125705" />
+		<scrap name="ScreenScraper" date="20221121T223217" />
 	</game>
-	<game id="8698">
-		<path>./New Super Mario Bros. Wii.wbfs</path>
-		<name>New Super Mario Bros. Wii</name>
-		<desc>New Super Mario Bros. Wii offers a combination of cooperation and competition. Players can pick each other up to save them from danger or toss them into it.* Mario™, Luigi™ and two Toads are all playable characters, while many others from the Mushroom Kingdom make appearances throughout the game. Players can even ride different Yoshi characters and use their tongues to swallow enemies – or their fellow players.* In some areas, players use the motion abilities of the Wii Remote™ controller. The first player to reach a seesaw might make it tilt to help his or her character reach a higher platform – and then tilt it incorrectly just to mess with other players.* New items include the propeller suit, which will shoot players high into the sky with just a shake of the Wii Remote and Mario's new ability to transform into Penguin Mario.</desc>
-		<image>./images/New Super Mario Bros. Wii-image.png</image>
-		<video>./videos/New Super Mario Bros. Wii-video.mp4</video>
-		<marquee>./images/New Super Mario Bros. Wii-marquee.png</marquee>
-		<thumbnail>./images/New Super Mario Bros. Wii-thumb.png</thumbnail>
-		<fanart>./images/New Super Mario Bros. Wii-fanart.jpg</fanart>
-		<rating>0.85</rating>
-		<releasedate>20091115T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
+	<game id="8897">
+		<path>./Sengoku Basara - Samurai Heroes.wbfs</path>
+		<name>Sengoku Basara Samurai Heroes</name>
+		<desc>Featuring unique playable characters, as well as supporting generals who will make it easier to command and lead armies, players will see the battle from the perspective of each military commander with the ultimate goal of re-writing history to rule all of 16th century Japan. In the dynamic new "Hero s Story" mode, the player s decisions impact history with a redesigned story mode. Based on choices made by the player, new drama unfolds as friends become enemies, enemies become friends, and a new Sengoku story unfolds. Adding a new strategic element to the game, forces can fight for control/taking over of camps and ultimately entire battlefields.</desc>
+		<image>./images/Sengoku Basara - Samurai Heroes-image.jpg</image>
+		<video>./videos/Sengoku Basara - Samurai Heroes-video.mp4</video>
+		<marquee>./images/Sengoku Basara - Samurai Heroes-marquee.png</marquee>
+		<thumbnail>./images/Sengoku Basara - Samurai Heroes-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20100729T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Sengoku Basara</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T223218" />
+	</game>
+	<game id="9125">
+		<path>./SNK Arcade Classics Volume 1.wbfs</path>
+		<name>SNK Arcade Classics Volume 1</name>
+		<desc>Celebrate the history of SNK with the ultimate collection of arcade classic hits. Featuring the following 16 NEOGEO games: Art of Fighting, Baseball Stars 2, Burning Fight, Fatal Fury, KOF 94, King of the Monsters, Last Resort, Magician Lord, Metal Slug, Neo Turf Masters, Samurai Shodown, Sengoku, Shock Troopers, Super Sidekicks 3, Top Hunter and World Heroes.</desc>
+		<image>./images/SNK Arcade Classics Volume 1-image.png</image>
+		<video>./videos/SNK Arcade Classics Volume 1-video.mp4</video>
+		<marquee>./images/SNK Arcade Classics Volume 1-marquee.png</marquee>
+		<thumbnail>./images/SNK Arcade Classics Volume 1-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20080728T000000</releasedate>
+		<genre>Compilation</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T223220" />
+	</game>
+	<game id="8731">
+		<path>./Sonic Colors.wbfs</path>
+		<name>Sonic Colours</name>
+		<desc>A brand new high speed action adventure in which Sonic the Hedgehog races through incredible theme park inspired worlds to rescue a colourful alien race from the clutches of Dr Eggman. An extraordinary amusement park has been seen orbiting around the home planet of Sonic the Hedgehog, and rumours are spreading that an alien race of Wisps, who have a unique colourful energy, are being held captive there by the evil Dr Eggman. Soon after arriving at the amusement park Sonic discovers he is able to use these mysterious alien forces to help the Wisps escape! Sonic Colours for the Wii seamlessly combines both 3D and classic 2D game play perspectives.</desc>
+		<image>./images/Sonic Colors-image.png</image>
+		<video>./videos/Sonic Colors-video.mp4</video>
+		<marquee>./images/Sonic Colors-marquee.png</marquee>
+		<thumbnail>./images/Sonic Colors-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20101112T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>SEGA</publisher>
 		<genre>Platform</genre>
-		<family>Super Mario Bros</family>
+		<family>Sonic</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T223220" />
+	</game>
+	<game id="8836">
+		<path>./Sonic Unleashed.wbfs</path>
+		<name>Sonic Unleashed</name>
+		<desc>Sonic is truly in a world-wide race against time. As the sun sets, a new adventure awakens. In this new adventure Dr. Eggman is up to his evil antics again in his quest for World domination. He unleashes a powerful ray that not only divides the world into several continents, but also unexpectedly transforms Sonic. Sonic must travel across the globe, completing action-packed stages to retrieve the power of the Chaos Emeralds to ultimately save the world and himself! A powerful new game engine delivers the tight gameplay of a 2D sidescroller in stunning, picturesque 3D environments. Sonic Unleashed takes everything you know and love about Sonic and upgrades it with spectacular scenery, new combat powers, an unexpected storyline, and, of course, blistering speed. Features include the all new powerful HEDGEHOG ENGINE that delivers a revolutionary gameplay experience, combining ultra realistic graphics with seamless transition between 3D to classic 2D high-speed action. Accelerate to super speed with Sonic Boost, avoid obstacles instantly using Quick Step, and accelerate around corners with Speed Drift. Journey and explore seven unique, rich and vibrant continents; sprint across cobbled streets or race through lush jungles on a quest to save the world. With a massive world as Sonic's new playground, follow multiple paths and routes that present different encounters, rewards and obstacles at every turn, as an unexpected storyline unfolds. Sonic's transformation brings new powers of combat and movement, giving an innovative and challenging Sonic experience.</desc>
+		<image>./images/Sonic Unleashed-image.png</image>
+		<video>./videos/Sonic Unleashed-video.mp4</video>
+		<marquee>./images/Sonic Unleashed-marquee.png</marquee>
+		<thumbnail>./images/Sonic Unleashed-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20081128T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Sonic</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T223221" />
+	</game>
+	<game id="8692">
+		<path>./Super Smash Bros. Brawl.wbfs</path>
+		<name>Super Smash Bros. Brawl</name>
+		<desc>Welcome to a brawl for the ages, where anything can happen, anyone can show up and all bets are off.Game storyline: In multiplayer games, characters from all Nintendo universes meet up in Nintendo locales to duke it out. In the solo mode called "The Subspace Emissary," the world of Smash Bros. is invaded by an entity called the Ancient Minister and his army of creatures, called "The Primid." Normally, characters come alive in the world of Smash Bros. to do battle, then turn back into trophies when defeated. However, the Ancient Minister starts turning characters into trophies to harness their power, then detonates bombs that suck pieces of the world back into his realm of Subspace. Eventually, all the characters must work together to defeat the invading creatures from Subspace - this is accomplished by playing through side-scrolling levels.How to progress through the game: For multiplayer games, players pick characters, set rules and locations for where they want to play and then duke it out. In Solo Mode, characters play through a long, side-scrolling adventure, beating up enemies along the way as they watch short cinematics starring their favorite characters.Characters: Mario, Samus, Bowser, Donkey Kong, Solid Snake, Meta Knight, Kirby, Pikachu, Zero Suit Samus, Link, Zelda, Pit and Wario, to name just a few. Anyone and anything from a Nintendo universe could appear in this game in one form or another.Special powers/weapons/moves/features: Anything from a Nintendo game could conceivably be in this game, whether it's a musical score, an obscure item or a character that shows up to help the fighters. Super Smash Bros. Brawl is eminently customizable, so players can choose the frequency of items appearing, adjust musical scores and basically play the game however they'd like. Items range from baseball bats to proximity mines to Poké Balls to Assist Trophies, which spawn characters like Hammer Bros. and Sim City's Dr. Wright to attack others.Super Smash Brawl Tournament WinnersLA Region Winner - David SegalSF Region Winner - Jason CaroMA Region Winner - Daniel JungNY Region Winner - Jensen SantiagoTournament National ChampionDaniel Jung * This action-packed fighting game features a ridiculous number of characters that have appeared on Nintendo platforms, from Mario to Link to Pikachu ... to Solid Snake! As they square off in famous locales drawn from the rich history of Nintendo, literally anything can happen - and usually does. With limitless customizing options, items and weapons that boggle the mind and a wealth of modes, this game has truly infinite replayability. * Super Smash Bros. Brawl features a sprawling adventure mode called "The Subspace Emissary" that's a full game in and of itself. Players jump and brawl their way through enemy-packed side-scrolling levels, meeting up with other characters, watching incredible cinematics and taking on massive bosses. * For the first time, this celebrated series is going Wi-Fi, allowing up to four players to brawl, no matter where they may be.</desc>
+		<image>./images/Super Smash Bros. Brawl-image.jpg</image>
+		<video>./videos/Super Smash Bros. Brawl-video.mp4</video>
+		<marquee>./images/Super Smash Bros. Brawl-marquee.png</marquee>
+		<thumbnail>./images/Super Smash Bros. Brawl-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20080309T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fight</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T223222" />
+	</game>
+	<game id="8846">
+		<path>./Tatsunoko vs. Capcom - Ultimate All-Stars.wbfs</path>
+		<name>Tatsunoko vs. Capcom: Ultimate All-Stars</name>
+		<desc>From Capcom?s 30-year history comes characters like Ryu and Chun-Li from the Street Fighter series, Morrigan from Darkstalkers and company mascot Mega Man Volnutt from Mega Man Legends. Tatsunoko?s near half-century of Japanese animation excellence is represented by the likes of Ken the Eagle and Jun the Swan from the Science Ninja Team Gatchaman anime (known in Europe as Battle of the Planets or G-Force), cybernetic warrior Casshan and comedic action hero Yatterman No. 1. All together, there are more than 20 colourful combatants to choose from in order to form the ultimate tag team combination.Gameplay will instantly set fighting game fans? fingers twitching, combining elements from Capcom games like Street Fighter and previous entries in the VS series, TATSUNOKO VS. CAPCOM ULTIMATE ALL-STARS is a fun fighting game designed for all levels of players. Players choose from the combined roster of fighters to create their favourite two man/woman/cyborg/robot tag team, rotating on the fly between the two players throughout the course of each match. Those new to the genre will appreciate the game?s bright visual style and simplified four-button fighting controls. Hardcore Capcom fighting fans will dig in to the game?s depth, uncovering huge Aerial Rave combos and unique Variable Assists, gorgeous Ultimate Hyper Combos, and Variable Combinations that combine the capabilities of two members of the player?s tag-team to unleash huge damage. ? More than 20 fighters to choose from:o Capcom: Ryu, Chun-Li (Street Fighter), Batsu (Rival Schools), Alex (Street Fighter III), Morrigan (Darkstalkers), Soki (Onimusha: Dawn of Dreams), Mega Man Volnutt (Mega Man Legends), Roll (Mega Man), Saki (Quiz Nanairo Dreams), Viewtiful Joe, PTX-40A (Lost Planet) and more to be announcedo Tatsunoko: Ken the Eagle, Jun the Swan (Science Ninja Team Gatchaman), Yatterman, Doronjo (Yatterman), Casshan, Tekkaman, Polymar, Karas, Ippatsuman and Gold Lightan, plus others to be revealed.? Possible additions to the game: the team is exploring adding new Capcom and Tatsunoko characters as well as online gameplay.? Two-man tag team action: Players build their own perfect team and use Assist Attacks and each character?s special moves to create their own unique fighting style.? Four button fighting controls: Easy-to-understand four button control scheme opens gameplay up to new players with familiar movements and combos? Depth of gameplay: Once the basics are mastered, players can go deeper into the fighting game controls to master Aerial Rave air combos, Delayed Hyper Combos, Mega Crash defensive moves, Assault attack moves and the Baroque extended combo system.? Fast-paced action and huge attacks: Each characters has a unique arsenal of moves, including spectacular Hyper Combos that literally take over the screen with devastating results.3D characters, 2D fighting gameplay: As in Street Fighter IV, TVC: ULTIMATE ALL-STARS has bright, 3D rendered characters battling it out in familiar 2D style.</desc>
+		<image>./images/Tatsunoko vs. Capcom - Ultimate All-Stars-image.jpg</image>
+		<video>./videos/Tatsunoko vs. Capcom - Ultimate All-Stars-video.mp4</video>
+		<marquee>./images/Tatsunoko vs. Capcom - Ultimate All-Stars-marquee.png</marquee>
+		<thumbnail>./images/Tatsunoko vs. Capcom - Ultimate All-Stars-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20090127T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T223223" />
+	</game>
+	<game id="8717">
+		<path>./The Last Story.wbfs</path>
+		<name>The Last Story</name>
+		<desc>Embroiled in seemingly endless conflict, the Empire has been slowly weakened by the relentless onslaught of enemy forces. Despite the debilitated state of the mainland, however, a virtually impenetrable last line of defense stands proud and keeps hope alive for all the land. That beacon of hope is Lazulis Island, ruled by the renowned Count Arganan. With the employment of an army of weapons that magically ?and mysteriously-- concentrates beasts into a single region, his island has become a small wonder for its powers.
+
+Among those coming to the island to seek their fortune is Zael, a young man who at an early age was orphaned when his homeland became one of the many victims of battle. Though he and his band of fellow mercenaries often face disdain and fear as they are perceived to be of a lower class, they manage to catch the eye of none other than Count Arganan himself. If they can successfully complete the tasks put before them by the Count, they may have a rare chance to gain the most honorable status that they have only dreamed of - knighthood.
+
+It is during one of these missions bestowed upon them that Zael discovers a hidden site, one which grants him a wondrous and yet familiar power to gather his enemies in one place?</desc>
+		<image>./images/The Last Story-image.jpg</image>
+		<video>./videos/The Last Story-video.mp4</video>
+		<marquee>./images/The Last Story-marquee.png</marquee>
+		<thumbnail>./images/The Last Story-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20120224T000000</releasedate>
+		<developer>Mistwalker</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T223223" />
+	</game>
+	<game id="8697">
+		<path>./Xenoblade Chronicles.wbfs</path>
+		<name>Xenoblade Chronicles</name>
+		<desc>Join the battle for Bionis to repel the invasion of a terrifying mechanical army and uncover the secrets of a mystical sword called the Monado in Xenoblade.Xenoblade Chronicles is an epic role-playing game which takes place on an immense game world on the remains of two giant titans, and features fast-paced real-time battling. The game heavily focuses on exploring vast landscapes and immerses you into the game with cinematic cut scenes.The story focuses on Shulk and the Monado, a mystical sword that gives his bearer great powers, and a war between humans and robots.The game?s real-time battles has an action oriented approach, giving you the chance to unleash special attacks and strategies by selecting them from a command gauge; the battling also is interlinked with the affinity between characters.</desc>
+		<image>./images/Xenoblade Chronicles-image.png</image>
+		<video>./videos/Xenoblade Chronicles-video.mp4</video>
+		<marquee>./images/Xenoblade Chronicles-marquee.png</marquee>
+		<thumbnail>./images/Xenoblade Chronicles-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20120402T000000</releasedate>
+		<developer>Monolith Soft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<family>Xenoblade</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T223226" />
+	</game>
+	<game id="9905">
+		<path>./You Don't Know Jack_[SKJE78].wbfs</path>
+		<name>You Don't Know Jack</name>
+		<desc>YOU DON'T KNOW JACK, the original quiz show party game, is back and trivia-y-er than ever! You're the contestant in a truly interactive game show experience, complete with cash, prizes, backstage characters, pounding music, bizarre sound effects and your lovable yet verbally sassy host, Cookie Masterson. Play at home or online - alone or with friends - as you battle through a trivia mind-field on your way to victory, defeat or, more likely, soiled pants.
+
+We've re-imagined a new and improved YOU DON'T KNOW JACK for the 21st century. All of your favorite elements are still there: the twisted multiple-choice questions, musical question intros, the DisOrDat?, Screw Your Neighbor? and the Jack Attack?, plus all kinds of new face-melting features and surprises - including online play! And of course, tons of all-new twisted trivia questions covering everything from Dr. Phil to Dr. Pepper, from Miley Cyrus to the Mile High Club. It's fun, it's funny, it's funky, and it kills more than 99.9% of known fungi. YOU DON'T KNOW JACK!</desc>
+		<image>./images/You Don't Know Jack_[SKJE78]-image.jpg</image>
+		<video>./videos/You Don't Know Jack_[SKJE78]-video.mp4</video>
+		<marquee>./images/You Don't Know Jack_[SKJE78]-marquee.png</marquee>
+		<thumbnail>./images/You Don't Know Jack_[SKJE78]-thumb.png</thumbnail>
+		<releasedate>20110208T000000</releasedate>
+		<developer>Jellyvision</developer>
+		<publisher>THQ</publisher>
+		<genre>Puzzle-Game</genre>
 		<players>1-4</players>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125706" />
+		<scrap name="ScreenScraper" date="20221121T223226" />
+	</game>
+	<game id="9672">
+		<path>./Zhu Zhu Pets - Featuring the Wild Bunch.wbfs</path>
+		<name>ZhuZhu Pets : Animaux de la Forêt</name>
+		<desc>ZhuZhu Pets: Forest Animals is a 2D platform game on Wii in which you control a hamster. The player must search each level to find the animals of the forest as well as bonus items, and also a key that allows access to the exit.</desc>
+		<image>./images/Zhu Zhu Pets - Featuring the Wild Bunch-image.jpg</image>
+		<video>./videos/Zhu Zhu Pets - Featuring the Wild Bunch-video.mp4</video>
+		<marquee>./images/Zhu Zhu Pets - Featuring the Wild Bunch-marquee.png</marquee>
+		<thumbnail>./images/Zhu Zhu Pets - Featuring the Wild Bunch-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20101012T000000</releasedate>
+		<developer>Black Lantern</developer>
+		<publisher>Activision</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T223227" />
+	</game>
+	<game id="140333">
+		<path>./Outdoor Action Double Pack_[SFHEFP].wbfs</path>
+		<name>Outdoor Action Double Pack</name>
+		<desc>Outdoor Action Double Pack is a Miscellaneous game, developed and published by Mastiff, which was released in 2010.</desc>
+		<marquee>./images/Outdoor Action Double Pack_[SFHEFP]-marquee.png</marquee>
+		<thumbnail>./images/Outdoor Action Double Pack_[SFHEFP]-thumb.png</thumbnail>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221124T185319" />
+	</game>
+	<game id="8856">
+		<path>./Final Fantasy Crystal Chronicles - Echoes of Time.wbfs</path>
+		<name>Final Fantasy Crystal Chronicles : Echoes of Time</name>
+		<desc>Journey forth into the world of FINAL FANTASY CRYSTAL CHRONICLES: ECHOES OF TIME, as you select your own adventurer and take on the challenges of the world. Choose your race, gender, and equipment as you battle your way through dungeons of hordes of creatures. Join with others for Wi-Fi and cross platform play! For the first time ever adventurers now come together on Wii and Nintendo DS the world over!</desc>
+		<video>./videos/Final Fantasy Crystal Chronicles - Echoes of Time-video.mp4</video>
+		<marquee>./images/Final Fantasy Crystal Chronicles - Echoes of Time-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy Crystal Chronicles - Echoes of Time-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20090324T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games</genre>
+		<family>Final Fantasy</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221124T185320" />
+	</game>
+	<game id="9140">
+		<path>./Geometry Wars - Galaxies.wbfs</path>
+		<name>Geometry Wars Galaxies</name>
+		<desc>Blast your way through all-new battle grids, upgrade your new Battle Drone and blast through relentless waves of enemies in the first-ever Geometry Wars single-player campaign. Then join a friend for fast-paced multiplayer that's out of this world. Geometry Wars: Galaxies also includes the full version of Bizarre Creations' Geometry Wars: Retro Evolved, winner of IGN's Best Xbox Live Arcade Title of the Year.</desc>
+		<video>./videos/Geometry Wars - Galaxies-video.mp4</video>
+		<marquee>./images/Geometry Wars - Galaxies-marquee.png</marquee>
+		<thumbnail>./images/Geometry Wars - Galaxies-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20071120T000000</releasedate>
+		<developer>Kuju Entertainment</developer>
+		<publisher>Sierra</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221124T185320" />
+	</game>
+	<game id="9483">
+		<path>./Marvel Super Hero Squad - Comic Combat (USA) (En,Fr).wbfs</path>
+		<name>Marvel Super Hero Squad : Comic Combat</name>
+		<desc>Unleash the power of the pen in Marvel Super Hero Squad: Comic Combat!
+
+
+
+The uDraw GameTablet is the newest way to fight against evil! Draw directly into the game world to perform awesome attacks, complete unique puzzles, and turn the tide against Doctor Doom and his evil minions. Hero up with 10 playable Squaddies, including Thor, Captain America, Iron Man, Wolverine, and for the first time ever, Squirrel Girl! The battle lines are drawn in Marvel Super Hero Squad: Comic Combat for uDraw, available this holiday on all 3 uDraw platforms! Draw, Fight, Win!
+
+Features
+
+Hero up as 10 different Marvel heroes to battle Dr. Doom!New hero abilities include Earthquake and Zipper RiftSix comic book issues based in a Super Hero cityCollect &amp; earn hero points, costumes and more!</desc>
+		<video>./videos/Marvel Super Hero Squad - Comic Combat (USA) (En,Fr)-video.mp4</video>
+		<marquee>./images/Marvel Super Hero Squad - Comic Combat (USA) (En,Fr)-marquee.png</marquee>
+		<thumbnail>./images/Marvel Super Hero Squad - Comic Combat (USA) (En,Fr)-thumb.png</thumbnail>
+		<fanart>./images/Marvel Super Hero Squad - Comic Combat (USA) (En,Fr)-fanart.jpg</fanart>
+		<rating>0.55</rating>
+		<developer>THQ</developer>
+		<publisher>THQ</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Marvel</family>
+		<players>1</players>
+		<lang>fr,en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221124T185321" />
+	</game>
+	<game id="10234">
+		<path>./MLB Power Pros 2008.wbfs</path>
+		<name>Mlb Power Pros 2008</name>
+		<desc>MLB Power Pros is a different take on the MLB license.  While the player has the ability to play as authentic players on actual MLB teams, the players are represented by anime characters, with large heads, feet and hands with no arms and legs.  The game has been a mainstay in Japan for the last 15 years.
+
+Power Pros does feature options from other real-time games such as Season, Multiplayer and Exhibition modes, it also has a story based mode where the player can create their own character and play up to 20 years, doing activities such as earning the right to move from the minors to the majors, landing big contracts, as well as buying houses and cars, make friends on and off the field, as well as start hobbies and make donations to charities to draw attention to the player.
+
+It also features a Dynasty mode where the player can run a MLB team, trading and releasing with a roster of 40 men and change formations on defense and offense as well as change a pitchers ball speed.</desc>
+		<video>./videos/MLB Power Pros 2008-video.mp4</video>
+		<marquee>./images/MLB Power Pros 2008-marquee.png</marquee>
+		<thumbnail>./images/MLB Power Pros 2008-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>20080702T000000</releasedate>
+		<developer>2K Games</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports / Baseball</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221124T185321" />
+	</game>
+	<game id="153128">
+		<path>./MLB Power Pros.wbfs</path>
+		<name>Mlb Power Pros</name>
+		<desc>MLB Power Pros is a different take on the MLB license. While the player has the ability to play as authentic players on actual MLB teams, the players are represented by anime characters, with large heads, feet and hands with no arms and legs. The game has been a mainstay in Japan for the last 15 years.
+
+Power Pros does feature options from other real-time games such as Season, Multiplayer and Exhibition modes, it also has a story based mode where the player can create their own character and play up to 20 years, doing activities such as earning the right to move from the minors to the majors, landing big contracts, as well as buying houses and cars, make friends on and off the field, as well as start hobbies and make donations to charities to draw attention to the player.
+
+It also features a Dynasty mode where the player can run a MLB team, trading and releasing with a roster of 40 men and change formations on defense and offense as well as change a pitchers ball speed.</desc>
+		<video>./videos/MLB Power Pros-video.mp4</video>
+		<marquee>./images/MLB Power Pros-marquee.png</marquee>
+		<thumbnail>./images/MLB Power Pros-thumb.png</thumbnail>
+		<genre>Sports / Baseball</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221124T185322" />
+	</game>
+	<game>
+		<path>./Naruto Shippuden - Clash of Ninja Revolution 3.wbfs</path>
+		<name>Naruto Shippuden: Clash of Ninja Revolution III</name>
+		<desc>Clash of Ninja Revolution 3, developed by the same studio working on the anticipated Tatsunoko vs. Capcom: Ultimate All-Stars, is an easy-to-learn, traditional fighter that takes place during the Naruto Shippuden timeline. Although the game has a fairly straight-forward interface and doesn't require a lot of advanced directional inputs, there's still plenty of depth to be found and competitive players will really enjoy what Revolution 3 has to offer.
+Players can select from a huge roster of recognizable characters, both heroes and villains alike, though the majority of them are locked from the start and must be purchased at the in-game shop with Revolution 3's currency. This cash can be earned just by participating in battles, so players should have no problem pulling the curtain back on extra fighters, modes, stages and more.</desc>
+		<thumbnail>./images/Naruto Shippuden - Clash of Ninja Revolution 3-thumb.jpg</thumbnail>
+		<releasedate>20091117T000000</releasedate>
+		<genre>Action, Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221124T185322" />
+		<scrap name="TheGamesDB" date="20221103T194006" />
+	</game>
+	<game id="8941">
+		<path>./Naruto Shippuden - Dragon Blade Chronicles.wbfs</path>
+		<name>Naruto Shippuden: Dragon Blade Chronicles</name>
+		<desc>Unlike the Clash of Ninja series, the game is more of a free-roaming hack-and-slash video game. Despite this, it seems to use graphics similar to the aforementioned Clash of Ninja games, and even reuses several models. All characters wear new, armoured outfits that are based on their normal attire, with the exception of Tsunade and Jiraiya.</desc>
+		<video>./videos/Naruto Shippuden - Dragon Blade Chronicles-video.mp4</video>
+		<marquee>./images/Naruto Shippuden - Dragon Blade Chronicles-marquee.png</marquee>
+		<thumbnail>./images/Naruto Shippuden - Dragon Blade Chronicles-thumb.png</thumbnail>
+		<rating>0.45</rating>
+		<releasedate>20101116T000000</releasedate>
+		<developer>Tomy</developer>
+		<publisher>505 Games</publisher>
+		<genre>Fight</genre>
+		<family>Naruto</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221124T185323" />
 	</game>
 	<game id="9507">
 		<path>./NHL 2K10.wbfs</path>
@@ -646,14 +850,13 @@ Also on the Nintendo Wii this year is support for Wii motion plus allowing for 1
 		<video>./videos/NHL 2K10-video.mp4</video>
 		<marquee>./images/NHL 2K10-marquee.png</marquee>
 		<thumbnail>./images/NHL 2K10-thumb.png</thumbnail>
-		<fanart>./images/NHL 2K10-fanart.jpg</fanart>
 		<rating>0.85</rating>
 		<developer>2K Games</developer>
 		<publisher>Visual Concepts</publisher>
 		<genre>Sports</genre>
 		<family>NHL</family>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125706" />
+		<scrap name="ScreenScraper" date="20221124T185324" />
 	</game>
 	<game id="10341">
 		<path>./Ocean Commander_[RQMEVN].wbfs</path>
@@ -676,11 +879,8 @@ Campaign mode and Time Attack mode</desc>
 		<developer>CyberPlanet Interactive</developer>
 		<publisher>Lexicon</publisher>
 		<genre>Shoot'em Up</genre>
-		<playcount>1</playcount>
-		<lastplayed>20221012T193650</lastplayed>
-		<gametime>120</gametime>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125709" />
+		<scrap name="ScreenScraper" date="20221124T185325" />
 	</game>
 	<game id="10277">
 		<path>./Octomania_[RTKE5Z].wbfs</path>
@@ -696,11 +896,8 @@ The game features both arcade and original modes, which feature slightly differe
 		<developer>Compile Heart</developer>
 		<publisher>Atlus</publisher>
 		<genre>Puzzle-Game</genre>
-		<playcount>1</playcount>
-		<lastplayed>20221012T193817</lastplayed>
-		<gametime>69</gametime>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125711" />
+		<scrap name="ScreenScraper" date="20221124T185325" />
 	</game>
 	<game id="10342">
 		<path>./Offshore Tycoon_[RXFEVN].wbfs</path>
@@ -715,11 +912,8 @@ Working the sea provides plenty of opportunity for adventure too! Rescue lost sw
 		<developer>Lexicon</developer>
 		<publisher>Lexicon</publisher>
 		<genre>Simulation</genre>
-		<playcount>1</playcount>
-		<lastplayed>20221012T194607</lastplayed>
-		<gametime>114</gametime>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125716" />
+		<scrap name="ScreenScraper" date="20221124T185326" />
 	</game>
 	<game id="10010">
 		<path>./Once Upon A Time_[SUTESZ].wbfs</path>
@@ -732,11 +926,8 @@ Working the sea provides plenty of opportunity for adventure too! Rescue lost sw
 		<developer>Storm City Games</developer>
 		<publisher>Storm City Games</publisher>
 		<genre>Various</genre>
-		<playcount>1</playcount>
-		<lastplayed>20221012T200156</lastplayed>
-		<gametime>62</gametime>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125720" />
+		<scrap name="ScreenScraper" date="20221124T185327" />
 	</game>
 	<game id="8725">
 		<path>./Pro Evolution Soccer 2013.wbfs</path>
@@ -751,85 +942,8 @@ Working the sea provides plenty of opportunity for adventure too! Rescue lost sw
 		<genre>Sports / Soccer</genre>
 		<family>Pro Evolution Soccer</family>
 		<players>4+</players>
-		<playcount>1</playcount>
-		<lastplayed>20221016T141047</lastplayed>
-		<gametime>558</gametime>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125724" />
-	</game>
-	<game id="9411">
-		<path>./Rampage - Total Destruction.wbfs</path>
-		<name>Rampage: Total Destruction</name>
-		<desc>Get ready to roam, rage and Rampage your way through cities of the world destroying everything in your path in Rampage: Total Destruction! George, Lizzy and Ralph are back along with 27 new monsters that you can find, collect and play as. Wander through 3D neighborhoods of major cities trashing everything in sight as you uncover hidden monsters and power-ups.In Rampage, players take on the role of Mutated Giant Monsters created by the unscrupulous scum labs corporation (operating under the guise of a soft drink company.) The player's goal is to progress through a series of cities around the globe destroying as much of them as possible in an effort to locate all the other captive monsters. Features:? Collect Monsters - Collect and Play as 30 different monsters each with their own unique attributes!? Destroy It All - Roam through 7 major cities around the globe destroying everything in your path!? Throw Stuff - Increase the levels of damage and destruction by throwing objects around!</desc>
-		<image>./images/Rampage - Total Destruction-image.jpg</image>
-		<video>./videos/Rampage - Total Destruction-video.mp4</video>
-		<marquee>./images/Rampage - Total Destruction-marquee.png</marquee>
-		<thumbnail>./images/Rampage - Total Destruction-thumb.png</thumbnail>
-		<rating>0.55</rating>
-		<releasedate>20070119T000000</releasedate>
-		<developer>Pipeworks Software</developer>
-		<publisher>Midway</publisher>
-		<genre>Action</genre>
-		<players>1-4</players>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125725" />
-	</game>
-	<game id="8710">
-		<path>./Resident Evil 4 - Wii Edition.wbfs</path>
-		<name>Resident Evil 4: Wii Edition</name>
-		<desc>A remake of the blockbuster survival horror game, fourth entry in the Resident Evil universe not only takes players out of the country on a recovery mission but also into the arms of a whole new enemy. As Leon Kennedy, players will explore a town overrun by cultists, mutants and mind-controlled villagers, using the Wii Remote to aim, fire, slash and avoid oncoming adversaries with intuitive motions and movements. Added Wii Remote and Nunchuck support allows players to immerse themselves in the game as never before. This package includes the original game (with tuned-up control for the Wiimote) plus the playable bonus Ada Wong side-story, The Another Order not available in the original GameCube version.</desc>
-		<image>./images/Resident Evil 4 - Wii Edition-image.png</image>
-		<video>./videos/Resident Evil 4 - Wii Edition-video.mp4</video>
-		<marquee>./images/Resident Evil 4 - Wii Edition-marquee.png</marquee>
-		<thumbnail>./images/Resident Evil 4 - Wii Edition-thumb.png</thumbnail>
-		<fanart>./images/Resident Evil 4 - Wii Edition-fanart.jpg</fanart>
-		<rating>0.85</rating>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Adventure / Survival Horror</genre>
-		<family>Resident Evil</family>
-		<players>1</players>
-		<playcount>4</playcount>
-		<lastplayed>20221017T200823</lastplayed>
-		<gametime>214</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125731" />
-	</game>
-	<game id="8700">
-		<path>./Resident Evil Archives - Resident Evil.wbfs</path>
-		<name>Resident Evil Archives: Resident Evil</name>
-		<desc>Resident Evil Archives: Resident Evil is a near bare-bones Wii port of the 2002 s Resident Evil (remake) for the Nintendo GameCube, which was itself essentially the 1996 PlayStation classic with a massive visual overhaul.</desc>
-		<image>./images/Resident Evil Archives - Resident Evil-image.png</image>
-		<video>./videos/Resident Evil Archives - Resident Evil-video.mp4</video>
-		<marquee>./images/Resident Evil Archives - Resident Evil-marquee.png</marquee>
-		<thumbnail>./images/Resident Evil Archives - Resident Evil-thumb.png</thumbnail>
-		<fanart>./images/Resident Evil Archives - Resident Evil-fanart.jpg</fanart>
-		<rating>1</rating>
-		<releasedate>20081225T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Adventure / Survival Horror</genre>
-		<family>Resident Evil</family>
-		<players>1</players>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125734" />
-	</game>
-	<game id="8769">
-		<path>./Rune Factory - Frontier.wbfs</path>
-		<name>Rune Factory Frontier</name>
-		<desc>The player can own a farm. There are 4 distinct seasons, 3 of which you can grow different types of crops. Examples include: Strawberries and turnips in the spring, tomatoes and pineapples in the summer, and yams in the fall. There are many other crops, and you can grow flowers, which can all be sold for gold (the game's currency.) Farming is only half of the game. The other half is dungeon crawling. There are four very different dungeons, three of which represent the four different seasons (the third dungeon represents both autumn and winter). In these dungeons, crops of that dungeon's seasonal affiliation can be grown. The fourth dungeon, Whale Island, is omni-seasonal, and all crops can be grown there at any time.</desc>
-		<image>./images/Rune Factory - Frontier-image.png</image>
-		<video>./videos/Rune Factory - Frontier-video.mp4</video>
-		<marquee>./images/Rune Factory - Frontier-marquee.png</marquee>
-		<thumbnail>./images/Rune Factory - Frontier-thumb.png</thumbnail>
-		<rating>0.9</rating>
-		<releasedate>20090317T000000</releasedate>
-		<developer>Xseed Games</developer>
-		<publisher>Rising Star Games</publisher>
-		<genre>Simulation</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125734" />
+		<scrap name="ScreenScraper" date="20221124T185328" />
 	</game>
 	<game id="9289">
 		<path>./Samurai Shodown Anthology.wbfs</path>
@@ -838,159 +952,29 @@ Working the sea provides plenty of opportunity for adventure too! Rescue lost sw
 		<video>./videos/Samurai Shodown Anthology-video.mp4</video>
 		<marquee>./images/Samurai Shodown Anthology-marquee.png</marquee>
 		<thumbnail>./images/Samurai Shodown Anthology-thumb.png</thumbnail>
-		<fanart>./images/Samurai Shodown Anthology-fanart.jpg</fanart>
 		<rating>1</rating>
 		<releasedate>20090215T000000</releasedate>
 		<genre>Fight</genre>
 		<players>2</players>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125735" />
+		<scrap name="ScreenScraper" date="20221124T185328" />
 	</game>
-	<game id="8897">
-		<path>./Sengoku Basara - Samurai Heroes.wbfs</path>
-		<name>Sengoku Basara Samurai Heroes</name>
-		<desc>Featuring unique playable characters, as well as supporting generals who will make it easier to command and lead armies, players will see the battle from the perspective of each military commander with the ultimate goal of re-writing history to rule all of 16th century Japan. In the dynamic new "Hero s Story" mode, the player s decisions impact history with a redesigned story mode. Based on choices made by the player, new drama unfolds as friends become enemies, enemies become friends, and a new Sengoku story unfolds. Adding a new strategic element to the game, forces can fight for control/taking over of camps and ultimately entire battlefields.</desc>
-		<image>./images/Sengoku Basara - Samurai Heroes-image.jpg</image>
-		<video>./videos/Sengoku Basara - Samurai Heroes-video.mp4</video>
-		<marquee>./images/Sengoku Basara - Samurai Heroes-marquee.png</marquee>
-		<thumbnail>./images/Sengoku Basara - Samurai Heroes-thumb.png</thumbnail>
-		<rating>0.9</rating>
-		<releasedate>20100729T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<family>Sengoku Basara</family>
-		<players>2</players>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125735" />
-	</game>
-	<game id="9125">
-		<path>./SNK Arcade Classics Volume 1.wbfs</path>
-		<name>SNK Arcade Classics Volume 1</name>
-		<desc>Celebrate the history of SNK with the ultimate collection of arcade classic hits. Featuring the following 16 NEOGEO games: Art of Fighting, Baseball Stars 2, Burning Fight, Fatal Fury, KOF 94, King of the Monsters, Last Resort, Magician Lord, Metal Slug, Neo Turf Masters, Samurai Shodown, Sengoku, Shock Troopers, Super Sidekicks 3, Top Hunter and World Heroes.</desc>
-		<image>./images/SNK Arcade Classics Volume 1-image.png</image>
-		<video>./videos/SNK Arcade Classics Volume 1-video.mp4</video>
-		<marquee>./images/SNK Arcade Classics Volume 1-marquee.png</marquee>
-		<thumbnail>./images/SNK Arcade Classics Volume 1-thumb.png</thumbnail>
-		<rating>0.75</rating>
-		<releasedate>20080728T000000</releasedate>
-		<genre>Compilation</genre>
-		<players>2</players>
-		<playcount>2</playcount>
-		<lastplayed>20221017T194256</lastplayed>
-		<gametime>218</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125739" />
-	</game>
-	<game id="8731">
-		<path>./Sonic Colors.wbfs</path>
-		<name>Sonic Colours</name>
-		<desc>A brand new high speed action adventure in which Sonic the Hedgehog races through incredible theme park inspired worlds to rescue a colourful alien race from the clutches of Dr Eggman. An extraordinary amusement park has been seen orbiting around the home planet of Sonic the Hedgehog, and rumours are spreading that an alien race of Wisps, who have a unique colourful energy, are being held captive there by the evil Dr Eggman. Soon after arriving at the amusement park Sonic discovers he is able to use these mysterious alien forces to help the Wisps escape! Sonic Colours for the Wii seamlessly combines both 3D and classic 2D game play perspectives.</desc>
-		<image>./images/Sonic Colors-image.png</image>
-		<video>./videos/Sonic Colors-video.mp4</video>
-		<marquee>./images/Sonic Colors-marquee.png</marquee>
-		<thumbnail>./images/Sonic Colors-thumb.png</thumbnail>
-		<rating>0.8</rating>
-		<releasedate>20101112T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>SEGA</publisher>
-		<genre>Platform</genre>
-		<family>Sonic</family>
-		<players>2</players>
-		<playcount>3</playcount>
-		<lastplayed>20221017T194831</lastplayed>
-		<gametime>267</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125744" />
-	</game>
-	<game id="8836">
-		<path>./Sonic Unleashed.wbfs</path>
-		<name>Sonic Unleashed</name>
-		<desc>Sonic is truly in a world-wide race against time. As the sun sets, a new adventure awakens. In this new adventure Dr. Eggman is up to his evil antics again in his quest for World domination. He unleashes a powerful ray that not only divides the world into several continents, but also unexpectedly transforms Sonic. Sonic must travel across the globe, completing action-packed stages to retrieve the power of the Chaos Emeralds to ultimately save the world and himself! A powerful new game engine delivers the tight gameplay of a 2D sidescroller in stunning, picturesque 3D environments. Sonic Unleashed takes everything you know and love about Sonic and upgrades it with spectacular scenery, new combat powers, an unexpected storyline, and, of course, blistering speed. Features include the all new powerful HEDGEHOG ENGINE that delivers a revolutionary gameplay experience, combining ultra realistic graphics with seamless transition between 3D to classic 2D high-speed action. Accelerate to super speed with Sonic Boost, avoid obstacles instantly using Quick Step, and accelerate around corners with Speed Drift. Journey and explore seven unique, rich and vibrant continents; sprint across cobbled streets or race through lush jungles on a quest to save the world. With a massive world as Sonic's new playground, follow multiple paths and routes that present different encounters, rewards and obstacles at every turn, as an unexpected storyline unfolds. Sonic's transformation brings new powers of combat and movement, giving an innovative and challenging Sonic experience.</desc>
-		<image>./images/Sonic Unleashed-image.png</image>
-		<video>./videos/Sonic Unleashed-video.mp4</video>
-		<marquee>./images/Sonic Unleashed-marquee.png</marquee>
-		<thumbnail>./images/Sonic Unleashed-thumb.png</thumbnail>
-		<fanart>./images/Sonic Unleashed-fanart.jpg</fanart>
-		<rating>0.75</rating>
-		<releasedate>20081128T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>SEGA</publisher>
-		<genre>Beat'em Up</genre>
-		<family>Sonic</family>
-		<players>1</players>
-		<playcount>3</playcount>
-		<lastplayed>20221017T203045</lastplayed>
-		<gametime>1044</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125747" />
-	</game>
-	<game id="8692">
-		<path>./Super Smash Bros. Brawl.wbfs</path>
-		<name>Super Smash Bros. Brawl</name>
-		<desc>Welcome to a brawl for the ages, where anything can happen, anyone can show up and all bets are off.Game storyline: In multiplayer games, characters from all Nintendo universes meet up in Nintendo locales to duke it out. In the solo mode called "The Subspace Emissary," the world of Smash Bros. is invaded by an entity called the Ancient Minister and his army of creatures, called "The Primid." Normally, characters come alive in the world of Smash Bros. to do battle, then turn back into trophies when defeated. However, the Ancient Minister starts turning characters into trophies to harness their power, then detonates bombs that suck pieces of the world back into his realm of Subspace. Eventually, all the characters must work together to defeat the invading creatures from Subspace - this is accomplished by playing through side-scrolling levels.How to progress through the game: For multiplayer games, players pick characters, set rules and locations for where they want to play and then duke it out. In Solo Mode, characters play through a long, side-scrolling adventure, beating up enemies along the way as they watch short cinematics starring their favorite characters.Characters: Mario, Samus, Bowser, Donkey Kong, Solid Snake, Meta Knight, Kirby, Pikachu, Zero Suit Samus, Link, Zelda, Pit and Wario, to name just a few. Anyone and anything from a Nintendo universe could appear in this game in one form or another.Special powers/weapons/moves/features: Anything from a Nintendo game could conceivably be in this game, whether it's a musical score, an obscure item or a character that shows up to help the fighters. Super Smash Bros. Brawl is eminently customizable, so players can choose the frequency of items appearing, adjust musical scores and basically play the game however they'd like. Items range from baseball bats to proximity mines to Poké Balls to Assist Trophies, which spawn characters like Hammer Bros. and Sim City's Dr. Wright to attack others.Super Smash Brawl Tournament WinnersLA Region Winner - David SegalSF Region Winner - Jason CaroMA Region Winner - Daniel JungNY Region Winner - Jensen SantiagoTournament National ChampionDaniel Jung * This action-packed fighting game features a ridiculous number of characters that have appeared on Nintendo platforms, from Mario to Link to Pikachu ... to Solid Snake! As they square off in famous locales drawn from the rich history of Nintendo, literally anything can happen - and usually does. With limitless customizing options, items and weapons that boggle the mind and a wealth of modes, this game has truly infinite replayability. * Super Smash Bros. Brawl features a sprawling adventure mode called "The Subspace Emissary" that's a full game in and of itself. Players jump and brawl their way through enemy-packed side-scrolling levels, meeting up with other characters, watching incredible cinematics and taking on massive bosses. * For the first time, this celebrated series is going Wi-Fi, allowing up to four players to brawl, no matter where they may be.</desc>
-		<image>./images/Super Smash Bros. Brawl-image.jpg</image>
-		<video>./videos/Super Smash Bros. Brawl-video.mp4</video>
-		<marquee>./images/Super Smash Bros. Brawl-marquee.png</marquee>
-		<thumbnail>./images/Super Smash Bros. Brawl-thumb.png</thumbnail>
-		<fanart>./images/Super Smash Bros. Brawl-fanart.jpg</fanart>
-		<rating>0.95</rating>
-		<releasedate>20080309T000000</releasedate>
+	<game id="8935">
+		<path>./Teenage Mutant Ninja Turtles - Smash-Up.wbfs</path>
+		<name>Teenage Mutant Ninja Turtles : Smash-Up</name>
+		<desc>The game is a 4-player 2.5D fighting game, similar to the Super Smash Bros. series. During battle, players attempt to KO opponents by depleting their life bar, knocking them off the stage or into traps.</desc>
+		<video>./videos/Teenage Mutant Ninja Turtles - Smash-Up-video.mp4</video>
+		<marquee>./images/Teenage Mutant Ninja Turtles - Smash-Up-marquee.png</marquee>
+		<thumbnail>./images/Teenage Mutant Ninja Turtles - Smash-Up-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20090902T000000</releasedate>
 		<developer>Game Arts</developer>
-		<publisher>Nintendo</publisher>
+		<publisher>Ubisoft</publisher>
 		<genre>Fight</genre>
-		<players>2-4</players>
-		<playcount>2</playcount>
-		<lastplayed>20221017T204145</lastplayed>
-		<gametime>311</gametime>
+		<family>Teenage Mutant Ninja Turtles</family>
+		<players>1-4</players>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125751" />
-	</game>
-	<game id="8846">
-		<path>./Tatsunoko vs. Capcom - Ultimate All-Stars.wbfs</path>
-		<name>Tatsunoko vs. Capcom: Ultimate All-Stars</name>
-		<desc>From Capcom?s 30-year history comes characters like Ryu and Chun-Li from the Street Fighter series, Morrigan from Darkstalkers and company mascot Mega Man Volnutt from Mega Man Legends. Tatsunoko?s near half-century of Japanese animation excellence is represented by the likes of Ken the Eagle and Jun the Swan from the Science Ninja Team Gatchaman anime (known in Europe as Battle of the Planets or G-Force), cybernetic warrior Casshan and comedic action hero Yatterman No. 1. All together, there are more than 20 colourful combatants to choose from in order to form the ultimate tag team combination.Gameplay will instantly set fighting game fans? fingers twitching, combining elements from Capcom games like Street Fighter and previous entries in the VS series, TATSUNOKO VS. CAPCOM ULTIMATE ALL-STARS is a fun fighting game designed for all levels of players. Players choose from the combined roster of fighters to create their favourite two man/woman/cyborg/robot tag team, rotating on the fly between the two players throughout the course of each match. Those new to the genre will appreciate the game?s bright visual style and simplified four-button fighting controls. Hardcore Capcom fighting fans will dig in to the game?s depth, uncovering huge Aerial Rave combos and unique Variable Assists, gorgeous Ultimate Hyper Combos, and Variable Combinations that combine the capabilities of two members of the player?s tag-team to unleash huge damage. ? More than 20 fighters to choose from:o Capcom: Ryu, Chun-Li (Street Fighter), Batsu (Rival Schools), Alex (Street Fighter III), Morrigan (Darkstalkers), Soki (Onimusha: Dawn of Dreams), Mega Man Volnutt (Mega Man Legends), Roll (Mega Man), Saki (Quiz Nanairo Dreams), Viewtiful Joe, PTX-40A (Lost Planet) and more to be announcedo Tatsunoko: Ken the Eagle, Jun the Swan (Science Ninja Team Gatchaman), Yatterman, Doronjo (Yatterman), Casshan, Tekkaman, Polymar, Karas, Ippatsuman and Gold Lightan, plus others to be revealed.? Possible additions to the game: the team is exploring adding new Capcom and Tatsunoko characters as well as online gameplay.? Two-man tag team action: Players build their own perfect team and use Assist Attacks and each character?s special moves to create their own unique fighting style.? Four button fighting controls: Easy-to-understand four button control scheme opens gameplay up to new players with familiar movements and combos? Depth of gameplay: Once the basics are mastered, players can go deeper into the fighting game controls to master Aerial Rave air combos, Delayed Hyper Combos, Mega Crash defensive moves, Assault attack moves and the Baroque extended combo system.? Fast-paced action and huge attacks: Each characters has a unique arsenal of moves, including spectacular Hyper Combos that literally take over the screen with devastating results.3D characters, 2D fighting gameplay: As in Street Fighter IV, TVC: ULTIMATE ALL-STARS has bright, 3D rendered characters battling it out in familiar 2D style.</desc>
-		<image>./images/Tatsunoko vs. Capcom - Ultimate All-Stars-image.jpg</image>
-		<video>./videos/Tatsunoko vs. Capcom - Ultimate All-Stars-video.mp4</video>
-		<marquee>./images/Tatsunoko vs. Capcom - Ultimate All-Stars-marquee.png</marquee>
-		<thumbnail>./images/Tatsunoko vs. Capcom - Ultimate All-Stars-thumb.png</thumbnail>
-		<fanart>./images/Tatsunoko vs. Capcom - Ultimate All-Stars-fanart.jpg</fanart>
-		<rating>0.85</rating>
-		<releasedate>20090127T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight</genre>
-		<players>4</players>
-		<playcount>1</playcount>
-		<lastplayed>20221017T204853</lastplayed>
-		<gametime>380</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125754" />
-	</game>
-	<game id="8717">
-		<path>./The Last Story.wbfs</path>
-		<name>The Last Story</name>
-		<desc>Embroiled in seemingly endless conflict, the Empire has been slowly weakened by the relentless onslaught of enemy forces. Despite the debilitated state of the mainland, however, a virtually impenetrable last line of defense stands proud and keeps hope alive for all the land. That beacon of hope is Lazulis Island, ruled by the renowned Count Arganan. With the employment of an army of weapons that magically ?and mysteriously-- concentrates beasts into a single region, his island has become a small wonder for its powers.
-
-Among those coming to the island to seek their fortune is Zael, a young man who at an early age was orphaned when his homeland became one of the many victims of battle. Though he and his band of fellow mercenaries often face disdain and fear as they are perceived to be of a lower class, they manage to catch the eye of none other than Count Arganan himself. If they can successfully complete the tasks put before them by the Count, they may have a rare chance to gain the most honorable status that they have only dreamed of - knighthood.
-
-It is during one of these missions bestowed upon them that Zael discovers a hidden site, one which grants him a wondrous and yet familiar power to gather his enemies in one place?</desc>
-		<image>./images/The Last Story-image.jpg</image>
-		<video>./videos/The Last Story-video.mp4</video>
-		<marquee>./images/The Last Story-marquee.png</marquee>
-		<thumbnail>./images/The Last Story-thumb.png</thumbnail>
-		<fanart>./images/The Last Story-fanart.jpg</fanart>
-		<rating>0.85</rating>
-		<releasedate>20120224T000000</releasedate>
-		<developer>Mistwalker</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-		<playcount>3</playcount>
-		<lastplayed>20221017T205831</lastplayed>
-		<gametime>310</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125757" />
+		<scrap name="ScreenScraper" date="20221124T185328" />
 	</game>
 	<game id="9220">
 		<path>./TNA iMPACT!.wbfs</path>
@@ -1005,11 +989,8 @@ It is during one of these missions bestowed upon them that Zael discovers a hidd
 		<publisher>Midway</publisher>
 		<genre>Fight</genre>
 		<players>2</players>
-		<playcount>5</playcount>
-		<lastplayed>20221017T211407</lastplayed>
-		<gametime>877</gametime>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125800" />
+		<scrap name="ScreenScraper" date="20221124T185329" />
 	</game>
 	<game id="8757">
 		<path>./WWE SmackDown vs. Raw 2011.wbfs</path>
@@ -1026,184 +1007,7 @@ One of the main changes in the game is the incorporation of a new physics system
 		<genre>Fight</genre>
 		<family>WWE Smackdown vs Raw</family>
 		<players>4</players>
-		<playcount>1</playcount>
-		<lastplayed>20221017T211643</lastplayed>
-		<gametime>144</gametime>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125803" />
-	</game>
-	<game id="8697">
-		<path>./Xenoblade Chronicles.wbfs</path>
-		<name>Xenoblade Chronicles</name>
-		<desc>Join the battle for Bionis to repel the invasion of a terrifying mechanical army and uncover the secrets of a mystical sword called the Monado in Xenoblade.Xenoblade Chronicles is an epic role-playing game which takes place on an immense game world on the remains of two giant titans, and features fast-paced real-time battling. The game heavily focuses on exploring vast landscapes and immerses you into the game with cinematic cut scenes.The story focuses on Shulk and the Monado, a mystical sword that gives his bearer great powers, and a war between humans and robots.The game?s real-time battles has an action oriented approach, giving you the chance to unleash special attacks and strategies by selecting them from a command gauge; the battling also is interlinked with the affinity between characters.</desc>
-		<image>./images/Xenoblade Chronicles-image.png</image>
-		<video>./videos/Xenoblade Chronicles-video.mp4</video>
-		<marquee>./images/Xenoblade Chronicles-marquee.png</marquee>
-		<thumbnail>./images/Xenoblade Chronicles-thumb.png</thumbnail>
-		<fanart>./images/Xenoblade Chronicles-fanart.jpg</fanart>
-		<rating>0.95</rating>
-		<releasedate>20120402T000000</releasedate>
-		<developer>Monolith Soft</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<family>Xenoblade</family>
-		<players>1</players>
-		<playcount>1</playcount>
-		<lastplayed>20221017T211924</lastplayed>
-		<gametime>147</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125808" />
-	</game>
-	<game id="9905">
-		<path>./You Don't Know Jack_[SKJE78].wbfs</path>
-		<name>You Don't Know Jack</name>
-		<desc>YOU DON'T KNOW JACK, the original quiz show party game, is back and trivia-y-er than ever! You're the contestant in a truly interactive game show experience, complete with cash, prizes, backstage characters, pounding music, bizarre sound effects and your lovable yet verbally sassy host, Cookie Masterson. Play at home or online - alone or with friends - as you battle through a trivia mind-field on your way to victory, defeat or, more likely, soiled pants.
-
-We've re-imagined a new and improved YOU DON'T KNOW JACK for the 21st century. All of your favorite elements are still there: the twisted multiple-choice questions, musical question intros, the DisOrDat?, Screw Your Neighbor? and the Jack Attack?, plus all kinds of new face-melting features and surprises - including online play! And of course, tons of all-new twisted trivia questions covering everything from Dr. Phil to Dr. Pepper, from Miley Cyrus to the Mile High Club. It's fun, it's funny, it's funky, and it kills more than 99.9% of known fungi. YOU DON'T KNOW JACK!</desc>
-		<image>./images/You Don't Know Jack_[SKJE78]-image.jpg</image>
-		<video>./videos/You Don't Know Jack_[SKJE78]-video.mp4</video>
-		<marquee>./images/You Don't Know Jack_[SKJE78]-marquee.png</marquee>
-		<thumbnail>./images/You Don't Know Jack_[SKJE78]-thumb.png</thumbnail>
-		<releasedate>20110208T000000</releasedate>
-		<developer>Jellyvision</developer>
-		<publisher>THQ</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20221012T203117</lastplayed>
-		<gametime>103</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125811" />
-	</game>
-	<game id="9672">
-		<path>./Zhu Zhu Pets - Featuring the Wild Bunch.wbfs</path>
-		<name>ZhuZhu Pets : Animaux de la Forêt</name>
-		<desc>ZhuZhu Pets: Forest Animals is a 2D platform game on Wii in which you control a hamster. The player must search each level to find the animals of the forest as well as bonus items, and also a key that allows access to the exit.</desc>
-		<image>./images/Zhu Zhu Pets - Featuring the Wild Bunch-image.jpg</image>
-		<video>./videos/Zhu Zhu Pets - Featuring the Wild Bunch-video.mp4</video>
-		<marquee>./images/Zhu Zhu Pets - Featuring the Wild Bunch-marquee.png</marquee>
-		<thumbnail>./images/Zhu Zhu Pets - Featuring the Wild Bunch-thumb.png</thumbnail>
-		<rating>0.8</rating>
-		<releasedate>20101012T000000</releasedate>
-		<developer>Black Lantern</developer>
-		<publisher>Activision</publisher>
-		<players>1</players>
-		<playcount>3</playcount>
-		<lastplayed>20221017T212305</lastplayed>
-		<gametime>167</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125813" />
-	</game>
-	<game id="8921">
-		<path>./Guilty Gear XX Accent Core.wbfs</path>
-		<name>Guilty Gear XX Accent Core Plus</name>
-		<desc>The fighting franchise that launched an entirely new style of fighting games is celebrating its 10th anniversary with the most complete and definitive version of the game on the Nintendo Wii. Follow the stories of the 25 crazy combatants and dish out a mind-numbing amount of insane combos that the series is known for.</desc>
-		<image>./images/Guilty Gear XX Accent Core-image.jpg</image>
-		<video>./videos/Guilty Gear XX Accent Core-video.mp4</video>
-		<marquee>./images/Guilty Gear XX Accent Core-marquee.png</marquee>
-		<thumbnail>./images/Guilty Gear XX Accent Core-thumb.png</thumbnail>
-		<rating>0.85</rating>
-		<releasedate>20090512T000000</releasedate>
-		<developer>Arc System Works</developer>
-		<publisher>Zen United</publisher>
-		<genre>Fight</genre>
-		<family>Guilty Gear</family>
-		<players>2</players>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125816" />
-	</game>
-	<game id="140333">
-		<path>./Outdoor Action Double Pack_[SFHEFP].wbfs</path>
-		<name>Outdoor Action Double Pack</name>
-		<desc>Outdoor Action Double Pack is a Miscellaneous game, developed and published by Mastiff, which was released in 2010.</desc>
-		<marquee>./images/Outdoor Action Double Pack_[SFHEFP]-marquee.png</marquee>
-		<thumbnail>./images/Outdoor Action Double Pack_[SFHEFP]-thumb.png</thumbnail>
-		<playcount>1</playcount>
-		<lastplayed>20221012T202641</lastplayed>
-		<gametime>125</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125818" />
-	</game>
-	<game id="8935">
-		<path>./Teenage Mutant Ninja Turtles - Smash-Up.wbfs</path>
-		<name>Teenage Mutant Ninja Turtles : Smash-Up</name>
-		<desc>The game is a 4-player 2.5D fighting game, similar to the Super Smash Bros. series. During battle, players attempt to KO opponents by depleting their life bar, knocking them off the stage or into traps.</desc>
-		<video>./videos/Teenage Mutant Ninja Turtles - Smash-Up-video.mp4</video>
-		<marquee>./images/Teenage Mutant Ninja Turtles - Smash-Up-marquee.png</marquee>
-		<thumbnail>./images/Teenage Mutant Ninja Turtles - Smash-Up-thumb.png</thumbnail>
-		<rating>0.6</rating>
-		<releasedate>20090902T000000</releasedate>
-		<developer>Game Arts</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Fight</genre>
-		<family>Teenage Mutant Ninja Turtles</family>
-		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20221017T205218</lastplayed>
-		<gametime>154</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125821" />
-	</game>
-	<game>
-		<path>./Call of Duty - Modern Warfare 3.wbfs</path>
-		<name>Call of Duty: Modern Warfare 3</name>
-		<desc>Call of Duty: Modern Warfare 3 (stylized as Call of Duty: MW3) is a 2011 first-person shooter video game, developed by Infinity Ward and Sledgehammer Games (Treyarch for the Wii version), with development assistance from Raven Software, and published by Activision. It is the third installment in the Modern Warfare saga, a direct sequel to 2009's Call of Duty: Modern Warfare 2, and the eighth Call of Duty installment.
-
-The game was released worldwide in November 2011 on Microsoft Windows, Xbox 360, PlayStation 3,[8] and Wii,[7] with a separate version for Nintendo DS developed by n-Space. In Japan, Square Enix handled the installment with a separate subtitled and dubbed version, as they did for Call of Duty: Black Ops. Within 24 hours of going on sale, the game sold 6.5 million copies in the U.S. and UK alone and grossed $400 million, making it the biggest entertainment launch of all time,[9][10][11] until it was surpassed by Call of Duty: Black Ops II in November 2012.</desc>
-		<image>./images/Call of Duty - Modern Warfare 3-image.png</image>
-		<video>./videos/Call of Duty - Modern Warfare 3-video.mp4</video>
-		<marquee>./images/Call of Duty - Modern Warfare 3-marquee.png</marquee>
-		<thumbnail>./images/Call of Duty - Modern Warfare 3-thumb.jpg</thumbnail>
-		<fanart>./images/Call of Duty - Modern Warfare 3-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>20111108T000000</releasedate>
-		<developer>Infinity Ward &amp; Sledgehammer Games</developer>
-		<publisher>Activision</publisher>
-		<genre>Shooter</genre>
-		<players>4</players>
-		<playcount>4</playcount>
-		<lastplayed>20221101T123615</lastplayed>
-		<gametime>1009</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125631" />
-		<scrap name="TheGamesDB" date="20221101T125927" />
-	</game>
-	<game>
-		<path>./Dokapon Kingdom.wbfs</path>
-		<name>Dokapon Kingdom</name>
-		<desc>Grab your soon-to-be-ex-friends and charge into a true contest of strategy, wit and beating each other senseless in this addictive party-RPG! Up to four players can join in the mayhem as you race to win a kingdom and edge out your competition along the way.</desc>
-		<image>./images/Dokapon Kingdom-image.png</image>
-		<video>./videos/Dokapon Kingdom-video.mp4</video>
-		<marquee>./images/Dokapon Kingdom-marquee.png</marquee>
-		<thumbnail>./images/Dokapon Kingdom-thumb.jpg</thumbnail>
-		<fanart>./images/Dokapon Kingdom-fanart.jpg</fanart>
-		<rating>0.65</rating>
-		<releasedate>20081014T000000</releasedate>
-		<developer>Sting Entertainment</developer>
-		<publisher>Atlus Co., Ltd.</publisher>
-		<genre>Role-Playing</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125637" />
-		<scrap name="TheGamesDB" date="20221101T125943" />
-	</game>
-	<game>
-		<path>./Offroad Extreme Special Edition_[ROFE5Z].wbfs</path>
-		<name>Offroad Extreme! (Special Edition)</name>
-		<desc>This is the super-charged turbo driven world of Offroad Extreme! Special Edition where intense, free-roaming, off-road racing takes on a whole new meaning! With multiplayer support you can compete head-to-head against friends using the wireless Wii Remote as a steering wheel.</desc>
-		<image>./images/Offroad Extreme Special Edition_[ROFE5Z]-image.jpg</image>
-		<video>./videos/Offroad Extreme Special Edition_[ROFE5Z]-video.mp4</video>
-		<marquee>./images/Offroad Extreme Special Edition_[ROFE5Z]-marquee.png</marquee>
-		<thumbnail>./images/Offroad Extreme Special Edition_[ROFE5Z]-thumb.jpg</thumbnail>
-		<rating>0.3</rating>
-		<releasedate>20071101T000000</releasedate>
-		<developer>Data Design Interactive</developer>
-		<publisher>Conspiracy Entertainment Corporation</publisher>
-		<genre>Racing, Vehicle Simulation</genre>
-		<players>1</players>
-		<md5>6f668e2bcc499b485d7ab277785215d7</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221101T125712" />
-		<scrap name="TheGamesDB" date="20221101T125958" />
+		<scrap name="ScreenScraper" date="20221124T185329" />
 	</game>
 </gameList>
