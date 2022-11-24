@@ -1,19 +1,29 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="46424">
-		<path>./Blast Droids (19xx)(Esoterica).zip</path>
-		<name>Blast Droids</name>
-		<desc>Blast Droids has players flying a ship around a horizontal arena, firing at alien vessels while being careful to avoid shots that ricochet off of the walls.</desc>
-		<image>./images/Blast Droids (19xx)(Esoterica)-image.png</image>
-		<video>./videos/Blast Droids (19xx)(Esoterica)-video.mp4</video>
-		<marquee>./images/Blast Droids (19xx)(Esoterica)-marquee.png</marquee>
-		<thumbnail>./images/Blast Droids (19xx)(Esoterica)-thumb.png</thumbnail>
-		<releasedate>19830101T000000</releasedate>
-		<publisher>Esoterica</publisher>
-		<genre>Shoot'em Up</genre>
-		<md5>8a0ff74bf056414e8e0918a7c1595d79</md5>
+	<game id="360898">
+		<path>./Astrocade BIOS (1977)(Bally).zip</path>
+		<name>ZZZ(notgame):[BIOS] Bally Astrocade</name>
+		<hidden>true</hidden>
+		<md5>ddff78b44f8f67626f433f39afab290e</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094123" />
+		<scrap name="ScreenScraper" date="20221118T173418" />
+	</game>
+	<game id="46432">
+		<path>./Cosmic Raider (19xx)(Astrovision).zip</path>
+		<name>Cosmic Raiders</name>
+		<desc>Cosmic Raiders is a side-scrolling shoot 'em up similar to Defender. Like in that game the player's space ship can move both left and right and there is also a radar showing the locations of enemies. The game takes place in the alien sector Larkin and the player's objective is to defend a planet under attack while also collecting energy sources from an evil alien race called the Larkins. In every level four bombs are dropped along with a number of fighters to ensure the bombs reach the surface of the planet. The objective of the game is simply to clear all the enemies and get the highest score possible. For every two bombs destroyed an energy star that the player can collect will appear. By picking it up the player's ship is energized with an invincible energy shield. Once all enemies have been cleared from one level the game moves on to the next.
+
+Before starting out it's possible to choose the number of players (1-4), number of lives (1-9) and the intensity of the game (0-9). Level 0 is the easiest one and the only one where enemies do not get harder as the game goes on. Each player can have a different intensity level.</desc>
+		<image>./images/Cosmic Raider (19xx)(Astrovision)-image.png</image>
+		<video>./videos/Cosmic Raider (19xx)(Astrovision)-video.mp4</video>
+		<marquee>./images/Cosmic Raider (19xx)(Astrovision)-marquee.png</marquee>
+		<thumbnail>./images/Cosmic Raider (19xx)(Astrovision)-thumb.png</thumbnail>
+		<releasedate>19780101T000000</releasedate>
+		<publisher>Astrocade</publisher>
+		<genre>Shoot'em Up</genre>
+		<md5>9b431d6bc67c66ed432827d01cbb17f9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T200520" />
 	</game>
 	<game id="46416">
 		<path>./280 Zzzap + Dodgem (19xx)(Bally).zip</path>
@@ -30,7 +40,7 @@ It is one of the earliest games, if not the earliest, with authorized branding.<
 		<genre>Race, Driving</genre>
 		<md5>095d466bbbd595ff004379a8bfad4a9c</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094127" />
+		<scrap name="ScreenScraper" date="20221121T200520" />
 	</game>
 	<game id="46417">
 		<path>./Amazing Maze + Tic-Tac-Toe (19xx)(Bally).zip</path>
@@ -46,7 +56,7 @@ It is one of the earliest games, if not the earliest, with authorized branding.<
 		<players>1-2</players>
 		<md5>b748311138c62f384f493b7b41d48317</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094132" />
+		<scrap name="ScreenScraper" date="20221121T200521" />
 	</game>
 	<game id="46418">
 		<path>./Artillery Duel (1982)(Bally).zip</path>
@@ -62,7 +72,7 @@ It is one of the earliest games, if not the earliest, with authorized branding.<
 		<players>1-4</players>
 		<md5>685b88389264115b03fa9b38a7602799</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094137" />
+		<scrap name="ScreenScraper" date="20221121T200521" />
 	</game>
 	<game id="46419">
 		<path>./Astro Battle (1981)(Astrovision)[b].zip</path>
@@ -77,15 +87,7 @@ It is one of the earliest games, if not the earliest, with authorized branding.<
 		<genre>Shoot'em Up</genre>
 		<md5>4c6620906f35540f599002d98b92f7c7</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094142" />
-	</game>
-	<game id="360898">
-		<path>./Astrocade BIOS (1977)(Bally).zip</path>
-		<name>ZZZ(notgame):[BIOS] Bally Astrocade</name>
-		<hidden>true</hidden>
-		<md5>ddff78b44f8f67626f433f39afab290e</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094143" />
+		<scrap name="ScreenScraper" date="20221121T200522" />
 	</game>
 	<game id="46420">
 		<path>./Bally BASIC (19xx)(Bally).zip</path>
@@ -99,7 +101,7 @@ It is one of the earliest games, if not the earliest, with authorized branding.<
 		<genre>Various</genre>
 		<md5>73625d40343e9097e5e81eb7ffd2e819</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094148" />
+		<scrap name="ScreenScraper" date="20221121T200523" />
 	</game>
 	<game id="46421">
 		<path>./Bally Pinball (1981)(Bally)[b].zip</path>
@@ -115,7 +117,7 @@ It is one of the earliest games, if not the earliest, with authorized branding.<
 		<players>1-4</players>
 		<md5>f9cbf48164a442b5a6da5c9ad8157dbf</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094154" />
+		<scrap name="ScreenScraper" date="20221121T200523" />
 	</game>
 	<game id="46419">
 		<path>./Bally Professional Arcade BIOS (1978)(Bally).zip</path>
@@ -130,7 +132,7 @@ It is one of the earliest games, if not the earliest, with authorized branding.<
 		<genre>Shoot'em Up</genre>
 		<md5>7d25a26e5c4841b364cfe6b1735eaf03</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094159" />
+		<scrap name="ScreenScraper" date="20221121T200523" />
 	</game>
 	<game id="46459">
 		<path>./Bingo Math + Speed Math (19xx)(Bally).zip</path>
@@ -144,7 +146,7 @@ It is one of the earliest games, if not the earliest, with authorized branding.<
 		<genre>Compilation</genre>
 		<md5>4f16a1118129d73eecf46c1a964065cd</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094204" />
+		<scrap name="ScreenScraper" date="20221121T200524" />
 	</game>
 	<game id="46423">
 		<path>./Blackjack + Poker + Acey-Duecy (19xx)(Bally).zip</path>
@@ -162,7 +164,22 @@ Blackjack and Acey-Deucey can be played 1 or more players, while Poker doesn't f
 		<players>1-4</players>
 		<md5>89fb2c1681c2bcf58dff969f346c7fd0</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094209" />
+		<scrap name="ScreenScraper" date="20221121T200525" />
+	</game>
+	<game id="46424">
+		<path>./Blast Droids (19xx)(Esoterica).zip</path>
+		<name>Blast Droids</name>
+		<desc>Blast Droids has players flying a ship around a horizontal arena, firing at alien vessels while being careful to avoid shots that ricochet off of the walls.</desc>
+		<image>./images/Blast Droids (19xx)(Esoterica)-image.png</image>
+		<video>./videos/Blast Droids (19xx)(Esoterica)-video.mp4</video>
+		<marquee>./images/Blast Droids (19xx)(Esoterica)-marquee.png</marquee>
+		<thumbnail>./images/Blast Droids (19xx)(Esoterica)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Esoterica</publisher>
+		<genre>Shoot'em Up</genre>
+		<md5>8a0ff74bf056414e8e0918a7c1595d79</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T200525" />
 	</game>
 	<game id="46426">
 		<path>./Clowns + Brickyard (19xx)(Bally).zip</path>
@@ -182,24 +199,7 @@ Brickyard is a clone of Breakout. It is almost identical to the original game bu
 		<players>1-4</players>
 		<md5>45abd4a70efda818606ff10aa9272b48</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094214" />
-	</game>
-	<game id="46432">
-		<path>./Cosmic Raider (19xx)(Astrovision).zip</path>
-		<name>Cosmic Raiders</name>
-		<desc>Cosmic Raiders is a side-scrolling shoot 'em up similar to Defender. Like in that game the player's space ship can move both left and right and there is also a radar showing the locations of enemies. The game takes place in the alien sector Larkin and the player's objective is to defend a planet under attack while also collecting energy sources from an evil alien race called the Larkins. In every level four bombs are dropped along with a number of fighters to ensure the bombs reach the surface of the planet. The objective of the game is simply to clear all the enemies and get the highest score possible. For every two bombs destroyed an energy star that the player can collect will appear. By picking it up the player's ship is energized with an invincible energy shield. Once all enemies have been cleared from one level the game moves on to the next.
-
-Before starting out it's possible to choose the number of players (1-4), number of lives (1-9) and the intensity of the game (0-9). Level 0 is the easiest one and the only one where enemies do not get harder as the game goes on. Each player can have a different intensity level.</desc>
-		<image>./images/Cosmic Raider (19xx)(Astrovision)-image.png</image>
-		<video>./videos/Cosmic Raider (19xx)(Astrovision)-video.mp4</video>
-		<marquee>./images/Cosmic Raider (19xx)(Astrovision)-marquee.png</marquee>
-		<thumbnail>./images/Cosmic Raider (19xx)(Astrovision)-thumb.png</thumbnail>
-		<releasedate>19780101T000000</releasedate>
-		<publisher>Astrocade</publisher>
-		<genre>Shoot'em Up</genre>
-		<md5>9b431d6bc67c66ed432827d01cbb17f9</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094220" />
+		<scrap name="ScreenScraper" date="20221121T200525" />
 	</game>
 	<game id="46433">
 		<path>./Dogpatch (19xx)(Bally).zip</path>
@@ -214,7 +214,7 @@ Before starting out it's possible to choose the number of players (1-4), number 
 		<genre>Shoot'em Up</genre>
 		<md5>c70af94d26cbbecdda7a0dfb3551881b</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094224" />
+		<scrap name="ScreenScraper" date="20221121T200526" />
 	</game>
 	<game id="46434">
 		<path>./Football (19xx)(Bally).zip</path>
@@ -229,7 +229,7 @@ Before starting out it's possible to choose the number of players (1-4), number 
 		<genre>Sports</genre>
 		<md5>d2d5e1a343d61f8fe9f34425ed66efdf</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094229" />
+		<scrap name="ScreenScraper" date="20221121T200526" />
 	</game>
 	<game id="46436">
 		<path>./Galaxian (1981)(Astrovision)[p].zip</path>
@@ -247,7 +247,7 @@ Before starting out it's possible to choose the number of players (1-4), number 
 		<players>1-2</players>
 		<md5>7efc92b2988ec3e00647af740550e3a5</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094234" />
+		<scrap name="ScreenScraper" date="20221121T200528" />
 	</game>
 	<game id="46437">
 		<path>./Grand Prix + Demolition Derby (19xx)(Bally).zip</path>
@@ -264,7 +264,7 @@ Demolition Derby is similar to Grand Prix but here the objective is to ram into 
 		<genre>Race, Driving</genre>
 		<md5>aaf74ec30a85bb268b729c4b8a719131</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094239" />
+		<scrap name="ScreenScraper" date="20221121T200528" />
 	</game>
 	<game id="46440">
 		<path>./Incredible Wizard, The (1981)(Astrovision).zip</path>
@@ -286,7 +286,7 @@ The game may be played by one player or two players simultaneously.</desc>
 		<genre>Action</genre>
 		<md5>6048d68aa01850cbb089bc278afc5853</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094243" />
+		<scrap name="ScreenScraper" date="20221121T200529" />
 	</game>
 	<game id="46441">
 		<path>./Letter Match + Spell 'n Score + Crosswords (19xx)(Bally).zip</path>
@@ -302,7 +302,7 @@ The game may be played by one player or two players simultaneously.</desc>
 		<genre>Thinking</genre>
 		<md5>409aaca551f012df695c912e40a86171</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094248" />
+		<scrap name="ScreenScraper" date="20221121T200530" />
 	</game>
 	<game id="46443">
 		<path>./Machine Language Manager (1981)(Bit Fiddlers).zip</path>
@@ -316,7 +316,7 @@ The game may be played by one player or two players simultaneously.</desc>
 		<genre>Various</genre>
 		<md5>9d72702c6097a2563c22cfb2170e14b7</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094252" />
+		<scrap name="ScreenScraper" date="20221121T200530" />
 	</game>
 	<game id="46446">
 		<path>./Muncher (19xx)(Esoterica).zip</path>
@@ -331,7 +331,7 @@ The game may be played by one player or two players simultaneously.</desc>
 		<genre>Action</genre>
 		<md5>6e32c8d7cc29b4ed1a032c063fe7dda4</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094257" />
+		<scrap name="ScreenScraper" date="20221121T200531" />
 	</game>
 	<game id="46449">
 		<path>./Panzer Attack + Red Baron (19xx)(Bally).zip</path>
@@ -348,7 +348,7 @@ Panzer Attack is a tank game viewed from a top-down perspective. All player shar
 		<genre>Compilation</genre>
 		<md5>04b9ede2208708933899685d1b40d1b0</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094302" />
+		<scrap name="ScreenScraper" date="20221121T200531" />
 	</game>
 	<game id="46452">
 		<path>./Seawolf + Missile (19xx)(Bally)[b].zip</path>
@@ -363,7 +363,7 @@ Panzer Attack is a tank game viewed from a top-down perspective. All player shar
 		<genre>Shoot'em Up</genre>
 		<md5>8cf9186e72cc0c9c324eca3bf6c5d566</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094307" />
+		<scrap name="ScreenScraper" date="20221121T200531" />
 	</game>
 	<game id="46457">
 		<path>./Space Fortress (19xx)(Bally).zip</path>
@@ -382,7 +382,7 @@ The game is controlled with five buttons: one for shooting and four for aiming, 
 		<genre>Shoot'em Up</genre>
 		<md5>f1dfb3bcafcae67cc42eb328ec445491</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094312" />
+		<scrap name="ScreenScraper" date="20221121T200532" />
 	</game>
 	<game id="46460">
 		<path>./Star Battle (19xx)(Astrovision)[b].zip</path>
@@ -399,7 +399,7 @@ The game is viewed from a third-person perspective with a pseudo 3D representati
 		<genre>Shoot'em Up</genre>
 		<md5>e6ebe48ec24d1170f7e2c09e1f169e73</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094317" />
+		<scrap name="ScreenScraper" date="20221121T200532" />
 	</game>
 	<game id="46462">
 		<path>./Tornado Baseball + Tennis + Hockey + Handball (19xx)(Bally).zip</path>
@@ -416,6 +416,6 @@ The game is viewed from a third-person perspective with a pseudo 3D representati
 		<genre>Sports</genre>
 		<md5>ad08e7a20ffc67ea7c8f069ef354eec6</md5>
 		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T094323" />
+		<scrap name="ScreenScraper" date="20221121T200533" />
 	</game>
 </gameList>
