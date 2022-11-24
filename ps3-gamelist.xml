@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="24732">
+		<path>./Grand Theft Auto San Andreas.ps3</path>
+		<name>Grand Theft Auto : San Andreas</name>
+		<desc>Grand Theft Auto: San Andreas Brings the GTA world to the early 90s in this huge California-based installment. Deal with rival gangs and corrupt cops as you climb the crime ladder.
+
+Five years ago Carl Johnson escaped from the pressures of life in Los Santos, San Andreas... a city tearing itself apart with gang trouble, drugs and corruption. Where filmstars and millionaires do their best to avoid the dealers and gangbangers. Now, it's the early 90s. Carl's got to go home. His mother has been murdered, his family has fallen apart and his childhood friends are all heading towards disaster. On his return to the neighborhood, a couple of corrupt cops frame him for homicide. CJ is forced on a journey that takes him across the entire state of San Andreas, to save his family and to take control of the streets.</desc>
+		<image>./images/Grand Theft Auto San Andreas-image.jpg</image>
+		<marquee>./images/Grand Theft Auto San Andreas-marquee.png</marquee>
+		<thumbnail>./images/Grand Theft Auto San Andreas-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20121211T000000</releasedate>
+		<developer>Take 2 Interactive</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Grand Theft Auto</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221122T005302" />
+	</game>
+	<game id="25223">
+		<path>./Sonic Unleashed (USA).ps3</path>
+		<name>Sonic Unleashed</name>
+		<desc>Sonic Unleashed on PS3 brings the famous blue hedgehog to life in a new kind of adventure. Mixing 3D and 2D, the title pits you against Dr Robotnik who has scattered the pieces of the world. It's up to you to find the pieces of the emerald of chaos and put it back together. The software manages the day/night cycle, which influences Sonic's behaviour.</desc>
+		<image>./images/Sonic Unleashed (USA)-image.jpg</image>
+		<video>./videos/Sonic Unleashed (USA)-video.mp4</video>
+		<marquee>./images/Sonic Unleashed (USA)-marquee.png</marquee>
+		<thumbnail>./images/Sonic Unleashed (USA)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<developer>SEGA</developer>
+		<publisher>Sonic Team</publisher>
+		<genre>Platform</genre>
+		<family>Sonic</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221122T005319" />
+	</game>
+	<game id="24781">
+		<path>./Farming Simulator.ps3</path>
+		<name>Farming Simulator</name>
+		<desc>Farming Simulator 2013 is a farm management game for PlayStation 3. As the head of a vast estate, players must tend to their livestock and cultivate their fields with the help of a hundred vehicles from leading brands. This 2013 edition includes new animals, more varied crops and a cooperative mode for up to 10 players online.</desc>
+		<rating>0.8</rating>
+		<developer>Focus</developer>
+		<publisher>Giants Software</publisher>
+		<genre>Simulation</genre>
+		<family>Farming Simulator</family>
+		<players>10</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221124T185314" />
+	</game>
+	<game id="201505">
+		<path>./FIFA 18.ps3</path>
+		<name>FIFA 18</name>
+		<marquee>./images/FIFA 18-marquee.png</marquee>
+		<genre>Sports / Soccer</genre>
+		<family>FIFA</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221124T185314" />
+	</game>
+	<game id="25677">
+		<path>./FIFA Street 3.ps3</path>
+		<name>Fifa Street 3</name>
+		<desc>FIFA Street 3 on PS3 is a street football game. All the great nations of the sport are present, but the novelty of this third installment lies in the new design of the title, very cartoon oriented and almost caricatured players. Chain together style tricks and victories to win all the game's tournaments.</desc>
+		<rating>0.65</rating>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>FIFA</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221124T185315" />
+	</game>
+	<game>
+		<path>./God of War II.ps3</path>
+		<name>God of War II</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221124T185315" />
+	</game>
+	<game id="27661">
+		<path>./LEGO Jurassic World.ps3</path>
+		<name>Lego Jurassic World</name>
+		<desc>LEGO Jurassic World is an action game based on the four Jurassic Park movies and released alongside the 2015 movie Jurassic World. As with many other Tt Games titles it adapts a licensed franchise to a world built up out of LEGO bricks. The game consists of 20 levels, five for each of the movies, played in succession. The game borrows many iconic moments from the films using the original audio clips and often adds a humorous twist.</desc>
+		<marquee>./images/LEGO Jurassic World-marquee.png</marquee>
+		<thumbnail>./images/LEGO Jurassic World-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<developer>Travellers Tales</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Action / Adventure</genre>
+		<family>LEGO</family>
+		<players>1-2</players>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221124T185316" />
+	</game>
+	<game id="201049">
+		<path>./Minecraft PlayStation 3 Edition.ps3</path>
+		<name>Minecraft: PlayStation 3 Edition</name>
+		<marquee>./images/Minecraft PlayStation 3 Edition-marquee.png</marquee>
+		<thumbnail>./images/Minecraft PlayStation 3 Edition-thumb.png</thumbnail>
+		<releasedate>20131217T000000</releasedate>
+		<developer>Mojang</developer>
+		<publisher>Sony Interactive Entertainment</publisher>
+		<genre>Simulation</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221124T185317" />
+	</game>
+	<game>
+		<path>./PES 2018.ps3</path>
+		<name>PES 2018</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221124T185317" />
+	</game>
+	<game>
+		<path>./Rise Of The Guardians.ps3</path>
+		<name>Rise Of The Guardians</name>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221124T185318" />
+	</game>
+	<game id="25134">
+		<path>./Sonic.All-Stars.Racing.Transformed.ps3</path>
+		<name>Sonic &amp; All Stars Racing Transformed</name>
+		<desc>Sonic &amp; All Stars Racing Transformed is a racing game for PlayStation 3. The player can take on the role of 22 different drivers and race on 20 tracks from the Sega universe in cars, planes and boats. In addition, it is possible to compete against 9 other players online.</desc>
+		<marquee>./images/Sonic.All-Stars.Racing.Transformed-marquee.png</marquee>
+		<thumbnail>./images/Sonic.All-Stars.Racing.Transformed-thumb.jpg</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20121120T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Sumo Digital</publisher>
+		<genre>Race, Driving</genre>
+		<family>Sonic</family>
+		<players>4</players>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221124T185318" />
+		<scrap name="TheGamesDB" date="20221103T200911" />
+	</game>
+</gameList>
