@@ -2153,22 +2153,6 @@ Version II: players take turns after each jump.
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20220928T121419" />
 	</game>
-	<game id="59336">
-		<path>./Pinball (USA) (Proto).zip</path>
-		<name>Pinball</name>
-		<desc>Pinball!, as the name implies, is a pinball game for one or two players. There are two game "formats". The main format has a table with 7 bumpers and two sockets, with two flippers at the bottom center. Holes at the bottom sides of the table are opened when the bumpers in the second line from bottom to top are hit. At first, hitting the bumpers adds 75 points to the score, but as the bumpers change colors when hit, the amount of points scored increase. The bumpers start red, then change to green, orange, dark blue, pink, light blue, white, black and then red again. The table can also be nudged by moving the joystick in the desired nudge direction. Each player has 5 balls to play. The second game mode allows players to design their own table by placing the 7 bumpers in any desired position. After placing all bumper, the game starts as usual.</desc>
-		<image>./images/Pinball (USA) (Proto)-image.png</image>
-		<video>./videos/Pinball (USA) (Proto)-video.mp4</video>
-		<marquee>./images/Pinball (USA) (Proto)-marquee.png</marquee>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Sanders Associates</developer>
-		<publisher>CGE Services Corporation</publisher>
-		<genre>Action</genre>
-		<md5>b93f4ce768cf934774fdd895eab59323</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T121421" />
-	</game>
 	<game id="59338">
 		<path>./Playtag (Europe) (Proto).zip</path>
 		<name>Play Tag</name>
@@ -3060,6 +3044,22 @@ Besides the gameboard, each player has his/her own investment record pad to bett
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20220928T121639" />
 	</game>
+	<game id="59336">
+		<path>./Pinball (USA) (Proto).zip</path>
+		<name>Pinball</name>
+		<desc>Pinball!, as the name implies, is a pinball game for one or two players. There are two game "formats". The main format has a table with 7 bumpers and two sockets, with two flippers at the bottom center. Holes at the bottom sides of the table are opened when the bumpers in the second line from bottom to top are hit. At first, hitting the bumpers adds 75 points to the score, but as the bumpers change colors when hit, the amount of points scored increase. The bumpers start red, then change to green, orange, dark blue, pink, light blue, white, black and then red again. The table can also be nudged by moving the joystick in the desired nudge direction. Each player has 5 balls to play. The second game mode allows players to design their own table by placing the 7 bumpers in any desired position. After placing all bumper, the game starts as usual.</desc>
+		<image>./images/Pinball (USA) (Proto)-image.png</image>
+		<video>./videos/Pinball (USA) (Proto)-video.mp4</video>
+		<marquee>./images/Pinball (USA) (Proto)-marquee.png</marquee>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Sanders Associates</developer>
+		<publisher>CGE Services Corporation</publisher>
+		<genre>Action</genre>
+		<md5>b93f4ce768cf934774fdd895eab59323</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221118T181204" />
+	</game>
 	<game id="59236">
 		<path>./[BIOS] Magnavox Odyssey2 (USA, Europe).zip</path>
 		<name>ZZZ(notgame):[bios] Magnavox Odyssey2</name>
@@ -3072,7 +3072,7 @@ Besides the gameboard, each player has his/her own investment record pad to bett
 		<md5>562d5ebf9e030a40d6fabfc2f33139fd</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20220928T121640" />
+		<scrap name="ScreenScraper" date="20221118T181205" />
 	</game>
 	<game id="59237">
 		<path>./[BIOS] Philips C52 (France).zip</path>
@@ -3086,6 +3086,6 @@ Besides the gameboard, each player has his/her own investment record pad to bett
 		<md5>f1071cdb0b6b10dde94d3bc8a6146387</md5>
 		<lang>fr</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20220928T121641" />
+		<scrap name="ScreenScraper" date="20221118T181205" />
 	</game>
 </gameList>

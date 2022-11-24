@@ -4,6 +4,7 @@
 		<path>./Scooby-Doo! Ancient Adventure (USA) (v1.1).7z</path>
 		<name>Scooby-Doo! Ancient Adventure (USA) (v1.1)</name>
 		<scrap name="ScreenScraper" date="20221101T180555" />
+		<scrap name="TheGamesDB" date="20221101T184406" />
 	</game>
 	<game>
 		<path>./Amazing Spider-Man, The - Countdown to Doom (USA) (v1.1).7z</path>
@@ -13,104 +14,124 @@
 		<md5>6449beba151bd5c405af66d40b6d856d</md5>
 		<gametime>19</gametime>
 		<scrap name="ScreenScraper" date="20221101T180606" />
+		<scrap name="TheGamesDB" date="20221101T184407" />
 	</game>
 	<game>
 		<path>./Amazing Spider-Man, The - Countdown to Doom (USA) (v1.2).7z</path>
 		<name>Amazing Spider-Man, The - Countdown to Doom (USA) (v1.2)</name>
 		<scrap name="ScreenScraper" date="20221101T180606" />
+		<scrap name="TheGamesDB" date="20221101T184407" />
 	</game>
 	<game>
 		<path>./Asombroso Spider-Man El - Persecucion en la Cuidad (Spain).7z</path>
 		<name>Asombroso Spider-Man El - Persecucion en la Cuidad (Spain)</name>
 		<scrap name="ScreenScraper" date="20221101T180607" />
+		<scrap name="TheGamesDB" date="20221101T184407" />
 	</game>
 	<game>
 		<path>./Bratz - Fashion Pixiez - The Secret Necklace (USA).7z</path>
 		<name>Bratz - Fashion Pixiez - The Secret Necklace (USA)</name>
 		<scrap name="ScreenScraper" date="20221101T180607" />
+		<scrap name="TheGamesDB" date="20221101T184408" />
 	</game>
 	<game>
 		<path>./Carrera Loca en la Isla de las Vainas Fritas (Spain).7z</path>
 		<name>Carrera Loca en la Isla de las Vainas Fritas (Spain)</name>
 		<scrap name="ScreenScraper" date="20221101T180608" />
+		<scrap name="TheGamesDB" date="20221101T184408" />
 	</game>
 	<game>
 		<path>./Cars - Auf der Ueberholspur (Germany).7z</path>
 		<name>Cars - Auf der Ueberholspur (Germany)</name>
 		<scrap name="ScreenScraper" date="20221101T180608" />
+		<scrap name="TheGamesDB" date="20221101T184408" />
 	</game>
 	<game>
 		<path>./Cars - El Carril Rapido (Spain).7z</path>
 		<name>Cars - El Carril Rapido (Spain)</name>
 		<scrap name="ScreenScraper" date="20221101T180609" />
+		<scrap name="TheGamesDB" date="20221101T184409" />
 	</game>
 	<game>
 		<path>./Cars - In the Fast Lane (USA) (v1.0).7z</path>
 		<name>Cars - In the Fast Lane (USA) (v1.0)</name>
 		<scrap name="ScreenScraper" date="20221101T180609" />
+		<scrap name="TheGamesDB" date="20221101T184409" />
 	</game>
 	<game>
 		<path>./Cars - In the Fast Lane (USA) (v1.1).7z</path>
 		<name>Cars - In the Fast Lane (USA) (v1.1)</name>
 		<scrap name="ScreenScraper" date="20221101T180609" />
+		<scrap name="TheGamesDB" date="20221101T184409" />
 	</game>
 	<game>
 		<path>./Cars - In the Fast Lane (USA) (v1.3).7z</path>
 		<name>Cars - In the Fast Lane (USA) (v1.3)</name>
 		<scrap name="ScreenScraper" date="20221101T180610" />
+		<scrap name="TheGamesDB" date="20221101T184410" />
 	</game>
 	<game>
 		<path>./Das verrueckte Rennen der Huepf-Bohnen Insel (Germany).7z</path>
 		<name>Das verrueckte Rennen der Huepf-Bohnen Insel (Germany)</name>
 		<scrap name="ScreenScraper" date="20221101T180610" />
+		<scrap name="TheGamesDB" date="20221101T184410" />
 	</game>
 	<game>
 		<path>./Disney Princess - Das zauberhafte Maerchen-Abenteuer (Germany).7z</path>
 		<name>Disney Princess - Das zauberhafte Maerchen-Abenteuer (Germany)</name>
 		<scrap name="ScreenScraper" date="20221101T180611" />
+		<scrap name="TheGamesDB" date="20221101T184410" />
 	</game>
 	<game>
 		<path>./Disney Princess - El Castillo de las Princesas (Spain).7z</path>
 		<name>Disney Princess - El Castillo de las Princesas (Spain)</name>
 		<scrap name="ScreenScraper" date="20221101T180611" />
+		<scrap name="TheGamesDB" date="20221101T184411" />
 	</game>
 	<game>
 		<path>./Disney Princess - The Crystal Ball Adventure (USA) (Alt).7z</path>
 		<name>Disney Princess - The Crystal Ball Adventure (USA) (Alt)</name>
 		<scrap name="ScreenScraper" date="20221101T180612" />
+		<scrap name="TheGamesDB" date="20221101T184411" />
 	</game>
 	<game>
 		<path>./Disney Princess - The Crystal Ball Adventure (USA).7z</path>
 		<name>Disney Princess - The Crystal Ball Adventure (USA)</name>
 		<scrap name="ScreenScraper" date="20221101T180612" />
+		<scrap name="TheGamesDB" date="20221101T184412" />
 	</game>
 	<game>
 		<path>./Incredibles, The - Mission Incredible (USA).7z</path>
 		<name>Incredibles, The - Mission Incredible (USA)</name>
 		<md5>de010f7c6fb00306506b0d3b879cd69f</md5>
 		<scrap name="ScreenScraper" date="20221101T180623" />
+		<scrap name="TheGamesDB" date="20221101T184412" />
 	</game>
 	<game>
 		<path>./Increibles Los - Mision Increible (Spain).7z</path>
 		<name>Increibles Los - Mision Increible (Spain)</name>
 		<md5>f3efb491d17dcea0173d61716a9cd1a1</md5>
 		<scrap name="ScreenScraper" date="20221101T180633" />
+		<scrap name="TheGamesDB" date="20221101T184413" />
 	</game>
 	<game>
 		<path>./Multisports (Germany).7z</path>
 		<name>Multisports (Germany)</name>
 		<md5>d5af292cee5aa7615e3fa3de8272ad23</md5>
 		<scrap name="ScreenScraper" date="20221101T180638" />
+		<scrap name="TheGamesDB" date="20221101T184413" />
 	</game>
 	<game>
 		<path>./Scooby-Doo - Viaje al Pasado (Spain).7z</path>
 		<name>Scooby-Doo - Viaje al Pasado (Spain)</name>
 		<scrap name="ScreenScraper" date="20221101T180638" />
+		<scrap name="TheGamesDB" date="20221101T184413" />
 	</game>
 	<game>
 		<path>./Shrek der Dritte - Die Suche nach Arthus (Germany).7z</path>
 		<name>Shrek der Dritte - Die Suche nach Arthus (Germany)</name>
 		<scrap name="ScreenScraper" date="20221101T180639" />
+		<scrap name="TheGamesDB" date="20221101T184414" />
 	</game>
 	<game>
 		<path>./Shrek the Third - The Search for Arthur (USA).7z</path>
@@ -119,26 +140,181 @@
 		<lastplayed>20221101T180654</lastplayed>
 		<gametime>28</gametime>
 		<scrap name="ScreenScraper" date="20221101T180639" />
+		<scrap name="TheGamesDB" date="20221101T184414" />
 	</game>
 	<game>
 		<path>./Spider-Man - Angriff der Super-Schurken (Germany).7z</path>
 		<name>Spider-Man - Angriff der Super-Schurken (Germany)</name>
 		<md5>e7a694ab456d7931beaa63036fd7c882</md5>
 		<scrap name="ScreenScraper" date="20221101T180651" />
+		<scrap name="TheGamesDB" date="20221101T184414" />
 	</game>
 	<game>
 		<path>./SpongeBob Schwammkopf - Ein Schwamm voller Ideen (Germany).7z</path>
 		<name>SpongeBob Schwammkopf - Ein Schwamm voller Ideen (Germany)</name>
 		<scrap name="ScreenScraper" date="20221101T180652" />
+		<scrap name="TheGamesDB" date="20221101T184415" />
 	</game>
 	<game>
 		<path>./SpongeBob SquarePants - Idea Sponge (USA) (v1.1).7z</path>
 		<name>SpongeBob SquarePants - Idea Sponge (USA) (v1.1)</name>
 		<scrap name="ScreenScraper" date="20221101T180653" />
+		<scrap name="TheGamesDB" date="20221101T184415" />
 	</game>
 	<game>
 		<path>./SpongeBob SquarePants - Idea Sponge (USA) (v1.2).7z</path>
 		<name>SpongeBob SquarePants - Idea Sponge (USA) (v1.2)</name>
 		<scrap name="ScreenScraper" date="20221101T180653" />
+		<scrap name="TheGamesDB" date="20221101T184415" />
+	</game>
+	<game>
+		<path>./Unglaublichen, Die (The Incredibles) - In unglaublicher Mission (Germany).7z</path>
+		<name>Unglaublichen, Die (The Incredibles) - In unglaublicher Mission (Germany)</name>
+		<scrap name="TheGamesDB" date="20221101T184403" />
+	</game>
+	<game>
+		<path>./Wacky Race on Jumpin' Bean Island (USA) (v1.2).7z</path>
+		<name>Wacky Race on Jumpin' Bean Island (USA) (v1.2)</name>
+		<scrap name="TheGamesDB" date="20221101T184404" />
+	</game>
+	<game>
+		<path>./Wacky Race on Jumpin' Bean Island (USA) (v1.3).7z</path>
+		<name>Wacky Race on Jumpin' Bean Island (USA) (v1.3)</name>
+		<scrap name="TheGamesDB" date="20221101T184404" />
+	</game>
+	<game>
+		<path>./93087_000.bin</path>
+		<name>93087_000</name>
+		<scrap name="ScreenScraper" date="20221124T145134" />
+	</game>
+	<game>
+		<path>./93107_000.bin</path>
+		<name>93107_000</name>
+		<scrap name="ScreenScraper" date="20221124T145135" />
+	</game>
+	<game>
+		<path>./Amazing Spider-Man, The - Countdown to Doom (USA) (v1.1).bin</path>
+		<name>Amazing Spider-Man, The - Countdown to Doom (USA) (v1.1)</name>
+		<scrap name="ScreenScraper" date="20221124T145135" />
+	</game>
+	<game>
+		<path>./Amazing Spider-Man, The - Countdown to Doom (USA) (v1.2).bin</path>
+		<name>Amazing Spider-Man, The - Countdown to Doom (USA) (v1.2)</name>
+		<scrap name="ScreenScraper" date="20221124T145136" />
+	</game>
+	<game>
+		<path>./Asombroso Spider-Man, El - Persecucion en la Cuidad (Spain).bin</path>
+		<name>Asombroso Spider-Man, El - Persecucion en la Cuidad (Spain)</name>
+		<scrap name="ScreenScraper" date="20221124T145136" />
+	</game>
+	<game>
+		<path>./Bratz - Fashion Pixiez - The Secret Necklace (USA).bin</path>
+		<name>Bratz - Fashion Pixiez - The Secret Necklace (USA)</name>
+		<scrap name="ScreenScraper" date="20221124T145136" />
+	</game>
+	<game>
+		<path>./Cars - Auf der Ueberholspur (Germany).bin</path>
+		<name>Cars - Auf der Ueberholspur (Germany)</name>
+		<scrap name="ScreenScraper" date="20221124T145137" />
+	</game>
+	<game>
+		<path>./Cars - In the Fast Lane (USA) (v1.1).bin</path>
+		<name>Cars - In the Fast Lane (USA) (v1.1)</name>
+		<scrap name="ScreenScraper" date="20221124T145137" />
+	</game>
+	<game>
+		<path>./Cars - In the Fast Lane (USA) (v1.3).bin</path>
+		<name>Cars - In the Fast Lane (USA) (v1.3)</name>
+		<scrap name="ScreenScraper" date="20221124T145138" />
+	</game>
+	<game>
+		<path>./Das verrueckte Rennen der Huepf-Bohnen Insel (Germany).bin</path>
+		<name>Das verrueckte Rennen der Huepf-Bohnen Insel (Germany)</name>
+		<scrap name="ScreenScraper" date="20221124T145138" />
+	</game>
+	<game>
+		<path>./Disney Princess - Das zauberhafte Maerchen-Abenteuer (Germany).bin</path>
+		<name>Disney Princess - Das zauberhafte Maerchen-Abenteuer (Germany)</name>
+		<scrap name="ScreenScraper" date="20221124T145138" />
+	</game>
+	<game>
+		<path>./Disney Princess - The Crystal Ball Adventure (USA) (Alt).bin</path>
+		<name>Disney Princess - The Crystal Ball Adventure (USA) (Alt)</name>
+		<scrap name="ScreenScraper" date="20221124T145139" />
+	</game>
+	<game>
+		<path>./Disney Princess - The Crystal Ball Adventure (USA).bin</path>
+		<name>Disney Princess - The Crystal Ball Adventure (USA)</name>
+		<scrap name="ScreenScraper" date="20221124T145139" />
+	</game>
+	<game>
+		<path>./Incredibles, The - Mission Incredible (USA).bin</path>
+		<name>Incredibles, The - Mission Incredible (USA)</name>
+		<scrap name="ScreenScraper" date="20221124T145140" />
+	</game>
+	<game>
+		<path>./Increibles, Los - Mision Increible (Spain).bin</path>
+		<name>Increibles, Los - Mision Increible (Spain)</name>
+		<scrap name="ScreenScraper" date="20221124T145140" />
+	</game>
+	<game>
+		<path>./Multisports (Germany).bin</path>
+		<name>Multisports (Germany)</name>
+		<scrap name="ScreenScraper" date="20221124T145140" />
+	</game>
+	<game>
+		<path>./Cars - In the Fast Lane (USA) (v1.0).bin</path>
+		<name>Cars - In the Fast Lane (USA) (v1.0)</name>
+		<scrap name="ScreenScraper" date="20221124T145141" />
+	</game>
+	<game>
+		<path>./Scooby-Doo! Ancient Adventure (USA) (v1.1).bin</path>
+		<name>Scooby-Doo! Ancient Adventure (USA) (v1.1)</name>
+		<scrap name="ScreenScraper" date="20221124T145141" />
+	</game>
+	<game>
+		<path>./Shrek der Dritte - Die Suche nach Arthus (Germany).bin</path>
+		<name>Shrek der Dritte - Die Suche nach Arthus (Germany)</name>
+		<scrap name="ScreenScraper" date="20221124T145142" />
+	</game>
+	<game>
+		<path>./Shrek the Third - The Search for Arthur (USA).bin</path>
+		<name>Shrek the Third - The Search for Arthur (USA)</name>
+		<scrap name="ScreenScraper" date="20221124T145142" />
+	</game>
+	<game>
+		<path>./Spider-Man - Angriff der Super-Schurken (Germany).bin</path>
+		<name>Spider-Man - Angriff der Super-Schurken (Germany)</name>
+		<scrap name="ScreenScraper" date="20221124T145142" />
+	</game>
+	<game>
+		<path>./SpongeBob Schwammkopf - Ein Schwamm voller Ideen (Germany).bin</path>
+		<name>SpongeBob Schwammkopf - Ein Schwamm voller Ideen (Germany)</name>
+		<scrap name="ScreenScraper" date="20221124T145143" />
+	</game>
+	<game>
+		<path>./SpongeBob SquarePants - Idea Sponge (USA) (v1.1).bin</path>
+		<name>SpongeBob SquarePants - Idea Sponge (USA) (v1.1)</name>
+		<scrap name="ScreenScraper" date="20221124T145143" />
+	</game>
+	<game>
+		<path>./SpongeBob SquarePants - Idea Sponge (USA) (v1.2).bin</path>
+		<name>SpongeBob SquarePants - Idea Sponge (USA) (v1.2)</name>
+		<scrap name="ScreenScraper" date="20221124T145144" />
+	</game>
+	<game>
+		<path>./Unglaublichen, Die (The Incredibles) - In unglaublicher Mission (Germany).bin</path>
+		<name>Unglaublichen, Die (The Incredibles) - In unglaublicher Mission (Germany)</name>
+		<scrap name="ScreenScraper" date="20221124T145144" />
+	</game>
+	<game>
+		<path>./Wacky Race on Jumpin' Bean Island (USA) (v1.2).bin</path>
+		<name>Wacky Race on Jumpin' Bean Island (USA) (v1.2)</name>
+		<scrap name="ScreenScraper" date="20221124T145145" />
+	</game>
+	<game>
+		<path>./Wacky Race on Jumpin' Bean Island (USA) (v1.3).bin</path>
+		<name>Wacky Race on Jumpin' Bean Island (USA) (v1.3)</name>
+		<scrap name="ScreenScraper" date="20221124T145145" />
 	</game>
 </gameList>

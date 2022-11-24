@@ -20,30 +20,6 @@
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20220928T131115" />
 	</game>
-	<game id="190337">
-		<path>./clubkcyc.zip</path>
-		<name>ZZZ(notgame):Club Kart For Cycraft</name>
-		<thumbnail>./images/clubkcyc-thumb.png</thumbnail>
-		<hidden>true</hidden>
-		<playcount>1</playcount>
-		<lastplayed>20220928T075421</lastplayed>
-		<md5>9948ab5535039813366c7e62fb8134a6</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T131123" />
-	</game>
-	<game id="190337">
-		<path>./clubkcyco.zip</path>
-		<name>ZZZ(notgame):Club Kart For Cycraft</name>
-		<thumbnail>./images/clubkcyco-thumb.png</thumbnail>
-		<hidden>true</hidden>
-		<playcount>1</playcount>
-		<lastplayed>20220928T123327</lastplayed>
-		<md5>9948ab5535039813366c7e62fb8134a6</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T131124" />
-	</game>
 	<game id="46772">
 		<path>./inidv3ca.zip</path>
 		<name>Initial D: Version 3</name>
@@ -512,5 +488,29 @@
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20220928T131145" />
+	</game>
+	<game id="190337">
+		<path>./clubkcyc.zip</path>
+		<name>ZZZ(notgame):Club Kart For Cycraft</name>
+		<thumbnail>./images/clubkcyc-thumb.png</thumbnail>
+		<hidden>true</hidden>
+		<playcount>1</playcount>
+		<lastplayed>20220928T075421</lastplayed>
+		<md5>9948ab5535039813366c7e62fb8134a6</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221118T172353" />
+	</game>
+	<game id="190337">
+		<path>./clubkcyco.zip</path>
+		<name>ZZZ(notgame):Club Kart For Cycraft</name>
+		<thumbnail>./images/clubkcyco-thumb.png</thumbnail>
+		<hidden>true</hidden>
+		<playcount>1</playcount>
+		<lastplayed>20220928T123327</lastplayed>
+		<md5>9948ab5535039813366c7e62fb8134a6</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221118T172354" />
 	</game>
 </gameList>

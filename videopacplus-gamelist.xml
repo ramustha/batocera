@@ -44,10 +44,8 @@
 		<region>eu</region>
 	</game>
 	<game>
-		<path>./Trans American Rally (198x)(Philips)(EU)[b].zip</path>
-		<name>Trans American Rally (198x)(Philips)(EU)[b]</name>
-		<md5>915a4b58e955ae88baf3b662cfd23582</md5>
-		<lang>en</lang>
-		<region>eu</region>
+		<path>./Terrahawks (198x)(Philips)(EU).zip</path>
+		<name>Terrahawks (198x)(Philips)(EU)</name>
+		<md5>17f8cb93f7071ec4c6f31e9d0b6e5724</md5>
 	</game>
 </gameList>

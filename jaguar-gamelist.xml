@@ -1,29 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game id="14145">
-		<path>./Alien vs Predator (1994).jag</path>
-		<name>Aliens Versus Predator</name>
-		<desc>Aliens versus Predator is a first-person shooter on Jaguar. It offers to play as a Marine, an Alien or a Predator, each race having its own strengths and weaknesses. The three campaigns take place on a space colony of marines beset by aliens, and on which a Predator ship has discreetly landed to try to kill the alien queen!</desc>
-		<image>./images/Alien vs Predator (1994)-image.png</image>
-		<video>./videos/Alien vs Predator (1994)-video.mp4</video>
-		<marquee>./images/Alien vs Predator (1994)-marquee.png</marquee>
-		<thumbnail>./images/Alien vs Predator (1994)-thumb.png</thumbnail>
-		<fanart>./images/Alien vs Predator (1994)-fanart.jpg</fanart>
-		<rating>0.85</rating>
-		<releasedate>19941020T000000</releasedate>
-		<developer>Rebellion</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter / 1st person</genre>
-		<family>Aliens Vs. Predator</family>
-		<players>1</players>
-		<playcount>1</playcount>
-		<lastplayed>20220930T214933</lastplayed>
-		<md5>96bc77cfd1b2df85b5e6ae05594e74b0</md5>
-		<gametime>82</gametime>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T214728" />
-	</game>
-	<game id="14145">
 		<path>./Alien vs Predator (Alpha).jag</path>
 		<name>Aliens Versus Predator</name>
 		<desc>Aliens versus Predator is a first-person shooter on Jaguar. It offers to play as a Marine, an Alien or a Predator, each race having its own strengths and weaknesses. The three campaigns take place on a space colony of marines beset by aliens, and on which a Predator ship has discreetly landed to try to kill the alien queen!</desc>
@@ -42,14 +19,6 @@
 		<md5>77a29a619a97deb2f2bb82476d2fbfb9</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220930T214753" />
-	</game>
-	<game id="117342">
-		<path>./Arkanna Demo (PD).jag</path>
-		<name>ZZZ(notgame):Arkanna</name>
-		<hidden>true</hidden>
-		<md5>51e587596dec63b3c92cb74298acdadb</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T214754" />
 	</game>
 	<game>
 		<path>./Assassin Demo, The - Release 2 (PD).jag</path>
@@ -90,39 +59,6 @@
 		<md5>d3bc404e94b1943a8bee4e98bf57c912</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220930T214933" />
-	</game>
-	<game id="14162">
-		<path>./Attack of the Mutant Penguins (1996).jag</path>
-		<name>Attack of the Mutant Penguins</name>
-		<desc>In the distant galaxy of Bleurggh, an evil (but reasonably stupid) band of aliens picked up some of Earth's television signals. Unfortunately for them, they could only tune in a wildlife program. They figured the Earth would be a pushover to invade, so they disguised themselves as its inhabitants -- penguins! Word of the invasion has reached those champions of intergalactic do-goodery, Bernard and Rodney. Now, with their help, you must prevent the alien mutant penguins from triggering the Doomscale and destroying the Earth. Are you up to the challenge?</desc>
-		<image>./images/Attack of the Mutant Penguins (1996)-image.png</image>
-		<video>./videos/Attack of the Mutant Penguins (1996)-video.mp4</video>
-		<marquee>./images/Attack of the Mutant Penguins (1996)-marquee.png</marquee>
-		<thumbnail>./images/Attack of the Mutant Penguins (1996)-thumb.png</thumbnail>
-		<fanart>./images/Attack of the Mutant Penguins (1996)-fanart.jpg</fanart>
-		<rating>0.9</rating>
-		<releasedate>19951229T000000</releasedate>
-		<developer>Sunrise Software</developer>
-		<publisher>Atari</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1</players>
-		<md5>3ab524a6a18f79b5e7fd0bb189fe8170</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T214933" />
-	</game>
-	<game>
-		<path>./BadCode0 by Badcoder (bin) (1999) (PD).jag</path>
-		<name>BadCode0 by Badcoder (bin) (1999) (PD)</name>
-		<md5>aa9345e887a431e60837a1b941c1bbaa</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T214922" />
-	</game>
-	<game>
-		<path>./BadCode0 by Badcoder (cof) (1999) (PD).jag</path>
-		<name>BadCode0 by Badcoder (cof) (1999) (PD)</name>
-		<md5>4d74fffce1fb576a9993bee9086502b9</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T214923" />
 	</game>
 	<game>
 		<path>./BadCode1 by Badcoder (bin) (1999) (PD).jag</path>
@@ -236,13 +172,6 @@
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220930T214943" />
 	</game>
-	<game>
-		<path>./BadCode4N by Badcoder (jag) (2000) (PD)badcde4n.jag</path>
-		<name>BadCode4N by Badcoder (jag) (2000) (PD)badcde4n</name>
-		<md5>8f7abc3603d3763ba718a1680d7e685c</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T214944" />
-	</game>
 	<game id="14153">
 		<path>./Brutal Sports Football (1994) (Telegames).jag</path>
 		<name>Brutal Sports Football</name>
@@ -264,65 +193,6 @@ Teams consist of humans and aliens, many of which have their own unique skills. 
 		<md5>b8889b272123d86805f18c5503de1477</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220930T215002" />
-	</game>
-	<game id="14158">
-		<path>./Bubsy - Fractured Furry Tails (1994).jag</path>
-		<name>Bubsy in Fractured Furry Tales</name>
-		<desc>Only Bubsy can protect the world's kids from these silly stories and tangled-up tales as he leaps and bounds his way through 15 frantic chapters of fabulous furry fun. In Fairytaleland, Bubsy attends a twisted tea party, climbs a giant beanstalk, voyages under the sea (without getting his paws wet), head to Ali Baba's desert and even meets Hansel and Gretel, who should be up on kidnapping charges.</desc>
-		<image>./images/Bubsy - Fractured Furry Tails (1994)-image.png</image>
-		<video>./videos/Bubsy - Fractured Furry Tails (1994)-video.mp4</video>
-		<marquee>./images/Bubsy - Fractured Furry Tails (1994)-marquee.png</marquee>
-		<thumbnail>./images/Bubsy - Fractured Furry Tails (1994)-thumb.png</thumbnail>
-		<fanart>./images/Bubsy - Fractured Furry Tails (1994)-fanart.jpg</fanart>
-		<rating>0.5</rating>
-		<releasedate>19941209T000000</releasedate>
-		<developer>Imagitec Design</developer>
-		<publisher>Atari</publisher>
-		<genre>Platform</genre>
-		<family>Bubsy</family>
-		<players>1</players>
-		<md5>c3ad2c75c5339125661845720da3895d</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T215025" />
-	</game>
-	<game id="14155">
-		<path>./Cannon Fodder (1995) (Computer West).jag</path>
-		<name>Cannon Fodder</name>
-		<desc>Guide a team of up to four soldiers through 72 levels of combat in this innovative top-down action/strategy hybrid, best thought of as Lemmings crossed with Commando crossed with Dune 2. The characters are controlled indirectly using the mouse, as you activate each soldier or group of them by highlighting them, click the left button to move them to a particular spot, and the right button for them to fire guns at an enemy. You can also pick up grenades, which can be used to destroy groups of enemies or buildings (by pressing both buttons at once). 
-
-Each mission has a specific objective, and some feature vehicles such as tanks to make things easier. Your troops can cross water but can't shoot within it, so finding and controlling bridges is often crucial. You can use the arrangement of trees to find hiding places to shoot from, and should watch out for CPU soldiers also doing so.</desc>
-		<image>./images/Cannon Fodder (1995) (Computer West)-image.png</image>
-		<video>./videos/Cannon Fodder (1995) (Computer West)-video.mp4</video>
-		<marquee>./images/Cannon Fodder (1995) (Computer West)-marquee.png</marquee>
-		<thumbnail>./images/Cannon Fodder (1995) (Computer West)-thumb.png</thumbnail>
-		<rating>0.85</rating>
-		<releasedate>19950217T000000</releasedate>
-		<developer>The Dome Software Developments</developer>
-		<publisher>Virgin Interactive</publisher>
-		<genre>Strategy</genre>
-		<family>Cannon Fodder</family>
-		<players>1</players>
-		<md5>4aa320637ffc598d7d9db44085a88df2</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T215042" />
-	</game>
-	<game id="14177">
-		<path>./Checkered Flag (1994).jag</path>
-		<name>Checkered Flag</name>
-		<desc>Checkered Flag for the Jaguar is a 3D F1-style racing game. The racing game staples are here: single race, practice, and tournament. You can choose to set up a variety of options for each race, also.  You can choose various weather conditions.  Or, you can set up your car to change it's handling characteristics.  There are 10 different tracks on which to race, each with a different theme.  Some take place on sunny beaches, others take place in the arctic.</desc>
-		<image>./images/Checkered Flag (1994)-image.png</image>
-		<video>./videos/Checkered Flag (1994)-video.mp4</video>
-		<marquee>./images/Checkered Flag (1994)-marquee.png</marquee>
-		<thumbnail>./images/Checkered Flag (1994)-thumb.png</thumbnail>
-		<rating>0.4</rating>
-		<releasedate>19941128T000000</releasedate>
-		<developer>Rebellion</developer>
-		<publisher>Atari</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<md5>c77ba1af9705265d4c0070541a5c4787</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T215058" />
 	</game>
 	<game>
 		<path>./Chroma-Luma Color Pick (Mouse) by Matthias Domin (1996) (PD).jag</path>
@@ -527,16 +397,6 @@ a random location after being killed.</desc>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220930T215318" />
 	</game>
-	<game id="117343">
-		<path>./Drumpad by Robert Jurziga (2002) (PD).jag</path>
-		<name>ZZZ(notgame):Drumpad</name>
-		<releasedate>20020101T000000</releasedate>
-		<publisher>Robert Jurziga</publisher>
-		<hidden>true</hidden>
-		<md5>605f86f728db2083489d751d2e99dfec</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T215321" />
-	</game>
 	<game>
 		<path>./BadCode1 by Badcoder (cof) (1999) (PD).jag</path>
 		<name>BadCode1 by Badcoder (cof) (1999) (PD)</name>
@@ -556,16 +416,6 @@ a random location after being killed.</desc>
 		<name>Chroma-Luma Color Pick by Matthias Domin (jag) (1996) (PD)</name>
 		<md5>4d75f19ceef90cfd3bc41c92c391716d</md5>
 		<scrap name="ScreenScraper" date="20220930T215324" />
-	</game>
-	<game id="117343">
-		<path>./Drumpad2 by Robert Jurziga (2002) (PD).jag</path>
-		<name>ZZZ(notgame):Drumpad</name>
-		<releasedate>20020101T000000</releasedate>
-		<publisher>Robert Jurziga</publisher>
-		<hidden>true</hidden>
-		<md5>84f7e427671e3110945cdac60a25a25b</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T215325" />
 	</game>
 	<game id="14195">
 		<path>./International Sensible Soccer (1995).jag</path>
@@ -774,13 +624,6 @@ This game features nine bizarre areas, each with multiple puzzles.  The graphics
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220930T215653" />
 	</game>
-	<game>
-		<path>./FORCE Design - Legion Force Jidai Intro Demo 0! (2001) (PD).jag</path>
-		<name>FORCE Design - Legion Force Jidai Intro Demo 0! (2001) (PD)</name>
-		<md5>8d63fbf54685fe6bd0b7763bf76dafae</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T215655" />
-	</game>
 	<game id="117314">
 		<path>./Gorf 2000 (PD).jag</path>
 		<name>Gorf 2000</name>
@@ -813,24 +656,6 @@ Hover Strike for the Jaguar is a mission-based tank game.  In each mission, you 
 		<family>Hover Strike</family>
 		<players>1-2</players>
 		<md5>51d65ce8171daf0a255a30b44dac07cf</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T215832" />
-	</game>
-	<game id="117315">
-		<path>./Hubble Fade by Robert Jurziga (PD).jag</path>
-		<name>ZZZ(notgame):Hubble Fade</name>
-		<publisher>Robert Jurziga</publisher>
-		<hidden>true</hidden>
-		<md5>be7ee43300321fe8cdb91f6aba5a61d1</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T215832" />
-	</game>
-	<game id="117346">
-		<path>./Hubble Nebula by Robert Jurziga (PD).jag</path>
-		<name>ZZZ(notgame):Hubble Nebula</name>
-		<publisher>Robert Jurziga</publisher>
-		<hidden>true</hidden>
-		<md5>8155ff3fc9d8cd1415d3879b3a052335</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220930T215832" />
 	</game>
@@ -896,15 +721,6 @@ Iron Soldier is mech sim played from an in-cockpit view.  There are 16 single pl
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220930T215832" />
 	</game>
-	<game id="117316">
-		<path>./JagFest Demo (2001) (PD).jag</path>
-		<name>ZZZ(notgame):Jagfest</name>
-		<releasedate>20010101T000000</releasedate>
-		<hidden>true</hidden>
-		<md5>3e8255afc631710bea69883809c50482</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T215832" />
-	</game>
 	<game>
 		<path>./JagMania (Apr 18) (1998) (PD).jag</path>
 		<name>JagMania (Apr 18) (1998) (PD)</name>
@@ -939,36 +755,6 @@ Iron Soldier is mech sim played from an in-cockpit view.  There are 16 single pl
 		<md5>71b044beaf9c8adccea868049e08a8e4</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220930T215829" />
-	</game>
-	<game id="117317">
-		<path>./JagMarble (1999) (PD).jag</path>
-		<name>ZZZ(notgame):Jagmarble</name>
-		<releasedate>19970101T000000</releasedate>
-		<publisher>Matthias Domin</publisher>
-		<hidden>true</hidden>
-		<md5>5ac2fe762ff61d0bba7e1efc1b91fefe</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T215832" />
-	</game>
-	<game id="117317">
-		<path>./JagMarble (2000) (PD).jag</path>
-		<name>ZZZ(notgame):Jagmarble</name>
-		<releasedate>19970101T000000</releasedate>
-		<publisher>Matthias Domin</publisher>
-		<hidden>true</hidden>
-		<md5>8d9400eb282a7e9cc9388477d2cf70f1</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T215832" />
-	</game>
-	<game id="117317">
-		<path>./JagMarble (Jul 13) (1997) (PD).jag</path>
-		<name>ZZZ(notgame):Jagmarble</name>
-		<releasedate>19970101T000000</releasedate>
-		<publisher>Matthias Domin</publisher>
-		<hidden>true</hidden>
-		<md5>8081bfbc21e14de4e06c5555b26fccb5</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T215833" />
 	</game>
 	<game>
 		<path>./Jaguar Server (Program Examples) - 27OBJ (PD).jag</path>
@@ -1025,22 +811,6 @@ Iron Soldier is mech sim played from an in-cockpit view.  There are 16 single pl
 		<md5>0c7a860ff2e118047e1c155f8305b873</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220930T215842" />
-	</game>
-	<game id="117320">
-		<path>./Jaguar Tetris (1995) (PD).jag</path>
-		<name>Jaguar Tetris</name>
-		<desc>Tetris clone for the Atari Jaguar by Bastian Schick. It was the first homebrew game for the Jaguar.</desc>
-		<image>./images/Jaguar Tetris (1995) (PD)-image.png</image>
-		<video>./videos/Jaguar Tetris (1995) (PD)-video.mp4</video>
-		<marquee>./images/Jaguar Tetris (1995) (PD)-marquee.png</marquee>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Bastian Schick</developer>
-		<publisher>Bastian Schick</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1</players>
-		<md5>6da88d193008e7b09c7d59eb060c0eed</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220930T220203" />
 	</game>
 	<game>
 		<path>./JDC Demo V1 (2000) (PD).jag</path>
@@ -1773,6 +1543,29 @@ In order to eliminate the other shapes, you must point your piece at it and 'fir
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220930T221316" />
 	</game>
+	<game id="14145">
+		<path>./Alien vs Predator (1994).jag</path>
+		<name>Aliens Versus Predator</name>
+		<desc>Aliens versus Predator is a first-person shooter on Jaguar. It offers to play as a Marine, an Alien or a Predator, each race having its own strengths and weaknesses. The three campaigns take place on a space colony of marines beset by aliens, and on which a Predator ship has discreetly landed to try to kill the alien queen!</desc>
+		<image>./images/Alien vs Predator (1994)-image.png</image>
+		<video>./videos/Alien vs Predator (1994)-video.mp4</video>
+		<marquee>./images/Alien vs Predator (1994)-marquee.png</marquee>
+		<thumbnail>./images/Alien vs Predator (1994)-thumb.png</thumbnail>
+		<fanart>./images/Alien vs Predator (1994)-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>19941020T000000</releasedate>
+		<developer>Rebellion</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Aliens Vs. Predator</family>
+		<players>1</players>
+		<playcount>3</playcount>
+		<lastplayed>20221031T163628</lastplayed>
+		<md5>96bc77cfd1b2df85b5e6ae05594e74b0</md5>
+		<gametime>128</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220930T214728" />
+	</game>
 	<game id="14160">
 		<path>./Atari Karts (1995).jag</path>
 		<name>Atari Karts</name>
@@ -1790,11 +1583,236 @@ There is only one game mode, a points based cup series.  There are four difficul
 		<publisher>Atari</publisher>
 		<genre>Race, Driving</genre>
 		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20221002T113459</lastplayed>
+		<playcount>2</playcount>
+		<lastplayed>20221031T163923</lastplayed>
 		<md5>cb492f093cd9e22a913d158741e8f00a</md5>
-		<gametime>10</gametime>
+		<gametime>115</gametime>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220930T214933" />
+	</game>
+	<game id="14162">
+		<path>./Attack of the Mutant Penguins (1996).jag</path>
+		<name>Attack of the Mutant Penguins</name>
+		<desc>In the distant galaxy of Bleurggh, an evil (but reasonably stupid) band of aliens picked up some of Earth's television signals. Unfortunately for them, they could only tune in a wildlife program. They figured the Earth would be a pushover to invade, so they disguised themselves as its inhabitants -- penguins! Word of the invasion has reached those champions of intergalactic do-goodery, Bernard and Rodney. Now, with their help, you must prevent the alien mutant penguins from triggering the Doomscale and destroying the Earth. Are you up to the challenge?</desc>
+		<image>./images/Attack of the Mutant Penguins (1996)-image.png</image>
+		<video>./videos/Attack of the Mutant Penguins (1996)-video.mp4</video>
+		<marquee>./images/Attack of the Mutant Penguins (1996)-marquee.png</marquee>
+		<thumbnail>./images/Attack of the Mutant Penguins (1996)-thumb.png</thumbnail>
+		<fanart>./images/Attack of the Mutant Penguins (1996)-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>19951229T000000</releasedate>
+		<developer>Sunrise Software</developer>
+		<publisher>Atari</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221031T164028</lastplayed>
+		<md5>3ab524a6a18f79b5e7fd0bb189fe8170</md5>
+		<gametime>60</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220930T214933" />
+	</game>
+	<game>
+		<path>./BadCode0 by Badcoder (bin) (1999) (PD).jag</path>
+		<name>BadCode0 by Badcoder (bin) (1999) (PD)</name>
+		<playcount>1</playcount>
+		<lastplayed>20221031T164253</lastplayed>
+		<md5>aa9345e887a431e60837a1b941c1bbaa</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220930T214922" />
+	</game>
+	<game>
+		<path>./BadCode0 by Badcoder (cof) (1999) (PD).jag</path>
+		<name>BadCode0 by Badcoder (cof) (1999) (PD)</name>
+		<playcount>1</playcount>
+		<lastplayed>20221031T164319</lastplayed>
+		<md5>4d74fffce1fb576a9993bee9086502b9</md5>
+		<gametime>22</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220930T214923" />
+	</game>
+	<game>
+		<path>./BadCode4N by Badcoder (jag) (2000) (PD)badcde4n.jag</path>
+		<name>BadCode4N by Badcoder (jag) (2000) (PD)badcde4n</name>
+		<playcount>1</playcount>
+		<lastplayed>20221031T164241</lastplayed>
+		<md5>8f7abc3603d3763ba718a1680d7e685c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220930T214944" />
+	</game>
+	<game id="14158">
+		<path>./Bubsy - Fractured Furry Tails (1994).jag</path>
+		<name>Bubsy in Fractured Furry Tales</name>
+		<desc>Only Bubsy can protect the world's kids from these silly stories and tangled-up tales as he leaps and bounds his way through 15 frantic chapters of fabulous furry fun. In Fairytaleland, Bubsy attends a twisted tea party, climbs a giant beanstalk, voyages under the sea (without getting his paws wet), head to Ali Baba's desert and even meets Hansel and Gretel, who should be up on kidnapping charges.</desc>
+		<image>./images/Bubsy - Fractured Furry Tails (1994)-image.png</image>
+		<video>./videos/Bubsy - Fractured Furry Tails (1994)-video.mp4</video>
+		<marquee>./images/Bubsy - Fractured Furry Tails (1994)-marquee.png</marquee>
+		<thumbnail>./images/Bubsy - Fractured Furry Tails (1994)-thumb.png</thumbnail>
+		<fanart>./images/Bubsy - Fractured Furry Tails (1994)-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>19941209T000000</releasedate>
+		<developer>Imagitec Design</developer>
+		<publisher>Atari</publisher>
+		<genre>Platform</genre>
+		<family>Bubsy</family>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221031T164146</lastplayed>
+		<md5>c3ad2c75c5339125661845720da3895d</md5>
+		<gametime>25</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220930T215025" />
+	</game>
+	<game id="14155">
+		<path>./Cannon Fodder (1995) (Computer West).jag</path>
+		<name>Cannon Fodder</name>
+		<desc>Guide a team of up to four soldiers through 72 levels of combat in this innovative top-down action/strategy hybrid, best thought of as Lemmings crossed with Commando crossed with Dune 2. The characters are controlled indirectly using the mouse, as you activate each soldier or group of them by highlighting them, click the left button to move them to a particular spot, and the right button for them to fire guns at an enemy. You can also pick up grenades, which can be used to destroy groups of enemies or buildings (by pressing both buttons at once). 
+
+Each mission has a specific objective, and some feature vehicles such as tanks to make things easier. Your troops can cross water but can't shoot within it, so finding and controlling bridges is often crucial. You can use the arrangement of trees to find hiding places to shoot from, and should watch out for CPU soldiers also doing so.</desc>
+		<image>./images/Cannon Fodder (1995) (Computer West)-image.png</image>
+		<video>./videos/Cannon Fodder (1995) (Computer West)-video.mp4</video>
+		<marquee>./images/Cannon Fodder (1995) (Computer West)-marquee.png</marquee>
+		<thumbnail>./images/Cannon Fodder (1995) (Computer West)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19950217T000000</releasedate>
+		<developer>The Dome Software Developments</developer>
+		<publisher>Virgin Interactive</publisher>
+		<genre>Strategy</genre>
+		<family>Cannon Fodder</family>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221031T164158</lastplayed>
+		<md5>4aa320637ffc598d7d9db44085a88df2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220930T215042" />
+	</game>
+	<game id="14177">
+		<path>./Checkered Flag (1994).jag</path>
+		<name>Checkered Flag</name>
+		<desc>Checkered Flag for the Jaguar is a 3D F1-style racing game. The racing game staples are here: single race, practice, and tournament. You can choose to set up a variety of options for each race, also.  You can choose various weather conditions.  Or, you can set up your car to change it's handling characteristics.  There are 10 different tracks on which to race, each with a different theme.  Some take place on sunny beaches, others take place in the arctic.</desc>
+		<image>./images/Checkered Flag (1994)-image.png</image>
+		<video>./videos/Checkered Flag (1994)-video.mp4</video>
+		<marquee>./images/Checkered Flag (1994)-marquee.png</marquee>
+		<thumbnail>./images/Checkered Flag (1994)-thumb.png</thumbnail>
+		<rating>0.4</rating>
+		<releasedate>19941128T000000</releasedate>
+		<developer>Rebellion</developer>
+		<publisher>Atari</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221031T164516</lastplayed>
+		<md5>c77ba1af9705265d4c0070541a5c4787</md5>
+		<gametime>29</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220930T215058" />
+	</game>
+	<game id="117342">
+		<path>./Arkanna Demo (PD).jag</path>
+		<name>ZZZ(notgame):Arkanna</name>
+		<hidden>true</hidden>
+		<md5>51e587596dec63b3c92cb74298acdadb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174219" />
+	</game>
+	<game id="117343">
+		<path>./Drumpad by Robert Jurziga (2002) (PD).jag</path>
+		<name>ZZZ(notgame):Drumpad</name>
+		<releasedate>20020101T000000</releasedate>
+		<publisher>Robert Jurziga</publisher>
+		<hidden>true</hidden>
+		<md5>605f86f728db2083489d751d2e99dfec</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174219" />
+	</game>
+	<game id="117343">
+		<path>./Drumpad2 by Robert Jurziga (2002) (PD).jag</path>
+		<name>ZZZ(notgame):Drumpad</name>
+		<releasedate>20020101T000000</releasedate>
+		<publisher>Robert Jurziga</publisher>
+		<hidden>true</hidden>
+		<md5>84f7e427671e3110945cdac60a25a25b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174220" />
+	</game>
+	<game>
+		<path>./FORCE Design - Legion Force Jidai Intro Demo 0! (2001) (PD).jag</path>
+		<name>FORCE Design - Legion Force Jidai Intro Demo 0! (2001) (PD)</name>
+		<md5>8d63fbf54685fe6bd0b7763bf76dafae</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174220" />
+	</game>
+	<game id="117315">
+		<path>./Hubble Fade by Robert Jurziga (PD).jag</path>
+		<name>ZZZ(notgame):Hubble Fade</name>
+		<publisher>Robert Jurziga</publisher>
+		<hidden>true</hidden>
+		<md5>be7ee43300321fe8cdb91f6aba5a61d1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174220" />
+	</game>
+	<game id="117346">
+		<path>./Hubble Nebula by Robert Jurziga (PD).jag</path>
+		<name>ZZZ(notgame):Hubble Nebula</name>
+		<publisher>Robert Jurziga</publisher>
+		<hidden>true</hidden>
+		<md5>8155ff3fc9d8cd1415d3879b3a052335</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174221" />
+	</game>
+	<game id="117316">
+		<path>./JagFest Demo (2001) (PD).jag</path>
+		<name>ZZZ(notgame):Jagfest</name>
+		<releasedate>20010101T000000</releasedate>
+		<hidden>true</hidden>
+		<md5>3e8255afc631710bea69883809c50482</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174221" />
+	</game>
+	<game id="117317">
+		<path>./JagMarble (1999) (PD).jag</path>
+		<name>ZZZ(notgame):Jagmarble</name>
+		<releasedate>19970101T000000</releasedate>
+		<publisher>Matthias Domin</publisher>
+		<hidden>true</hidden>
+		<md5>5ac2fe762ff61d0bba7e1efc1b91fefe</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174222" />
+	</game>
+	<game id="117317">
+		<path>./JagMarble (2000) (PD).jag</path>
+		<name>ZZZ(notgame):Jagmarble</name>
+		<releasedate>19970101T000000</releasedate>
+		<publisher>Matthias Domin</publisher>
+		<hidden>true</hidden>
+		<md5>8d9400eb282a7e9cc9388477d2cf70f1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174222" />
+	</game>
+	<game id="117317">
+		<path>./JagMarble (Jul 13) (1997) (PD).jag</path>
+		<name>ZZZ(notgame):Jagmarble</name>
+		<releasedate>19970101T000000</releasedate>
+		<publisher>Matthias Domin</publisher>
+		<hidden>true</hidden>
+		<md5>8081bfbc21e14de4e06c5555b26fccb5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174223" />
+	</game>
+	<game id="117320">
+		<path>./Jaguar Tetris (1995) (PD).jag</path>
+		<name>Jaguar Tetris</name>
+		<desc>Tetris clone for the Atari Jaguar by Bastian Schick. It was the first homebrew game for the Jaguar.</desc>
+		<image>./images/Jaguar Tetris (1995) (PD)-image.png</image>
+		<video>./videos/Jaguar Tetris (1995) (PD)-video.mp4</video>
+		<marquee>./images/Jaguar Tetris (1995) (PD)-marquee.png</marquee>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Bastian Schick</developer>
+		<publisher>Bastian Schick</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>6da88d193008e7b09c7d59eb060c0eed</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174223" />
 	</game>
 </gameList>

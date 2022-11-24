@@ -218,10 +218,10 @@ Failure cannot be an option!!</desc>
 		<family>Sega Skateboarding</family>
 		<arcadesystemname>sega</arcadesystemname>
 		<players>1</players>
-		<playcount>20</playcount>
-		<lastplayed>20221004T105242</lastplayed>
+		<playcount>21</playcount>
+		<lastplayed>20221118T174844</lastplayed>
 		<md5>2b9c5f99ae189dbe6f687d5f4482d52f</md5>
-		<gametime>989</gametime>
+		<gametime>1047</gametime>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20220720T170156" />

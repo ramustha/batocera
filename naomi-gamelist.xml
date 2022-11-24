@@ -2786,27 +2786,6 @@ The score is now multiplied by powers of 2. The faster the speed at which enemie
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20220930T225700" />
 	</game>
-	<game id="213644">
-		<path>./mushi2k5.zip</path>
-		<name>Mushiking The King Of Beetles 2005</name>
-		<desc>A combination of vending and video game. Mushi King sells starter kits which including 18 beetle fighters and 18 skill cards.
-
-Kids can use these kids to play against friends or the computer. The machine can also vend more cards to boost the players deck.</desc>
-		<image>./images/mushi2k5-image.png</image>
-		<video>./videos/mushi2k5-video.mp4</video>
-		<marquee>./images/mushi2k5-marquee.png</marquee>
-		<thumbnail>./images/mushi2k5-thumb.png</thumbnail>
-		<releasedate>20050101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Playing cards</genre>
-		<arcadesystemname>naomi</arcadesystemname>
-		<players>1-2</players>
-		<md5>8a1695e2a11ae5f4f0f2a0386a4bff33</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20220930T225723" />
-	</game>
 	<game id="213647">
 		<path>./mushik2e.zip</path>
 		<name>Mushiking The King Of Beetles - Mushiking II / III / III+</name>
@@ -3463,23 +3442,6 @@ SNK also added a "suicide" move, wherein one's character forfeits the round. The
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20220930T230819" />
-	</game>
-	<game id="64287">
-		<path>./smashdrv.zip</path>
-		<name>Smashing Drive</name>
-		<desc>Smashing Drive puts you in the driver's seat of an insane, outrageous taxi on the busy streets of New York City. Your job is to simply race from point to point in the fastest time possible. The key to success in Smashing Drive lies in two features: crazy power-ups and hidden shortcuts. Almost all of the power-ups transform your taxi in some way that allows you to smash your way through traffic with ease. And the shortcuts usually involve crashing through the insides of buildings, like movie theaters and sports arenas.</desc>
-		<image>./images/smashdrv-image.png</image>
-		<video>./videos/smashdrv-video.mp4</video>
-		<marquee>./images/smashdrv-marquee.png</marquee>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Gaelco</developer>
-		<publisher>Gaelco</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<arcadesystemname>gaelco</arcadesystemname>
-		<md5>19720e374058047172245858d601ab33</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20220930T230841" />
 	</game>
 	<game id="46845">
 		<path>./smlg99.zip</path>
@@ -4301,81 +4263,6 @@ Pick-up weapons such as machine guns, shotguns, and drills to help fight the zom
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20220930T232117" />
 	</game>
-	<game id="46717">
-		<path>./alienfnt.zip</path>
-		<name>Alienfront: Team Based Combat</name>
-		<desc>The Triclops have invaded the Earth with a simple plan: the eradication of all human life! Become a tank commander and obliterate the alien invaders, or join the elite Triclops Guard and crush any human scum that stand in the way. Regardless of which side you choose, you'll possess enough weaponry to completely destroy your enemies. One team will decide the fate of the globe!</desc>
-		<image>./images/alienfnt-image.png</image>
-		<video>./videos/alienfnt-video.mp4</video>
-		<marquee>./images/alienfnt-marquee.png</marquee>
-		<thumbnail>./images/alienfnt-thumb.png</thumbnail>
-		<fanart>./images/alienfnt-fanart.jpg</fanart>
-		<rating>0.75</rating>
-		<releasedate>20010601T000000</releasedate>
-		<developer>Wow Entertainment</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shooter / 3rd person</genre>
-		<arcadesystemname>naomi</arcadesystemname>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20221002T211927</lastplayed>
-		<md5>07b3facb668ad19eb5615873a58cb4c9</md5>
-		<gametime>82</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T222103" />
-		<scrap name="HfsDB" date="20220928T075022" />
-	</game>
-	<game id="46713">
-		<path>./alpilot.zip</path>
-		<name>Airline Pilots</name>
-		<desc>The game presents you with two choices ? training or free flight. Training takes you through a series of basic tests aimed at testing your overall proficiency as a pilot. These range from simple takeoffs and banking manoeuvres to hazardous flying, with simulated engine failure and bad weather conditions. In this mode, most of the flight controls are not used, leaving the player to simply steer the aircraft with the flight stick.In free flight mode, the game becomes much more like an actual simulator. The player must use the throttle control, flaps, undercarriage and pitch &amp; yaw adjustments to fly the plane through a series of computer-generated rings. On-screen text and speech prompt players on when and how to use these controls. Each ring passed through adds time to the on-screen timer, which, upon reaching zero, ends the game.</desc>
-		<image>./images/alpilot-image.png</image>
-		<video>./videos/alpilot-video.mp4</video>
-		<marquee>./images/alpilot-marquee.png</marquee>
-		<thumbnail>./images/alpilot-thumb.png</thumbnail>
-		<fanart>./images/alpilot-fanart.jpg</fanart>
-		<rating>0.6</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Simulation</genre>
-		<family>Real Life Career</family>
-		<arcadesystemname>naomi</arcadesystemname>
-		<players>1</players>
-		<playcount>1</playcount>
-		<lastplayed>20221002T211630</lastplayed>
-		<md5>89111cf7533a1e3d2d670809bf5bc021</md5>
-		<gametime>135</gametime>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20220930T222103" />
-		<scrap name="HfsDB" date="20220928T075024" />
-	</game>
-	<game id="46718">
-		<path>./azumanga.zip</path>
-		<name>Azumanga Daioh Puzzle Bobble</name>
-		<desc>Arcade Puzzle Bobble game based on the hit manga and anime.</desc>
-		<image>./images/azumanga-image.png</image>
-		<video>./videos/azumanga-video.mp4</video>
-		<marquee>./images/azumanga-marquee.png</marquee>
-		<thumbnail>./images/azumanga-thumb.png</thumbnail>
-		<fanart>./images/azumanga-fanart.jpg</fanart>
-		<rating>0.5</rating>
-		<releasedate>20020101T000000</releasedate>
-		<developer>MOSS</developer>
-		<publisher>Taito</publisher>
-		<genre>Puzzle-Game / Throw</genre>
-		<family>Puzzle Bobble</family>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20221002T212204</lastplayed>
-		<md5>0d14249257477537186da517ecc459c4</md5>
-		<gametime>67</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T075107" />
-	</game>
 	<game id="37428">
 		<path>./basschalo.zip</path>
 		<name>Sega Bass Fishing Challenge</name>
@@ -4400,104 +4287,6 @@ You can choose from fourteen different lures and participate in four tournaments
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20220930T224329" />
-	</game>
-	<game id="46720">
-		<path>./bdrdown.zip</path>
-		<name>Border Down</name>
-		<desc>Border Down is a pseudo sequel to Taito's Metal Black. The games share certain enemy designs, story elements, gameplay mechanics and staff members.
-It's a horizontal Shoot 'em up developed by G.rev and released after the "death" of the Dreamcast</desc>
-		<image>./images/bdrdown-image.png</image>
-		<video>./videos/bdrdown-video.mp4</video>
-		<marquee>./images/bdrdown-marquee.png</marquee>
-		<thumbnail>./images/bdrdown-thumb.png</thumbnail>
-		<fanart>./images/bdrdown-fanart.jpg</fanart>
-		<rating>0.9</rating>
-		<releasedate>20030101T000000</releasedate>
-		<developer>G.rev Ltd.</developer>
-		<publisher>G.rev Ltd.</publisher>
-		<genre>Shoot'em up / Horizontal</genre>
-		<players>1</players>
-		<playcount>1</playcount>
-		<lastplayed>20221002T212519</lastplayed>
-		<md5>13f6533734884c3554038999dea0d231</md5>
-		<gametime>71</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T075118" />
-	</game>
-	<game id="46719">
-		<path>./beachspi.zip</path>
-		<name>Beach Spikers: Virtua Beach Volleyball</name>
-		<desc>The typical summer sport, beach volleyball, became an arcade game! Not only the beach volleyball fans but also all the game fans will be extremely excited by the new type of sports game.</desc>
-		<image>./images/beachspi-image.png</image>
-		<video>./videos/beachspi-video.mp4</video>
-		<marquee>./images/beachspi-marquee.png</marquee>
-		<thumbnail>./images/beachspi-thumb.png</thumbnail>
-		<fanart>./images/beachspi-fanart.jpg</fanart>
-		<rating>0.75</rating>
-		<releasedate>20010701T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports / Volleyball</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20221002T212308</lastplayed>
-		<md5>47d858ed4d254798fec190765e9930e4</md5>
-		<gametime>56</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T224400" />
-	</game>
-	<game id="150075">
-		<path>./blokpong.zip</path>
-		<name>Block Pong-pong</name>
-		<desc>Game derived from ping-pong where rackets are replaced by cards with cute animals.</desc>
-		<image>./images/blokpong-image.png</image>
-		<video>./videos/blokpong-video.mp4</video>
-		<marquee>./images/blokpong-marquee.png</marquee>
-		<thumbnail>./images/blokpong-thumb.png</thumbnail>
-		<fanart>./images/blokpong-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>20040101T000000</releasedate>
-		<developer>MOSS</developer>
-		<publisher>Sammy Studios</publisher>
-		<genre>Action / Breakout games</genre>
-		<arcadesystemname>atomiswave</arcadesystemname>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20221002T212403</lastplayed>
-		<md5>07b0dedc716f792c23694498ee82a635</md5>
-		<gametime>49</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T224416" />
-	</game>
-	<game id="46726">
-		<path>./cfield.zip</path>
-		<name>Chaos Field</name>
-		<desc>Do you love battling the boss ships that appear at the end of each level of your favorite shmup? How about a game where you battle nothing BUT bosses? Your wish is granted with Chaos Field!!
-
-The game draws on elements from other shooters to create its own unique hybrid style of play. You'll have a lock-on feature to take enemies and certain bullets out, as well as a "Radiant Silvergun"-style short-range energy field that will absorb certain bullets.
-
-The action plays out in top-down fashion in the time-honored traditions of the shooting genre. Enemies and bullets will swarm like bees to honey, and it will be up to you to destroy everything, while avoiding getting blown up.</desc>
-		<image>./images/cfield-image.png</image>
-		<video>./videos/cfield-video.mp4</video>
-		<marquee>./images/cfield-marquee.png</marquee>
-		<thumbnail>./images/cfield-thumb.png</thumbnail>
-		<fanart>./images/cfield-fanart.jpg</fanart>
-		<rating>0.65</rating>
-		<releasedate>20040101T000000</releasedate>
-		<developer>Able Corp.</developer>
-		<publisher>Milestone</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<players>1</players>
-		<playcount>1</playcount>
-		<lastplayed>20221002T213508</lastplayed>
-		<md5>36720b59b0a5bd29081a570f5b02a2c2</md5>
-		<gametime>71</gametime>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20220928T075411" />
 	</game>
 	<game id="46727">
 		<path>./cleoftp.zip</path>
@@ -4624,84 +4413,6 @@ Break all the blocks in the stage within the time limit, then the player can run
 		<gametime>49</gametime>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T075411" />
-	</game>
-	<game id="46721">
-		<path>./cspike.zip</path>
-		<name>Cannon Spike</name>
-		<desc>Cannon Spike (Gunspike in Japan) is an overhead-camera shooting game in the vein of Smash TV and another Capcom creation, the Commando series. Released for the arcades, and later for the Sega Dreamcast. in 2000, Cannon Spike is a linear game, heavily focused towards boss encounters. A main feature of the game is the ability to play as a number of familiar Capcom characters from other franchises.</desc>
-		<image>./images/cspike-image.png</image>
-		<video>./videos/cspike-video.mp4</video>
-		<marquee>./images/cspike-marquee.png</marquee>
-		<thumbnail>./images/cspike-thumb.png</thumbnail>
-		<fanart>./images/cspike-fanart.jpg</fanart>
-		<rating>0.75</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Psikyo</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shoot'em Up</genre>
-		<arcadesystemname>naomi</arcadesystemname>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20221002T212655</lastplayed>
-		<md5>3c7da1183577e405b61b7a6decb30112</md5>
-		<gametime>64</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T075411" />
-	</game>
-	<game id="46722">
-		<path>./cvs2.zip</path>
-		<name>Capcom vs. SNK 2: Mark of the Millennium 2001</name>
-		<desc>Capcom vs. SNK 2 combines characters and gameplay elements from various Capcom and SNK fighting games, mainly the Street Fighter and The King of Fighters seriesthough elements are also borrowed from the Fatal Fury and Samurai Shodown series.
-
-In contrast to the original Capcom vs. SNK, characters no longer have a specific "Ratio." Instead the player can select up to three characters in a team and give an amount or ratio (up to four) to each as desired. In console versions of the game, players can also choose a 1-on-1 game or a 3-on-3 game in arcade mode with the ratio system removed.
-
-Unlike the first game, which was based on the King of Fighters-style two-strength, four button system of punches and kicks, Capcom vs. SNK 2 is based on the three strength, six-button system of punches and kicks, native to the Street Fighter series, with the SNK characters being tweaked to fit the 6-button style. The overall system is derivative of Street Fighter Alpha, however, a number of different fighting styles called "grooves", which mimic other Capcom and SNK games, are included in the engine. These dictate both the character's Super Gauge system, and special techniques, such as dashes, running, and guard cancels, called "Subsystems".
-
-There are six grooves in total, each designtated with a letter, along with custom grooves that can be programmed in home versions of the game. Each player designates prior to the match which groove his or her team will use.</desc>
-		<image>./images/cvs2-image.png</image>
-		<video>./videos/cvs2-video.mp4</video>
-		<marquee>./images/cvs2-marquee.png</marquee>
-		<thumbnail>./images/cvs2-thumb.png</thumbnail>
-		<fanart>./images/cvs2-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>20010101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>SNK Vs. Capcom</family>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20221002T212956</lastplayed>
-		<md5>cbc7a0e4e0a7af4327511e86af2c15b8</md5>
-		<gametime>156</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T075411" />
-	</game>
-	<game id="46723">
-		<path>./cvsgd.zip</path>
-		<name>Capcom vs. SNK Millennium Fight 2000 Pro</name>
-		<desc>Capcom Vs. SNK - Millennium Fight 2000 Pro is an updated version of "Capcom Vs. SNK - Millennium Fight 2000", with 2 new fighters (Dan Hibiki from Capcom and Joe Higashi from SNK).</desc>
-		<image>./images/cvsgd-image.png</image>
-		<video>./videos/cvsgd-video.mp4</video>
-		<marquee>./images/cvsgd-marquee.png</marquee>
-		<thumbnail>./images/cvsgd-thumb.png</thumbnail>
-		<fanart>./images/cvsgd-fanart.jpg</fanart>
-		<rating>0.7</rating>
-		<releasedate>20010101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>SNK Vs. Capcom</family>
-		<players>2</players>
-		<playcount>2</playcount>
-		<lastplayed>20221002T213342</lastplayed>
-		<md5>80159ad088f3b219a9d60cceca4cd3c1</md5>
-		<gametime>141</gametime>
-		<lang>jp</lang>
-		<region>jp</region>
 		<scrap name="ScreenScraper" date="20220928T075411" />
 	</game>
 	<game id="37430">
@@ -5281,29 +4992,6 @@ The rebellion's savage forces have returned in an all-out campaign for universal
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20220930T225338" />
 	</game>
-	<game id="46776">
-		<path>./initdexp.zip</path>
-		<name>Initial D: Arcade Stage</name>
-		<desc>Initial D: Arcade Stage is an arcade racing game based on the Initial D franchise. It was the first in a long line of arcade racers to be published by Sega for Sega arcade platforms, this one seeing a 2002 release on Sega NAOMI 2 hardware. It was released in the US and Europe under the basic title of Initial D. It was not ported to any home consoles.</desc>
-		<image>./images/initdexp-image.png</image>
-		<video>./videos/initdexp-video.mp4</video>
-		<marquee>./images/initdexp-marquee.png</marquee>
-		<thumbnail>./images/initdexp-thumb.png</thumbnail>
-		<rating>0.95</rating>
-		<releasedate>20020101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<family>Initial D</family>
-		<players>1</players>
-		<playcount>1</playcount>
-		<lastplayed>20221002T222637</lastplayed>
-		<md5>b3e041cb0f3e0e86922ecb96a2849958</md5>
-		<gametime>108</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T231951" />
-	</game>
 	<game id="41807">
 		<path>./initdv2e.zip</path>
 		<name>Initial D: Arcade Stage Ver. 2</name>
@@ -5658,29 +5346,6 @@ As of 2008, more than 100,000 tournaments have been held, and 20 million cards h
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20220930T230157" />
 	</game>
-	<game id="37442">
-		<path>./ngbc.zip</path>
-		<name>NeoGeo Battle Coliseum</name>
-		<desc>NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.</desc>
-		<image>./images/ngbc-image.png</image>
-		<video>./videos/ngbc-video.mp4</video>
-		<marquee>./images/ngbc-marquee.png</marquee>
-		<thumbnail>./images/ngbc-thumb.png</thumbnail>
-		<fanart>./images/ngbc-fanart.jpg</fanart>
-		<rating>0.85</rating>
-		<releasedate>20050727T000000</releasedate>
-		<developer>SNK Playmore</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fight</genre>
-		<arcadesystemname>atomiswave</arcadesystemname>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20221002T224233</lastplayed>
-		<gametime>11</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T230157" />
-	</game>
 	<game id="63260">
 		<path>./ninjaslta.zip</path>
 		<name>Ninja Assault</name>
@@ -5910,28 +5575,6 @@ Most characters have had modifications to their movelists in some way, such as n
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20220930T223538" />
-	</game>
-	<game id="202462">
-		<path>./shorsem.zip</path>
-		<name>Star Horse</name>
-		<desc>Starhorse is a Sega horse racing arcade game which allows players to gamble for tokens. The first in the Starhorse series appeared in 2000; it was followed by Starhorse 2001, Starhorse 2002, Starhorse Progress (2003), Starhorse2 New Generation (2005), and Starhorse Progress Returns (2009 sequel to Starhorse Progress.). Starhorse2 Second Fusion (2006) has the ability to simulate actual Japan Racing Association events. It was followed by StarHorse3 (2011).
-
-In 2009, at least 10,657 machines of Starhorse2 Fifth Expansion (2009) alone had been sold to arcade operators, and by March 2011, the same game had grossed ¥4.8 billion from machine sales, equivalent to nearly $60 million.[n 1] In 2011, StarHorse3 Season I: A New Legend Begins (2011) grossed ¥3.3 billion from arcade machine sales, equivalent to more than $40 million.</desc>
-		<marquee>./images/shorsem-marquee.png</marquee>
-		<thumbnail>./images/shorsem-thumb.png</thumbnail>
-		<releasedate>20000701T000000</releasedate>
-		<developer>Sega Mechatro</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports with Animals</genre>
-		<arcadesystemname>naomi</arcadesystemname>
-		<players>10</players>
-		<playcount>1</playcount>
-		<lastplayed>20221002T225048</lastplayed>
-		<md5>e1e81577c390f87b6cf6c5e802a175a5</md5>
-		<gametime>32</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T223650" />
 	</game>
 	<game id="213722">
 		<path>./slasho.zip</path>
@@ -6439,5 +6082,365 @@ Pick-up weapons such as machine guns, shotguns, and drills to help fight the zom
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20220930T231742" />
+	</game>
+	<game id="150075">
+		<path>./blokpong.zip</path>
+		<name>Block Pong-pong</name>
+		<desc>Game derived from ping-pong where rackets are replaced by cards with cute animals.</desc>
+		<image>./images/blokpong-image.png</image>
+		<video>./videos/blokpong-video.mp4</video>
+		<marquee>./images/blokpong-marquee.png</marquee>
+		<thumbnail>./images/blokpong-thumb.png</thumbnail>
+		<fanart>./images/blokpong-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>MOSS</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Action / Breakout games</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20221014T123149</lastplayed>
+		<md5>07b0dedc716f792c23694498ee82a635</md5>
+		<gametime>62</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220930T224416" />
+	</game>
+	<game id="46723">
+		<path>./cvsgd.zip</path>
+		<name>Capcom vs. SNK Millennium Fight 2000 Pro</name>
+		<desc>Capcom Vs. SNK - Millennium Fight 2000 Pro is an updated version of "Capcom Vs. SNK - Millennium Fight 2000", with 2 new fighters (Dan Hibiki from Capcom and Joe Higashi from SNK).</desc>
+		<image>./images/cvsgd-image.png</image>
+		<video>./videos/cvsgd-video.mp4</video>
+		<marquee>./images/cvsgd-marquee.png</marquee>
+		<thumbnail>./images/cvsgd-thumb.png</thumbnail>
+		<fanart>./images/cvsgd-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>SNK Vs. Capcom</family>
+		<players>2</players>
+		<playcount>3</playcount>
+		<lastplayed>20221014T123411</lastplayed>
+		<md5>80159ad088f3b219a9d60cceca4cd3c1</md5>
+		<gametime>183</gametime>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T075411" />
+	</game>
+	<game id="37442">
+		<path>./ngbc.zip</path>
+		<name>NeoGeo Battle Coliseum</name>
+		<desc>NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.</desc>
+		<image>./images/ngbc-image.png</image>
+		<video>./videos/ngbc-video.mp4</video>
+		<marquee>./images/ngbc-marquee.png</marquee>
+		<thumbnail>./images/ngbc-thumb.png</thumbnail>
+		<fanart>./images/ngbc-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20050727T000000</releasedate>
+		<developer>SNK Playmore</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20221014T123835</lastplayed>
+		<gametime>37</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220930T230157" />
+	</game>
+	<game id="213644">
+		<path>./mushi2k5.zip</path>
+		<name>Mushiking The King Of Beetles 2005</name>
+		<desc>A combination of vending and video game. Mushi King sells starter kits which including 18 beetle fighters and 18 skill cards.
+
+Kids can use these kids to play against friends or the computer. The machine can also vend more cards to boost the players deck.</desc>
+		<image>./images/mushi2k5-image.png</image>
+		<video>./videos/mushi2k5-video.mp4</video>
+		<marquee>./images/mushi2k5-marquee.png</marquee>
+		<thumbnail>./images/mushi2k5-thumb.png</thumbnail>
+		<releasedate>20050101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Playing cards</genre>
+		<arcadesystemname>naomi</arcadesystemname>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20221014T123735</lastplayed>
+		<md5>8a1695e2a11ae5f4f0f2a0386a4bff33</md5>
+		<gametime>18</gametime>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220930T225723" />
+	</game>
+	<game id="46726">
+		<path>./cfield.zip</path>
+		<name>Chaos Field</name>
+		<desc>Do you love battling the boss ships that appear at the end of each level of your favorite shmup? How about a game where you battle nothing BUT bosses? Your wish is granted with Chaos Field!!
+
+The game draws on elements from other shooters to create its own unique hybrid style of play. You'll have a lock-on feature to take enemies and certain bullets out, as well as a "Radiant Silvergun"-style short-range energy field that will absorb certain bullets.
+
+The action plays out in top-down fashion in the time-honored traditions of the shooting genre. Enemies and bullets will swarm like bees to honey, and it will be up to you to destroy everything, while avoiding getting blown up.</desc>
+		<image>./images/cfield-image.png</image>
+		<video>./videos/cfield-video.mp4</video>
+		<marquee>./images/cfield-marquee.png</marquee>
+		<thumbnail>./images/cfield-thumb.png</thumbnail>
+		<fanart>./images/cfield-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Able Corp.</developer>
+		<publisher>Milestone</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20221014T123429</lastplayed>
+		<md5>36720b59b0a5bd29081a570f5b02a2c2</md5>
+		<gametime>85</gametime>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T075411" />
+	</game>
+	<game id="46722">
+		<path>./cvs2.zip</path>
+		<name>Capcom vs. SNK 2: Mark of the Millennium 2001</name>
+		<desc>Capcom vs. SNK 2 combines characters and gameplay elements from various Capcom and SNK fighting games, mainly the Street Fighter and The King of Fighters seriesthough elements are also borrowed from the Fatal Fury and Samurai Shodown series.
+
+In contrast to the original Capcom vs. SNK, characters no longer have a specific "Ratio." Instead the player can select up to three characters in a team and give an amount or ratio (up to four) to each as desired. In console versions of the game, players can also choose a 1-on-1 game or a 3-on-3 game in arcade mode with the ratio system removed.
+
+Unlike the first game, which was based on the King of Fighters-style two-strength, four button system of punches and kicks, Capcom vs. SNK 2 is based on the three strength, six-button system of punches and kicks, native to the Street Fighter series, with the SNK characters being tweaked to fit the 6-button style. The overall system is derivative of Street Fighter Alpha, however, a number of different fighting styles called "grooves", which mimic other Capcom and SNK games, are included in the engine. These dictate both the character's Super Gauge system, and special techniques, such as dashes, running, and guard cancels, called "Subsystems".
+
+There are six grooves in total, each designtated with a letter, along with custom grooves that can be programmed in home versions of the game. Each player designates prior to the match which groove his or her team will use.</desc>
+		<image>./images/cvs2-image.png</image>
+		<video>./videos/cvs2-video.mp4</video>
+		<marquee>./images/cvs2-marquee.png</marquee>
+		<thumbnail>./images/cvs2-thumb.png</thumbnail>
+		<fanart>./images/cvs2-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>SNK Vs. Capcom</family>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20221014T123323</lastplayed>
+		<md5>cbc7a0e4e0a7af4327511e86af2c15b8</md5>
+		<gametime>181</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T075411" />
+	</game>
+	<game id="46713">
+		<path>./alpilot.zip</path>
+		<name>Airline Pilots</name>
+		<desc>The game presents you with two choices ? training or free flight. Training takes you through a series of basic tests aimed at testing your overall proficiency as a pilot. These range from simple takeoffs and banking manoeuvres to hazardous flying, with simulated engine failure and bad weather conditions. In this mode, most of the flight controls are not used, leaving the player to simply steer the aircraft with the flight stick.In free flight mode, the game becomes much more like an actual simulator. The player must use the throttle control, flaps, undercarriage and pitch &amp; yaw adjustments to fly the plane through a series of computer-generated rings. On-screen text and speech prompt players on when and how to use these controls. Each ring passed through adds time to the on-screen timer, which, upon reaching zero, ends the game.</desc>
+		<image>./images/alpilot-image.png</image>
+		<video>./videos/alpilot-video.mp4</video>
+		<marquee>./images/alpilot-marquee.png</marquee>
+		<thumbnail>./images/alpilot-thumb.png</thumbnail>
+		<fanart>./images/alpilot-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Simulation</genre>
+		<family>Real Life Career</family>
+		<arcadesystemname>naomi</arcadesystemname>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20221014T122922</lastplayed>
+		<md5>89111cf7533a1e3d2d670809bf5bc021</md5>
+		<gametime>207</gametime>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20220930T222103" />
+		<scrap name="HfsDB" date="20220928T075024" />
+	</game>
+	<game id="46776">
+		<path>./initdexp.zip</path>
+		<name>Initial D: Arcade Stage</name>
+		<desc>Initial D: Arcade Stage is an arcade racing game based on the Initial D franchise. It was the first in a long line of arcade racers to be published by Sega for Sega arcade platforms, this one seeing a 2002 release on Sega NAOMI 2 hardware. It was released in the US and Europe under the basic title of Initial D. It was not ported to any home consoles.</desc>
+		<image>./images/initdexp-image.png</image>
+		<video>./videos/initdexp-video.mp4</video>
+		<marquee>./images/initdexp-marquee.png</marquee>
+		<thumbnail>./images/initdexp-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20221014T123551</lastplayed>
+		<md5>b3e041cb0f3e0e86922ecb96a2849958</md5>
+		<gametime>167</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220930T231951" />
+	</game>
+	<game id="46720">
+		<path>./bdrdown.zip</path>
+		<name>Border Down</name>
+		<desc>Border Down is a pseudo sequel to Taito's Metal Black. The games share certain enemy designs, story elements, gameplay mechanics and staff members.
+It's a horizontal Shoot 'em up developed by G.rev and released after the "death" of the Dreamcast</desc>
+		<image>./images/bdrdown-image.png</image>
+		<video>./videos/bdrdown-video.mp4</video>
+		<marquee>./images/bdrdown-marquee.png</marquee>
+		<thumbnail>./images/bdrdown-thumb.png</thumbnail>
+		<fanart>./images/bdrdown-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>G.rev Ltd.</developer>
+		<publisher>G.rev Ltd.</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20221014T123227</lastplayed>
+		<md5>13f6533734884c3554038999dea0d231</md5>
+		<gametime>105</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T075118" />
+	</game>
+	<game id="46717">
+		<path>./alienfnt.zip</path>
+		<name>Alienfront: Team Based Combat</name>
+		<desc>The Triclops have invaded the Earth with a simple plan: the eradication of all human life! Become a tank commander and obliterate the alien invaders, or join the elite Triclops Guard and crush any human scum that stand in the way. Regardless of which side you choose, you'll possess enough weaponry to completely destroy your enemies. One team will decide the fate of the globe!</desc>
+		<image>./images/alienfnt-image.png</image>
+		<video>./videos/alienfnt-video.mp4</video>
+		<marquee>./images/alienfnt-marquee.png</marquee>
+		<thumbnail>./images/alienfnt-thumb.png</thumbnail>
+		<fanart>./images/alienfnt-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20010601T000000</releasedate>
+		<developer>Wow Entertainment</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<arcadesystemname>naomi</arcadesystemname>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20221014T122957</lastplayed>
+		<md5>07b3facb668ad19eb5615873a58cb4c9</md5>
+		<gametime>112</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220930T222103" />
+		<scrap name="HfsDB" date="20220928T075022" />
+	</game>
+	<game id="46719">
+		<path>./beachspi.zip</path>
+		<name>Beach Spikers: Virtua Beach Volleyball</name>
+		<desc>The typical summer sport, beach volleyball, became an arcade game! Not only the beach volleyball fans but also all the game fans will be extremely excited by the new type of sports game.</desc>
+		<image>./images/beachspi-image.png</image>
+		<video>./videos/beachspi-video.mp4</video>
+		<marquee>./images/beachspi-marquee.png</marquee>
+		<thumbnail>./images/beachspi-thumb.png</thumbnail>
+		<fanart>./images/beachspi-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20010701T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Volleyball</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20221014T123132</lastplayed>
+		<md5>47d858ed4d254798fec190765e9930e4</md5>
+		<gametime>114</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220930T224400" />
+	</game>
+	<game id="46721">
+		<path>./cspike.zip</path>
+		<name>Cannon Spike</name>
+		<desc>Cannon Spike (Gunspike in Japan) is an overhead-camera shooting game in the vein of Smash TV and another Capcom creation, the Commando series. Released for the arcades, and later for the Sega Dreamcast. in 2000, Cannon Spike is a linear game, heavily focused towards boss encounters. A main feature of the game is the ability to play as a number of familiar Capcom characters from other franchises.</desc>
+		<image>./images/cspike-image.png</image>
+		<video>./videos/cspike-video.mp4</video>
+		<marquee>./images/cspike-marquee.png</marquee>
+		<thumbnail>./images/cspike-thumb.png</thumbnail>
+		<fanart>./images/cspike-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<arcadesystemname>naomi</arcadesystemname>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20221014T123251</lastplayed>
+		<md5>3c7da1183577e405b61b7a6decb30112</md5>
+		<gametime>83</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T075411" />
+	</game>
+	<game id="46718">
+		<path>./azumanga.zip</path>
+		<name>Azumanga Daioh Puzzle Bobble</name>
+		<desc>Arcade Puzzle Bobble game based on the hit manga and anime.</desc>
+		<image>./images/azumanga-image.png</image>
+		<video>./videos/azumanga-video.mp4</video>
+		<marquee>./images/azumanga-marquee.png</marquee>
+		<thumbnail>./images/azumanga-thumb.png</thumbnail>
+		<fanart>./images/azumanga-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>MOSS</developer>
+		<publisher>Taito</publisher>
+		<genre>Puzzle-Game / Throw</genre>
+		<family>Puzzle Bobble</family>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20221014T123029</lastplayed>
+		<md5>0d14249257477537186da517ecc459c4</md5>
+		<gametime>94</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T075107" />
+	</game>
+	<game id="202462">
+		<path>./shorsem.zip</path>
+		<name>Star Horse</name>
+		<desc>Starhorse is a Sega horse racing arcade game which allows players to gamble for tokens. The first in the Starhorse series appeared in 2000; it was followed by Starhorse 2001, Starhorse 2002, Starhorse Progress (2003), Starhorse2 New Generation (2005), and Starhorse Progress Returns (2009 sequel to Starhorse Progress.). Starhorse2 Second Fusion (2006) has the ability to simulate actual Japan Racing Association events. It was followed by StarHorse3 (2011).
+
+In 2009, at least 10,657 machines of Starhorse2 Fifth Expansion (2009) alone had been sold to arcade operators, and by March 2011, the same game had grossed ¥4.8 billion from machine sales, equivalent to nearly $60 million.[n 1] In 2011, StarHorse3 Season I: A New Legend Begins (2011) grossed ¥3.3 billion from arcade machine sales, equivalent to more than $40 million.</desc>
+		<marquee>./images/shorsem-marquee.png</marquee>
+		<thumbnail>./images/shorsem-thumb.png</thumbnail>
+		<releasedate>20000701T000000</releasedate>
+		<developer>Sega Mechatro</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports with Animals</genre>
+		<arcadesystemname>naomi</arcadesystemname>
+		<players>1-10</players>
+		<playcount>1</playcount>
+		<lastplayed>20221002T225048</lastplayed>
+		<md5>e1e81577c390f87b6cf6c5e802a175a5</md5>
+		<gametime>32</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221118T172352" />
+	</game>
+	<game id="64287">
+		<path>./smashdrv.zip</path>
+		<name>Smashing Drive</name>
+		<desc>Smashing Drive puts you in the driver's seat of an insane, outrageous taxi on the busy streets of New York City. Your job is to simply race from point to point in the fastest time possible. The key to success in Smashing Drive lies in two features: crazy power-ups and hidden shortcuts. Almost all of the power-ups transform your taxi in some way that allows you to smash your way through traffic with ease. And the shortcuts usually involve crashing through the insides of buildings, like movie theaters and sports arenas.</desc>
+		<image>./images/smashdrv-image.png</image>
+		<video>./videos/smashdrv-video.mp4</video>
+		<marquee>./images/smashdrv-marquee.png</marquee>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Gaelco</developer>
+		<publisher>Gaelco</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<arcadesystemname>gaelco</arcadesystemname>
+		<md5>19720e374058047172245858d601ab33</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221118T172353" />
 	</game>
 </gameList>

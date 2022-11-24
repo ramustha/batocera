@@ -235,12 +235,6 @@ Full FIDE rules.</desc>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20221101T175515" />
 	</game>
-	<game>
-		<path>./circuit.uze</path>
-		<name>circuit</name>
-		<md5>3554678c7668db469c667d3588268146</md5>
-		<scrap name="ScreenScraper" date="20221101T175516" />
-	</game>
 	<game id="191702">
 		<path>./cn.uze</path>
 		<name>Corrida Nebososa</name>
@@ -271,12 +265,6 @@ Full FIDE rules.</desc>
 		<md5>99666b7c93aca68c5522c2e7b412f98b</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20221101T175524" />
-	</game>
-	<game>
-		<path>./ControllerTester.uze</path>
-		<name>ControllerTester</name>
-		<md5>9f01258e4a16d4bd6ef32611f3433203</md5>
-		<scrap name="ScreenScraper" date="20221101T175525" />
 	</game>
 	<game id="191703">
 		<path>./Daleks.uze</path>
@@ -1053,6 +1041,35 @@ This game is the first one to use the SNES mouse.</desc>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20221101T175815" />
 	</game>
+	<game>
+		<path>./BUDDHA.uze</path>
+		<name>BUDDHA</name>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ChuckieEgg.uze</path>
+		<name>ChuckieEgg</name>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./circuit.uze</path>
+		<name>circuit</name>
+		<md5>3554678c7668db469c667d3588268146</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175516" />
+	</game>
+	<game>
+		<path>./ControllerTester.uze</path>
+		<name>ControllerTester</name>
+		<md5>9f01258e4a16d4bd6ef32611f3433203</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221101T175525" />
+	</game>
+	<game>
+		<path>./Ellipsis-HoleyMoley.uze</path>
+		<name>Ellipsis-HoleyMoley</name>
+		<lang>en</lang>
+	</game>
 	<game id="191764">
 		<path>./ZoomingSecretary.uze</path>
 		<name>Zooming Secretary</name>
@@ -1067,8 +1084,21 @@ The player will need to use quick thinking and cunning to minimize travel time b
 		<developer>Lee Weber (D3thAdd3r)</developer>
 		<genre>Action</genre>
 		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221119T004103</lastplayed>
 		<md5>62c760da542257ea1f1ca53e19c227b1</md5>
+		<gametime>28</gametime>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20221101T175819" />
+	</game>
+	<game>
+		<path>./XOR.uze</path>
+		<name>XOR</name>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TOORUMSQ.UZE</path>
+		<name>TOORUMSQ</name>
+		<lang>en</lang>
 	</game>
 </gameList>

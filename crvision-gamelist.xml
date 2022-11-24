@@ -1,23 +1,59 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="250162">
-		<path>./Mouse Puzzle (Asia, Europe).rom</path>
-		<name>Mouse Puzzle</name>
-		<desc>A poor little mouse is hungry and looking for food. He walks through pipes inside the wall, but he can't see too well. So you have to move the pipes around to help him go in the right direction. Otherwise he'll fall out the end of a pipe or maybe bonk right into a wall and that will be the end of him. Only you can help to keep him going. City Kitty is a nasty, sneaky, rotten cat. In some games he will sneak into the pipes and chase your mouse. Don't let him catch up because he is hungry too. And he only eats poor little mouse.</desc>
-		<image>./images/Mouse Puzzle (Asia, Europe)-image.png</image>
-		<video>./videos/Mouse Puzzle (Asia, Europe)-video.mp4</video>
-		<marquee>./images/Mouse Puzzle (Asia, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Mouse Puzzle (Asia, Europe)-thumb.png</thumbnail>
-		<rating>0.75</rating>
-		<releasedate>19820101T000000</releasedate>
+	<game id="250150">
+		<path>./Chopper Rescue (Asia, Europe) (Alt).rom</path>
+		<name>Chopper Rescue</name>
+		<desc>You have to do some of the trickiest flying that's ever been done over three types of terrain. But you can't let anything stop you. You have to pick up vital medical supplies and deliver them where disaster has struck. If you fail, thousands will die. You have to avoid tall buildings and high-flying birds just to make the pick-up. And things get worse after that. In order to make the drop you have to have pinpoint accuracy and very steady nerves.</desc>
+		<image>./images/Chopper Rescue (Asia, Europe) (Alt)-image.png</image>
+		<video>./videos/Chopper Rescue (Asia, Europe) (Alt)-video.mp4</video>
+		<marquee>./images/Chopper Rescue (Asia, Europe) (Alt)-marquee.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19830101T000000</releasedate>
 		<developer>VTech</developer>
 		<publisher>VTech</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1-2</players>
-		<md5>136caa24d077372d94594cc722a00cf8</md5>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<md5>91a60dbb91668023629ae5165cbab9d5</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20220928T143833" />
+		<scrap name="ScreenScraper" date="20221118T173944" />
+	</game>
+	<game id="250150">
+		<path>./Chopper Rescue (Asia, Europe).rom</path>
+		<name>Chopper Rescue</name>
+		<desc>You have to do some of the trickiest flying that's ever been done over three types of terrain. But you can't let anything stop you. You have to pick up vital medical supplies and deliver them where disaster has struck. If you fail, thousands will die. You have to avoid tall buildings and high-flying birds just to make the pick-up. And things get worse after that. In order to make the drop you have to have pinpoint accuracy and very steady nerves.</desc>
+		<image>./images/Chopper Rescue (Asia, Europe)-image.png</image>
+		<video>./videos/Chopper Rescue (Asia, Europe)-video.mp4</video>
+		<marquee>./images/Chopper Rescue (Asia, Europe)-marquee.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<md5>6c3abd51286ee689d3576cd6f50269ff</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221118T173944" />
+	</game>
+	<game id="250192">
+		<path>./CreatiVision Basic (Asia, Europe).rom</path>
+		<name>ZZZ(notgame):Basic Interpreter</name>
+		<hidden>true</hidden>
+		<md5>0e43eb5caf9c0128998d04e033016556</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221118T173944" />
+	</game>
+	<game id="250195">
+		<path>./Hapmon (Asia, Europe).rom</path>
+		<name>ZZZ(notgame):Ha.P. Monitor</name>
+		<marquee>./images/Hapmon (Asia, Europe)-marquee.png</marquee>
+		<hidden>true</hidden>
+		<md5>3d3dc6cb1374cca0b2a7fb4e898c98c8</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221118T173945" />
 	</game>
 	<game id="250168">
 		<path>./Air Sea Attack (Asia, Europe).rom</path>
@@ -36,7 +72,7 @@
 		<md5>2a3000132c6ae8f6712eaee387ad851c</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20220928T143837" />
+		<scrap name="ScreenScraper" date="20221121T201747" />
 	</game>
 	<game id="250144">
 		<path>./Astro Pinball (Asia, Europe).rom</path>
@@ -55,62 +91,26 @@
 		<md5>da1efcd608ee688ec76fb806b28a8f04</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20220928T143841" />
+		<scrap name="ScreenScraper" date="20221121T201748" />
 	</game>
-	<game id="250150">
-		<path>./Chopper Rescue (Asia, Europe) (Alt).rom</path>
-		<name>Chopper Rescue</name>
-		<desc>You have to do some of the trickiest flying that's ever been done over three types of terrain. But you can't let anything stop you. You have to pick up vital medical supplies and deliver them where disaster has struck. If you fail, thousands will die. You have to avoid tall buildings and high-flying birds just to make the pick-up. And things get worse after that. In order to make the drop you have to have pinpoint accuracy and very steady nerves.</desc>
-		<image>./images/Chopper Rescue (Asia, Europe) (Alt)-image.png</image>
-		<video>./videos/Chopper Rescue (Asia, Europe) (Alt)-video.mp4</video>
-		<marquee>./images/Chopper Rescue (Asia, Europe) (Alt)-marquee.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19830101T000000</releasedate>
+	<game id="250162">
+		<path>./Mouse Puzzle (Asia, Europe).rom</path>
+		<name>Mouse Puzzle</name>
+		<desc>A poor little mouse is hungry and looking for food. He walks through pipes inside the wall, but he can't see too well. So you have to move the pipes around to help him go in the right direction. Otherwise he'll fall out the end of a pipe or maybe bonk right into a wall and that will be the end of him. Only you can help to keep him going. City Kitty is a nasty, sneaky, rotten cat. In some games he will sneak into the pipes and chase your mouse. Don't let him catch up because he is hungry too. And he only eats poor little mouse.</desc>
+		<image>./images/Mouse Puzzle (Asia, Europe)-image.png</image>
+		<video>./videos/Mouse Puzzle (Asia, Europe)-video.mp4</video>
+		<marquee>./images/Mouse Puzzle (Asia, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Mouse Puzzle (Asia, Europe)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
 		<developer>VTech</developer>
 		<publisher>VTech</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<md5>91a60dbb91668023629ae5165cbab9d5</md5>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<md5>136caa24d077372d94594cc722a00cf8</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20220928T143843" />
-	</game>
-	<game id="250150">
-		<path>./Chopper Rescue (Asia, Europe).rom</path>
-		<name>Chopper Rescue</name>
-		<desc>You have to do some of the trickiest flying that's ever been done over three types of terrain. But you can't let anything stop you. You have to pick up vital medical supplies and deliver them where disaster has struck. If you fail, thousands will die. You have to avoid tall buildings and high-flying birds just to make the pick-up. And things get worse after that. In order to make the drop you have to have pinpoint accuracy and very steady nerves.</desc>
-		<image>./images/Chopper Rescue (Asia, Europe)-image.png</image>
-		<video>./videos/Chopper Rescue (Asia, Europe)-video.mp4</video>
-		<marquee>./images/Chopper Rescue (Asia, Europe)-marquee.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<md5>6c3abd51286ee689d3576cd6f50269ff</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20220928T143846" />
-	</game>
-	<game id="250192">
-		<path>./CreatiVision Basic (Asia, Europe).rom</path>
-		<name>ZZZ(notgame):Basic Interpreter</name>
-		<hidden>true</hidden>
-		<md5>0e43eb5caf9c0128998d04e033016556</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20220928T143847" />
-	</game>
-	<game id="250195">
-		<path>./Hapmon (Asia, Europe).rom</path>
-		<name>ZZZ(notgame):Ha.P. Monitor</name>
-		<marquee>./images/Hapmon (Asia, Europe)-marquee.png</marquee>
-		<hidden>true</hidden>
-		<md5>3d3dc6cb1374cca0b2a7fb4e898c98c8</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20220928T143848" />
+		<scrap name="ScreenScraper" date="20221121T201749" />
 	</game>
 	<game id="250165">
 		<path>./Music Maker (Asia, Europe).rom</path>
@@ -129,7 +129,7 @@
 		<md5>c19cbb873193f6441ff793b82a5ec19c</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20220928T143853" />
+		<scrap name="ScreenScraper" date="20221121T201750" />
 	</game>
 	<game id="250171">
 		<path>./Planet Defender (Asia, Europe).rom</path>
@@ -148,7 +148,7 @@
 		<md5>8aecbd20173bf4af56a1eb641cba492e</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20220928T143857" />
+		<scrap name="ScreenScraper" date="20221121T201751" />
 	</game>
 	<game id="250174">
 		<path>./Police Jump (Asia, Europe).rom</path>
@@ -167,7 +167,7 @@
 		<md5>9cb73c1ca4853ba299a97ed55b17727e</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20220928T143902" />
+		<scrap name="ScreenScraper" date="20221121T201752" />
 	</game>
 	<game id="250189">
 		<path>./Sonic Invader (Asia, Europe).rom</path>
@@ -186,7 +186,7 @@
 		<md5>fa49471a2d8d3482fddd77a35655aa26</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20220928T143907" />
+		<scrap name="ScreenScraper" date="20221121T201753" />
 	</game>
 	<game id="250180">
 		<path>./Tank Attack (Asia, Europe).rom</path>
@@ -205,7 +205,7 @@
 		<md5>68fc7cf9039568e8be17d2175d1e342c</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20220928T143912" />
+		<scrap name="ScreenScraper" date="20221121T201754" />
 	</game>
 	<game id="250183">
 		<path>./Tennis (Asia, Europe) (DSE).rom</path>
@@ -224,7 +224,7 @@
 		<md5>1bda4ee02466b98c6c4cf8c962838d3f</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20220928T143916" />
+		<scrap name="ScreenScraper" date="20221121T201754" />
 	</game>
 	<game id="250183">
 		<path>./Tennis (Asia, Europe) (VTL).rom</path>
@@ -243,6 +243,6 @@
 		<md5>1a60104942ef675d6d34c0c3361025de</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20220928T143920" />
+		<scrap name="ScreenScraper" date="20221121T201755" />
 	</game>
 </gameList>

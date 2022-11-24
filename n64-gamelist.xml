@@ -445,22 +445,6 @@ Round 2 adds some new play modes and characters into the mix of previous fighter
 		<region>eu</region>
 	</game>
 	<game>
-		<path>./Earthworm Jim 3D (Europe) (En,Fr,De,Es,It).z64</path>
-		<name>Earthworm Jim 3D</name>
-		<desc>Earthworm Jim gets squashed by a cow, leaving him dazed and confused. In the aftermath, his marbles go missing, so he must travel into his brain to find them and put everything right. All of the laughs are there from the original platform titles, but now in huge 3D worlds.</desc>
-		<image>./images/Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)-image.png</image>
-		<marquee>./images/Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)-marquee.png</marquee>
-		<thumbnail>./images/Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)-thumb.png</thumbnail>
-		<rating>0.5</rating>
-		<releasedate>19991217T000000</releasedate>
-		<developer>VIS Entertainment</developer>
-		<publisher>Rockstar Games</publisher>
-		<genre>Platform</genre>
-		<md5>bf2df4b86faa2181a7acfe2643fa2293</md5>
-		<lang>es,it,en,de,fr</lang>
-		<region>eu</region>
-	</game>
-	<game>
 		<path>./Ms. Pac-Man - Maze Madness (USA).z64</path>
 		<name>Ms. Pac-Man : Maze Madness</name>
 		<desc>Chomp your way through mystical worlds to save Pac-Land. Free the last worlds of Pac-Land fromt he horrid witch Mesmeralda. Videogame's favorite heroine is back to save the day!</desc>
@@ -4108,23 +4092,6 @@ The sequel to the Original classic (and the so-so 1997 release) changes the way 
 		<region>us</region>
 	</game>
 	<game>
-		<path>./South Park - Chef's Luv Shack (Europe).z64</path>
-		<name>South Park - Chef's Luv Shack</name>
-		<desc>It's one big multi-player luv-in! All your favorite South Park characters are waiting for you at Chef's Luv Shack. Spreading the hot buttered game lovin' with dozens of crazy mini-games. Testing your South Park knowledge with outrageous trivia questions. And telling it like it is with insane sound-bites! Featuring authentic voices from South Park including Isaac Hayes as Chef!</desc>
-		<image>./images/South Park - Chef's Luv Shack (Europe)-image.png</image>
-		<marquee>./images/South Park - Chef's Luv Shack (Europe)-marquee.png</marquee>
-		<thumbnail>./images/South Park - Chef's Luv Shack (Europe)-thumb.png</thumbnail>
-		<rating>0.55</rating>
-		<releasedate>19991012T000000</releasedate>
-		<developer>Acclaim</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Casual Game</genre>
-		<players>2-4</players>
-		<md5>f1ae48b778c8431a50c37eb1ed96b120</md5>
-		<lang>en</lang>
-		<region>eu</region>
-	</game>
-	<game>
 		<path>./Forsaken 64 (Europe) (En,Fr,Es,It).z64</path>
 		<name>Forsaken 64</name>
 		<desc>Forsaken is a first-person shoot 'em up in which you have complete movement freedom in 3 dimensions, as you accelerate, swerve and strafe your craft, making for gameplay resembling Descent. Each level has a defined exit which must be reached within a tight time limit. The surrounding areas are collapsing around you, with spikes and turbine fans among your hazards. Be very aware of other craft out to take all you have, as they alter their approach based on your weaponry (from the 25 featured in the game) and past encounters.</desc>
@@ -4506,6 +4473,45 @@ Split screen two player racing is supported.</desc>
 		<md5>29b79bf5812e5f9e5ecef073d59f8915</md5>
 		<gametime>146</gametime>
 		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./South Park - Chef's Luv Shack (Europe).z64</path>
+		<name>South Park - Chef's Luv Shack</name>
+		<desc>It's one big multi-player luv-in! All your favorite South Park characters are waiting for you at Chef's Luv Shack. Spreading the hot buttered game lovin' with dozens of crazy mini-games. Testing your South Park knowledge with outrageous trivia questions. And telling it like it is with insane sound-bites! Featuring authentic voices from South Park including Isaac Hayes as Chef!</desc>
+		<image>./images/South Park - Chef's Luv Shack (Europe)-image.png</image>
+		<marquee>./images/South Park - Chef's Luv Shack (Europe)-marquee.png</marquee>
+		<thumbnail>./images/South Park - Chef's Luv Shack (Europe)-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>19991012T000000</releasedate>
+		<developer>Acclaim</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Casual Game</genre>
+		<players>2-4</players>
+		<playcount>1</playcount>
+		<lastplayed>20221119T004637</lastplayed>
+		<md5>f1ae48b778c8431a50c37eb1ed96b120</md5>
+		<gametime>43</gametime>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Earthworm Jim 3D (Europe) (En,Fr,De,Es,It).z64</path>
+		<name>Earthworm Jim 3D</name>
+		<desc>Earthworm Jim gets squashed by a cow, leaving him dazed and confused. In the aftermath, his marbles go missing, so he must travel into his brain to find them and put everything right. All of the laughs are there from the original platform titles, but now in huge 3D worlds.</desc>
+		<image>./images/Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)-image.png</image>
+		<marquee>./images/Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)-marquee.png</marquee>
+		<thumbnail>./images/Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>19991217T000000</releasedate>
+		<developer>VIS Entertainment</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20221119T004759</lastplayed>
+		<md5>bf2df4b86faa2181a7acfe2643fa2293</md5>
+		<gametime>71</gametime>
+		<lang>es,it,en,de,fr</lang>
 		<region>eu</region>
 	</game>
 </gameList>

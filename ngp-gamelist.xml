@@ -1,197 +1,169 @@
 <?xml version="1.0"?>
 <gameList>
 	<provider>
-		<system>ngp</system>
-		<creator>Ckau</creator>
-		<web>https://4pda.ru/forum/index.php?showtopic=802556</web>
+		<System>Neo-Geo Pocket</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="47055">
-		<path>./Baseball Stars (Japan, Europe) (En,Ja).zip</path>
-		<name>Baseball Stars</name>
-		<desc>Обычный американский бейсбол. Ни жарко, ни холодно как от графики, так и от звука. Просто середнячек (если быть адекватным к игре и приставке). Можно играть вдвоем, если у вас есть linkcable.</desc>
-		<image>./media/art/Baseball Stars (Japan, Europe) (En,Ja)-screenshot.png</image>
-		<video>./media/video/Baseball Stars (Japan, Europe) (En,Ja)-video.mp4</video>
-		<marquee>./media/wheel/Baseball Stars (Japan, Europe) (En,Ja)-wheel.png</marquee>
-		<thumbnail>./media/boxart/Baseball Stars (Japan, Europe) (En,Ja)-boxart.png</thumbnail>
-		<rating>0.60</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Saurus</developer>
-		<publisher>SNK</publisher>
-		<genre>Sports / Baseball, Sports</genre>
-		<players>2</players>
-		<lang>jp,en</lang>
-		<region>jp</region>
-		<genreid>1538</genreid>
+	<game id="47065" source="ScreenScraper.fr">
+		<path>./[BIOS] SNK Neo Geo Pocket (Japan, Europe).zip</path>
+		<name>ZZZ(notgame):[bios] Snk Neo Geo Pocket</name>
+		<rating>0</rating>
+		<releasedate />
+		<hash>6232DF8D</hash>
+		<image>./media/images/[BIOS] SNK Neo Geo Pocket (Japan, Europe).png</image>
 	</game>
-	<game id="47058">
-		<path>./Melon-chan no Seichouki (Japan).zip</path>
-		<name>Melon-chan no Seichou Nikki</name>
-		<desc>Симулятор маленькой девочки. Тут предстоит всё также, как и у большинства нянек, то бишь всякая разнообразная задумка с питанием и повседневными заботами.</desc>
-		<image>./media/art/Melon-chan no Seichouki (Japan)-screenshot.png</image>
-		<video>./media/video/Melon-chan no Seichouki (Japan)-video.mp4</video>
-		<marquee>./media/wheel/Melon-chan no Seichouki (Japan)-wheel.png</marquee>
-		<thumbnail>./media/boxart/Melon-chan no Seichouki (Japan)-boxart.png</thumbnail>
-		<rating>0.40</rating>
-		<developer>ADK</developer>
+	<game id="47055" source="ScreenScraper.fr">
+		<path>./Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).zip</path>
+		<name>Baseball Stars</name>
+		<desc>Baseball Stars es un juego de deportes sobre el béisbol. El juego es similar a las Baseball Stars de NES, pero tiene personajes con un estilo menos realistas. Manejas tu propio equipo de béisbol y juegas en series de partidos. El juego tiene reglas típicas de béisbol: un jugador lanza la pelota, el segundo la golpea, alguien más la toma, etc. Cada personaje tiene sus propias estadísticas, como la resistencia.</desc>
+		<image>./media/images/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).png</image>
+		<rating>0</rating>
+		<releasedate>19981028T000000</releasedate>
+		<developer>Saurus Co., Ltd.</developer>
 		<publisher>SNK</publisher>
-		<genre>Simulation</genre>
-		<players>1</players>
+		<genre>Deportes / Béisbol-Deportes</genre>
+		<players>2</players>
+		<crc32>4781AE84</crc32>
+		<lang>en,jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="47057" source="ScreenScraper.fr">
+		<path>./King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</path>
+		<name>King of Fighters - R-1</name>
+		<desc>The King of Fighters: R1 marca la primera vez que SNK lleva la serie KOF a una consola portátil, y ¿qué mejor sistema que su propio Neo Geo Pocket para hacer eso? 14 de los personajes más conocidos de KOF hacen su aparición en KOF: R-1, junto con algunos fondos reconocibles y características de juego basadas en The King of Fighters '97. Los jugadores pueden elegir modos de juego "Extra" y "Avanzado" similares a KOF '97, y la mayoría de los personajes juegan de cerca a sus versiones originales.</desc>
+		<image>./media/images/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png</image>
+		<rating>0.85</rating>
+		<releasedate>19981028T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Lucha</genre>
+		<players>2</players>
+		<crc32>DCEB7E11</crc32>
+		<lang>en,jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="47057" source="ScreenScraper.fr">
+		<path>./King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).zip</path>
+		<name>King of Fighters - R-1</name>
+		<desc>The King of Fighters: R1 marca la primera vez que SNK lleva la serie KOF a una consola portátil, y ¿qué mejor sistema que su propio Neo Geo Pocket para hacer eso? 14 de los personajes más conocidos de KOF hacen su aparición en KOF: R-1, junto con algunos fondos reconocibles y características de juego basadas en The King of Fighters '97. Los jugadores pueden elegir modos de juego "Extra" y "Avanzado" similares a KOF '97, y la mayoría de los personajes juegan de cerca a sus versiones originales.</desc>
+		<image>./media/images/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png</image>
+		<rating>0.85</rating>
+		<releasedate>19981028T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Lucha</genre>
+		<players>2</players>
+		<crc32>2660BFC4</crc32>
 		<lang>jp</lang>
 		<region>jp</region>
-		<genreid>1024</genreid>
 	</game>
-	<game id="47059">
-		<path>./Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja).zip</path>
-		<name>Neo Cherry Master: Real Casino Series</name>
-		<desc>Слот-машинка, да еще и в ч/б варианте.</desc>
-		<image>./media/art/Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja)-screenshot.png</image>
-		<video>./media/video/Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja)-video.mp4</video>
-		<marquee>./media/wheel/Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja)-wheel.png</marquee>
-		<thumbnail>./media/boxart/Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja)-boxart.png</thumbnail>
+	<game id="47058" source="ScreenScraper.fr">
+		<path>./Melon-chan no Seichou Nikki (Japan).zip</path>
+		<name>Melon-chan no Seichouki</name>
+		<desc>Melon-chan no Seichouki es un juego de simulación de vida similar al Tamagotchi y otros juegos de simulación de vida virtual. En este juego, el jugador cría y alimenta a la niña Melon Chan. El juego fue lanzado solo en Japón y fue uno de los primeros títulos que se lanzaron en el Neo Geo Pocket.nnnn</desc>
+		<image>./media/images/Melon-chan no Seichou Nikki (Japan).png</image>
+		<rating>0</rating>
+		<releasedate>19981028T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Simulación</genre>
+		<players>1</players>
+		<crc32>CB42CFA4</crc32>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="47059" source="ScreenScraper.fr">
+		<path>./Neo Cherry Master - Real Casino Series (Japan) (En,Ja).zip</path>
+		<name>Neo Cherry Master</name>
+		<desc>Neo Cherry master es un juego de casino en el que el jugador inserta fichas virtuales</desc>
+		<image>./media/images/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png</image>
+		<rating>0</rating>
+		<releasedate>19981225T000000</releasedate>
 		<developer>Dyna Corporation</developer>
 		<publisher>SNK</publisher>
-		<genre>Casino / Slot Machine, Casino</genre>
+		<genre>Casino / Máquina tragaperras-Casino</genre>
 		<players>1</players>
-		<lang>jp,en</lang>
+		<crc32>5C067579</crc32>
+		<lang>en,jp</lang>
 		<region>jp</region>
-		<genreid>3584</genreid>
 	</game>
-	<game id="47060">
+	<game id="47060" source="ScreenScraper.fr">
 		<path>./Neo Geo Cup '98 (Japan, Europe) (En,Ja).zip</path>
-		<name>Neo Geo Cup '98</name>
-		<desc>Ну какая же приставка без футбола. Так вот и NGP не упустил в этом шанс. Встречайте обычный футбол, да и не захватывающий.</desc>
-		<image>./media/art/Neo Geo Cup '98 (Japan, Europe) (En,Ja)-screenshot.png</image>
-		<video>./media/video/Neo Geo Cup '98 (Japan, Europe) (En,Ja)-video.mp4</video>
-		<marquee>./media/wheel/Neo Geo Cup '98 (Japan, Europe) (En,Ja)-wheel.png</marquee>
-		<thumbnail>./media/boxart/Neo Geo Cup '98 (Japan, Europe) (En,Ja)-boxart.png</thumbnail>
-		<rating>0.60</rating>
-		<releasedate>19990101T000000</releasedate>
+		<name>NeoGeo Cup '98</name>
+		<desc>En el modo historia, eliges uno de los mejores equipos del mundo con el objetivo de ganar la famosa Copa Neo Geo. Esto no es fácil, sin embargo, ganar el título requerirá largas horas de intensa competencia.  Cada reunión le dará derecho a una cierta cantidad de puntos que luego se pueden usar en la tienda, lo que agrega un pequeño RPG lateral no despreciable. Comprar pantalones cortos, crampones, jerseys y muchos otros artículos de una selección seleccionada aumentará las habilidades de tu equipo de acuerdo con varios criterios y hará que tus jugadores sean más rápidos o más hábiles frente a la portería.</desc>
+		<image>./media/images/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png</image>
+		<rating>0</rating>
+		<releasedate>19981028T000000</releasedate>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
-		<genre>Sports / Soccer, Sports</genre>
+		<genre>Deportes / Fútbol-Deportes</genre>
 		<players>2</players>
-		<lang>jp,en</lang>
+		<crc32>33ADD5BD</crc32>
+		<lang>en,jp</lang>
 		<region>jp</region>
-		<genreid>1538</genreid>
 	</game>
-	<game id="47066">
+	<game id="47066" source="ScreenScraper.fr">
 		<path>./Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).zip</path>
-		<name>Pocket Tennis: Pocket Sports Series</name>
-		<desc>Теннис. Неплохая игрушка из жанра спортивных. Возможен даже выбор любого игрового корта и ряд умелых теннисистов. Жаль что только не цветной.</desc>
-		<image>./media/art/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)-screenshot.png</image>
-		<video>./media/video/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)-video.mp4</video>
-		<marquee>./media/wheel/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)-wheel.png</marquee>
-		<thumbnail>./media/boxart/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)-boxart.png</thumbnail>
-		<rating>0.60</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Yumekobo</developer>
+		<name>Pocket Tennis</name>
+		<desc>Pocket Tennis dispone de dos modos: Exposición y Torneo.    Exposición es un solo partido contra computadora o oponente humano (requiere cable de enlace). Existen ocho personajes jugadores con diferentes habilidades (el jugador humano también debe seleccionar uno de esos ocho personajes) y cuatro (cinco en la versión en color) diferentes. También se puede seleccionar la cantidad de juegos por juego (1, 3 o 5).    El torneo es solo en contra de la computadora. El jugador humano puede elegir su personaje pero no el oponente de la computadora. Además, falta la selección de cantidades pequeñas y cortas. Se jugarán tres juegos: cuarto y semifinales y carrera final.</desc>
+		<image>./media/images/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png</image>
+		<rating>0.65</rating>
+		<releasedate>19981028T000000</releasedate>
+		<developer>Yumekobo Co., Ltd.</developer>
 		<publisher>SNK</publisher>
-		<genre>Sports, Sports / Tennis</genre>
+		<genre>Deportes-Deportes / Tenis</genre>
 		<players>2</players>
-		<lang>jp,en</lang>
+		<crc32>89410850</crc32>
+		<lang>en,jp</lang>
 		<region>jp</region>
-		<genreid>1538</genreid>
 	</game>
-	<game id="47061">
+	<game id="47061" source="ScreenScraper.fr">
 		<path>./Renketsu Puzzle Tsunagete Pon! (Japan).zip</path>
 		<name>Renketsu Puzzle Tsunagete Pon!</name>
-		<desc>Очередная интересная логическая игрушка. Для тех, кому в офисе больше нечем заняться. В Японии вышел сначала черно-белый вариант, потом его "оцветили", а уже в остальных частях света - в цветном.</desc>
-		<image>./media/art/Renketsu Puzzle Tsunagete Pon! (Japan)-screenshot.png</image>
-		<video>./media/video/Renketsu Puzzle Tsunagete Pon! (Japan)-video.mp4</video>
-		<marquee>./media/wheel/Renketsu Puzzle Tsunagete Pon! (Japan)-wheel.png</marquee>
-		<thumbnail>./media/boxart/Renketsu Puzzle Tsunagete Pon! (Japan)-boxart.png</thumbnail>
-		<rating>0.60</rating>
-		<developer>Yumekobo</developer>
+		<desc>Renketsu Puzzle Tsunagete Pon! es un juego donde los bloques deben ser disueltos. Nuevos bloques que se desplazan constantemente a través de la pantalla desde la parte superior.</desc>
+		<image>./media/images/Renketsu Puzzle Tsunagete Pon! (Japan).png</image>
+		<rating>0</rating>
+		<releasedate>19981028T000000</releasedate>
+		<developer>Yumekobo Co., Ltd.</developer>
 		<publisher>SNK</publisher>
-		<genre>Puzzle-Game</genre>
+		<genre>Puzzle</genre>
 		<players>2</players>
+		<crc32>CE09F534</crc32>
 		<lang>jp</lang>
 		<region>jp</region>
-		<genreid>2816</genreid>
 	</game>
-	<game id="47067">
+	<game id="47067" source="ScreenScraper.fr">
 		<path>./Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</path>
-		<name>Samurai Shodown!: Pocket Fighting Series</name>
-		<desc>Очень хорошие драки с участием всеми известных героев данной серии. Многие любят сей жанр именно из-за таких игрушек. Увы данная игрушка полностью чёрно-белого формата.</desc>
-		<image>./media/art/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)-screenshot.png</image>
-		<video>./media/video/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)-video.mp4</video>
-		<marquee>./media/wheel/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)-wheel.png</marquee>
-		<thumbnail>./media/boxart/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)-boxart.png</thumbnail>
-		<rating>0.80</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Saurus</developer>
+		<name>Samurai Spirits!</name>
+		<desc>Samurai Shodown! Pocket es esencialmente una versión "de bolsillo" de Samurai Shodown 4. Al igual que el resto de los juegos de lucha en el Neo Geo Pocket, los personajes se dibujan en estilo chibi súper-deformado (cabezas grandes y cuerpos pequeños). Este título es también uno de los primeros juegos para el Neo Geo Pocket, por lo que el juego fue solo en blanco y negro ... irónicamente apto para un juego "samurai". El estilo de arte está definitivamente en el lado "cursi" y es muy diferente a cualquier otro juego de Samurai Shodown anterior, pero puede crecer en ti si le das una oportunidad.    El clásico juego de Samurai Shodown dio el salto al diseño de la computadora de mano bastante bien, pero no es tan suave como el clásico de Neo Geo. El juego es particularmente más lento y muy simplificado en esta versión. Los personajes conservan su juego y el juego se ha ido mucho. Básicamente es un juego nuevo, no es nada espectacular, pero es divertido para un título portátil.</desc>
+		<image>./media/images/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png</image>
+		<rating>0.8</rating>
+		<releasedate>19981225T000000</releasedate>
+		<developer>Saurus Co., Ltd.</developer>
 		<publisher>SNK</publisher>
-		<genre>Fight</genre>
+		<genre>Lucha</genre>
 		<players>1</players>
-		<lang>jp,en</lang>
+		<playcount>1</playcount>
+		<lastplayed>20221124T134909</lastplayed>
+		<crc32>32E4696A</crc32>
+		<lang>en,jp</lang>
 		<region>jp</region>
-		<genreid>262</genreid>
 	</game>
-	<game id="47062">
-		<path>./Shogi no Tatsujin (Japan).zip</path>
-		<name>Shougi No Tatsujin</name>
-		<desc>Японская настольная игра типа шашек. Под тем же названием выпускалась как цветная, так и чёрно-белая версия игры. Версии идентичные.</desc>
-		<image>./media/art/Shogi no Tatsujin (Japan)-screenshot.png</image>
-		<video>./media/video/Shogi no Tatsujin (Japan)-video.mp4</video>
-		<marquee>./media/wheel/Shogi no Tatsujin (Japan)-wheel.png</marquee>
-		<thumbnail>./media/boxart/Shogi no Tatsujin (Japan)-boxart.png</thumbnail>
-		<developer>ADK</developer>
+	<game id="47062" source="ScreenScraper.fr">
+		<path>./Shougi no Tatsujin (Japan).zip</path>
+		<name>Shougi no Tatsujin: Master of Syougi</name>
+		<desc>Shogi es el equivalente japonés de ajedrez. De hecho, como en el ajedrez, ¡el objetivo del juego es someter al rey enemigo! Sin embargo, hay varias diferencias entre el Shogi y nuestro juego de ajedrez, ya sea en la naturaleza de las piezas, sus posiciones o sus movimientos.</desc>
+		<image>./media/images/Shougi no Tatsujin (Japan).png</image>
+		<rating>0</rating>
+		<releasedate>19981120T000000</releasedate>
+		<developer>ADK Corporation</developer>
 		<publisher>SNK</publisher>
-		<genre>Asiatic Board Game, Shougi, Strategy</genre>
+		<genre>Juegos de mesa asiático-Shougi-Estrategia</genre>
 		<players>2</players>
+		<crc32>F34D0C9B</crc32>
 		<lang>jp</lang>
 		<region>jp</region>
-		<genreid>1280</genreid>
-	</game>
-	<game id="51150">
-		<path>./bikkuri.zip</path>
-		<name>Bikkuriman 2000 - Viva! Pocket Festiva!</name>
-		<desc>The game is a collection of mini-games. 
-The player selects Sei Tenshi Takeru or Tenjo P?chi (Takeru only in the NeoGeo Pocket Color version) to move around a park and play the attractions. 
-One of the mini-games is free and can be used to gain coins, with other attractions requiring coins to participate. 
-The player gains more coins according to their score in the games, and in some attractions a rare seal can be obtained. 
-Besides being used to participate in mini-games, the coins can be spent in slot machines to obtain seals from the Bug Akuma vs. Giga Tenshi Seal series, which can later be seen in a museum. 
-At first only a few mini-games are available, with more being unlocked by completing objectives.</desc>
-		<image>./images/bikkuri-image.png</image>
-		<video>./videos/bikkuri-video.mp4</video>
-		<marquee>./images/bikkuri-marquee.png</marquee>
-		<thumbnail>./images/bikkuri-thumb.png</thumbnail>
-		<rating>0.75</rating>
-		<releasedate>20000316T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<playcount>1</playcount>
-		<lastplayed>20221011T134255</lastplayed>
-		<md5>ca3e26e2f539dbd35092fa9d7f561aff</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20221011T134213" />
-	</game>
-	<game>
-		<path>./coolcool.zip</path>
-		<name>coolcool</name>
-		<lang>en</lang>
-	</game>
-	<game id="47057">
-		<path>./King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</path>
-		<name>King of Fighters R-1: Pocket Fighting Series</name>
-		<desc>Самая первая игра для черно-белого варианта NGP.. Обычно люди пропускают эту игру, думая что она черно-белая и значит не очень чтобы очень. Да и тем более есть цветной аналог (подумаешь вторая часть..). А зря! Шедевры нужно знать в лицо.</desc>
-		<image>./media/art/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)-screenshot.png</image>
-		<video>./media/video/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)-video.mp4</video>
-		<marquee>./media/wheel/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)-wheel.png</marquee>
-		<thumbnail>./media/boxart/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)-boxart.png</thumbnail>
-		<rating>0.80</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20221011T135245</lastplayed>
-		<gametime>32</gametime>
-		<lang>jp,en</lang>
-		<region>jp</region>
-		<genreid>262</genreid>
 	</game>
 </gameList>

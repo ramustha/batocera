@@ -40,129 +40,13 @@
 		<genre>Platform / Run Jump</genre>
 		<arcadesystemname>daphne</arcadesystemname>
 		<players>1</players>
-		<playcount>1</playcount>
-		<lastplayed>20221012T125958</lastplayed>
+		<playcount>2</playcount>
+		<lastplayed>20221012T144247</lastplayed>
 		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<gametime>49</gametime>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20221012T130709" />
-	</game>
-	<game id="51173">
-		<path>./ace.daphne</path>
-		<name>Space Ace</name>
-		<desc>Space Ace is a laserdisc video game produced by Don Bluth Studios, Cinematronics and Advanced Microcomputer Systems (later renamed RDI Video Systems). It was unveiled in October 1983, just four months after the Dragon's Lair game, then released in Spring 1984, and like its predecessor featured film-quality animation played back from a laserdisc.
-
-The gameplay is also similar, requiring the player to move the joystick or press the fire button at key moments in the animated sequences to govern the hero's actions. However, the game's action was more varied with the player occasionally given the temporary option to either have the character he is controlling transform back into his adult form, or remain as a boy with different styles of challenges.</desc>
-		<image>./media/images/ace.png</image>
-		<video>./media/videos/ace.mp4</video>
-		<marquee>./images/ace-marquee.png</marquee>
-		<thumbnail>./images/ace-thumb.png</thumbnail>
-		<fanart>./images/ace-fanart.jpg</fanart>
-		<rating>0.9</rating>
-		<releasedate>19840424T000000</releasedate>
-		<developer>Advanced Microcomputer Systems</developer>
-		<publisher>Cinematronics</publisher>
-		<genre>Platform / Run Jump</genre>
-		<arcadesystemname>daphne</arcadesystemname>
-		<players>1</players>
-		<playcount>8</playcount>
-		<lastplayed>20191112T221839</lastplayed>
-		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20221012T130711" />
-	</game>
-	<game id="190330">
-		<path>./uvt.daphne</path>
-		<name>Us Vs Them</name>
-		<desc>They are among us, who? Invaders, aliens or aliens, in short, little green guys! Obviously to make a game they must be bad and want to take possession of our beautiful planet, otherwise it's not funny. As you have guessed, freedom lies on your shoulders and depends on your accuracy in shooting and acrobatics.
-Us vs. Them is an aerial shoot game with a rather classic and unpretentious realization where your ship is more or less inlaid in a background animated by videos. To make the interludes more dynamic, scenes with real actors punctuate the story in a spirit close to the TV series of the 80s. The game will appeal to lovers of science fiction, shoot and low budget TV series. Others will more readily turn to titles like M.A.C.H. 3.</desc>
-		<image>./images/uvt-image.png</image>
-		<video>./videos/uvt-video.mp4</video>
-		<marquee>./images/uvt-marquee.png</marquee>
-		<thumbnail>./images/uvt-thumb.png</thumbnail>
-		<rating>0.7</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Mylstar</developer>
-		<publisher>Mylstar</publisher>
-		<genre>Shoot'em Up</genre>
-		<arcadesystemname>daphne</arcadesystemname>
-		<players>1</players>
-		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20221012T130718" />
-	</game>
-	<game id="51166">
-		<path>./lair2.daphne</path>
-		<name>Dragon's Lair II : Time Warp</name>
-		<desc>Princess Daphne has been spirited away to a wrinkle in time by the Evil Wizard Mordroc who plans to force her into marriage. Only you, Dirk the Daring, can save her. Transported by a bumbling old time machine, you begin the rescue mission. But you must hurry, for once the Casket of Doom has opened, Mordroc will place the Death Ring upon Daphne's finger in marriage and she will be lost forever in the Time Warp!</desc>
-		<image>./media/images/lair2.png</image>
-		<video>./media/videos/lair2.mp4</video>
-		<marquee>./images/lair2-marquee.png</marquee>
-		<thumbnail>./images/lair2-thumb.png</thumbnail>
-		<fanart>./images/lair2-fanart.jpg</fanart>
-		<rating>0.9</rating>
-		<releasedate>19910616T000000</releasedate>
-		<developer>Sullivan Bluth Interactive</developer>
-		<publisher>Leland Corporation</publisher>
-		<genre>Platform / Run Jump</genre>
-		<family>Dragon's Lair</family>
-		<arcadesystemname>daphne</arcadesystemname>
-		<players>1</players>
-		<playcount>1</playcount>
-		<lastplayed>20220921T200645</lastplayed>
-		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
-		<gametime>84</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20221012T130719" />
-	</game>
-	<game id="190329">
-		<path>./mach3.daphne</path>
-		<name>M.A.C.H. 3</name>
-		<desc>In M.A.C.H. 3, you pilot either a Fighter plane or a Bomber plane and must fly around hitting targets on the ground or in the air while avoiding enemy fire. M.A.C.H. 3 used video footage from the laser disc and overlaid computer graphics for your ship and the enemy ships.</desc>
-		<image>./images/mach3-image.png</image>
-		<video>./videos/mach3-video.mp4</video>
-		<marquee>./images/mach3-marquee.png</marquee>
-		<thumbnail>./images/mach3-thumb.png</thumbnail>
-		<bezel>./images/mach3-bezel.png</bezel>
-		<rating>0.9</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Mylstar</developer>
-		<publisher>Mylstar</publisher>
-		<genre>Shoot'em Up</genre>
-		<arcadesystemname>daphne</arcadesystemname>
-		<players>1</players>
-		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20221012T130726" />
-	</game>
-	<game id="51165">
-		<path>./lair.daphne</path>
-		<name>Dragon's Lair</name>
-		<desc>Originally released in the arcades as a laserdisc game, Dragon's Lair is an interactive cartoon movie. Players control Dirk the Daring as he struggles his way through a dungeon to fight Singe, the Dragon, and rescue the beautiful Princess Daphne. The game consists of animated scenes, during which the player has to press direction buttons or the sword button in the right moment to trigger the next segment of the movie.</desc>
-		<image>./media/images/lair.png</image>
-		<video>./media/videos/lair.mp4</video>
-		<marquee>./images/lair-marquee.png</marquee>
-		<thumbnail>./images/lair-thumb.png</thumbnail>
-		<fanart>./images/lair-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>19830601T000000</releasedate>
-		<developer>Sullivan Bluth Interactive</developer>
-		<publisher>Cinematronics</publisher>
-		<genre>Platform / Run Jump</genre>
-		<family>Dragon's Lair</family>
-		<arcadesystemname>daphne</arcadesystemname>
-		<players>1-2</players>
-		<playcount>15</playcount>
-		<lastplayed>20221012T130020</lastplayed>
-		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
-		<gametime>305</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20221012T130726" />
 	</game>
 	<game id="51170">
 		<path>./interstellar.daphne</path>
@@ -181,7 +65,10 @@ Us vs. Them is an aerial shoot game with a rather classic and unpretentious real
 		<family>Interstellar</family>
 		<arcadesystemname>daphne</arcadesystemname>
 		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221012T145320</lastplayed>
 		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<gametime>35</gametime>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20221012T130732" />
@@ -202,10 +89,11 @@ Us vs. Them is an aerial shoot game with a rather classic and unpretentious real
 		<publisher>Stern Electronics</publisher>
 		<genre>Platform / Run Jump</genre>
 		<arcadesystemname>daphne</arcadesystemname>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20221012T130003</lastplayed>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20221012T144433</lastplayed>
 		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<gametime>101</gametime>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20221012T130740" />
@@ -226,7 +114,10 @@ Us vs. Them is an aerial shoot game with a rather classic and unpretentious real
 		<genre>Platform / Run Jump</genre>
 		<arcadesystemname>daphne</arcadesystemname>
 		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221012T145703</lastplayed>
 		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<gametime>55</gametime>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20221012T130747" />
@@ -247,7 +138,10 @@ Us vs. Them is an aerial shoot game with a rather classic and unpretentious real
 		<genre>Race, Driving</genre>
 		<arcadesystemname>daphne</arcadesystemname>
 		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221012T145535</lastplayed>
 		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<gametime>51</gametime>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20221012T130754" />
@@ -269,9 +163,10 @@ Us vs. Them is an aerial shoot game with a rather classic and unpretentious real
 		<genre>Shooter</genre>
 		<arcadesystemname>daphne</arcadesystemname>
 		<players>1</players>
-		<playcount>1</playcount>
-		<lastplayed>20221012T125952</lastplayed>
+		<playcount>2</playcount>
+		<lastplayed>20221012T144148</lastplayed>
 		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<gametime>96</gametime>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20221012T130807" />
@@ -281,10 +176,10 @@ Us vs. Them is an aerial shoot game with a rather classic and unpretentious real
 		<name>Super Don Quix-Ote</name>
 		<desc>The idea for this animated laserdisc game comes from the movies and novels about Don Quixote, the legendary Spanish knight. In this game, the character looks very young and does not have a mustache. Also, he has a sword for a weapon and his faithful sidekick Sancho Panza follows him around although he does nothing to assist the hero.
 An assortment of mythical creatures including demons, dragons, skeletons and so on are encountered throughout the game. The game ends when Don Quixote kills the evil witch and rescues Isabella.</desc>
-		<image>./media/images/sdq.png</image>
-		<video>./media/videos/sdq.mp4</video>
+		<image>./images/sdq-image.png</image>
+		<video>./videos/sdq-video.mp4</video>
 		<marquee>./images/sdq-marquee.png</marquee>
-		<thumbnail>./images/sdq-thumb.jpg</thumbnail>
+		<thumbnail>./images/sdq-thumb.png</thumbnail>
 		<fanart>./images/sdq-fanart.jpg</fanart>
 		<rating>0.8</rating>
 		<releasedate>19840101T000000</releasedate>
@@ -297,7 +192,7 @@ An assortment of mythical creatures including demons, dragons, skeletons and so 
 		<gametime>93</gametime>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20221012T130808" />
+		<scrap name="ScreenScraper" date="20221012T145600" />
 		<scrap name="TheGamesDB" date="20221002T114343" />
 		<scrap name="HfsDB" date="20220928T074522" />
 	</game>
@@ -317,22 +212,38 @@ An assortment of mythical creatures including demons, dragons, skeletons and so 
 		<genre>Platform / Run Jump</genre>
 		<arcadesystemname>daphne</arcadesystemname>
 		<players>1</players>
-		<playcount>1</playcount>
-		<lastplayed>20221012T130037</lastplayed>
+		<playcount>2</playcount>
+		<lastplayed>20221012T144832</lastplayed>
 		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<gametime>60</gametime>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20221012T130817" />
 	</game>
-	<game>
+	<game id="51168">
 		<path>./galaxy.daphne</path>
-		<name>Galaksija</name>
-		<playcount>1</playcount>
-		<lastplayed>20221012T130043</lastplayed>
+		<name>Galaxy Ranger</name>
+		<desc>Fly through the universe battling alien ships to make your way to fight the main Alien Battle Cruiser. Along the way, you fly across alien deserts, through tunnels, over alien cities, and get involved in a few "astro-dogfights" with enemy space fighters.</desc>
+		<image>./images/galaxy-image.png</image>
+		<video>./videos/galaxy-video.mp4</video>
+		<marquee>./images/galaxy-marquee.png</marquee>
+		<thumbnail>./images/galaxy-thumb.png</thumbnail>
+		<fanart>./images/galaxy-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane, 1st person</genre>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20221012T144941</lastplayed>
 		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<gametime>42</gametime>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20221012T130820" />
+		<scrap name="ScreenScraper" date="20221012T145054" />
+		<scrap name="ArcadeDB" date="20221012T145001" />
 	</game>
 	<game id="150948">
 		<path>./cobra.daphne</path>
@@ -352,21 +263,157 @@ You command a fully armed helicopter and must take on enemy helicopters, planes,
 		<genre>Shooter</genre>
 		<arcadesystemname>daphne</arcadesystemname>
 		<players>1</players>
-		<playcount>1</playcount>
-		<lastplayed>20221012T130009</lastplayed>
+		<playcount>2</playcount>
+		<lastplayed>20221012T144726</lastplayed>
 		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<gametime>167</gametime>
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20221012T130830" />
 	</game>
-	<game>
+	<game id="51169">
 		<path>./gpworld.daphne</path>
 		<name>GP World</name>
-		<playcount>1</playcount>
-		<lastplayed>20221012T130048</lastplayed>
+		<desc>GP World was produced by Sega in 1984. In this laserdisc racing game, you have the choice between one of the three circuits proposed to compete with computer-controlled racing cars.
+It is a rather average game in the realization where it is difficult to feel the feeling of speed despite the projection of the real circuits filmed as scenery.
+But it is moving away from the traditional laserdisc spirit, interactive cartoons and shoot'em up, which changes a bit.</desc>
+		<image>./images/gpworld-image.png</image>
+		<video>./videos/gpworld-video.mp4</video>
+		<marquee>./images/gpworld-marquee.png</marquee>
+		<thumbnail>./images/gpworld-thumb.png</thumbnail>
+		<fanart>./images/gpworld-fanart.jpg</fanart>
+		<rating>0.4</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 1st Pers. view</genre>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20221012T145241</lastplayed>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<gametime>84</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221012T145114" />
+	</game>
+	<game id="190329">
+		<path>./mach3.daphne</path>
+		<name>M.A.C.H. 3</name>
+		<desc>In M.A.C.H. 3, you pilot either a Fighter plane or a Bomber plane and must fly around hitting targets on the ground or in the air while avoiding enemy fire. M.A.C.H. 3 used video footage from the laser disc and overlaid computer graphics for your ship and the enemy ships.</desc>
+		<image>./images/mach3-image.png</image>
+		<video>./videos/mach3-video.mp4</video>
+		<marquee>./images/mach3-marquee.png</marquee>
+		<thumbnail>./images/mach3-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Mylstar</developer>
+		<publisher>Mylstar</publisher>
+		<genre>Shoot'em Up</genre>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1</players>
 		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
 		<lang>en</lang>
 		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T201756" />
+	</game>
+	<game id="190330">
+		<path>./uvt.daphne</path>
+		<name>Us Vs Them</name>
+		<desc>They are among us, who? Invaders, aliens or aliens, in short, little green guys! Obviously to make a game they must be bad and want to take possession of our beautiful planet, otherwise it's not funny. As you have guessed, freedom lies on your shoulders and depends on your accuracy in shooting and acrobatics.
+Us vs. Them is an aerial shoot game with a rather classic and unpretentious realization where your ship is more or less inlaid in a background animated by videos. To make the interludes more dynamic, scenes with real actors punctuate the story in a spirit close to the TV series of the 80s. The game will appeal to lovers of science fiction, shoot and low budget TV series. Others will more readily turn to titles like M.A.C.H. 3.</desc>
+		<image>./images/uvt-image.png</image>
+		<video>./videos/uvt-video.mp4</video>
+		<marquee>./images/uvt-marquee.png</marquee>
+		<thumbnail>./images/uvt-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Mylstar</developer>
+		<publisher>Mylstar</publisher>
+		<genre>Shoot'em Up</genre>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221012T145845</lastplayed>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<gametime>97</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T201756" />
+	</game>
+	<game id="51173">
+		<path>./ace.daphne</path>
+		<name>Space Ace</name>
+		<desc>Space Ace is a laserdisc video game produced by Don Bluth Studios, Cinematronics and Advanced Microcomputer Systems (later renamed RDI Video Systems). It was unveiled in October 1983, just four months after the Dragon's Lair game, then released in Spring 1984, and like its predecessor featured film-quality animation played back from a laserdisc.
+
+The gameplay is also similar, requiring the player to move the joystick or press the fire button at key moments in the animated sequences to govern the hero's actions. However, the game's action was more varied with the player occasionally given the temporary option to either have the character he is controlling transform back into his adult form, or remain as a boy with different styles of challenges.</desc>
+		<image>./images/ace-image.png</image>
+		<video>./videos/ace.mp4</video>
+		<marquee>./images/ace-marquee.png</marquee>
+		<thumbnail>./images/ace-thumb.png</thumbnail>
+		<fanart>./images/ace-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>19840424T000000</releasedate>
+		<developer>Advanced Microcomputer Systems</developer>
+		<publisher>Cinematronics</publisher>
+		<genre>Platform / Run Jump</genre>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1</players>
+		<playcount>8</playcount>
+		<lastplayed>20191112T221839</lastplayed>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221124T142325" />
+	</game>
+	<game id="51165">
+		<path>./lair.daphne</path>
+		<name>Dragon's Lair</name>
+		<desc>Originally released in the arcades as a laserdisc game, Dragon's Lair is an interactive cartoon movie. Players control Dirk the Daring as he struggles his way through a dungeon to fight Singe, the Dragon, and rescue the beautiful Princess Daphne. The game consists of animated scenes, during which the player has to press direction buttons or the sword button in the right moment to trigger the next segment of the movie.</desc>
+		<image>./images/lair-image.png</image>
+		<video>./videos/lair.mp4</video>
+		<marquee>./images/lair-marquee.png</marquee>
+		<thumbnail>./images/lair-thumb.png</thumbnail>
+		<fanart>./images/lair-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>19830601T000000</releasedate>
+		<developer>Sullivan Bluth Interactive</developer>
+		<publisher>Cinematronics</publisher>
+		<genre>Platform / Run Jump</genre>
+		<family>Dragon's Lair</family>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1-2</players>
+		<playcount>15</playcount>
+		<lastplayed>20221012T130020</lastplayed>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<gametime>305</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221124T142326" />
+	</game>
+	<game id="51166">
+		<path>./lair2.daphne</path>
+		<name>Dragon's Lair II : Time Warp</name>
+		<desc>Princess Daphne has been spirited away to a wrinkle in time by the Evil Wizard Mordroc who plans to force her into marriage. Only you, Dirk the Daring, can save her. Transported by a bumbling old time machine, you begin the rescue mission. But you must hurry, for once the Casket of Doom has opened, Mordroc will place the Death Ring upon Daphne's finger in marriage and she will be lost forever in the Time Warp!</desc>
+		<image>./images/lair2-image.png</image>
+		<video>./videos/lair2.mp4</video>
+		<marquee>./images/lair2-marquee.png</marquee>
+		<thumbnail>./images/lair2-thumb.png</thumbnail>
+		<fanart>./images/lair2-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>19910616T000000</releasedate>
+		<developer>Sullivan Bluth Interactive</developer>
+		<publisher>Leland Corporation</publisher>
+		<genre>Platform / Run Jump</genre>
+		<family>Dragon's Lair</family>
+		<arcadesystemname>daphne</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20220921T200645</lastplayed>
+		<md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+		<gametime>84</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221124T142327" />
 	</game>
 </gameList>
-

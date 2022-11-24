@@ -13,19 +13,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Donkey Kong Jr (b).mgw</path>
-		<name>Donkey Kong Jr. (panorama Screen)</name>
-		<desc>Donkey Kong has been captured and chained by Mario. Donkey Kong Jr. goes to papa's rescue with key he needs to open the locks on the chains. Junior is attacked by fierce birds. He uses umbrellas to leap from heights, and balloons to get up there, opening the locks on the way. When he opens all 4 locks, papa is free. Each time he opens one lock, he must go back to START to retrieve the key, then sets out again is lost. With three misses game ends. 1 point when Junior jumps to umbrella or balloon. 2 to 10 points when Junior hits fierce bird with coconut. 10 points when Junior opens one lock. 10 points (extra bonus) when Junior opens all four locks. When score reaches 300 points and there are one or two misses, all the misses are cleared with fanfare. If there are no misses when a 300 score is reached, game goes into "CHANCE TIME". Score flashes and all the points are awarded at double value until a miss is scored. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
-		<image>./images/Donkey Kong Jr (b)-image.png</image>
-		<marquee>./images/Donkey Kong Jr (b)-marquee.png</marquee>
-		<thumbnail>./images/Donkey Kong Jr (b)-thumb.png</thumbnail>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<lang>br</lang>
-		<region>br</region>
-	</game>
-	<game>
 		<path>./Roller Coaster.mgw</path>
 		<name>Roller Coaster</name>
 		<desc>Roller Coaster needs maintenance: there are three holes on the railway. Move a busy worker around the rails to fill holes and prevent cars from falling. When a car falls into a hole, one miss is scored. Five misses and game ends. 1 point is scored for each safe car. Maximum displayed score is 9999.</desc>
@@ -87,18 +74,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Casio-SF.mgw</path>
-		<name>Cessate Il Fuoco</name>
-		<desc>Help Heathcliff the cat to prevent Sonja's flowers from being burned by flaming sticks thrown by an enemy cat. Spike the dog watches from behind the fence. Misses: one miss per burnt flower. Three misses and game ends. 10 points are awarded when Heathcliff successfully extinguishes a flame. All flames are cleared at every 1000 points. Maximum displayed score is 9999.</desc>
-		<image>./images/Casio-SF-image.png</image>
-		<marquee>./images/Casio-SF-marquee.png</marquee>
-		<thumbnail>./images/Casio-SF-thumb.png</thumbnail>
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Explorers of Space.mgw</path>
 		<name>Explorers Of Space</name>
 		<desc>Press Game A button to play game A (easy). Press Game B button to play game B (hard). Press Game A + Game B buttons to play game A+B (different).
@@ -124,18 +99,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<thumbnail>./images/Baseball-thumb.png</thumbnail>
 		<developer>VTech</developer>
 		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./MickeyMP.mgw</path>
-		<name>Mickey Mouse (panorama Screen)</name>
-		<desc>Mickey Mouse performs baton acrobatics while balancing on a ball in a circus. Donald Duck watches his acrobatic feats. Move Mickey Mouse left and right to catch the batons, but beware of the flaming torches. One miss is scored when Mickey Mouse fails to catch a baton, or when he catches a flaming torch. Three misses and game ends. 1 point for each baton Mickey Mouse catches and tosses. Maximum displayed score is 999. At 300 points fanfare sounds and all misses are canceled. If there are no misses when 300 points are reached, game goes into "Chance-Time": all points are awarded at double value (2 points per baton caught) until a miss is made.</desc>
-		<image>./images/MickeyMP-image.png</image>
-		<marquee>./images/MickeyMP-marquee.png</marquee>
-		<thumbnail>./images/MickeyMP-thumb.png</thumbnail>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
 		<lang>en</lang>
 	</game>
@@ -196,19 +159,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<thumbnail>./images/Wild Man Jump-thumb.png</thumbnail>
 		<developer>VTech</developer>
 		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./DKong.mgw</path>
-		<name>Donkey Kong (multi Screen)</name>
-		<desc>Mario must reach the top of the structure, activate a lever which will put a crane in his reach. Then he must jump for the crane and demolish little by little the structure on which Donkey Kong is standing in order to rescue Pauline.</desc>
-		<image>./images/DKong-image.png</image>
-		<marquee>./images/DKong-marquee.png</marquee>
-		<thumbnail>./images/DKong-thumb.png</thumbnail>
-		<releasedate>19820603T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
 		<lang>en</lang>
 	</game>
@@ -287,18 +237,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./SnoopyPS.mgw</path>
-		<name>Snoopy (table Top)</name>
-		<desc>Shroeder is playing his piano. The notes fly through the air to where Woodstock is sleeping. Operate Snoopy left and right to strike down the notes with his hammer so that Woodstock may sleep in peace. If a note gets to any nest, a miss occurs; three misses and game ends. Game A: 3 lines of notes. Game B: 4 lines of notes. 1 point for each note knocked down. At 300 points a music is played and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value until miss is made. Maximum display score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
-		<image>./images/SnoopyPS-image.png</image>
-		<marquee>./images/SnoopyPS-marquee.png</marquee>
-		<thumbnail>./images/SnoopyPS-thumb.png</thumbnail>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Sub Chase.mgw</path>
 		<name>Sub Chase</name>
 		<desc>Computer controls submarine attack. Turn power on: single (bright red) dot appears: that's your ship. Use cursor keys to steer ship within range of invisible submarine. "Sonar" single beep means submarine is nearby. "Sonar" frequent beeps mean submarine is very near or under your ship. Fire depth charge by using control key. You have 30 on board to sink as many submarines as you can. Sink one and computer programs another submarine. Watch out for torpedoes (moving line of dots). If submarine sinks your ship, game is over. Game is also over when you have no more depth charges on board. 1 to 5 points per submarine sunk (score depends on how many charges you shot). Scores over 100 will be displayed by code, I.E.: 100-109 hits by "A0-A9", 110-119 by "B0-B9", 120-129 by "C0-C9", 130-139 by "D0-D9", 140-149 by "E0-E9".</desc>
@@ -323,18 +261,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Casio-HF.mgw</path>
-		<name>Caccia Al Ladro</name>
-		<desc>Help Heathcliff the cat to prevent Sonja's fish to be stolen by a thief, or she'll shout at him in anger. Spike the dog disturbs Heathcliff's action. Misses: one miss per cleared dish of fish. Three misses and game ends. 10 points are awarded when Heathcliff successfully attacks a thief. All fish are restored at every 1000 points. Maximum displayed score is 9999.</desc>
-		<image>./images/Casio-HF-image.png</image>
-		<marquee>./images/Casio-HF-marquee.png</marquee>
-		<thumbnail>./images/Casio-HF-thumb.png</thumbnail>
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Motor Cross.mgw</path>
 		<name>Motor Cross</name>
 		<desc>Your aim is to overtake as many bikers as possible before running out of fuel and crashing your bike. As soon as you score a fixed amount of points on the current track, a new track will be made available for you to race. At the beginning of the track, you'll have a new bike with full fuel tank. Sometimes a fuel pump or a spanner will appear on the left or right sides of the road. You can fill your fuel tank or restore your bike by moving close to them and then pressing Start to collect them. When game is over you can continue the game by pressing Start before the "CON" writing fades (10 seconds). You'll run the same track and your score will be reset zero. 100 points per every overtaken bike, (slow speed). 200 points per every overtaken bike, (medium speed). 300 points per every overtaken bike, (fast speed). Maximum displayed score is 199900 points, then score resets to 0.</desc>
@@ -343,30 +269,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<thumbnail>./images/Motor Cross-thumb.png</thumbnail>
 		<developer>Queentex</developer>
 		<publisher>Queentex</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Penguin Land.mgw</path>
-		<name>Penguin Land</name>
-		<desc>Press Select button to select mode (1 or 2 players). * If one-player mode is selected: Press Penguin's Start/Attack button to play Penguin versus CPU (easy). Press Seal's Start/Attack button to play Seal versus CPU (hard). Your opponent will be controlled by CPU (Artificial Intelligence). * If two-players mode is selected: Press either Penguin's or Seal's Start/Attack button to start game. This is a real battle for survival! A penguin and a seal teams are battling to win some fish which stands over an iceberg. The iceberg stands between the teams. * Rules for the war: A vulture throws two bombs into the playground. The vulture cycles through the playgrounds. You must catch bombs before they fall on the floor and explode. If a team lets a bomb fall on the floor, that team will lose one point. You can keep one only bomb in your hands. You can keep it as much time as you wish. Press the Start/Attack button to throw the bomb back to your opponent. Both the penguin and the seal standing over the iceberg will send the bomb. back immediately. They move randomly. If the vulture catches a flying bomb, he will throw it into the opposite playground. Sometimes an ice block comes from the sea; you will collect it by catching it (move on it and then press the Start/Attack button) and then taking it to the opposite side of the playground. By collecting three ice blocks your team will be able to reach the fish over the iceberg and eat some of it. This will cost two points to your opponent team. If you're bombed while keeping an ice block in your hands, you'll lose it. * Aim of the game: you win the game by decreasing your opponent's score to 0. 1 point - bombing your opponent. 2 points - collecting three ice blocks.</desc>
-		<image>./images/Penguin Land-image.png</image>
-		<marquee>./images/Penguin Land-marquee.png</marquee>
-		<thumbnail>./images/Penguin Land-thumb.png</thumbnail>
-		<developer>Bandai</developer>
-		<publisher>Bandai</publisher>
-		<players>1-2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./HippoT.mgw</path>
-		<name>Hippo Teeth (mini Time And Fun)</name>
-		<desc>Help the busy dentist to prevent hippo's teeth from being eaten by the tooth-invaders. When a tooth is eaten, a miss is scored. Three misses and game ends. 10 points per killed tooth-invader. All teeth are restored at every 1000 points scored. Maximum displayed score is 9999.</desc>
-		<image>./images/HippoT-image.png</image>
-		<marquee>./images/HippoT-marquee.png</marquee>
-		<thumbnail>./images/HippoT-thumb.png</thumbnail>
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
 		<genre>Action</genre>
 		<lang>en</lang>
 	</game>
@@ -380,32 +282,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<releasedate>19811009T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./DKong2.mgw</path>
-		<name>Donkey Kong II</name>
-		<desc>A continuation of the famous Donkey Kong Story. Now Mario has chained Donkey Kong. Donkey Kong Junior braves snapjaws, sparks and birds, throwing the key which will open Donkey Kong's locks, up to where his papa is held prisoner. Avoid sparks overhead and make Junior jump and throw key to upper screen. When a snapjaw attacks, make Junior jump without hitting overhead spark. When Junior reaches the upper screen, he has to jump to get the key he threw again. The key jumps to one of the four locks.
-- Press top of "PLUS" button when on top of chain. A lock opens.</desc>
-		<image>./images/DKong2-image.png</image>
-		<marquee>./images/DKong2-marquee.png</marquee>
-		<thumbnail>./images/DKong2-thumb.png</thumbnail>
-		<releasedate>19830307T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Monkey.mgw</path>
-		<name>Monkey</name>
-		<desc>Monkeys continuously climb the trees to steal coconuts. You should try your best to avoid the coconuts being stolen. When a monkey successfully reaches a coconut, a missed is scored. Five misses and game ends. 1 point is scored each time a monkey is hit. Maximum displayed score is 9999.</desc>
-		<image>./images/Monkey-image.png</image>
-		<marquee>./images/Monkey-marquee.png</marquee>
-		<thumbnail>./images/Monkey-thumb.png</thumbnail>
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
 		<genre>Action</genre>
 		<lang>en</lang>
 	</game>
@@ -519,17 +395,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Donkey Kong Coleco.mgw</path>
-		<name>Donkey Kong</name>
-		<desc>Move Mario to make him rescue his girlfriend, kidnapped by Donkey Kong. In odd levels, Donkey Kong throws barrels at Mario. Operate Mario and take him to the top of the building, making him avoid barrels. In even levels, operate Mario in order to remove all rivets from the girders by walking above them. Fireballs hang around: be sure Mario won't touch them! Additional info: don't let Mario move too left or right of the girders or he'll fall down; the left ladder on the second girder is a "safe position" from barrels; Mario can walk, not jump through the electric fence below Donkey Kong.</desc>
-		<image>./images/Donkey Kong Coleco-image.png</image>
-		<marquee>./images/Donkey Kong Coleco-marquee.png</marquee>
-		<thumbnail>./images/Donkey Kong Coleco-thumb.png</thumbnail>
-		<developer>Coleco Industries, Inc.</developer>
-		<publisher>Coleco Industries, Inc.</publisher>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Las Vegas.mgw</path>
 		<name>Las Vegas</name>
 		<desc>Your hero is very poor because he lost all his money playing the slot-machines. There are a few luckier gamblers than he, whose coins fall from the slot-machines. Your hero tries to get all of the coins falling from their slot-machines. When he collects 100 coins, he plays the slot-machine and attempts to win some more money. Gambling game starts whenever he scores 1000 points. 10 points are scored when your hero grabs a falling coin. 100 points are scored when your hero scores 111 at the slot machine. 200 points are scored when your hero scores 333 at the slot machine. 500 points are scored when your hero scores 777 at the slot machine. A money bag is awarded when your hero scores 777 at the slot machine. A money bag is lost when your hero scores a miss at the gambling game.</desc>
@@ -566,18 +431,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Snoopy.mgw</path>
-		<name>Snoopy (panorama Screen)</name>
-		<desc>Shroeder is playing his piano. The notes fly through the air to where Woodstock is sleeping. Operate Snoopy left and right to strike down the notes with his hammer so that Woodstock may sleep in peace. If a note gets to any nest, a miss occurs; three misses and game ends. Game A: 3 lines of notes. Game B: 4 lines of notes. 1 point for each note knocked down. At 300 points a music is played and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value until miss is made. Maximum display score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
-		<image>./images/Snoopy-image.png</image>
-		<marquee>./images/Snoopy-marquee.png</marquee>
-		<thumbnail>./images/Snoopy-thumb.png</thumbnail>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Mario's Bombs Away.mgw</path>
 		<name>Mario's Bombs Away</name>
 		<desc>Mario is in the jungle, fighting against an enemy army. His aim is to take five bombs on the right side of the jungle. Mario's companion on the right side places bombs close to enemies. When all five bombs are in place, they detonate and enemy army is beaten. Enemies try to light Mario's bomb; lift/lower Mario's bomb to keep it safe. If enemies torches reach Mario's bomb, all progress (bombs already placed) is lost. Three misses and game ends. 1 point when Mario steps forward. 5 points when Mario places a bomb. 10 points when Mario places the 5th bomb. At 300 points a music is played and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value until miss is made. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
@@ -601,49 +454,12 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Parachut.mgw</path>
-		<name>Parachute</name>
-		<desc>Skydivers come parachuting down over shark-infested waters. Lifeboat tries to catch them. Try to catch skydivers. Move boat left or right by pressing corresponding control buttons. When a skydiver falls into the ocean he is attacked by sharks. Three misses and game ends. 1 point is scored for each skydiver caught by lifeboat. Maximum displayed score is 999. When the score reaches a bonus score (200 or 500 points), any miss marks indicated at the time are erased with a fanfare and game continues.</desc>
-		<image>./images/Parachut-image.png</image>
-		<marquee>./images/Parachut-marquee.png</marquee>
-		<thumbnail>./images/Parachut-thumb.png</thumbnail>
-		<releasedate>19810619T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Monkey Jump.mgw</path>
 		<name>Monkey Jump</name>
 		<desc>A Kong kidnapped a very nice girl and took her to the mysterious jungle. She's waiting for you to save her. Now it's up to you to make your way to her. You can escape the Kong by jumping the tires he's throwing at you. You may want to rest for a while on short benches placed here and there. There's four items on the left side of the tree. The purse and the shoe on floors 1 and 3 award you with bonus points. The magic cakes on floors 2 and 4 make you invincible for a short time. You can smash tires by simply hitting them, and they're worth bonus points. When you save the girl, she awards you with a kiss. But beware of the Kong, he will kidnap her again! At every 4 completed stages, Kong falls down from tree tree, then game starts again at increased difficulty. If time runs out, or you get hurt by a tire, a life is lost. When all lives are lost, game ends. 10 points are scored when jumping a tire 100 points are scored when getting a bonus item 100 points are scored when smashing a tire 300 to 500 points awarded when completing level (depending on remaining time). Bonus life is awarded when completing level 2 and at every 4 levels. Maximum displayed score is 99990.</desc>
 		<image>./images/Monkey Jump-image.png</image>
 		<marquee>./images/Monkey Jump-marquee.png</marquee>
 		<thumbnail>./images/Monkey Jump-thumb.png</thumbnail>
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Donkey Kong II.mgw</path>
-		<name>Donkey Kong Jr.</name>
-		<desc>Donkey Kong has been captured and chained by Mario. Donkey Kong Jr. goes to papa's rescue with key he needs to open the locks on the chains. Junior is attacked by fierce birds. He uses umbrellas to leap from heights, and balloons to get up there, opening the locks on the way. When he opens all 4 locks, papa is free. Each time he opens one lock, he must go back to START to retrieve the key, then sets out again is lost. With three misses game ends. 1 point when Junior jumps to umbrella or balloon. 2 to 10 points when Junior hits fierce bird with coconut. 10 points when Junior opens one lock. 10 points (extra bonus) when Junior opens all four locks. When score reaches 300 points and there are one or two misses, all the misses are cleared with fanfare. If there are no misses when a 300 score is reached, game goes into "CHANCE TIME". Score flashes and all the points are awarded at double value until a miss is scored. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
-		<image>./images/Donkey Kong II-image.png</image>
-		<marquee>./images/Donkey Kong II-marquee.png</marquee>
-		<thumbnail>./images/Donkey Kong II-thumb.png</thumbnail>
-		<developer>Coleco Industries, Inc.</developer>
-		<publisher>Coleco Industries, Inc.</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./HotLine.mgw</path>
-		<name>Hot Line (mini Time And Fun)</name>
-		<desc>A clerk has the task to answer phone calls very quickly. Move the clerk left and right to answer phone calls. When a phone call is not answered, a chance is missed. The secretary appears occasionally, waiting for the clerk to sign a few documents (game B only). Three misses and game ends. 10 points are scored each time a phone call is answered. 50 points are scored each time a document is signed. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</desc>
-		<image>./images/HotLine-image.png</image>
-		<marquee>./images/HotLine-marquee.png</marquee>
-		<thumbnail>./images/HotLine-thumb.png</thumbnail>
 		<developer>VTech</developer>
 		<publisher>VTech</publisher>
 		<genre>Action</genre>
@@ -676,36 +492,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<genre>Action</genre>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./Donkey Kong Jr.mgw</path>
-		<name>Donkey Kong Jr. (table Top)</name>
-		<desc>Donkey Kong has been captured and chained by Mario. Donkey Kong Jr. goes to papa's rescue with key he needs to open the locks on the chains. Junior is attacked by fierce birds. He uses umbrellas to leap from heights, and balloons to get up there, opening the locks on the way. When he opens all 4 locks, papa is free. Each time he opens one lock, he must go back to START to retrieve the key, then sets out again is lost. With three misses game ends. 1 point when Junior jumps to umbrella or balloon. 2 to 10 points when Junior hits fierce bird with coconut. 10 points when Junior opens one lock. 10 points (extra bonus) when Junior opens all four locks. When score reaches 300 points and there are one or two misses, all the misses are cleared with fanfare. If there are no misses when a 300 score is reached, game goes into "CHANCE TIME". Score flashes and all the points are awarded at double value until a miss is scored. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
-		<image>./images/Donkey Kong Jr-image.png</image>
-		<marquee>./images/Donkey Kong Jr-marquee.png</marquee>
-		<thumbnail>./images/Donkey Kong Jr-thumb.png</thumbnail>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220918T172543</lastplayed>
-		<gametime>23</gametime>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Donkey Kong Circus.mgw</path>
-		<name>Donkey Kong Circus</name>
-		<desc>Donkey Kong juggles pineapples while balancing on a barrel. Catch the pineapples, but beware of fireballs. Donkey Kong will automatically toss the pineapples he catches. Mario watches his juggling performance. Lives are lost either if a pineapple falls on the floor or if Donkey Kong touches a fireball. Mario laughs at Donkey Kong as he misses. Three misses and game ends. 1 point for each pineapple Donkey Kong catches and tosses. Maximum displayed score is 999. At 300 points fanfare sounds and all misses are canceled. If there are no misses when 300 points are reached, game goes into "Chance-Time": all points are awarded at double value (2 points per pineapple caught) until a miss is made.</desc>
-		<image>./images/Donkey Kong Circus-image.png</image>
-		<marquee>./images/Donkey Kong Circus-marquee.png</marquee>
-		<thumbnail>./images/Donkey Kong Circus-thumb.png</thumbnail>
-		<releasedate>19840906T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<playcount>1</playcount>
-		<lastplayed>20220921T204818</lastplayed>
-		<gametime>54</gametime>
-		<lang>en</lang>
-	</game>
 	<game id="88045">
 		<path>./Armor Battle.mgw</path>
 		<name>Armor Battle</name>
@@ -723,5 +509,1376 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<md5>688551c48b1e0cdc4b674bccfde5e331</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220928T160830" />
+	</game>
+	<game id="88054">
+		<path>./Defendo (VTech, Explorer Time &amp; Fun).mgw</path>
+		<name>Defendo</name>
+		<desc>Enemy soldiers continuously move towards your camp from three paths, trying to steal your Army's gold. Move the brave soldier to prevent soldiers from reaching the camp. When an enemy successfully reaches the camp, a chance is missed. Five misses and game ends. 1 point is scored each time an enemy soldier is hit. Maximum displayed score is 9999.</desc>
+		<image>./images/Defendo (VTech, Explorer Time &amp; Fun)-image.png</image>
+		<video>./videos/Defendo (VTech, Explorer Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Defendo (VTech, Explorer Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Defendo (VTech, Explorer Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Defendo (VTech, Explorer Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19840101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>4359b69b8be9a02abfd78e4d4a88085e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123124" />
+	</game>
+	<game id="88097">
+		<path>./Chicky Woggy (VTech, Electronic Tini-Arcade).mgw</path>
+		<name>Chicky Woggy (tini-arcade)</name>
+		<desc>Help Chicky Woggy fill the labyrinth with eggs, while wolves chase her. Chicky Woggy can move across bridges, subways and tunnels to escape wolves. As soon as Chicky Woggy eats magic worms, she can chase and defeat wolves for a short period of time. When the labyrinth is full of eggs, Chicky Woggy moves to a new empty labyrinth. Three misses and game ends. 10 points are scored each time an egg is laid. 50 points are scored each time a worm is eaten. 200 to 400 points are scored each time a wolf is defeated. Bonus life is awarded at 2000 points. Maximum displayed score is 99990.</desc>
+		<image>./images/Chicky Woggy (VTech, Electronic Tini-Arcade)-image.png</image>
+		<marquee>./images/Chicky Woggy (VTech, Electronic Tini-Arcade)-marquee.png</marquee>
+		<thumbnail>./images/Chicky Woggy (VTech, Electronic Tini-Arcade)-thumb.png</thumbnail>
+		<fanart>./images/Chicky Woggy (VTech, Electronic Tini-Arcade)-fanart.jpg</fanart>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>5bcb421b3f4e3f9832f7c9adb261db44</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123124" />
+	</game>
+	<game id="88057">
+		<path>./Donkey Kong Jr. (Coleco).mgw</path>
+		<name>Donkey Kong Jr.</name>
+		<desc>Donkey Kong has been captured and chained by Mario. Donkey Kong Jr. goes to papa's rescue with key he needs to open the locks on the chains. Junior is attacked by fierce birds. He uses umbrellas to leap from heights, and balloons to get up there, opening the locks on the way. When he opens all 4 locks, papa is free. Each time he opens one lock, he must go back to START to retrieve the key, then sets out again is lost. With three misses game ends. 1 point when Junior jumps to umbrella or balloon. 2 to 10 points when Junior hits fierce bird with coconut. 10 points when Junior opens one lock. 10 points (extra bonus) when Junior opens all four locks. When score reaches 300 points and there are one or two misses, all the misses are cleared with fanfare. If there are no misses when a 300 score is reached, game goes into "CHANCE TIME". Score flashes and all the points are awarded at double value until a miss is scored. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
+		<image>./images/Donkey Kong Jr. (Coleco)-image.png</image>
+		<video>./videos/Donkey Kong Jr. (Coleco)-video.mp4</video>
+		<marquee>./images/Donkey Kong Jr. (Coleco)-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong Jr. (Coleco)-thumb.png</thumbnail>
+		<fanart>./images/Donkey Kong Jr. (Coleco)-fanart.jpg</fanart>
+		<developer>Coleco Industries, Inc.</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action</genre>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<md5>7b8d3e4298be4931d0ef59eeb3dc4026</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123124" />
+	</game>
+	<game id="88094">
+		<path>./Tron (Tomytronic).mgw</path>
+		<name>Tron</name>
+		<desc>You must destroy your enemy: Sark and the MCP (Master Control Program) by making the Enemy Light Cycle crash and by destroying Sark's Rings and finally by penetrating the MCP barrier and destroying the MCP. *Level 1: The Light Cycle Game. Two Light Cycles appear: Tron's (the blue one) Sark's (the red one). As both Cycles travel across the screen they create a wall behind them. You must try to destroy the enemy's Cycle by causing it to crash into a wall while avoiding crashing into a wall or the enemy Cycle. Press the "Speed/Shoot" button to accelerate. 5 points for moving ahead and creating five Tron wall bars. 100 points for destroying each enemy Light Cycle. * Level 2: The Ring Game. Tron is on the left and Sark is on the right. The green bars beneath each figure represent the four Rings each player begins with. Move Tron up and down to catch the Disc as Sark throws it; then position Tron and press the "Speed/Shoot" button to throw the Disc where Sark can't catch it. If either one misses it they lose one Ring below them. 5 points for catching a Disc. 20 points for destroying the enemy's Ring. 200 points for destroying all Rings. * Level 3: the MCP Game. Tron is on the left on a stationary position. Below him are bars that act as timers: the number of bars equals the number of Tron's remaining Rings from the Ring Game. Press the "Speed/Shoot" button to throw one Disc at the MCP Barrier; the Barrier will begin to move up and down. Try to pick the correct timing to press the "Speed/Shoot" button again and release a Disc to penetrate the Barrier and destroy the MCP; then game starts again with the Light Cycle Game - at higher speed! If the Disc fails to penetrate the Barrier you must release another Disc and aim for the correct timing again. If all bars below Tron disappear, a miss is scored. 200 points for destroying the MCP. Bonus 50 points x the number or remaining timing bars. The highest score that can be recorded is 1,995 points; anything over 2,000 points appear as a green bar on the top of the screen when your total score is shown. The highest possible score is 15,995 points, shown as seven bars plus 1,995. Bonus life is given at every 2,000 points scored (maximum five lives at one time).</desc>
+		<image>./images/Tron (Tomytronic)-image.png</image>
+		<video>./videos/Tron (Tomytronic)-video.mp4</video>
+		<marquee>./images/Tron (Tomytronic)-marquee.png</marquee>
+		<thumbnail>./images/Tron (Tomytronic)-thumb.png</thumbnail>
+		<fanart>./images/Tron (Tomytronic)-fanart.jpg</fanart>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Tomytronic</developer>
+		<publisher>Tomytronic</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>f01eacccb99b024d73fb1bbcb75f2ecb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123124" />
+	</game>
+	<game id="88069">
+		<path>./HotLine.mgw</path>
+		<name>Hot Line (mini Time And Fun)</name>
+		<desc>A clerk has the task to answer phone calls very quickly. Move the clerk left and right to answer phone calls. When a phone call is not answered, a chance is missed. The secretary appears occasionally, waiting for the clerk to sign a few documents (game B only). Three misses and game ends. 10 points are scored each time a phone call is answered. 50 points are scored each time a document is signed. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</desc>
+		<image>./images/HotLine-image.png</image>
+		<video>./videos/HotLine-video.mp4</video>
+		<marquee>./images/HotLine-marquee.png</marquee>
+		<thumbnail>./images/HotLine-thumb.png</thumbnail>
+		<fanart>./images/HotLine-fanart.jpg</fanart>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>d257f926c8bd8d3db13e112009e12990</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123124" />
+	</game>
+	<game id="88076">
+		<path>./Mickey Mouse (Nintendo, Wide Screen).mgw</path>
+		<name>Mickey Mouse (wide Screen)</name>
+		<desc>Chickens lay eggs. Control Mickey Mouse so that he catches them in his basket. When Mickey Mouse drops an egg, one miss is scored. Minnie Mouse appears/disappears at every five seconds. When Minnie Mouse appears while egg falls, half miss is scored (miss mark blinks). Three full misses and game is over. 1 point per caught egg. At 200 and 500 points, if there are one or more misses, fanfare sounds and all misses are canceled. Maximum displayed score is 999 points.</desc>
+		<image>./images/Mickey Mouse (Nintendo, Wide Screen)-image.png</image>
+		<video>./videos/Mickey Mouse (Nintendo, Wide Screen)-video.mp4</video>
+		<marquee>./images/Mickey Mouse (Nintendo, Wide Screen)-marquee.png</marquee>
+		<thumbnail>./images/Mickey Mouse (Nintendo, Wide Screen)-thumb.png</thumbnail>
+		<fanart>./images/Mickey Mouse (Nintendo, Wide Screen)-fanart.jpg</fanart>
+		<releasedate>19811009T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<family>Mickey Mouse</family>
+		<players>1</players>
+		<md5>51305477127f61e85de7856dbad604ee</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123124" />
+	</game>
+	<game id="88055">
+		<path>./DKong.mgw</path>
+		<name>Donkey Kong (multi Screen)</name>
+		<desc>Mario must reach the top of the structure, activate a lever which will put a crane in his reach. Then he must jump for the crane and demolish little by little the structure on which Donkey Kong is standing in order to rescue Pauline.</desc>
+		<image>./images/DKong-image.png</image>
+		<video>./videos/DKong-video.mp4</video>
+		<marquee>./images/DKong-marquee.png</marquee>
+		<thumbnail>./images/DKong-thumb.png</thumbnail>
+		<fanart>./images/DKong-fanart.jpg</fanart>
+		<releasedate>19820603T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<md5>b2016112cb17e4032f7b3886db4d6f6c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123124" />
+	</game>
+	<game id="88072">
+		<path>./Lifeboat (Nintendo, Multi Screen).mgw</path>
+		<name>Lifeboat</name>
+		<desc>A fire breaks out on a luxury liner; passengers jump from the ship. Put lifeboat in position for catching passengers. Each lifeboat holds up to four passengers. There is a shore on the left and right of the screen. When a lifeboat reaches shore, passengers will unload automatically. 1 point per person caught. 1 point per person unloaded to shore. Maximum displayed score is 999. At 300 points fanfare sounds and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value (2 points per passenger caught or unloaded to shore) until a miss is made.</desc>
+		<image>./images/Lifeboat (Nintendo, Multi Screen)-image.png</image>
+		<video>./videos/Lifeboat (Nintendo, Multi Screen)-video.mp4</video>
+		<marquee>./images/Lifeboat (Nintendo, Multi Screen)-marquee.png</marquee>
+		<thumbnail>./images/Lifeboat (Nintendo, Multi Screen)-thumb.png</thumbnail>
+		<fanart>./images/Lifeboat (Nintendo, Multi Screen)-fanart.jpg</fanart>
+		<releasedate>19831016T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>29dc06dd8507357ee3802927ca99dfcf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123124" />
+	</game>
+	<game id="88083">
+		<path>./Pirate (VTech, Time &amp; Fun).mgw</path>
+		<name>Pirate</name>
+		<desc>Pirates continuously climb up to embark your ship from three paths, to steal your gold. Move the captain to prevent pirates from reaching the deck. When a pirate successfully reaches the deck, a chance is missed. Five misses and game ends. 1 point is scored each time a pirate is hit. Maximum displayed score is 9999.</desc>
+		<image>./images/Pirate (VTech, Time &amp; Fun)-image.png</image>
+		<video>./videos/Pirate (VTech, Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Pirate (VTech, Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Pirate (VTech, Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Pirate (VTech, Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19830101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>522085fc126491930b5f363da9327b6b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123124" />
+	</game>
+	<game id="88095">
+		<path>./Turtle Bridge (Nintendo, Wide Screen).mgw</path>
+		<name>Turtle Bridge</name>
+		<desc>Tourists attempt to cross a lake from left bank to right bank with their luggage by stepping on the backs of turtles. When tourist reaches other side he hands his baggage to other tourist then crosses back again. When turtle sees a fish rising to the surface, it dives down into the water. When the tourist is on a turtle that dives, score one miss; miss mark appears on screen; three misses and game ends. Once tourist leaves the left bank, he can not climb back without his baggage to other tourist. Fishes do not rise from the center of screen in Game A. If tourist remains in center area for more than 2 minutes, fish begins rising from center also. 3 points each time tourist hand over a piece of baggage. Extra points are scored each time tourist returns to left bank. The faster the tourist makes the round trip, the higher the score (Max. points: 12. Min. points: 2). When player reaches a bonus score (successive units of 200 or 500), any miss marks indicated at the time are erased with a fanfare and game continues. If a bonus score is reached with no misses, game goes into Chance time for 20 to 40 seconds. Turtles do not move and fishes do not appear. Maximum display score is 9999 points.</desc>
+		<image>./images/Turtle Bridge (Nintendo, Wide Screen)-image.png</image>
+		<video>./videos/Turtle Bridge (Nintendo, Wide Screen)-video.mp4</video>
+		<marquee>./images/Turtle Bridge (Nintendo, Wide Screen)-marquee.png</marquee>
+		<thumbnail>./images/Turtle Bridge (Nintendo, Wide Screen)-thumb.png</thumbnail>
+		<fanart>./images/Turtle Bridge (Nintendo, Wide Screen)-fanart.jpg</fanart>
+		<releasedate>19820201T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>bf7948ebda0c6084f846125726fe4696</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123124" />
+	</game>
+	<game id="88098">
+		<path>./Donkey Kong Jr. (Nintendo, Panorama Screen).mgw</path>
+		<name>Donkey Kong Jr. (panorama Screen)</name>
+		<desc>Donkey Kong has been captured and chained by Mario. Donkey Kong Jr. goes to papa's rescue with key he needs to open the locks on the chains. Junior is attacked by fierce birds. He uses umbrellas to leap from heights, and balloons to get up there, opening the locks on the way. When he opens all 4 locks, papa is free. Each time he opens one lock, he must go back to START to retrieve the key, then sets out again is lost. With three misses game ends. 1 point when Junior jumps to umbrella or balloon. 2 to 10 points when Junior hits fierce bird with coconut. 10 points when Junior opens one lock. 10 points (extra bonus) when Junior opens all four locks. When score reaches 300 points and there are one or two misses, all the misses are cleared with fanfare. If there are no misses when a 300 score is reached, game goes into "CHANCE TIME". Score flashes and all the points are awarded at double value until a miss is scored. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
+		<image>./images/Donkey Kong Jr. (Nintendo, Panorama Screen)-image.png</image>
+		<video>./videos/Donkey Kong Jr. (Nintendo, Panorama Screen)-video.mp4</video>
+		<marquee>./images/Donkey Kong Jr. (Nintendo, Panorama Screen)-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong Jr. (Nintendo, Panorama Screen)-thumb.png</thumbnail>
+		<fanart>./images/Donkey Kong Jr. (Nintendo, Panorama Screen)-fanart.jpg</fanart>
+		<releasedate>19831007T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<md5>03a31a492eb68fb93ff6514358e6366a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123124" />
+	</game>
+	<game id="88099">
+		<path>./Donkey Kong Jr.mgw</path>
+		<name>Donkey Kong Jr. (table Top)</name>
+		<desc>Donkey Kong has been captured and chained by Mario. Donkey Kong Jr. goes to papa's rescue with key he needs to open the locks on the chains. Junior is attacked by fierce birds. He uses umbrellas to leap from heights, and balloons to get up there, opening the locks on the way. When he opens all 4 locks, papa is free. Each time he opens one lock, he must go back to START to retrieve the key, then sets out again is lost. With three misses game ends. 1 point when Junior jumps to umbrella or balloon. 2 to 10 points when Junior hits fierce bird with coconut. 10 points when Junior opens one lock. 10 points (extra bonus) when Junior opens all four locks. When score reaches 300 points and there are one or two misses, all the misses are cleared with fanfare. If there are no misses when a 300 score is reached, game goes into "CHANCE TIME". Score flashes and all the points are awarded at double value until a miss is scored. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
+		<image>./images/Donkey Kong Jr-image.png</image>
+		<marquee>./images/Donkey Kong Jr-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong Jr-thumb.png</thumbnail>
+		<fanart>./images/Donkey Kong Jr-fanart.jpg</fanart>
+		<releasedate>19830423T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20220918T172543</lastplayed>
+		<md5>5e6556ad647208f66938f67506c7fa6a</md5>
+		<gametime>23</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123124" />
+	</game>
+	<game id="88053">
+		<path>./Crazy Chewy (VTech, Electronic Tini-Arcade).mgw</path>
+		<name>Crazy Chewy</name>
+		<desc>You are in a deep-sea maze. Your task is to outwit the deadly sea monsters. Every step you take you absorb a power atom giving you the energy to continue and score points. Your aim is to clear the maze completely. The monsters will try to protect the territory and chase you. If you are captured you loose a life. You have three lives. If you manage to absorb a "marine energizer" you can chase and destroy the monsters scoring bonus points. There are many power atoms, marine energizers and two bonus stars - which flash on and off. If you manage to clear the maze, a new full maze will appear, allowing you to continue your greedy rampage. There are two secret tunnels in the maze. Both Chewy and the monsters can enter them. The tunnels are indicated by arrows on the screen. 10 points are scored each time a power atom is absorbed. 200 points are scored each time a sea monster is defeated. 2000 points are scored each time a bonus star is absorbed. Bonus life is awarded at 20000 points. Maximum displayed score is 99990.</desc>
+		<image>./images/Crazy Chewy (VTech, Electronic Tini-Arcade)-image.png</image>
+		<video>./videos/Crazy Chewy (VTech, Electronic Tini-Arcade)-video.mp4</video>
+		<marquee>./images/Crazy Chewy (VTech, Electronic Tini-Arcade)-marquee.png</marquee>
+		<thumbnail>./images/Crazy Chewy (VTech, Electronic Tini-Arcade)-thumb.png</thumbnail>
+		<fanart>./images/Crazy Chewy (VTech, Electronic Tini-Arcade)-fanart.jpg</fanart>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1</players>
+		<md5>5d37efec52365867f766d856c568bbf3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123124" />
+	</game>
+	<game id="88088">
+		<path>./Snoopy.mgw</path>
+		<name>Snoopy (panorama Screen)</name>
+		<desc>Shroeder is playing his piano. The notes fly through the air to where Woodstock is sleeping. Operate Snoopy left and right to strike down the notes with his hammer so that Woodstock may sleep in peace. If a note gets to any nest, a miss occurs; three misses and game ends. Game A: 3 lines of notes. Game B: 4 lines of notes. 1 point for each note knocked down. At 300 points a music is played and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value until miss is made. Maximum display score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
+		<image>./images/Snoopy-image.png</image>
+		<video>./videos/Snoopy-video.mp4</video>
+		<marquee>./images/Snoopy-marquee.png</marquee>
+		<thumbnail>./images/Snoopy-thumb.png</thumbnail>
+		<fanart>./images/Snoopy-fanart.jpg</fanart>
+		<releasedate>19830830T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>0190f3d0a9fa29575a771d919462b6ee</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123125" />
+	</game>
+	<game id="88067">
+		<path>./HippoT.mgw</path>
+		<name>Hippo Teeth (mini Time And Fun)</name>
+		<desc>Help the busy dentist to prevent hippo's teeth from being eaten by the tooth-invaders. When a tooth is eaten, a miss is scored. Three misses and game ends. 10 points per killed tooth-invader. All teeth are restored at every 1000 points scored. Maximum displayed score is 9999.</desc>
+		<image>./images/HippoT-image.png</image>
+		<video>./videos/HippoT-video.mp4</video>
+		<marquee>./images/HippoT-marquee.png</marquee>
+		<thumbnail>./images/HippoT-thumb.png</thumbnail>
+		<fanart>./images/HippoT-fanart.jpg</fanart>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>efbeb709079cd2079fc07fe41a772d38</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123244" />
+	</game>
+	<game id="88050">
+		<path>./Casio-SF.mgw</path>
+		<name>Cessate Il Fuoco</name>
+		<desc>Help Heathcliff the cat to prevent Sonja's flowers from being burned by flaming sticks thrown by an enemy cat. Spike the dog watches from behind the fence. Misses: one miss per burnt flower. Three misses and game ends. 10 points are awarded when Heathcliff successfully extinguishes a flame. All flames are cleared at every 1000 points. Maximum displayed score is 9999.</desc>
+		<image>./images/Casio-SF-image.png</image>
+		<video>./videos/Casio-SF-video.mp4</video>
+		<marquee>./images/Casio-SF-marquee.png</marquee>
+		<thumbnail>./images/Casio-SF-thumb.png</thumbnail>
+		<fanart>./images/Casio-SF-fanart.jpg</fanart>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>443c6c315f0ccfd957b74260027f0ef9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123244" />
+	</game>
+	<game id="88069">
+		<path>./Hot Line (VTech, Mini Time &amp; Fun).mgw</path>
+		<name>Hot Line (mini Time And Fun)</name>
+		<desc>A clerk has the task to answer phone calls very quickly. Move the clerk left and right to answer phone calls. When a phone call is not answered, a chance is missed. The secretary appears occasionally, waiting for the clerk to sign a few documents (game B only). Three misses and game ends. 10 points are scored each time a phone call is answered. 50 points are scored each time a document is signed. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</desc>
+		<image>./images/Hot Line (VTech, Mini Time &amp; Fun)-image.png</image>
+		<video>./videos/Hot Line (VTech, Mini Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Hot Line (VTech, Mini Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Hot Line (VTech, Mini Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Hot Line (VTech, Mini Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>b816c7acf8b8908b7dc51e4271b1c54b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123244" />
+	</game>
+	<game id="88080">
+		<path>./Pac Man (Tomytronic).mgw</path>
+		<name>Pac Man</name>
+		<desc>Do you really need instructions about the Pac Man videogame ? :-) Notice: Pac Man can eat pills when walking from right to left only! Amateur game becomes automatically Professional game at level 4 (this means that there will be three ghosts in the maze instead of two). Bait: 2 points. Power star: 50 points. Ghost: 100 to 400 points. Cherry: 100 to 400 points (depending on game stage). Cherries appear whenever Pac Man eats 8 pills (maximum 2 cherries per stage). A bonus life is awarded at 2000 points.</desc>
+		<image>./images/Pac Man (Tomytronic)-image.png</image>
+		<video>./videos/Pac Man (Tomytronic)-video.mp4</video>
+		<marquee>./images/Pac Man (Tomytronic)-marquee.png</marquee>
+		<thumbnail>./images/Pac Man (Tomytronic)-thumb.png</thumbnail>
+		<fanart>./images/Pac Man (Tomytronic)-fanart.jpg</fanart>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Tomytronic</developer>
+		<publisher>Tomytronic</publisher>
+		<genre>Action</genre>
+		<family>Pac-Man</family>
+		<players>1</players>
+		<md5>8552ba28e9ad1b2307f34d5317409ddf</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123244" />
+	</game>
+	<game id="88049">
+		<path>./Caccia al Ladro (VTech, Mini Time &amp; Fun).mgw</path>
+		<name>Caccia Al Ladro</name>
+		<desc>Help Heathcliff the cat to prevent Sonja's fish to be stolen by a thief, or she'll shout at him in anger. Spike the dog disturbs Heathcliff's action. Misses: one miss per cleared dish of fish. Three misses and game ends. 10 points are awarded when Heathcliff successfully attacks a thief. All fish are restored at every 1000 points. Maximum displayed score is 9999.</desc>
+		<image>./images/Caccia al Ladro (VTech, Mini Time &amp; Fun)-image.png</image>
+		<video>./videos/Caccia al Ladro (VTech, Mini Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Caccia al Ladro (VTech, Mini Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Caccia al Ladro (VTech, Mini Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Caccia al Ladro (VTech, Mini Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>cd270bdc00e6c55a79a8cef0cf382988</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123244" />
+	</game>
+	<game id="88079">
+		<path>./Motor Cross (Queentex).mgw</path>
+		<name>Motor Cross</name>
+		<desc>Your aim is to overtake as many bikers as possible before running out of fuel and crashing your bike. As soon as you score a fixed amount of points on the current track, a new track will be made available for you to race. At the beginning of the track, you'll have a new bike with full fuel tank. Sometimes a fuel pump or a spanner will appear on the left or right sides of the road. You can fill your fuel tank or restore your bike by moving close to them and then pressing Start to collect them. When game is over you can continue the game by pressing Start before the "CON" writing fades (10 seconds). You'll run the same track and your score will be reset zero. 100 points per every overtaken bike, (slow speed). 200 points per every overtaken bike, (medium speed). 300 points per every overtaken bike, (fast speed). Maximum displayed score is 199900 points, then score resets to 0.</desc>
+		<image>./images/Motor Cross (Queentex)-image.png</image>
+		<video>./videos/Motor Cross (Queentex)-video.mp4</video>
+		<marquee>./images/Motor Cross (Queentex)-marquee.png</marquee>
+		<thumbnail>./images/Motor Cross (Queentex)-thumb.png</thumbnail>
+		<fanart>./images/Motor Cross (Queentex)-fanart.jpg</fanart>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Queentex</developer>
+		<publisher>Queentex</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>513cdf4e526fb848ed0db27f423d20de</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123244" />
+	</game>
+	<game id="88089">
+		<path>./Snoopy (Nintendo, Table Top).mgw</path>
+		<name>Snoopy (table Top)</name>
+		<desc>Shroeder is playing his piano. The notes fly through the air to where Woodstock is sleeping. Operate Snoopy left and right to strike down the notes with his hammer so that Woodstock may sleep in peace. If a note gets to any nest, a miss occurs; three misses and game ends. Game A: 3 lines of notes. Game B: 4 lines of notes. 1 point for each note knocked down. At 300 points a music is played and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value until miss is made. Maximum display score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
+		<image>./images/Snoopy (Nintendo, Table Top)-image.png</image>
+		<marquee>./images/Snoopy (Nintendo, Table Top)-marquee.png</marquee>
+		<thumbnail>./images/Snoopy (Nintendo, Table Top)-thumb.png</thumbnail>
+		<fanart>./images/Snoopy (Nintendo, Table Top)-fanart.jpg</fanart>
+		<releasedate>19830507T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>dce0be3be4259acf4b186a5c5ae7348a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123244" />
+	</game>
+	<game id="99463">
+		<path>./Donkey Kong Coleco.mgw</path>
+		<name>Donkey Kong</name>
+		<desc>Move Mario to make him rescue his girlfriend, kidnapped by Donkey Kong. In odd levels, Donkey Kong throws barrels at Mario. Operate Mario and take him to the top of the building, making him avoid barrels. In even levels, operate Mario in order to remove all rivets from the girders by walking above them. Fireballs hang around: be sure Mario won't touch them! Additional info: don't let Mario move too left or right of the girders or he'll fall down; the left ladder on the second girder is a "safe position" from barrels; Mario can walk, not jump through the electric fence below Donkey Kong.</desc>
+		<image>./images/Donkey Kong Coleco-image.png</image>
+		<video>./videos/Donkey Kong Coleco-video.mp4</video>
+		<marquee>./images/Donkey Kong Coleco-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong Coleco-thumb.png</thumbnail>
+		<fanart>./images/Donkey Kong Coleco-fanart.jpg</fanart>
+		<releasedate>20020409T000000</releasedate>
+		<developer>Coleco Industries, Inc.</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<md5>0edd6829601d821199ce6b48fdb3608c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123244" />
+	</game>
+	<game id="88063">
+		<path>./Frog Boaster (Elektronika).mgw</path>
+		<name>Frog Boaster</name>
+		<desc>Move a frog to catch butterflies. When a butterfly escapes, a miss is scored. The chicken appears/disappears at every five seconds. When the cock appears while butterfly escapes, half miss is scored (miss mark blinks). Three full misses and game is over. 1 point is scored for each butterfly caught by frog. At 200 and 500 points, if there are one or more misses, fanfare sounds play and all misses are canceled. Maximum displayed score is 999 points.</desc>
+		<image>./images/Frog Boaster (Elektronika)-image.png</image>
+		<video>./videos/Frog Boaster (Elektronika)-video.mp4</video>
+		<marquee>./images/Frog Boaster (Elektronika)-marquee.png</marquee>
+		<thumbnail>./images/Frog Boaster (Elektronika)-thumb.png</thumbnail>
+		<fanart>./images/Frog Boaster (Elektronika)-fanart.jpg</fanart>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Elektronika</developer>
+		<publisher>Elektronika</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>18f9d9ad05af31a728c7999ab6db84a8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123244" />
+	</game>
+	<game id="88050">
+		<path>./Cessate il Fuoco (VTech, Mini Time &amp; Fun).mgw</path>
+		<name>Cessate Il Fuoco</name>
+		<desc>Help Heathcliff the cat to prevent Sonja's flowers from being burned by flaming sticks thrown by an enemy cat. Spike the dog watches from behind the fence. Misses: one miss per burnt flower. Three misses and game ends. 10 points are awarded when Heathcliff successfully extinguishes a flame. All flames are cleared at every 1000 points. Maximum displayed score is 9999.</desc>
+		<image>./images/Cessate il Fuoco (VTech, Mini Time &amp; Fun)-image.png</image>
+		<video>./videos/Cessate il Fuoco (VTech, Mini Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Cessate il Fuoco (VTech, Mini Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Cessate il Fuoco (VTech, Mini Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Cessate il Fuoco (VTech, Mini Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>24a19a4adac12e4635192be37d1c3b66</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123246" />
+	</game>
+	<game id="88075">
+		<path>./MickeyMP.mgw</path>
+		<name>Mickey Mouse (panorama Screen)</name>
+		<desc>Mickey Mouse performs baton acrobatics while balancing on a ball in a circus. Donald Duck watches his acrobatic feats. Move Mickey Mouse left and right to catch the batons, but beware of the flaming torches. One miss is scored when Mickey Mouse fails to catch a baton, or when he catches a flaming torch. Three misses and game ends. 1 point for each baton Mickey Mouse catches and tosses. Maximum displayed score is 999. At 300 points fanfare sounds and all misses are canceled. If there are no misses when 300 points are reached, game goes into "Chance-Time": all points are awarded at double value (2 points per baton caught) until a miss is made.</desc>
+		<image>./images/MickeyMP-image.png</image>
+		<video>./videos/MickeyMP-video.mp4</video>
+		<marquee>./images/MickeyMP-marquee.png</marquee>
+		<thumbnail>./images/MickeyMP-thumb.png</thumbnail>
+		<fanart>./images/MickeyMP-fanart.jpg</fanart>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<family>Mickey Mouse</family>
+		<players>1</players>
+		<md5>b6d5dc2f9524d8c6144517bd94b51188</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123336" />
+	</game>
+	<game id="88056">
+		<path>./Donkey Kong II (Nintendo, Multi Screen).mgw</path>
+		<name>Donkey Kong II</name>
+		<desc>A continuation of the famous Donkey Kong Story. Now Mario has chained Donkey Kong. Donkey Kong Junior braves snapjaws, sparks and birds, throwing the key which will open Donkey Kong's locks, up to where his papa is held prisoner. Avoid sparks overhead and make Junior jump and throw key to upper screen. When a snapjaw attacks, make Junior jump without hitting overhead spark. When Junior reaches the upper screen, he has to jump to get the key he threw again. The key jumps to one of the four locks.
+- Press top of "PLUS" button when on top of chain. A lock opens.</desc>
+		<image>./images/Donkey Kong II (Nintendo, Multi Screen)-image.png</image>
+		<video>./videos/Donkey Kong II (Nintendo, Multi Screen)-video.mp4</video>
+		<marquee>./images/Donkey Kong II (Nintendo, Multi Screen)-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong II (Nintendo, Multi Screen)-thumb.png</thumbnail>
+		<fanart>./images/Donkey Kong II (Nintendo, Multi Screen)-fanart.jpg</fanart>
+		<releasedate>19830307T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<md5>9932aba5bb60c309a46aa3debaf3999a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123336" />
+	</game>
+	<game id="88066">
+		<path>./Grab Man (unknown manufacturer, Game &amp; Time).mgw</path>
+		<name>Grab Man</name>
+		<desc>Same as Pac Man - do you really need instructions? Notice: Grab Man can eat pills when walking from right to left only! Pill: 5 points. Power pill: 100 points. Ghosts: 200 to 800 points. Apple: 200 to 2000 points (depending on game stage). Apples appear whenever Grab Man eats 8 pills (maximum 2 cherries per stage). Bonus points (1000) are given at level 6 and at every 5 levels. A bonus life is awarded at 5000 and at every 20000 points (just in case you have less than 3 lives left).</desc>
+		<image>./images/Grab Man (unknown manufacturer, Game &amp; Time)-image.png</image>
+		<video>./videos/Grab Man (unknown manufacturer, Game &amp; Time)-video.mp4</video>
+		<marquee>./images/Grab Man (unknown manufacturer, Game &amp; Time)-marquee.png</marquee>
+		<thumbnail>./images/Grab Man (unknown manufacturer, Game &amp; Time)-thumb.png</thumbnail>
+		<fanart>./images/Grab Man (unknown manufacturer, Game &amp; Time)-fanart.jpg</fanart>
+		<releasedate>19800101T000000</releasedate>
+		<developer>unknown manufacturer</developer>
+		<publisher>unknown manufacturer</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>95866fedb029b75f6c170a787e462283</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123336" />
+	</game>
+	<game id="88067">
+		<path>./Hippo Teeth (VTech, Mini Time &amp; Fun).mgw</path>
+		<name>Hippo Teeth (mini Time And Fun)</name>
+		<desc>Help the busy dentist to prevent hippo's teeth from being eaten by the tooth-invaders. When a tooth is eaten, a miss is scored. Three misses and game ends. 10 points per killed tooth-invader. All teeth are restored at every 1000 points scored. Maximum displayed score is 9999.</desc>
+		<image>./images/Hippo Teeth (VTech, Mini Time &amp; Fun)-image.png</image>
+		<video>./videos/Hippo Teeth (VTech, Mini Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Hippo Teeth (VTech, Mini Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Hippo Teeth (VTech, Mini Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Hippo Teeth (VTech, Mini Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>f69c00fb643a3a58eb4fde4848b61438</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123336" />
+	</game>
+	<game id="88056">
+		<path>./DKong2.mgw</path>
+		<name>Donkey Kong II</name>
+		<desc>A continuation of the famous Donkey Kong Story. Now Mario has chained Donkey Kong. Donkey Kong Junior braves snapjaws, sparks and birds, throwing the key which will open Donkey Kong's locks, up to where his papa is held prisoner. Avoid sparks overhead and make Junior jump and throw key to upper screen. When a snapjaw attacks, make Junior jump without hitting overhead spark. When Junior reaches the upper screen, he has to jump to get the key he threw again. The key jumps to one of the four locks.
+- Press top of "PLUS" button when on top of chain. A lock opens.</desc>
+		<image>./images/DKong2-image.png</image>
+		<video>./videos/DKong2-video.mp4</video>
+		<marquee>./images/DKong2-marquee.png</marquee>
+		<thumbnail>./images/DKong2-thumb.png</thumbnail>
+		<fanart>./images/DKong2-fanart.jpg</fanart>
+		<releasedate>19830307T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<md5>29c7e0211a7033a11ab63ba3f7fe7c98</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123339" />
+	</game>
+	<game id="88077">
+		<path>./Monkey (VTech, Time &amp; Fun).mgw</path>
+		<name>Monkey</name>
+		<desc>Monkeys continuously climb the trees to steal coconuts. You should try your best to avoid the coconuts being stolen. When a monkey successfully reaches a coconut, a missed is scored. Five misses and game ends. 1 point is scored each time a monkey is hit. Maximum displayed score is 9999.</desc>
+		<image>./images/Monkey (VTech, Time &amp; Fun)-image.png</image>
+		<video>./videos/Monkey (VTech, Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Monkey (VTech, Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Monkey (VTech, Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Monkey (VTech, Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>a5278689846efe80e0d292a9a073bb5f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123355" />
+	</game>
+	<game id="88090">
+		<path>./Snoopy Tennis (Nintendo, Wide Screen).mgw</path>
+		<name>Snoopy Tennis</name>
+		<desc>Charlie Brown and Snoopy are playing tennis. Snoopy has to climb the tree to receive Charlie Brown's serve. Lucy keeps butting in, intercepts the ball from snoopy and returns it. Pressing when ball is just in front of Snoopy's face is good timing.  When Snoopy swings and misses, he can not move until his racket returns to original position. When Snoopy misses, ball continues on, followed by sound of broken bottles. CRASH mark appears. Snoopy pretends innocence, fakes sleep. Charlie Brown throws racket down in despair. 2 points when returning Charlie Brown's ball. 3 points when returning Lucy's ball. Bonus scores are those with 200 or 500 points (200, 500, 1200, 1500, ... to 9500). When each bonus score is reached, fanfare sounds and all misses are canceled. When a bonus score is reached and there are no misses registered, game goes into "Chance time" for 50 to 70 seconds. Score flashes on and off, returning Charlie Brown's ball score 5 points, Lucy's ball score 6 points. Maximum display score is 9999 points.</desc>
+		<image>./images/Snoopy Tennis (Nintendo, Wide Screen)-image.png</image>
+		<video>./videos/Snoopy Tennis (Nintendo, Wide Screen)-video.mp4</video>
+		<marquee>./images/Snoopy Tennis (Nintendo, Wide Screen)-marquee.png</marquee>
+		<thumbnail>./images/Snoopy Tennis (Nintendo, Wide Screen)-thumb.png</thumbnail>
+		<fanart>./images/Snoopy Tennis (Nintendo, Wide Screen)-fanart.jpg</fanart>
+		<releasedate>19820428T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1</players>
+		<md5>9a1d1bd2b3a116df480c26d229b24cd2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123355" />
+	</game>
+	<game id="88046">
+		<path>./Banana (VTech, Time &amp; Fun).mgw</path>
+		<name>Banana</name>
+		<desc>Move a busy thrash man around the street to clean banana peels. When a pedestrian falls on a banana peel, one miss is scored. Five misses and game ends.
+1 point is scored for each safe pedestrian.</desc>
+		<image>./images/Banana (VTech, Time &amp; Fun)-image.png</image>
+		<video>./videos/Banana (VTech, Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Banana (VTech, Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Banana (VTech, Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Banana (VTech, Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221011T123244</lastplayed>
+		<md5>25ed42173651b84c6c45b385d1a5905a</md5>
+		<gametime>75</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123358" />
+	</game>
+	<game id="88093">
+		<path>./Towering Rescue (Gakken, LCD Card Game).mgw</path>
+		<name>Towering Rescue</name>
+		<desc>A large scale earthquake occurred! Rescue refugees on the top of the buildings by helicopter. If the helicopter collides against red building or tower on either side, the game is over. Also if you fail to rescue 2 refugees the game is over. In game A, helicopter can carry one only refugee at one time. In game B, helicopter can carry up to two refugees at the same time. 10 points per each refugee taken to the safety building (on the right side of the screen). Maximum display score is 9990 points. At 9990 points the game is over automatically.</desc>
+		<image>./images/Towering Rescue (Gakken, LCD Card Game)-image.png</image>
+		<video>./videos/Towering Rescue (Gakken, LCD Card Game)-video.mp4</video>
+		<marquee>./images/Towering Rescue (Gakken, LCD Card Game)-marquee.png</marquee>
+		<thumbnail>./images/Towering Rescue (Gakken, LCD Card Game)-thumb.png</thumbnail>
+		<fanart>./images/Towering Rescue (Gakken, LCD Card Game)-fanart.jpg</fanart>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Gakken</developer>
+		<publisher>Gakken</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>48b0b34918d5c18012e1c3bdb19f3ebd</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123403" />
+	</game>
+	<game id="99461">
+		<path>./Donkey Kong Circus (Nintendo, Panorama Screen).mgw</path>
+		<name>Donkey Kong Circus</name>
+		<desc>Donkey Kong juggles pineapples while balancing on a barrel. Catch the pineapples, but beware of fireballs. Donkey Kong will automatically toss the pineapples he catches. Mario watches his juggling performance. Lives are lost either if a pineapple falls on the floor or if Donkey Kong touches a fireball. Mario laughs at Donkey Kong as he misses. Three misses and game ends. 1 point for each pineapple Donkey Kong catches and tosses. Maximum displayed score is 999. At 300 points fanfare sounds and all misses are canceled. If there are no misses when 300 points are reached, game goes into "Chance-Time": all points are awarded at double value (2 points per pineapple caught) until a miss is made.</desc>
+		<image>./images/Donkey Kong Circus (Nintendo, Panorama Screen)-image.png</image>
+		<video>./videos/Donkey Kong Circus (Nintendo, Panorama Screen)-video.mp4</video>
+		<marquee>./images/Donkey Kong Circus (Nintendo, Panorama Screen)-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong Circus (Nintendo, Panorama Screen)-thumb.png</thumbnail>
+		<fanart>./images/Donkey Kong Circus (Nintendo, Panorama Screen)-fanart.jpg</fanart>
+		<releasedate>19840906T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<md5>c2f6d3519848698cf490779eb4996397</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123408" />
+	</game>
+	<game id="88087">
+		<path>./Sleep Walker (VTech, Time &amp; Fun).mgw</path>
+		<name>Sleep Walker</name>
+		<desc>Move a busy man in pyjamas around the house to save sleepwalkers. When a sleepwalker gets awaken, one miss is scored. Five misses and game ends. 1 point is scored for each safe sleepwalker. Maximum displayed score is 9999.</desc>
+		<image>./images/Sleep Walker (VTech, Time &amp; Fun)-image.png</image>
+		<video>./videos/Sleep Walker (VTech, Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Sleep Walker (VTech, Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Sleep Walker (VTech, Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Sleep Walker (VTech, Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19910101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>17e15267c63edeadba2e7b4f766a0013</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123414" />
+	</game>
+	<game id="88059">
+		<path>./Engine Room (VTech, Explorer Time &amp; Fun).mgw</path>
+		<name>Engine Room</name>
+		<desc>The love boat engine needs coal, or it'll stop cruising across the ocean. Move a busy worker in order to throw coal continuously into the furnace. When a lot of coal is not supplied, a chance is missed. A mate appears occasionally, bringing some tea to our character (game B only). Three misses and game ends. 10 points are scored each time a lot of coal is thrown into the furnace. 50 points are scored each time the worker drinks some tea. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</desc>
+		<image>./images/Engine Room (VTech, Explorer Time &amp; Fun)-image.png</image>
+		<video>./videos/Engine Room (VTech, Explorer Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Engine Room (VTech, Explorer Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Engine Room (VTech, Explorer Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Engine Room (VTech, Explorer Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19840101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>d29e47d3e3e93a96074208d2be5000ab</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123421" />
+	</game>
+	<game id="88092">
+		<path>./Tennis Menace (VTech, Sporty Time &amp; Fun).mgw</path>
+		<name>Tennis Menace</name>
+		<desc>Train tennis by playing with your coach. Move the player left and right to get all balls. When a ball falls on the ground, a chance is missed. Three misses and game ends. 10 points are scored each time a ball is hit. a quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</desc>
+		<image>./images/Tennis Menace (VTech, Sporty Time &amp; Fun)-image.png</image>
+		<video>./videos/Tennis Menace (VTech, Sporty Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Tennis Menace (VTech, Sporty Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Tennis Menace (VTech, Sporty Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Tennis Menace (VTech, Sporty Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1</players>
+		<md5>8458b8bd077d1cb1b22c68aed8f080a0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123427" />
+	</game>
+	<game id="88091">
+		<path>./Sub Chase (Mattel Electronics).mgw</path>
+		<name>Sub Chase</name>
+		<desc>Computer controls submarine attack. Turn power on: single (bright red) dot appears: that's your ship. Use cursor keys to steer ship within range of invisible submarine. "Sonar" single beep means submarine is nearby. "Sonar" frequent beeps mean submarine is very near or under your ship. Fire depth charge by using control key. You have 30 on board to sink as many submarines as you can. Sink one and computer programs another submarine. Watch out for torpedoes (moving line of dots). If submarine sinks your ship, game is over. Game is also over when you have no more depth charges on board. 1 to 5 points per submarine sunk (score depends on how many charges you shot). Scores over 100 will be displayed by code, I.E.: 100-109 hits by "A0-A9", 110-119 by "B0-B9", 120-129 by "C0-C9", 130-139 by "D0-D9", 140-149 by "E0-E9".</desc>
+		<image>./images/Sub Chase (Mattel Electronics)-image.png</image>
+		<video>./videos/Sub Chase (Mattel Electronics)-video.mp4</video>
+		<marquee>./images/Sub Chase (Mattel Electronics)-marquee.png</marquee>
+		<thumbnail>./images/Sub Chase (Mattel Electronics)-thumb.png</thumbnail>
+		<fanart>./images/Sub Chase (Mattel Electronics)-fanart.jpg</fanart>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>e58782ae631e1aaf2b6884ece29b898f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123434" />
+	</game>
+	<game id="88071">
+		<path>./Las Vegas (Bandai, LCD Game Digital).mgw</path>
+		<name>Las Vegas</name>
+		<desc>Your hero is very poor because he lost all his money playing the slot-machines. There are a few luckier gamblers than he, whose coins fall from the slot-machines. Your hero tries to get all of the coins falling from their slot-machines. When he collects 100 coins, he plays the slot-machine and attempts to win some more money. Gambling game starts whenever he scores 1000 points. 10 points are scored when your hero grabs a falling coin. 100 points are scored when your hero scores 111 at the slot machine. 200 points are scored when your hero scores 333 at the slot machine. 500 points are scored when your hero scores 777 at the slot machine. A money bag is awarded when your hero scores 777 at the slot machine. A money bag is lost when your hero scores a miss at the gambling game.</desc>
+		<image>./images/Las Vegas (Bandai, LCD Game Digital)-image.png</image>
+		<video>./videos/Las Vegas (Bandai, LCD Game Digital)-video.mp4</video>
+		<marquee>./images/Las Vegas (Bandai, LCD Game Digital)-marquee.png</marquee>
+		<thumbnail>./images/Las Vegas (Bandai, LCD Game Digital)-thumb.png</thumbnail>
+		<fanart>./images/Las Vegas (Bandai, LCD Game Digital)-fanart.jpg</fanart>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>0c15067db80185d4b25b1da92cc37494</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123443" />
+	</game>
+	<game id="88057">
+		<path>./Donkey Kong II.mgw</path>
+		<name>Donkey Kong Jr.</name>
+		<desc>Donkey Kong has been captured and chained by Mario. Donkey Kong Jr. goes to papa's rescue with key he needs to open the locks on the chains. Junior is attacked by fierce birds. He uses umbrellas to leap from heights, and balloons to get up there, opening the locks on the way. When he opens all 4 locks, papa is free. Each time he opens one lock, he must go back to START to retrieve the key, then sets out again is lost. With three misses game ends. 1 point when Junior jumps to umbrella or balloon. 2 to 10 points when Junior hits fierce bird with coconut. 10 points when Junior opens one lock. 10 points (extra bonus) when Junior opens all four locks. When score reaches 300 points and there are one or two misses, all the misses are cleared with fanfare. If there are no misses when a 300 score is reached, game goes into "CHANCE TIME". Score flashes and all the points are awarded at double value until a miss is scored. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
+		<image>./images/Donkey Kong II-image.png</image>
+		<video>./videos/Donkey Kong II-video.mp4</video>
+		<marquee>./images/Donkey Kong II-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong II-thumb.png</thumbnail>
+		<fanart>./images/Donkey Kong II-fanart.jpg</fanart>
+		<developer>Coleco Industries, Inc.</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action</genre>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<md5>6a252247faf6148137790c809228a130</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123455" />
+	</game>
+	<game id="88060">
+		<path>./Escape (VTech, Time &amp; Fun).mgw</path>
+		<name>Escape</name>
+		<desc>Manipulate the motion of the prisoner so as to avoid being caught by the guards appearing in the upper and lower rows, and to escape through the gate as soon as it's open. When the prisoner is spotted by a guard, he will be caught, meaning a miss. Five misses and game ends. 1 point is awarded when a prisoner successfully leaves the jail. Maximum displayed score is 9999.</desc>
+		<image>./images/Escape (VTech, Time &amp; Fun)-image.png</image>
+		<video>./videos/Escape (VTech, Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Escape (VTech, Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Escape (VTech, Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Escape (VTech, Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>1eaf2906624ad380d924c6ddbf34bb91</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123507" />
+	</game>
+	<game id="88058">
+		<path>./Dungeons &amp; Dragons Computer Fantasy Game (Mattel Electronics, Arcade Action Series).mgw</path>
+		<name>Dungeons &amp; Dragons Computer Fantasy Game</name>
+		<desc>Press ATTACK button to get out of demo mode; screen shows L1, for skill level 1. Press MOVE button 1 or 2 times, to select skill level 2 or 3. Press it again and you go back to level 1. Level 1: warrior possesses magic rope at start of game. Level 2: magic rope is hidden randomly and must be found to be used. Level 3: there is no magic rope. You see score ONLY when you slay the dragon. You score 1 point per each 5 seconds of spent time. Maximum number of points possible is 99 (then game is over). The lowest score is the best score! Click on the Attack button after game ends to start a new game, or hold it for 5 seconds to put the game in demo mode.</desc>
+		<image>./images/Dungeons &amp; Dragons Computer Fantasy Game (Mattel Electronics, Arcade Action Series)-image.png</image>
+		<video>./videos/Dungeons &amp; Dragons Computer Fantasy Game (Mattel Electronics, Arcade Action Series)-video.mp4</video>
+		<marquee>./images/Dungeons &amp; Dragons Computer Fantasy Game (Mattel Electronics, Arcade Action Series)-marquee.png</marquee>
+		<thumbnail>./images/Dungeons &amp; Dragons Computer Fantasy Game (Mattel Electronics, Arcade Action Series)-thumb.png</thumbnail>
+		<fanart>./images/Dungeons &amp; Dragons Computer Fantasy Game (Mattel Electronics, Arcade Action Series)-fanart.jpg</fanart>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<family>Dungeons &amp; Dragons</family>
+		<players>1</players>
+		<md5>e1e05f0cced9092ce5ba0993f8b79f38</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123516" />
+	</game>
+	<game id="88074">
+		<path>./Mario's Bombs Away (Nintendo, Panorama Screen).mgw</path>
+		<name>Mario's Bombs Away</name>
+		<desc>Mario is in the jungle, fighting against an enemy army. His aim is to take five bombs on the right side of the jungle. Mario's companion on the right side places bombs close to enemies. When all five bombs are in place, they detonate and enemy army is beaten. Enemies try to light Mario's bomb; lift/lower Mario's bomb to keep it safe. If enemies torches reach Mario's bomb, all progress (bombs already placed) is lost. Three misses and game ends. 1 point when Mario steps forward. 5 points when Mario places a bomb. 10 points when Mario places the 5th bomb. At 300 points a music is played and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value until miss is made. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
+		<image>./images/Mario's Bombs Away (Nintendo, Panorama Screen)-image.png</image>
+		<video>./videos/Mario's Bombs Away (Nintendo, Panorama Screen)-video.mp4</video>
+		<marquee>./images/Mario's Bombs Away (Nintendo, Panorama Screen)-marquee.png</marquee>
+		<thumbnail>./images/Mario's Bombs Away (Nintendo, Panorama Screen)-thumb.png</thumbnail>
+		<fanart>./images/Mario's Bombs Away (Nintendo, Panorama Screen)-fanart.jpg</fanart>
+		<releasedate>19831110T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>4bbb182e97c3f15bb3c69bb1572e0cad</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123525" />
+	</game>
+	<game id="88061">
+		<path>./Explorers of Space (Elektronika).mgw</path>
+		<name>Explorers Of Space</name>
+		<desc>Press Game A button to play game A (easy). Press Game B button to play game B (hard). Press Game A + Game B buttons to play game A+B (different).
+* Instructions (games A and B):
+Your ship has landed on a hostile planet. Enemy ships attack your ship by shooting homing missiles against it. Move your ship's energy shield to destroy enemy missiles. Misses: one miss is scored per each enemy missile that hits your ship. If your mothership (the large one on top of screen) is on screen while missile hits your ship, half a miss is scored; miss marks blinks. If your mothership is not on screen while missile hits your ship, a full miss is scored; miss marks appears. 1 point per destroyed enemy missile.
+* Instructions (game A + B):
+Shoot missiles from the screen corners to the ship in the center of the screen. Computer controls the ship's energy shield. You have 300 missiles available. 1 point per missile hitting the ship.
+At 200 and 500 points, if there are one or more misses, fanfare sounds play and all misses are canceled (games A and B only). Maximum displayed score is 999 points.</desc>
+		<image>./images/Explorers of Space (Elektronika)-image.png</image>
+		<video>./videos/Explorers of Space (Elektronika)-video.mp4</video>
+		<marquee>./images/Explorers of Space (Elektronika)-marquee.png</marquee>
+		<thumbnail>./images/Explorers of Space (Elektronika)-thumb.png</thumbnail>
+		<fanart>./images/Explorers of Space (Elektronika)-fanart.jpg</fanart>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Elektronika</developer>
+		<publisher>Elektronika</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>3bc04891a900f16c4e5f1c7244071a35</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123541" />
+	</game>
+	<game id="99461">
+		<path>./Donkey Kong Circus.mgw</path>
+		<name>Donkey Kong Circus</name>
+		<desc>Donkey Kong juggles pineapples while balancing on a barrel. Catch the pineapples, but beware of fireballs. Donkey Kong will automatically toss the pineapples he catches. Mario watches his juggling performance. Lives are lost either if a pineapple falls on the floor or if Donkey Kong touches a fireball. Mario laughs at Donkey Kong as he misses. Three misses and game ends. 1 point for each pineapple Donkey Kong catches and tosses. Maximum displayed score is 999. At 300 points fanfare sounds and all misses are canceled. If there are no misses when 300 points are reached, game goes into "Chance-Time": all points are awarded at double value (2 points per pineapple caught) until a miss is made.</desc>
+		<image>./images/Donkey Kong Circus-image.png</image>
+		<video>./videos/Donkey Kong Circus-video.mp4</video>
+		<marquee>./images/Donkey Kong Circus-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong Circus-thumb.png</thumbnail>
+		<fanart>./images/Donkey Kong Circus-fanart.jpg</fanart>
+		<releasedate>19840906T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20220921T204818</lastplayed>
+		<md5>a2dc6900bc58aab4090ceb1cce5bf612</md5>
+		<gametime>54</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123544" />
+	</game>
+	<game id="88049">
+		<path>./Casio-HF.mgw</path>
+		<name>Caccia Al Ladro</name>
+		<desc>Help Heathcliff the cat to prevent Sonja's fish to be stolen by a thief, or she'll shout at him in anger. Spike the dog disturbs Heathcliff's action. Misses: one miss per cleared dish of fish. Three misses and game ends. 10 points are awarded when Heathcliff successfully attacks a thief. All fish are restored at every 1000 points. Maximum displayed score is 9999.</desc>
+		<image>./images/Casio-HF-image.png</image>
+		<video>./videos/Casio-HF-video.mp4</video>
+		<marquee>./images/Casio-HF-marquee.png</marquee>
+		<thumbnail>./images/Casio-HF-thumb.png</thumbnail>
+		<fanart>./images/Casio-HF-fanart.jpg</fanart>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>59dda0992f659de2e6a0bb9ca487dca8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123550" />
+	</game>
+	<game id="88099">
+		<path>./Donkey Kong Jr. (Nintendo, Table Top).mgw</path>
+		<name>Donkey Kong Jr. (table Top)</name>
+		<desc>Donkey Kong has been captured and chained by Mario. Donkey Kong Jr. goes to papa's rescue with key he needs to open the locks on the chains. Junior is attacked by fierce birds. He uses umbrellas to leap from heights, and balloons to get up there, opening the locks on the way. When he opens all 4 locks, papa is free. Each time he opens one lock, he must go back to START to retrieve the key, then sets out again is lost. With three misses game ends. 1 point when Junior jumps to umbrella or balloon. 2 to 10 points when Junior hits fierce bird with coconut. 10 points when Junior opens one lock. 10 points (extra bonus) when Junior opens all four locks. When score reaches 300 points and there are one or two misses, all the misses are cleared with fanfare. If there are no misses when a 300 score is reached, game goes into "CHANCE TIME". Score flashes and all the points are awarded at double value until a miss is scored. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
+		<image>./images/Donkey Kong Jr. (Nintendo, Table Top)-image.png</image>
+		<marquee>./images/Donkey Kong Jr. (Nintendo, Table Top)-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong Jr. (Nintendo, Table Top)-thumb.png</thumbnail>
+		<fanart>./images/Donkey Kong Jr. (Nintendo, Table Top)-fanart.jpg</fanart>
+		<releasedate>19830423T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<md5>129812ba0438529ff65d7a724beca465</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123556" />
+	</game>
+	<game id="88077">
+		<path>./Monkey.mgw</path>
+		<name>Monkey</name>
+		<desc>Monkeys continuously climb the trees to steal coconuts. You should try your best to avoid the coconuts being stolen. When a monkey successfully reaches a coconut, a missed is scored. Five misses and game ends. 1 point is scored each time a monkey is hit. Maximum displayed score is 9999.</desc>
+		<image>./images/Monkey-image.png</image>
+		<video>./videos/Monkey-video.mp4</video>
+		<marquee>./images/Monkey-marquee.png</marquee>
+		<thumbnail>./images/Monkey-thumb.png</thumbnail>
+		<fanart>./images/Monkey-fanart.jpg</fanart>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>b09e5ac17c86ee370b6e17405aec6d5b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123600" />
+	</game>
+	<game id="88096">
+		<path>./Wild Man Jump (VTech, Electronic Tini-Arcade).mgw</path>
+		<name>Wild Man Jump</name>
+		<desc>A Kong kidnapped a very nice girl and took her to the mysterious jungle. She's waiting for you to save her. Now it's up to you to make your way to her. You can escape the Kong by jumping the tires he's throwing at you. You may want to rest for a while on short benches placed here and there. There's four items on the left side of the tree. The purse and the shoe on floors 1 and 3 award you with bonus points. The magic cakes on floors 2 and 4 make you invincible for a short time. You can smash tires by simply hitting them, and they're worth bonus points. When you save the girl, she awards you with a kiss. But beware of the Kong, he will kidnap her again! At every 4 completed stages, Kong falls down from tree tree, then game starts again at increased difficulty. If time runs out, or you get hurt by a tire, a life is lost. When all lives are lost, game ends. 10 points are scored when jumping a tire 100 points are scored when getting a bonus item 100 points are scored when smashing a tire 300 to 500 points awarded when completing level (depending on remaining time). Bonus life is awarded when completing level 2 and at every 4 levels. Maximum displayed score is 99990.</desc>
+		<image>./images/Wild Man Jump (VTech, Electronic Tini-Arcade)-image.png</image>
+		<video>./videos/Wild Man Jump (VTech, Electronic Tini-Arcade)-video.mp4</video>
+		<marquee>./images/Wild Man Jump (VTech, Electronic Tini-Arcade)-marquee.png</marquee>
+		<thumbnail>./images/Wild Man Jump (VTech, Electronic Tini-Arcade)-thumb.png</thumbnail>
+		<fanart>./images/Wild Man Jump (VTech, Electronic Tini-Arcade)-fanart.jpg</fanart>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>c17e1b62f4688101c608dfdc79f783a8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123607" />
+	</game>
+	<game id="88089">
+		<path>./SnoopyPS.mgw</path>
+		<name>Snoopy (table Top)</name>
+		<desc>Shroeder is playing his piano. The notes fly through the air to where Woodstock is sleeping. Operate Snoopy left and right to strike down the notes with his hammer so that Woodstock may sleep in peace. If a note gets to any nest, a miss occurs; three misses and game ends. Game A: 3 lines of notes. Game B: 4 lines of notes. 1 point for each note knocked down. At 300 points a music is played and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value until miss is made. Maximum display score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
+		<image>./images/SnoopyPS-image.png</image>
+		<marquee>./images/SnoopyPS-marquee.png</marquee>
+		<thumbnail>./images/SnoopyPS-thumb.png</thumbnail>
+		<fanart>./images/SnoopyPS-fanart.jpg</fanart>
+		<releasedate>19830507T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>ab9448cd0c775d944b047c0a068b67d6</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123609" />
+	</game>
+	<game id="88048">
+		<path>./Bomb Fight (VTech, Mini Time &amp; Fun).mgw</path>
+		<name>Bomb Fight</name>
+		<desc>An angry lion is throwing bombs to a peaceful elephant. Playing the elephant, you have to spit water to bombs to defuse them before they explode. Misses: one miss per exploded bomb. Three misses and game ends. 10 points are awarded when the elephant successfully defuses a bomb. All bombs are cleared at every 1000 points. Maximum displayed score is 9999.</desc>
+		<image>./images/Bomb Fight (VTech, Mini Time &amp; Fun)-image.png</image>
+		<video>./videos/Bomb Fight (VTech, Mini Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Bomb Fight (VTech, Mini Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Bomb Fight (VTech, Mini Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Bomb Fight (VTech, Mini Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221011T123355</lastplayed>
+		<md5>9cf8eb89d9ca1440a0c5bc1f07e4a0b3</md5>
+		<gametime>15</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123616" />
+	</game>
+	<game id="88098">
+		<path>./Donkey Kong Jr (b).mgw</path>
+		<name>Donkey Kong Jr. (panorama Screen)</name>
+		<desc>Donkey Kong has been captured and chained by Mario. Donkey Kong Jr. goes to papa's rescue with key he needs to open the locks on the chains. Junior is attacked by fierce birds. He uses umbrellas to leap from heights, and balloons to get up there, opening the locks on the way. When he opens all 4 locks, papa is free. Each time he opens one lock, he must go back to START to retrieve the key, then sets out again is lost. With three misses game ends. 1 point when Junior jumps to umbrella or balloon. 2 to 10 points when Junior hits fierce bird with coconut. 10 points when Junior opens one lock. 10 points (extra bonus) when Junior opens all four locks. When score reaches 300 points and there are one or two misses, all the misses are cleared with fanfare. If there are no misses when a 300 score is reached, game goes into "CHANCE TIME". Score flashes and all the points are awarded at double value until a miss is scored. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
+		<image>./images/Donkey Kong Jr (b)-image.png</image>
+		<video>./videos/Donkey Kong Jr (b)-video.mp4</video>
+		<marquee>./images/Donkey Kong Jr (b)-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong Jr (b)-thumb.png</thumbnail>
+		<fanart>./images/Donkey Kong Jr (b)-fanart.jpg</fanart>
+		<releasedate>19831007T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<md5>14df09b2218e7d70d27387b37e812d87</md5>
+		<lang>en</lang>
+		<region>br</region>
+		<scrap name="ScreenScraper" date="20221011T123620" />
+	</game>
+	<game id="88047">
+		<path>./Baseball (VTech, Explorer Time &amp; Fun).mgw</path>
+		<name>Baseball</name>
+		<desc>Train baseball by playing with your coach. Move the player left and right to get all balls. When a ball falls to the ground, a chance is missed. Three misses and game ends. 10 points are scored each time a ball is hit. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</desc>
+		<image>./images/Baseball (VTech, Explorer Time &amp; Fun)-image.png</image>
+		<video>./videos/Baseball (VTech, Explorer Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Baseball (VTech, Explorer Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Baseball (VTech, Explorer Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Baseball (VTech, Explorer Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19840101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221011T123336</lastplayed>
+		<md5>ba26af9680ab47450817967eb25225ef</md5>
+		<gametime>48</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123653" />
+	</game>
+	<game id="88088">
+		<path>./Snoopy (Nintendo, Panorama Screen).mgw</path>
+		<name>Snoopy (panorama Screen)</name>
+		<desc>Shroeder is playing his piano. The notes fly through the air to where Woodstock is sleeping. Operate Snoopy left and right to strike down the notes with his hammer so that Woodstock may sleep in peace. If a note gets to any nest, a miss occurs; three misses and game ends. Game A: 3 lines of notes. Game B: 4 lines of notes. 1 point for each note knocked down. At 300 points a music is played and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value until miss is made. Maximum display score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
+		<image>./images/Snoopy (Nintendo, Panorama Screen)-image.png</image>
+		<video>./videos/Snoopy (Nintendo, Panorama Screen)-video.mp4</video>
+		<marquee>./images/Snoopy (Nintendo, Panorama Screen)-marquee.png</marquee>
+		<thumbnail>./images/Snoopy (Nintendo, Panorama Screen)-thumb.png</thumbnail>
+		<fanart>./images/Snoopy (Nintendo, Panorama Screen)-fanart.jpg</fanart>
+		<releasedate>19830830T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>8f9f9c48f9638478a60e7ee40e2352eb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123653" />
+	</game>
+	<game id="88078">
+		<path>./Monkey Jump (VTech, Arcade Time &amp; Fun).mgw</path>
+		<name>Monkey Jump</name>
+		<desc>A Kong kidnapped a very nice girl and took her to the mysterious jungle. She's waiting for you to save her. Now it's up to you to make your way to her. You can escape the Kong by jumping the tires he's throwing at you. You may want to rest for a while on short benches placed here and there. There's four items on the left side of the tree. The purse and the shoe on floors 1 and 3 award you with bonus points. The magic cakes on floors 2 and 4 make you invincible for a short time. You can smash tires by simply hitting them, and they're worth bonus points. When you save the girl, she awards you with a kiss. But beware of the Kong, he will kidnap her again! At every 4 completed stages, Kong falls down from tree tree, then game starts again at increased difficulty. If time runs out, or you get hurt by a tire, a life is lost. When all lives are lost, game ends. 10 points are scored when jumping a tire 100 points are scored when getting a bonus item 100 points are scored when smashing a tire 300 to 500 points awarded when completing level (depending on remaining time). Bonus life is awarded when completing level 2 and at every 4 levels. Maximum displayed score is 99990.</desc>
+		<image>./images/Monkey Jump (VTech, Arcade Time &amp; Fun)-image.png</image>
+		<video>./videos/Monkey Jump (VTech, Arcade Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Monkey Jump (VTech, Arcade Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Monkey Jump (VTech, Arcade Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Monkey Jump (VTech, Arcade Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>82fac18a55c21c1663276839552f223b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123653" />
+	</game>
+	<game id="88082">
+		<path>./Parachut.mgw</path>
+		<name>Parachute</name>
+		<desc>Skydivers come parachuting down over shark-infested waters. Lifeboat tries to catch them. Try to catch skydivers. Move boat left or right by pressing corresponding control buttons. When a skydiver falls into the ocean he is attacked by sharks. Three misses and game ends. 1 point is scored for each skydiver caught by lifeboat. Maximum displayed score is 999. When the score reaches a bonus score (200 or 500 points), any miss marks indicated at the time are erased with a fanfare and game continues.</desc>
+		<image>./images/Parachut-image.png</image>
+		<video>./videos/Parachut-video.mp4</video>
+		<marquee>./images/Parachut-marquee.png</marquee>
+		<thumbnail>./images/Parachut-thumb.png</thumbnail>
+		<fanart>./images/Parachut-fanart.jpg</fanart>
+		<releasedate>19810619T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>c4d6626443531d6ad7de4d0b509253c0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123653" />
+	</game>
+	<game id="88073">
+		<path>./Mario Bros. (Nintendo, Multi Screen).mgw</path>
+		<name>Mario Bros.</name>
+		<desc>Mario is back in action with his brother Luigi, working in a bottling plant, loading cases on a belt conveyor. The conveyor carries the cases up for loading onto trucks. Operate Mario and Luigi up and down ladders in order to get cases. When a case is dropped, the foreman get angry and a miss is scored. Three misses and game is over 1 point per case loaded on a conveyor. 10 points per truck loaded with 8 cases. At 300 points fanfare sounds and all misses are canceled; if there are no misses when 300 points are reached, game goes into "CHANCE TIME". Score flashes and all points are awarded at double value until a miss is made. Maximum displayed score is 999 points.</desc>
+		<image>./images/Mario Bros. (Nintendo, Multi Screen)-image.png</image>
+		<video>./videos/Mario Bros. (Nintendo, Multi Screen)-video.mp4</video>
+		<marquee>./images/Mario Bros. (Nintendo, Multi Screen)-marquee.png</marquee>
+		<thumbnail>./images/Mario Bros. (Nintendo, Multi Screen)-thumb.png</thumbnail>
+		<fanart>./images/Mario Bros. (Nintendo, Multi Screen)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>19830314T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>98a04df88c46de196c571f86c8495501</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123657" />
+	</game>
+	<game id="88064">
+		<path>./Galaxy II (Epoch).mgw</path>
+		<name>Galaxy II</name>
+		<desc>Game is divided into four phases. In Phase 1, you must destroy a squadron of fighters that attack in two different patterns: a zigzag and a backward-forward motion. In Phase 2, another squadron attacks, this time in a circular formation. In Phase 3, the enemy command ships are vulnerable but watch out for their barrage of missiles! In Phase 4, you are challenged to complete a difficult docking maneuver. Your earth ship launches a space shuttle and the countdown begins. Five misses and game ends (in phases 1 to 3). In Phase 1, enemy warships on top rows are worth 10 or 20 points each. In Phase 1, enemy warships moving down are worth 40 or 50 points each. In Phase 2, enemy warships are worth 70 points each. In Phase 3, enemy command ships are worth 100 points each. In Phase 4, you score bonus points. The amount of points depend on how much time you spend to complete the docking maneuver. Maximum displayed score is 10000.</desc>
+		<image>./images/Galaxy II (Epoch)-image.png</image>
+		<video>./videos/Galaxy II (Epoch)-video.mp4</video>
+		<marquee>./images/Galaxy II (Epoch)-marquee.png</marquee>
+		<thumbnail>./images/Galaxy II (Epoch)-thumb.png</thumbnail>
+		<fanart>./images/Galaxy II (Epoch)-fanart.jpg</fanart>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>3b5420633d216a8797df96771248a2ae</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123707" />
+	</game>
+	<game id="88062">
+		<path>./Fowling (Elektronika).mgw</path>
+		<name>Fowling</name>
+		<desc>Hunt as many birds as possible by placing the gun in the correct direction as birds fly away. Misses: one miss is scored per each missed bird. If dragon is on screen while bird flies away, half a miss is scored; miss mark blinks. If dragon is not on screen bird flies away, a full miss is scored; miss mark appears. 1 point per killed bird. At 200 and 500 points, if there are one or more misses, fanfare sounds play and all misses are canceled. Maximum displayed score is 999 points.</desc>
+		<image>./images/Fowling (Elektronika)-image.png</image>
+		<video>./videos/Fowling (Elektronika)-video.mp4</video>
+		<marquee>./images/Fowling (Elektronika)-marquee.png</marquee>
+		<thumbnail>./images/Fowling (Elektronika)-thumb.png</thumbnail>
+		<fanart>./images/Fowling (Elektronika)-fanart.jpg</fanart>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Elektronika</developer>
+		<publisher>Elektronika</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>fb30bc5620a79c4f863b2ef4f5487656</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123718" />
+	</game>
+	<game id="88045">
+		<path>./Armor Battle (Mattel Electronics).mgw</path>
+		<name>Armor Battle</name>
+		<desc>You are on a dangerous tank mission. To reach and destroy your assigned target, you must maneuver through a field filled with enemy mines. Although these are hidden, the mine detection equipment in your tank warns you of their presence by producing a buzzing sound. This is your signal to change course on route to your target. If you should stumble into a mine, your tank will be "destroyed" and returned to its original starting position. If you get through the minefield and successfully engage the target, the built-in computer will automatically set up another challenge with a new starting position, target location, and minefield.</desc>
+		<image>./images/Armor Battle (Mattel Electronics)-image.png</image>
+		<video>./videos/Armor Battle (Mattel Electronics)-video.mp4</video>
+		<marquee>./images/Armor Battle (Mattel Electronics)-marquee.png</marquee>
+		<thumbnail>./images/Armor Battle (Mattel Electronics)-thumb.png</thumbnail>
+		<fanart>./images/Armor Battle (Mattel Electronics)-fanart.jpg</fanart>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221011T123124</lastplayed>
+		<md5>d0470e4adb134c524e8fe99f16320250</md5>
+		<gametime>92</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123724" />
+	</game>
+	<game id="88052">
+		<path>./Condor (VTech, Time &amp; Fun).mgw</path>
+		<name>Condor</name>
+		<desc>Move a caveman to prevent condors from stealing his food, then entrap them. When a condor gets a piece of food, one miss is scored. Five misses and game ends. 1 point is scored each time you entrap a condor. Maximum displayed score is 9999.</desc>
+		<image>./images/Condor (VTech, Time &amp; Fun)-image.png</image>
+		<video>./videos/Condor (VTech, Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Condor (VTech, Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Condor (VTech, Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Condor (VTech, Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>0c5d423f8e117209e06019cf6f8715aa</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123732" />
+	</game>
+	<game id="88051">
+		<path>./Chicky Woggy (VTech, Arcade Time &amp; Fun).mgw</path>
+		<name>Chicky Woggy (time And Fun)</name>
+		<desc>Help Chicky Woggy fill the labyrinth with eggs, while wolves chase her. Chicky Woggy can move across bridges, subways and tunnels to escape wolves. As soon as Chicky Woggy eats magic worms, she can chase and defeat wolves for a short period of time. When the labyrinth is full of eggs, Chicky Woggy moves to a new empty labyrinth. Three misses and game ends. 10 points are scored each time an egg is laid. 50 points are scored each time a worm is eaten. 200 to 400 points are scored each time a wolf is defeated. Bonus life is awarded at 2000 points. Maximum displayed score is 99990.</desc>
+		<image>./images/Chicky Woggy (VTech, Arcade Time &amp; Fun)-image.png</image>
+		<video>./videos/Chicky Woggy (VTech, Arcade Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Chicky Woggy (VTech, Arcade Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Chicky Woggy (VTech, Arcade Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Chicky Woggy (VTech, Arcade Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>8cbe3a4d3996a9b9d32bed2a2dd358b8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123741" />
+	</game>
+	<game id="88081">
+		<path>./Pancake (VTech, Time &amp; Fun).mgw</path>
+		<name>Pancake</name>
+		<desc>Move a busy waiter around the restaurant to bring pancakes from cook to a hungry customer. When a pancake falls to ground, one miss is scored. Five misses and game ends. 1 point is scored for each pancake successfully delivered. Maximum displayed score is 9999.</desc>
+		<image>./images/Pancake (VTech, Time &amp; Fun)-image.png</image>
+		<video>./videos/Pancake (VTech, Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Pancake (VTech, Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Pancake (VTech, Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Pancake (VTech, Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>c0cb2eb567ba6f1602951df676c0d271</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123750" />
+	</game>
+	<game id="88084">
+		<path>./Roller Coaster (VTech, Explorer Time &amp; Fun).mgw</path>
+		<name>Roller Coaster</name>
+		<desc>Roller Coaster needs maintenance: there are three holes on the railway. Move a busy worker around the rails to fill holes and prevent cars from falling. When a car falls into a hole, one miss is scored. Five misses and game ends. 1 point is scored for each safe car. Maximum displayed score is 9999.</desc>
+		<image>./images/Roller Coaster (VTech, Explorer Time &amp; Fun)-image.png</image>
+		<video>./videos/Roller Coaster (VTech, Explorer Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Roller Coaster (VTech, Explorer Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Roller Coaster (VTech, Explorer Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Roller Coaster (VTech, Explorer Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19840101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>5b23adc944a09c6b3954596bf7a87cc7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123759" />
+	</game>
+	<game id="88085">
+		<path>./Safari (VTech, Time &amp; Fun).mgw</path>
+		<name>Safari</name>
+		<desc>The barbarians continuously wander around. Control the position of the hunter so as to keep out of sight from the barbarians and to reach the rescue helicopter. If the hunter is spotted by the barbarian, he will be caught, meaning a miss. A hunter will appear in the upper right corner of the screen at each miss. Five misses and game ends. 1 point is awarded when the hunter successfully reaches the ladder of the helicopter. Maximum displayed score is 9999.</desc>
+		<image>./images/Safari (VTech, Time &amp; Fun)-image.png</image>
+		<video>./videos/Safari (VTech, Time &amp; Fun)-video.mp4</video>
+		<marquee>./images/Safari (VTech, Time &amp; Fun)-marquee.png</marquee>
+		<thumbnail>./images/Safari (VTech, Time &amp; Fun)-thumb.png</thumbnail>
+		<fanart>./images/Safari (VTech, Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19810101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>cbae02e06b94fc655fe3ecfb1c240ef4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123808" />
+	</game>
+	<game id="88075">
+		<path>./Mickey Mouse (Nintendo, Panorama Screen).mgw</path>
+		<name>Mickey Mouse (panorama Screen)</name>
+		<desc>Mickey Mouse performs baton acrobatics while balancing on a ball in a circus. Donald Duck watches his acrobatic feats. Move Mickey Mouse left and right to catch the batons, but beware of the flaming torches. One miss is scored when Mickey Mouse fails to catch a baton, or when he catches a flaming torch. Three misses and game ends. 1 point for each baton Mickey Mouse catches and tosses. Maximum displayed score is 999. At 300 points fanfare sounds and all misses are canceled. If there are no misses when 300 points are reached, game goes into "Chance-Time": all points are awarded at double value (2 points per baton caught) until a miss is made.</desc>
+		<image>./images/Mickey Mouse (Nintendo, Panorama Screen)-image.png</image>
+		<video>./videos/Mickey Mouse (Nintendo, Panorama Screen)-video.mp4</video>
+		<marquee>./images/Mickey Mouse (Nintendo, Panorama Screen)-marquee.png</marquee>
+		<thumbnail>./images/Mickey Mouse (Nintendo, Panorama Screen)-thumb.png</thumbnail>
+		<fanart>./images/Mickey Mouse (Nintendo, Panorama Screen)-fanart.jpg</fanart>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<family>Mickey Mouse</family>
+		<players>1</players>
+		<md5>7629c9626eb099cd166b018b922a07ee</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123817" />
+	</game>
+	<game id="99462">
+		<path>./Egg (Nintendo, Wide Screen).mgw</path>
+		<name>Egg</name>
+		<desc>Chickens lay eggs. Control the wolf so that he catches them in his cap. When the wolf drops an egg, one miss is scored. The cock appears/disappears at every five seconds. When the cock appears while egg falls, half miss is scored (miss mark blinks). Three full misses and game is over. 1 point per caught egg. At 200 and 500 points, if there are one or more misses, fanfare sounds and all misses are canceled.</desc>
+		<image>./images/Egg (Nintendo, Wide Screen)-image.png</image>
+		<video>./videos/Egg (Nintendo, Wide Screen)-video.mp4</video>
+		<marquee>./images/Egg (Nintendo, Wide Screen)-marquee.png</marquee>
+		<thumbnail>./images/Egg (Nintendo, Wide Screen)-thumb.png</thumbnail>
+		<fanart>./images/Egg (Nintendo, Wide Screen)-fanart.jpg</fanart>
+		<releasedate>19811009T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>1</players>
+		<md5>dd5893bb42ebccb1a6673641297689f0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123827" />
+	</game>
+	<game id="99463">
+		<path>./Donkey Kong (Coleco).mgw</path>
+		<name>Donkey Kong</name>
+		<desc>Move Mario to make him rescue his girlfriend, kidnapped by Donkey Kong. In odd levels, Donkey Kong throws barrels at Mario. Operate Mario and take him to the top of the building, making him avoid barrels. In even levels, operate Mario in order to remove all rivets from the girders by walking above them. Fireballs hang around: be sure Mario won't touch them! Additional info: don't let Mario move too left or right of the girders or he'll fall down; the left ladder on the second girder is a "safe position" from barrels; Mario can walk, not jump through the electric fence below Donkey Kong.</desc>
+		<image>./images/Donkey Kong (Coleco)-image.png</image>
+		<video>./videos/Donkey Kong (Coleco)-video.mp4</video>
+		<marquee>./images/Donkey Kong (Coleco)-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong (Coleco)-thumb.png</thumbnail>
+		<fanart>./images/Donkey Kong (Coleco)-fanart.jpg</fanart>
+		<releasedate>20020409T000000</releasedate>
+		<developer>Coleco Industries, Inc.</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<md5>f0202be64c932876a16b307a7bb2d448</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123835" />
+	</game>
+	<game id="88082">
+		<path>./Parachute (Nintendo, Wide Screen).mgw</path>
+		<name>Parachute</name>
+		<desc>Skydivers come parachuting down over shark-infested waters. Lifeboat tries to catch them. Try to catch skydivers. Move boat left or right by pressing corresponding control buttons. When a skydiver falls into the ocean he is attacked by sharks. Three misses and game ends. 1 point is scored for each skydiver caught by lifeboat. Maximum displayed score is 999. When the score reaches a bonus score (200 or 500 points), any miss marks indicated at the time are erased with a fanfare and game continues.</desc>
+		<image>./images/Parachute (Nintendo, Wide Screen)-image.png</image>
+		<video>./videos/Parachute (Nintendo, Wide Screen)-video.mp4</video>
+		<marquee>./images/Parachute (Nintendo, Wide Screen)-marquee.png</marquee>
+		<thumbnail>./images/Parachute (Nintendo, Wide Screen)-thumb.png</thumbnail>
+		<fanart>./images/Parachute (Nintendo, Wide Screen)-fanart.jpg</fanart>
+		<releasedate>19810619T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>450ec50fc8735566d03e3cb0e83fa3fe</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T123841" />
+	</game>
+	<game id="99467">
+		<path>./Donkey Angler (Gakken, LCD Card Game).mgw</path>
+		<name>Donkey Angler</name>
+		<desc>Following a bait, fishes will successively appear from the bottom of the sea. If a fish is on a hook, quickly bring it up! Losing a fish or fishing line cut by crab (appearance at game B) are errors. When you make the error three times, the game is over. 1 point per fish brought up. 1 point per crab brought up (game B only). Maximum displayed score is 999 points.</desc>
+		<image>./images/Donkey Angler (Gakken, LCD Card Game)-image.png</image>
+		<video>./videos/Donkey Angler (Gakken, LCD Card Game)-video.mp4</video>
+		<marquee>./images/Donkey Angler (Gakken, LCD Card Game)-marquee.png</marquee>
+		<thumbnail>./images/Donkey Angler (Gakken, LCD Card Game)-thumb.png</thumbnail>
+		<developer>Gakken</developer>
+		<publisher>Gakken</publisher>
+		<players>1</players>
+		<md5>44f77dacfbafc2cf89b41cc001abc514</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T210100" />
+	</game>
+	<game id="99468">
+		<path>./Penguin Land (Bandai, LSI Game Double Play).mgw</path>
+		<name>Penguin Land</name>
+		<desc>Press Select button to select mode (1 or 2 players). * If one-player mode is selected: Press Penguin's Start/Attack button to play Penguin versus CPU (easy). Press Seal's Start/Attack button to play Seal versus CPU (hard). Your opponent will be controlled by CPU (Artificial Intelligence). * If two-players mode is selected: Press either Penguin's or Seal's Start/Attack button to start game. This is a real battle for survival! A penguin and a seal teams are battling to win some fish which stands over an iceberg. The iceberg stands between the teams. * Rules for the war: A vulture throws two bombs into the playground. The vulture cycles through the playgrounds. You must catch bombs before they fall on the floor and explode. If a team lets a bomb fall on the floor, that team will lose one point. You can keep one only bomb in your hands. You can keep it as much time as you wish. Press the Start/Attack button to throw the bomb back to your opponent. Both the penguin and the seal standing over the iceberg will send the bomb. back immediately. They move randomly. If the vulture catches a flying bomb, he will throw it into the opposite playground. Sometimes an ice block comes from the sea; you will collect it by catching it (move on it and then press the Start/Attack button) and then taking it to the opposite side of the playground. By collecting three ice blocks your team will be able to reach the fish over the iceberg and eat some of it. This will cost two points to your opponent team. If you're bombed while keeping an ice block in your hands, you'll lose it. * Aim of the game: you win the game by decreasing your opponent's score to 0. 1 point - bombing your opponent. 2 points - collecting three ice blocks.</desc>
+		<image>./images/Penguin Land (Bandai, LSI Game Double Play)-image.png</image>
+		<video>./videos/Penguin Land (Bandai, LSI Game Double Play)-video.mp4</video>
+		<marquee>./images/Penguin Land (Bandai, LSI Game Double Play)-marquee.png</marquee>
+		<thumbnail>./images/Penguin Land (Bandai, LSI Game Double Play)-thumb.png</thumbnail>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<players>1-2</players>
+		<md5>942163b3f95381c6e0cbc036599e42e8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T210101" />
+	</game>
+	<game id="99468">
+		<path>./Penguin Land.mgw</path>
+		<name>Penguin Land</name>
+		<desc>Press Select button to select mode (1 or 2 players). * If one-player mode is selected: Press Penguin's Start/Attack button to play Penguin versus CPU (easy). Press Seal's Start/Attack button to play Seal versus CPU (hard). Your opponent will be controlled by CPU (Artificial Intelligence). * If two-players mode is selected: Press either Penguin's or Seal's Start/Attack button to start game. This is a real battle for survival! A penguin and a seal teams are battling to win some fish which stands over an iceberg. The iceberg stands between the teams. * Rules for the war: A vulture throws two bombs into the playground. The vulture cycles through the playgrounds. You must catch bombs before they fall on the floor and explode. If a team lets a bomb fall on the floor, that team will lose one point. You can keep one only bomb in your hands. You can keep it as much time as you wish. Press the Start/Attack button to throw the bomb back to your opponent. Both the penguin and the seal standing over the iceberg will send the bomb. back immediately. They move randomly. If the vulture catches a flying bomb, he will throw it into the opposite playground. Sometimes an ice block comes from the sea; you will collect it by catching it (move on it and then press the Start/Attack button) and then taking it to the opposite side of the playground. By collecting three ice blocks your team will be able to reach the fish over the iceberg and eat some of it. This will cost two points to your opponent team. If you're bombed while keeping an ice block in your hands, you'll lose it. * Aim of the game: you win the game by decreasing your opponent's score to 0. 1 point - bombing your opponent. 2 points - collecting three ice blocks.</desc>
+		<image>./images/Penguin Land-image.png</image>
+		<video>./videos/Penguin Land-video.mp4</video>
+		<marquee>./images/Penguin Land-marquee.png</marquee>
+		<thumbnail>./images/Penguin Land-thumb.png</thumbnail>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<players>1-2</players>
+		<md5>cdd0aa4cb762e40193cb6bee2b8e90a8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T210101" />
+	</game>
+	<game id="99469">
+		<path>./Tom &amp; Jerry Popper (Gakken, LCD Card Game).mgw</path>
+		<name>Tom And Jerry Popper</name>
+		<desc>Press left arrow key to play game A (easy). Press right arrow key to play game B (hard). Tom is flying balloon bombs! Break them quickly by the saber. It's Jerry's mistake when you failed to break balloons or the saber was taken by the magnet (in game B only). The game ends when you make 3 mistakes. 1 point per broken balloon 1 point per broken magnet (game B only) Maximum display score is 999 points.</desc>
+		<image>./images/Tom &amp; Jerry Popper (Gakken, LCD Card Game)-image.png</image>
+		<video>./videos/Tom &amp; Jerry Popper (Gakken, LCD Card Game)-video.mp4</video>
+		<marquee>./images/Tom &amp; Jerry Popper (Gakken, LCD Card Game)-marquee.png</marquee>
+		<thumbnail>./images/Tom &amp; Jerry Popper (Gakken, LCD Card Game)-thumb.png</thumbnail>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Gakken</developer>
+		<publisher>Gakken</publisher>
+		<family>Tom and Jerry</family>
+		<players>1</players>
+		<md5>995aa1f5e275fefee04f80fd5b5f4694</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T210102" />
+	</game>
+	<game id="88068">
+		<path>./Hippo Teeth (VTech, Sporty Time &amp; Fun).mgw</path>
+		<name>Hippo Teeth (sporty Time And Fun)</name>
+		<desc>Help the busy dentist to prevent hippo's teeth from being eaten by the tooth-invaders. When a tooth is eaten, a miss is scored. Three misses and game ends. 10 points per killed tooth-invader. All teeth are restored at every 1000 points scored. Maximum displayed score is 9999.</desc>
+		<image>./images/Hippo Teeth (VTech, Sporty Time &amp; Fun)-image.png</image>
+		<marquee>./images/Hippo Teeth (VTech, Sporty Time &amp; Fun)-marquee.png</marquee>
+		<fanart>./images/Hippo Teeth (VTech, Sporty Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>0b41999f501a127e7d3baad0bbf93eeb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T210102" />
+	</game>
+	<game id="88070">
+		<path>./Hot Line (VTech, Sporty Time &amp; Fun).mgw</path>
+		<name>Hot Line (sporty Time And Fun)</name>
+		<desc>A clerk has the task to answer phone calls very quickly. Move the clerk left and right to answer phone calls. When a phone call is not answered, a chance is missed. The secretary appears occasionally, waiting for the clerk to sign a few documents (game B only). Three misses and game ends. 10 points are scored each time a phone call is answered. 50 points are scored each time a document is signed. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</desc>
+		<image>./images/Hot Line (VTech, Sporty Time &amp; Fun)-image.png</image>
+		<marquee>./images/Hot Line (VTech, Sporty Time &amp; Fun)-marquee.png</marquee>
+		<fanart>./images/Hot Line (VTech, Sporty Time &amp; Fun)-fanart.jpg</fanart>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>35fba921d8040fa3ce165dc59006548a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T210103" />
 	</game>
 </gameList>

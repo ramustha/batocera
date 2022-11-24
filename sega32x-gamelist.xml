@@ -1,364 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="12695">
-		<path>./Shadow Squadron ~ Stellar Assault (USA, Europe).zip</path>
-		<name>Stellar Assault</name>
-		<desc>Shadow Squadron is a 3D space combat shooter. The player controls a space fighter in a series of battles against huge enemy ships.  There are 2 different types of ships to fly, and 6 different missions.  In most missions, the player has to destroy several locations on a large ship in order to blow up the whole thing. 
-
-There are two ways to play the game.  First, one can directly control the ship and maneuver it around the 3D polygon environments.  Second, the player can let the 32X do the flying, and simply control a gun turret.</desc>
-		<image>./images/Shadow Squadron ~ Stellar Assault (USA, Europe)-image.png</image>
-		<video>./videos/Shadow Squadron ~ Stellar Assault (USA, Europe)-video.mp4</video>
-		<marquee>./images/Shadow Squadron ~ Stellar Assault (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Shadow Squadron ~ Stellar Assault (USA, Europe)-thumb.png</thumbnail>
-		<fanart>./images/Shadow Squadron ~ Stellar Assault (USA, Europe)-fanart.jpg</fanart>
-		<bezel>./images/Shadow Squadron ~ Stellar Assault (USA, Europe)-bezel.png</bezel>
-		<boxback>./images/Shadow Squadron ~ Stellar Assault (USA, Europe)-boxback.jpg</boxback>
-		<rating>0.75</rating>
-		<releasedate>19950601T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
-		<md5>1415a8675adf3e8647b3df673b50056d</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20221028T072454" />
-		<scrap name="HfsDB" date="20220917T144730" />
-	</game>
-	<game id="12677">
-		<path>./After Burner Complete ~ After Burner (Japan, USA).zip</path>
-		<name>After Burner</name>
-		<desc>Afterburner is a conversion of the arcade game of the same name. The goal is simple: use your F-14 Tomcat and shoot as many enemies as you can. This aircraft has two weapons: lock-on missiles and Vulcan cannons (basically machine guns). In some versions there is an option to let the cannons shoot automatically all the time.
-
-The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.</desc>
-		<image>./images/After Burner Complete ~ After Burner (Japan, USA)-image.png</image>
-		<marquee>./images/After Burner Complete ~ After Burner (Japan, USA)-marquee.png</marquee>
-		<thumbnail>./images/After Burner Complete ~ After Burner (Japan, USA)-thumb.png</thumbnail>
-		<fanart>./images/After Burner Complete ~ After Burner (Japan, USA)-fanart.jpg</fanart>
-		<bezel>./images/After Burner Complete ~ After Burner (Japan, USA)-bezel.png</bezel>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Rutubo Games</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shoot'em Up</genre>
-		<family>After Burner</family>
-		<players>1</players>
-		<playcount>1</playcount>
-		<lastplayed>20200914T041159</lastplayed>
-		<md5>cc163c35f2fb577d52676e3e0349316f</md5>
-		<lang>en,jp</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072459" />
-		<scrap name="HfsDB" date="20220917T144514" />
-	</game>
-	<game id="12690">
-		<path>./BC Racers (USA).zip</path>
-		<name>BC Racers</name>
-		<desc>BC Racers is a kart racing game starring characters from the Core Design's Chuck Rock series of games.
-
-Each of the racers in this game rides a prehistoric motorcycle with a side car. On each two-character team, one person drives the motorcycle, and the other fights off opponents using clubs, punches, kicks, etc.
-
-Graphics in BC Racers consist of a flat landscape decorated with scaled sprites to compose the track and scenery.</desc>
-		<image>./images/BC Racers (USA)-image.jpg</image>
-		<video>./videos/BC Racers (USA)-video.mp4</video>
-		<marquee>./images/BC Racers (USA)-marquee.png</marquee>
-		<thumbnail>./images/BC Racers (USA)-thumb.jpg</thumbnail>
-		<fanart>./images/BC Racers (USA)-fanart.jpg</fanart>
-		<bezel>./images/BC Racers (USA)-bezel.png</bezel>
-		<boxback>./images/BC Racers (USA)-boxback.jpg</boxback>
-		<rating>0.55</rating>
-		<releasedate>19950601T000000</releasedate>
-		<developer>Core Design</developer>
-		<publisher>Front Street Publishing</publisher>
-		<genre>Race, Driving</genre>
-		<family>Chuck Rock</family>
-		<players>1-2</players>
-		<favorite>true</favorite>
-		<playcount>1</playcount>
-		<lastplayed>20220921T211618</lastplayed>
-		<md5>bb85f0d4224540cd3c96af8faf98cd91</md5>
-		<gametime>84</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072506" />
-		<scrap name="HfsDB" date="20220917T144532" />
-	</game>
-	<game id="12675">
-		<path>./Blackthorne (USA).zip</path>
-		<name>Blackthorne</name>
-		<desc>Blackthorne is an action-adventure game that takes place on the planet Tuul. Tuul was a peaceful place, until the evil warrior Sarlac used the power of the Darkstone to take control.  Blackthorne's father, the good King Vlaros, sent him to Earth just as his kingdom crumbled around him.  Now, 20 years later, Blackthorne is grown and must return to Tuul to free it from the clutches of Sarlac.
-
-This game is played from a side-view with non-scrolling backgrounds. It has strong similarities to Prince of Persia, except you battle your foes using guns and bombs instead of a sword.</desc>
-		<image>./images/Blackthorne (USA)-image.jpg</image>
-		<video>./videos/Blackthorne (USA)-video.mp4</video>
-		<marquee>./images/Blackthorne (USA)-marquee.png</marquee>
-		<thumbnail>./images/Blackthorne (USA)-thumb.jpg</thumbnail>
-		<fanart>./images/Blackthorne (USA)-fanart.jpg</fanart>
-		<bezel>./images/Blackthorne (USA)-bezel.png</bezel>
-		<boxback>./images/Blackthorne (USA)-boxback.jpg</boxback>
-		<rating>0.7</rating>
-		<releasedate>19951001T000000</releasedate>
-		<developer>Interplay</developer>
-		<publisher>SEGA</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<md5>fc9d2b684eb8e3131955fa982b5e961d</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072510" />
-		<scrap name="HfsDB" date="20220917T144540" />
-	</game>
-	<game id="12684">
-		<path>./Brutal Unleashed - Above the Claw (USA).zip</path>
-		<name>Brutal Unleashed : Above the Claw</name>
-		<desc>As with the original Brutal: Paws of Fury, the game involves a martial arts tournament set up by the Dalai Llama. A selection of 12 anthropomorphic animals are involved; choose from them for the cartoon-styled beat 'em up action.  
-
-Characters each have their own fighting style, array of moves, and storyline.  As you progress through the game, you unlock more moves for each character.  There's also a progressive conquest mode which challenges you to take over the entire Brutal Island.</desc>
-		<image>./images/Brutal Unleashed - Above the Claw (USA)-image.jpg</image>
-		<video>./videos/Brutal Unleashed - Above the Claw (USA)-video.mp4</video>
-		<marquee>./images/Brutal Unleashed - Above the Claw (USA)-marquee.png</marquee>
-		<thumbnail>./images/Brutal Unleashed - Above the Claw (USA)-thumb.jpg</thumbnail>
-		<fanart>./images/Brutal Unleashed - Above the Claw (USA)-fanart.jpg</fanart>
-		<bezel>./images/Brutal Unleashed - Above the Claw (USA)-bezel.png</bezel>
-		<boxback>./images/Brutal Unleashed - Above the Claw (USA)-boxback.jpg</boxback>
-		<rating>0.5</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>GameTek</developer>
-		<publisher>GameTek</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-		<md5>03afad7fa2ff45b7ec5ba2e45b0299b0</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072513" />
-		<scrap name="HfsDB" date="20220917T144550" />
-	</game>
-	<game id="12670">
-		<path>./Chaotix ~ Knuckles' Chaotix (Japan, USA).zip</path>
-		<name>Knuckles' Chaotix</name>
-		<desc>Knuckles' Chaotix is a spin-off of the Sonic the Hedgehog series of Genesis games. Knuckles the Echidna (from Sonic the Hedgehog 3) works at Carnival Island, an amusement park where his job is to protect the park and make it a happy place for visitors. Dr. Robotnik, as usual, has an evil plan for the park. He wants the power emerald which supplies electricity to the entire island. What's worse, he has imprisoned several of Knuckles' friends in the "combi confiner." This contraption only allows Knuckles to free one of his friends at a time by using a ring force bond. 
-
-New characters featured include Vector the Crocodile, Mighty the Armadillo, Espio the Chameleon and Charmy Bee. There also two characters whose sole purpose is to slow you down, Heavy the Robot, and Bomb. Chaotix adds several new power-ups and 3D bonus levels as well.</desc>
-		<image>./images/Chaotix ~ Knuckles' Chaotix (Japan, USA)-image.png</image>
-		<marquee>./images/Chaotix ~ Knuckles' Chaotix (Japan, USA)-marquee.png</marquee>
-		<thumbnail>./images/Chaotix ~ Knuckles' Chaotix (Japan, USA)-thumb.png</thumbnail>
-		<fanart>./images/Chaotix ~ Knuckles' Chaotix (Japan, USA)-fanart.jpg</fanart>
-		<bezel>./images/Chaotix ~ Knuckles' Chaotix (Japan, USA)-bezel.png</bezel>
-		<rating>0.75</rating>
-		<releasedate>19950320T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>SEGA</publisher>
-		<genre>Platform</genre>
-		<family>Sonic</family>
-		<players>1-2</players>
-		<md5>3f83a7b9b6ddbf84ab3c01425d4e7abf</md5>
-		<lang>en,jp</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072519" />
-		<scrap name="HfsDB" date="20220917T144550" />
-	</game>
-	<game id="12674">
-		<path>./Cyber Brawl ~ Cosmic Carnage (Japan, USA).zip</path>
-		<name>Cosmic Carnage</name>
-		<desc>Cosmic Carnage is a one-on-one fighting game set in outer space.  The story begins as a prison barge is hijacked by it's cargo in an escape attempt.  The resulting chaos caused the barge to crash into a military cruiser. The impact caused extensive damage to both ships.  There were only 8 survivors, 4 from each ship.  What's worse, there's only one escape pod.  You control one of the 8 survivors, and have to finish off all the others to escape with your life.
-
-The gameplay in Cosmic carnage is similar to Street Fighter 2, but with a much slower pace.  Some of the fighters can be customized with different armor combinations, allowing them access to different special moves.</desc>
-		<image>./images/Cyber Brawl ~ Cosmic Carnage (Japan, USA)-image.png</image>
-		<marquee>./images/Cyber Brawl ~ Cosmic Carnage (Japan, USA)-marquee.png</marquee>
-		<thumbnail>./images/Cyber Brawl ~ Cosmic Carnage (Japan, USA)-thumb.png</thumbnail>
-		<fanart>./images/Cyber Brawl ~ Cosmic Carnage (Japan, USA)-fanart.jpg</fanart>
-		<bezel>./images/Cyber Brawl ~ Cosmic Carnage (Japan, USA)-bezel.png</bezel>
-		<rating>0.45</rating>
-		<releasedate>19941121T000000</releasedate>
-		<developer>Givro</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-		<md5>fd6fa225468a0862571c2fbb8f3bb16a</md5>
-		<lang>en,jp</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072526" />
-		<scrap name="HfsDB" date="20220917T144551" />
-	</game>
-	<game id="12693">
-		<path>./Darxide (Europe) (En,Fr,De,Es).zip</path>
-		<name>Darxide</name>
-		<desc>One of the last 32X games released (and exclusively in Europe), DarXide is a 3-D space shooter, inspired in part by the arcade gameplay of Asteroids. It is one of the few 32X games to used texture-mapped polygons. 
-
-Players control a lone starship rushing to destroy oncoming asteroids and alien vessels before they annihilate defenseless human miners and colonies. Asteroids break apart into smaller rocks, which much also be hunted down and destroyed. Aliens likewise arrive in larger, more dangerous vessels.
-
-Asteroids broken down to their smallest size and then vaporized will sometimes drop shield or energy recharges, to repair damage caused by laser blasts or collisions. New weapons can also be found. Players have a time limit to meet all objectives in a stage before they are forced to land and try again. The right side of the HUD shows asteroids remaining (and their approximate size), while the left shows the player's distance to their base (and so, time remaining in the stage).</desc>
-		<image>./images/Darxide (Europe) (En,Fr,De,Es)-image.jpg</image>
-		<video>./videos/Darxide (Europe) (En,Fr,De,Es)-video.mp4</video>
-		<marquee>./images/Darxide (Europe) (En,Fr,De,Es)-marquee.png</marquee>
-		<thumbnail>./images/Darxide (Europe) (En,Fr,De,Es)-thumb.jpg</thumbnail>
-		<fanart>./images/Darxide (Europe) (En,Fr,De,Es)-fanart.jpg</fanart>
-		<bezel>./images/Darxide (Europe) (En,Fr,De,Es)-bezel.png</bezel>
-		<boxback>./images/Darxide (Europe) (En,Fr,De,Es)-boxback.jpg</boxback>
-		<rating>0.45</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Frontier Developments</developer>
-		<publisher>SEGA</publisher>
-		<genre>Lightgun Shooter</genre>
-		<players>1</players>
-		<md5>30ee320f76db70a836edeff2c8ce9cd2</md5>
-		<lang>es,de,fr,en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20221028T072530" />
-		<scrap name="HfsDB" date="20220917T144603" />
-	</game>
-	<game id="12666">
-		<path>./Doom (Japan, USA).zip</path>
-		<name>Doom</name>
-		<desc>Doom is the definitive first person shooter developed by id Software and released in 1993. It became a Sega 32X launch title and is widely considered to be one of the games that pioneered and popularized the first person shooter genre. Doom retains a large, dedicated fan base to this day.
-
-The player assumes the role of a nameless Space Marine who uses a variety of weaponry to fight his way through several Mars moonbases and the depths of Hell itself.</desc>
-		<image>./images/Doom (Japan, USA)-image.jpg</image>
-		<video>./videos/Doom (Japan, USA)-video.mp4</video>
-		<marquee>./images/Doom (Japan, USA)-marquee.png</marquee>
-		<thumbnail>./images/Doom (Japan, USA)-thumb.jpg</thumbnail>
-		<fanart>./images/Doom (Japan, USA)-fanart.jpg</fanart>
-		<bezel>./images/Doom (Japan, USA)-bezel.png</bezel>
-		<boxback>./images/Doom (Japan, USA)-boxback.jpg</boxback>
-		<rating>0.55</rating>
-		<releasedate>19941121T000000</releasedate>
-		<developer>id Software</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shooter / 1st person</genre>
-		<family>Doom</family>
-		<players>1</players>
-		<md5>0e283c6686c96d9525abfda08c593393</md5>
-		<lang>en,jp</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072534" />
-		<scrap name="HfsDB" date="20220917T144610" />
-	</game>
-	<game id="12672">
-		<path>./FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv).zip</path>
-		<name>FIFA Soccer '96</name>
-		<desc>FIFA Soccer 96 featured revolutionary commentary for its time -- the renowned British commentator John Motson covers all the the action on the pitch in real-time.
-
-FIFA Soccer 96 boasts 11 leagues from around the world, ranging from unknown players in the Malaysian league to the celebrated stars of the English and Italian leagues. 59 International teams are available for friendlies tournaments (including the World Cup). You can also create your own dream team through the custom team creator.</desc>
-		<image>./images/FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv)-image.jpg</image>
-		<video>./videos/FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv)-video.mp4</video>
-		<marquee>./images/FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv)-marquee.png</marquee>
-		<thumbnail>./images/FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv)-thumb.jpg</thumbnail>
-		<fanart>./images/FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv)-fanart.jpg</fanart>
-		<bezel>./images/FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv)-bezel.png</bezel>
-		<boxback>./images/FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv)-boxback.jpg</boxback>
-		<rating>0.5</rating>
-		<releasedate>19951130T000000</releasedate>
-		<developer>Extended Play Productions</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports / Soccer</genre>
-		<family>FIFA</family>
-		<players>1-4</players>
-		<md5>80cc655768c5509be334e10398cabbe4</md5>
-		<lang>it,es,de,fr,en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20221028T072537" />
-		<scrap name="HfsDB" date="20220917T144619" />
-	</game>
-	<game id="12688">
-		<path>./Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA).zip</path>
-		<name>Golf Magazine presents 36 Great Holes starring Fred Couples</name>
-		<desc>As the title implies, in 36 Great Holes the player takes control of 24 different digitized golfers – 12 males and 12 females – playing in 27 historic courses in the U.S. including Disney's Eagle Pines and Tidewater Golf Club, playing 36 authentic holes.  
-
-There are seven different modes (Stroke Play, Tournament, Skins, Shoot-out, Scramble, Practice and Match Play) and three different types of golf club heads including wood, metal and graphite. There is a battery back-up to keep track of 16 different categories of stats and does feature the voice of Fred Couples, even though he is not a playable character.</desc>
-		<image>./images/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA)-image.jpg</image>
-		<video>./videos/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA)-video.mp4</video>
-		<marquee>./images/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA)-marquee.png</marquee>
-		<thumbnail>./images/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA)-thumb.jpg</thumbnail>
-		<fanart>./images/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA)-fanart.jpg</fanart>
-		<bezel>./images/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA)-bezel.png</bezel>
-		<boxback>./images/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA)-boxback.jpg</boxback>
-		<rating>0.3</rating>
-		<releasedate>19950102T000000</releasedate>
-		<developer>Flashpoint Productions</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports / Golf</genre>
-		<players>1-8</players>
-		<md5>dbcc5f82be6036b5fcde4e11818b422a</md5>
-		<lang>en,jp</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072541" />
-		<scrap name="HfsDB" date="20220917T144628" />
-	</game>
-	<game id="12678">
-		<path>./Kolibri (USA, Europe).zip</path>
-		<name>Kolibri</name>
-		<desc>Kolibri is a hummingbird hero in this unusual side scrolling shooter for the 32X.  Deep inside the earth's core, there is a crystal from another world.  This crystal is the earth's life force, and essential to it's survival.  One day, a dark crystal falls from the sky and damages the earth's crystal.  Desperate, the earth's crystal rockets to the surface and empowers Kolibri with the abilities he needs to defeat the dark crystal.
-
-This game features 19 levels set in a variety of detailed natural settings.  Your goal in some levels is to destroy enemy bugs, in others your goal is to merely survive.</desc>
-		<image>./images/Kolibri (USA, Europe)-image.png</image>
-		<video>./videos/Kolibri (USA, Europe)-video.mp4</video>
-		<marquee>./images/Kolibri (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Kolibri (USA, Europe)-thumb.png</thumbnail>
-		<fanart>./images/Kolibri (USA, Europe)-fanart.jpg</fanart>
-		<bezel>./images/Kolibri (USA, Europe)-bezel.png</bezel>
-		<boxback>./images/Kolibri (USA, Europe)-boxback.jpg</boxback>
-		<rating>0.8</rating>
-		<releasedate>19951117T000000</releasedate>
-		<developer>Novotrade</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shoot'em up / Horizontal</genre>
-		<players>1-2</players>
-		<md5>7bd79e2fae32e4fd720a6ce6841fcc1e</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20221028T072545" />
-		<scrap name="HfsDB" date="20220917T144638" />
-	</game>
-	<game id="12689">
-		<path>./Metal Head (Japan, USA) (En,Ja).zip</path>
-		<name>Metal Head</name>
-		<desc>It's 5 years after the formation of the Worldwide Federation.  Although war has been averted, terrorist cells around the world threaten the stability of the federation.  To combat this menace, the Federation has created a bi-pedal armored tank known as the Metal Head.  You are a Metal Head pilot, and you have to use all the weapons at your disposal to take out the terrorists.
-
-Metal Head is a bit of a variation on the usual giant robot combat game.  The game's mission areas bear more resemblance to a first-person shooter than a simulation.  The graphics are all rendered in texture mapped polygons, which is unusual for a 32X game.</desc>
-		<image>./images/Metal Head (Japan, USA) (En,Ja)-image.jpg</image>
-		<video>./videos/Metal Head (Japan, USA) (En,Ja)-video.mp4</video>
-		<marquee>./images/Metal Head (Japan, USA) (En,Ja)-marquee.png</marquee>
-		<thumbnail>./images/Metal Head (Japan, USA) (En,Ja)-thumb.jpg</thumbnail>
-		<fanart>./images/Metal Head (Japan, USA) (En,Ja)-fanart.jpg</fanart>
-		<bezel>./images/Metal Head (Japan, USA) (En,Ja)-bezel.png</bezel>
-		<boxback>./images/Metal Head (Japan, USA) (En,Ja)-boxback.jpg</boxback>
-		<rating>0.6</rating>
-		<releasedate>19950224T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<md5>58f30cdefcb204c2a4596748f1121686</md5>
-		<lang>en,jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20221028T072549" />
-		<scrap name="HfsDB" date="20220917T144649" />
-	</game>
-	<game id="12694">
-		<path>./Motocross Championship (USA).zip</path>
-		<name>Motocross Championship</name>
-		<desc>Motocross Championship is the only dirtbike racing game for the 32X.  The action takes place from a behind-the-bike perspective, and makes use of the 32X's hardware bitmap scaling to present a 3D graphical effect.
-
-Like the title suggests, the main game mode is a points based championship.  You can compete in one of 3 motorcycle classes over 12 indoor and outdoor tracks.  There's also two player split screen mode so you can share off-road fun with a friend.</desc>
-		<image>./images/Motocross Championship (USA)-image.jpg</image>
-		<video>./videos/Motocross Championship (USA)-video.mp4</video>
-		<marquee>./images/Motocross Championship (USA)-marquee.png</marquee>
-		<thumbnail>./images/Motocross Championship (USA)-thumb.jpg</thumbnail>
-		<fanart>./images/Motocross Championship (USA)-fanart.jpg</fanart>
-		<bezel>./images/Motocross Championship (USA)-bezel.png</bezel>
-		<boxback>./images/Motocross Championship (USA)-boxback.jpg</boxback>
-		<rating>0.6</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Artech Studios</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
-		<players>1-2</players>
-		<md5>2c4a934985021624d48725b8d7b039e8</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072557" />
-		<scrap name="HfsDB" date="20220917T144704" />
-	</game>
 	<game id="12679">
 		<path>./NBA Jam - Tournament Edition (World).zip</path>
 		<name>NBA Jam : Tournament Edition</name>
@@ -375,7 +16,6 @@ Winning Tournament Mode also unlocks a higher CPU difficulty level.</desc>
 		<marquee>./images/NBA Jam - Tournament Edition (World)-marquee.png</marquee>
 		<thumbnail>./images/NBA Jam - Tournament Edition (World)-thumb.jpg</thumbnail>
 		<fanart>./images/NBA Jam - Tournament Edition (World)-fanart.jpg</fanart>
-		<bezel>./images/NBA Jam - Tournament Edition (World)-bezel.png</bezel>
 		<rating>0.8</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>Iguana Entertainment</developer>
@@ -386,20 +26,350 @@ Winning Tournament Mode also unlocks a higher CPU difficulty level.</desc>
 		<md5>4f68bd8ee5fda931b1e027f5b4db0e44</md5>
 		<lang>en</lang>
 		<region>wr</region>
-		<scrap name="ScreenScraper" date="20221028T072602" />
-		<scrap name="HfsDB" date="20220917T144704" />
+		<scrap name="ScreenScraper" date="20221121T193556" />
+	</game>
+	<game id="12677">
+		<path>./After Burner Complete ~ After Burner (Japan, USA).zip</path>
+		<name>After Burner</name>
+		<desc>Afterburner is a conversion of the arcade game of the same name. The goal is simple: use your F-14 Tomcat and shoot as many enemies as you can. This aircraft has two weapons: lock-on missiles and Vulcan cannons (basically machine guns). In some versions there is an option to let the cannons shoot automatically all the time.
+
+The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.</desc>
+		<image>./images/After Burner Complete ~ After Burner (Japan, USA)-image.png</image>
+		<marquee>./images/After Burner Complete ~ After Burner (Japan, USA)-marquee.png</marquee>
+		<thumbnail>./images/After Burner Complete ~ After Burner (Japan, USA)-thumb.png</thumbnail>
+		<fanart>./images/After Burner Complete ~ After Burner (Japan, USA)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Rutubo Games</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>After Burner</family>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20200914T041159</lastplayed>
+		<md5>cc163c35f2fb577d52676e3e0349316f</md5>
+		<lang>en,jp</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T193557" />
+	</game>
+	<game id="12673">
+		<path>./Amazing Spider-Man, The - Web of Fire (USA).zip</path>
+		<name>The Amazing Spider-Man : Web of Fire</name>
+		<desc>An electric plasma grid has left New York in a state of chaos, and only Spider-Man and Daredevil can save the city from total destruction.
+
+Lead Spidey through side-scrolling levels filled with a range of enemies and puzzles and take on HYDRA, the source of the evil, head on.</desc>
+		<image>./images/Amazing Spider-Man, The - Web of Fire (USA)-image.png</image>
+		<marquee>./images/Amazing Spider-Man, The - Web of Fire (USA)-marquee.png</marquee>
+		<thumbnail>./images/Amazing Spider-Man, The - Web of Fire (USA)-thumb.png</thumbnail>
+		<fanart>./images/Amazing Spider-Man, The - Web of Fire (USA)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>BlueSky Software</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<family>Spider-Man</family>
+		<players>1</players>
+		<md5>24292ec6e0f4601fac945a82e71c57c8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T193558" />
+	</game>
+	<game id="12690">
+		<path>./BC Racers (USA).zip</path>
+		<name>BC Racers</name>
+		<desc>BC Racers is a kart racing game starring characters from the Core Design's Chuck Rock series of games.
+
+Each of the racers in this game rides a prehistoric motorcycle with a side car. On each two-character team, one person drives the motorcycle, and the other fights off opponents using clubs, punches, kicks, etc.
+
+Graphics in BC Racers consist of a flat landscape decorated with scaled sprites to compose the track and scenery.</desc>
+		<image>./images/BC Racers (USA)-image.jpg</image>
+		<marquee>./images/BC Racers (USA)-marquee.png</marquee>
+		<thumbnail>./images/BC Racers (USA)-thumb.jpg</thumbnail>
+		<fanart>./images/BC Racers (USA)-fanart.jpg</fanart>
+		<rating>0.55</rating>
+		<releasedate>19950601T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Front Street Publishing</publisher>
+		<genre>Race, Driving</genre>
+		<family>Chuck Rock</family>
+		<players>1-2</players>
+		<md5>bb85f0d4224540cd3c96af8faf98cd91</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T193559" />
+	</game>
+	<game id="12675">
+		<path>./Blackthorne (USA).zip</path>
+		<name>Blackthorne</name>
+		<desc>Blackthorne is an action-adventure game that takes place on the planet Tuul. Tuul was a peaceful place, until the evil warrior Sarlac used the power of the Darkstone to take control.  Blackthorne's father, the good King Vlaros, sent him to Earth just as his kingdom crumbled around him.  Now, 20 years later, Blackthorne is grown and must return to Tuul to free it from the clutches of Sarlac.
+
+This game is played from a side-view with non-scrolling backgrounds. It has strong similarities to Prince of Persia, except you battle your foes using guns and bombs instead of a sword.</desc>
+		<image>./images/Blackthorne (USA)-image.jpg</image>
+		<marquee>./images/Blackthorne (USA)-marquee.png</marquee>
+		<thumbnail>./images/Blackthorne (USA)-thumb.jpg</thumbnail>
+		<fanart>./images/Blackthorne (USA)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19951001T000000</releasedate>
+		<developer>Interplay</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>fc9d2b684eb8e3131955fa982b5e961d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T193600" />
+	</game>
+	<game id="12684">
+		<path>./Brutal Unleashed - Above the Claw (USA).zip</path>
+		<name>Brutal Unleashed : Above the Claw</name>
+		<desc>As with the original Brutal: Paws of Fury, the game involves a martial arts tournament set up by the Dalai Llama. A selection of 12 anthropomorphic animals are involved; choose from them for the cartoon-styled beat 'em up action.  
+
+Characters each have their own fighting style, array of moves, and storyline.  As you progress through the game, you unlock more moves for each character.  There's also a progressive conquest mode which challenges you to take over the entire Brutal Island.</desc>
+		<image>./images/Brutal Unleashed - Above the Claw (USA)-image.jpg</image>
+		<marquee>./images/Brutal Unleashed - Above the Claw (USA)-marquee.png</marquee>
+		<thumbnail>./images/Brutal Unleashed - Above the Claw (USA)-thumb.jpg</thumbnail>
+		<fanart>./images/Brutal Unleashed - Above the Claw (USA)-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>GameTek</developer>
+		<publisher>GameTek</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<md5>03afad7fa2ff45b7ec5ba2e45b0299b0</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T193600" />
+	</game>
+	<game id="12670">
+		<path>./Chaotix ~ Knuckles' Chaotix (Japan, USA).zip</path>
+		<name>Knuckles' Chaotix</name>
+		<desc>Knuckles' Chaotix is a spin-off of the Sonic the Hedgehog series of Genesis games. Knuckles the Echidna (from Sonic the Hedgehog 3) works at Carnival Island, an amusement park where his job is to protect the park and make it a happy place for visitors. Dr. Robotnik, as usual, has an evil plan for the park. He wants the power emerald which supplies electricity to the entire island. What's worse, he has imprisoned several of Knuckles' friends in the "combi confiner." This contraption only allows Knuckles to free one of his friends at a time by using a ring force bond. 
+
+New characters featured include Vector the Crocodile, Mighty the Armadillo, Espio the Chameleon and Charmy Bee. There also two characters whose sole purpose is to slow you down, Heavy the Robot, and Bomb. Chaotix adds several new power-ups and 3D bonus levels as well.</desc>
+		<image>./images/Chaotix ~ Knuckles' Chaotix (Japan, USA)-image.png</image>
+		<marquee>./images/Chaotix ~ Knuckles' Chaotix (Japan, USA)-marquee.png</marquee>
+		<thumbnail>./images/Chaotix ~ Knuckles' Chaotix (Japan, USA)-thumb.png</thumbnail>
+		<fanart>./images/Chaotix ~ Knuckles' Chaotix (Japan, USA)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19950320T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<family>Sonic</family>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T215026</lastplayed>
+		<md5>3f83a7b9b6ddbf84ab3c01425d4e7abf</md5>
+		<gametime>62</gametime>
+		<lang>en,jp</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T193601" />
+	</game>
+	<game id="12674">
+		<path>./Cyber Brawl ~ Cosmic Carnage (Japan, USA).zip</path>
+		<name>Cosmic Carnage</name>
+		<desc>Cosmic Carnage is a one-on-one fighting game set in outer space.  The story begins as a prison barge is hijacked by it's cargo in an escape attempt.  The resulting chaos caused the barge to crash into a military cruiser. The impact caused extensive damage to both ships.  There were only 8 survivors, 4 from each ship.  What's worse, there's only one escape pod.  You control one of the 8 survivors, and have to finish off all the others to escape with your life.
+
+The gameplay in Cosmic carnage is similar to Street Fighter 2, but with a much slower pace.  Some of the fighters can be customized with different armor combinations, allowing them access to different special moves.</desc>
+		<image>./images/Cyber Brawl ~ Cosmic Carnage (Japan, USA)-image.png</image>
+		<marquee>./images/Cyber Brawl ~ Cosmic Carnage (Japan, USA)-marquee.png</marquee>
+		<thumbnail>./images/Cyber Brawl ~ Cosmic Carnage (Japan, USA)-thumb.png</thumbnail>
+		<fanart>./images/Cyber Brawl ~ Cosmic Carnage (Japan, USA)-fanart.jpg</fanart>
+		<rating>0.45</rating>
+		<releasedate>19941121T000000</releasedate>
+		<developer>Givro</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<md5>fd6fa225468a0862571c2fbb8f3bb16a</md5>
+		<lang>en,jp</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T193602" />
+	</game>
+	<game id="12693">
+		<path>./Darxide (Europe) (En,Fr,De,Es).zip</path>
+		<name>Darxide</name>
+		<desc>One of the last 32X games released (and exclusively in Europe), DarXide is a 3-D space shooter, inspired in part by the arcade gameplay of Asteroids. It is one of the few 32X games to used texture-mapped polygons. 
+
+Players control a lone starship rushing to destroy oncoming asteroids and alien vessels before they annihilate defenseless human miners and colonies. Asteroids break apart into smaller rocks, which much also be hunted down and destroyed. Aliens likewise arrive in larger, more dangerous vessels.
+
+Asteroids broken down to their smallest size and then vaporized will sometimes drop shield or energy recharges, to repair damage caused by laser blasts or collisions. New weapons can also be found. Players have a time limit to meet all objectives in a stage before they are forced to land and try again. The right side of the HUD shows asteroids remaining (and their approximate size), while the left shows the player's distance to their base (and so, time remaining in the stage).</desc>
+		<image>./images/Darxide (Europe) (En,Fr,De,Es)-image.jpg</image>
+		<marquee>./images/Darxide (Europe) (En,Fr,De,Es)-marquee.png</marquee>
+		<thumbnail>./images/Darxide (Europe) (En,Fr,De,Es)-thumb.jpg</thumbnail>
+		<fanart>./images/Darxide (Europe) (En,Fr,De,Es)-fanart.jpg</fanart>
+		<rating>0.45</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Frontier Developments</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Vehicle, 3rd person</genre>
+		<players>1</players>
+		<md5>30ee320f76db70a836edeff2c8ce9cd2</md5>
+		<lang>es,de,fr,en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221121T193603" />
+	</game>
+	<game id="12666">
+		<path>./Doom (Japan, USA).zip</path>
+		<name>Doom</name>
+		<desc>Doom is the definitive first person shooter developed by id Software and released in 1993. It became a Sega 32X launch title and is widely considered to be one of the games that pioneered and popularized the first person shooter genre. Doom retains a large, dedicated fan base to this day.
+
+The player assumes the role of a nameless Space Marine who uses a variety of weaponry to fight his way through several Mars moonbases and the depths of Hell itself.</desc>
+		<image>./images/Doom (Japan, USA)-image.jpg</image>
+		<marquee>./images/Doom (Japan, USA)-marquee.png</marquee>
+		<thumbnail>./images/Doom (Japan, USA)-thumb.jpg</thumbnail>
+		<fanart>./images/Doom (Japan, USA)-fanart.jpg</fanart>
+		<rating>0.55</rating>
+		<releasedate>19941121T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Doom</family>
+		<players>1</players>
+		<md5>0e283c6686c96d9525abfda08c593393</md5>
+		<lang>en,jp</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T193604" />
+	</game>
+	<game id="12672">
+		<path>./FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv).zip</path>
+		<name>FIFA Soccer '96</name>
+		<desc>FIFA Soccer 96 featured revolutionary commentary for its time -- the renowned British commentator John Motson covers all the the action on the pitch in real-time.
+
+FIFA Soccer 96 boasts 11 leagues from around the world, ranging from unknown players in the Malaysian league to the celebrated stars of the English and Italian leagues. 59 International teams are available for friendlies tournaments (including the World Cup). You can also create your own dream team through the custom team creator.</desc>
+		<image>./images/FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv)-image.jpg</image>
+		<marquee>./images/FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv)-marquee.png</marquee>
+		<thumbnail>./images/FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv)-thumb.jpg</thumbnail>
+		<fanart>./images/FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv)-fanart.jpg</fanart>
+		<rating>0.5</rating>
+		<releasedate>19951130T000000</releasedate>
+		<developer>Extended Play Productions</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>FIFA</family>
+		<players>1-4</players>
+		<md5>80cc655768c5509be334e10398cabbe4</md5>
+		<lang>it,es,de,fr,en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221121T193604" />
+	</game>
+	<game id="12688">
+		<path>./Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA).zip</path>
+		<name>Golf Magazine presents 36 Great Holes starring Fred Couples</name>
+		<desc>As the title implies, in 36 Great Holes the player takes control of 24 different digitized golfers – 12 males and 12 females – playing in 27 historic courses in the U.S. including Disney's Eagle Pines and Tidewater Golf Club, playing 36 authentic holes.  
+
+There are seven different modes (Stroke Play, Tournament, Skins, Shoot-out, Scramble, Practice and Match Play) and three different types of golf club heads including wood, metal and graphite. There is a battery back-up to keep track of 16 different categories of stats and does feature the voice of Fred Couples, even though he is not a playable character.</desc>
+		<image>./images/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA)-image.jpg</image>
+		<marquee>./images/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA)-marquee.png</marquee>
+		<thumbnail>./images/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA)-thumb.jpg</thumbnail>
+		<fanart>./images/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA)-fanart.jpg</fanart>
+		<rating>0.3</rating>
+		<releasedate>19950102T000000</releasedate>
+		<developer>Flashpoint Productions</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Golf</genre>
+		<players>1-8</players>
+		<md5>dbcc5f82be6036b5fcde4e11818b422a</md5>
+		<lang>en,jp</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T193605" />
+	</game>
+	<game id="12678">
+		<path>./Kolibri (USA, Europe).zip</path>
+		<name>Kolibri</name>
+		<desc>Kolibri is a hummingbird hero in this unusual side scrolling shooter for the 32X.  Deep inside the earth's core, there is a crystal from another world.  This crystal is the earth's life force, and essential to it's survival.  One day, a dark crystal falls from the sky and damages the earth's crystal.  Desperate, the earth's crystal rockets to the surface and empowers Kolibri with the abilities he needs to defeat the dark crystal.
+
+This game features 19 levels set in a variety of detailed natural settings.  Your goal in some levels is to destroy enemy bugs, in others your goal is to merely survive.</desc>
+		<image>./images/Kolibri (USA, Europe)-image.png</image>
+		<marquee>./images/Kolibri (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Kolibri (USA, Europe)-thumb.png</thumbnail>
+		<fanart>./images/Kolibri (USA, Europe)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>19951117T000000</releasedate>
+		<developer>Novotrade</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<md5>7bd79e2fae32e4fd720a6ce6841fcc1e</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221121T193606" />
+	</game>
+	<game id="12689">
+		<path>./Metal Head (Japan, USA) (En,Ja).zip</path>
+		<name>Metal Head</name>
+		<desc>It's 5 years after the formation of the Worldwide Federation.  Although war has been averted, terrorist cells around the world threaten the stability of the federation.  To combat this menace, the Federation has created a bi-pedal armored tank known as the Metal Head.  You are a Metal Head pilot, and you have to use all the weapons at your disposal to take out the terrorists.
+
+Metal Head is a bit of a variation on the usual giant robot combat game.  The game's mission areas bear more resemblance to a first-person shooter than a simulation.  The graphics are all rendered in texture mapped polygons, which is unusual for a 32X game.</desc>
+		<image>./images/Metal Head (Japan, USA) (En,Ja)-image.jpg</image>
+		<marquee>./images/Metal Head (Japan, USA) (En,Ja)-marquee.png</marquee>
+		<thumbnail>./images/Metal Head (Japan, USA) (En,Ja)-thumb.jpg</thumbnail>
+		<fanart>./images/Metal Head (Japan, USA) (En,Ja)-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>19950224T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>58f30cdefcb204c2a4596748f1121686</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221121T193606" />
+	</game>
+	<game id="12668">
+		<path>./Mortal Kombat II (Japan, USA).zip</path>
+		<name>Mortal Kombat II</name>
+		<desc>The Mortal Kombat fighters, plus several new ones, return for a tournament held by the evil Shang Tsung of the Outworld. The action is one-on-one as before, and famed for its high level of violence and blood (other than the sanitised Nintendo version). There are 5 difficulty levels and optional credits, as well as the usual two player mode including same character duels.
+
+To win the main tournament, the player must beat each of the other human players, before taking on Shang Tsung, Kintaro and finally Shao Kahn. Players have a range of punches and kicks available, as well as flying kicks, uppercuts, roundhouses, and the special moves, which vary for each player. These include throws, uppercuts, long-distance bullets, bicycle kicks and a teleport feature.</desc>
+		<image>./images/Mortal Kombat II (Japan, USA)-image.jpg</image>
+		<marquee>./images/Mortal Kombat II (Japan, USA)-marquee.png</marquee>
+		<thumbnail>./images/Mortal Kombat II (Japan, USA)-thumb.jpg</thumbnail>
+		<fanart>./images/Mortal Kombat II (Japan, USA)-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fight</genre>
+		<family>Mortal Kombat</family>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220925T140509</lastplayed>
+		<md5>acf4cfc1d8ba99bd22df466d66ecfba7</md5>
+		<gametime>19</gametime>
+		<lang>en,jp</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T193607" />
+	</game>
+	<game id="12694">
+		<path>./Motocross Championship (USA).zip</path>
+		<name>Motocross Championship</name>
+		<desc>Motocross Championship is the only dirtbike racing game for the 32X.  The action takes place from a behind-the-bike perspective, and makes use of the 32X's hardware bitmap scaling to present a 3D graphical effect.
+
+Like the title suggests, the main game mode is a points based championship.  You can compete in one of 3 motorcycle classes over 12 indoor and outdoor tracks.  There's also two player split screen mode so you can share off-road fun with a friend.</desc>
+		<image>./images/Motocross Championship (USA)-image.jpg</image>
+		<marquee>./images/Motocross Championship (USA)-marquee.png</marquee>
+		<thumbnail>./images/Motocross Championship (USA)-thumb.jpg</thumbnail>
+		<fanart>./images/Motocross Championship (USA)-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Artech Studios</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
+		<players>1-2</players>
+		<md5>2c4a934985021624d48725b8d7b039e8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T193608" />
 	</game>
 	<game id="12700">
 		<path>./NFL Quarterback Club (World).zip</path>
 		<name>NFL Quarterback Club</name>
 		<desc>One of the earliest in the NFL Quarterback series, this version features the standard game modes such as Exhibition, Season, Playoffs, etc. and features a full NFL license with players and their teams respective names and logos.  One feature that is present in this game is the Quarterback Skills Challenge where the player can choose from 13 different quarterbacks such as John Elway, Steve Young, Dan Marino and many others in a QB competition.  The goal is to complete a series of drills such as hitting a bulls-eyes, throwing long distances, competing in obstacle courses or test out their throwing accuracy.  It also has a two-player option where friends can compete head-to-head.</desc>
 		<image>./images/NFL Quarterback Club (World)-image.jpg</image>
-		<video>./videos/NFL Quarterback Club (World)-video.mp4</video>
 		<marquee>./images/NFL Quarterback Club (World)-marquee.png</marquee>
 		<thumbnail>./images/NFL Quarterback Club (World)-thumb.jpg</thumbnail>
 		<fanart>./images/NFL Quarterback Club (World)-fanart.jpg</fanart>
-		<bezel>./images/NFL Quarterback Club (World)-bezel.png</bezel>
-		<boxback>./images/NFL Quarterback Club (World)-boxback.jpg</boxback>
 		<rating>0.6</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>Iguana Entertainment</developer>
@@ -410,8 +380,7 @@ Winning Tournament Mode also unlocks a higher CPU difficulty level.</desc>
 		<md5>802bbec15cef74965ff351962d8c63e9</md5>
 		<lang>en</lang>
 		<region>wr</region>
-		<scrap name="ScreenScraper" date="20221028T072606" />
-		<scrap name="HfsDB" date="20220917T144708" />
+		<scrap name="ScreenScraper" date="20221121T193608" />
 	</game>
 	<game id="12685">
 		<path>./Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).zip</path>
@@ -423,18 +392,19 @@ Although the basic goal of each of the 9 levels is to shoot everything without g
 		<marquee>./images/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA)-marquee.png</marquee>
 		<thumbnail>./images/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA)-thumb.png</thumbnail>
 		<fanart>./images/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA)-fanart.jpg</fanart>
-		<bezel>./images/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA)-bezel.png</bezel>
 		<rating>0.65</rating>
 		<releasedate>19950601T000000</releasedate>
 		<developer>CSK Research Institute Corp.</developer>
 		<publisher>SEGA</publisher>
 		<genre>Shoot'em Up</genre>
 		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220925T111016</lastplayed>
 		<md5>fd9f4a336d5f2fabb393a5ebde401859</md5>
+		<gametime>17</gametime>
 		<lang>en,jp</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072612" />
-		<scrap name="HfsDB" date="20220917T144709" />
+		<scrap name="ScreenScraper" date="20221121T193609" />
 	</game>
 	<game id="12680">
 		<path>./Pitfall - The Mayan Adventure (USA).zip</path>
@@ -444,7 +414,6 @@ Although the basic goal of each of the 9 levels is to shoot everything without g
 		<marquee>./images/Pitfall - The Mayan Adventure (USA)-marquee.png</marquee>
 		<thumbnail>./images/Pitfall - The Mayan Adventure (USA)-thumb.jpg</thumbnail>
 		<fanart>./images/Pitfall - The Mayan Adventure (USA)-fanart.jpg</fanart>
-		<bezel>./images/Pitfall - The Mayan Adventure (USA)-bezel.png</bezel>
 		<rating>0.6</rating>
 		<releasedate>19950901T000000</releasedate>
 		<developer>Activision</developer>
@@ -455,8 +424,7 @@ Although the basic goal of each of the 9 levels is to shoot everything without g
 		<md5>9a886529efd9d9a889da3425dca17855</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072617" />
-		<scrap name="HfsDB" date="20220917T144709" />
+		<scrap name="ScreenScraper" date="20221121T193609" />
 	</game>
 	<game id="12682">
 		<path>./Primal Rage (USA, Europe).zip</path>
@@ -465,23 +433,22 @@ Although the basic goal of each of the 9 levels is to shoot everything without g
 
 Primal Rage is a one-on-one fighting game featuring dinosaurs and giant apes as the fighters. The graphics are done with digitized stop-motion animation. Gameplay is similar to Mortal Kombat in that it is viewed from a side perspective, and features deadly finishing moves at the end of the match.</desc>
 		<image>./images/Primal Rage (USA, Europe)-image.jpg</image>
-		<video>./videos/Primal Rage (USA, Europe)-video.mp4</video>
 		<marquee>./images/Primal Rage (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Primal Rage (USA, Europe)-thumb.jpg</thumbnail>
 		<fanart>./images/Primal Rage (USA, Europe)-fanart.jpg</fanart>
-		<bezel>./images/Primal Rage (USA, Europe)-bezel.png</bezel>
-		<boxback>./images/Primal Rage (USA, Europe)-boxback.jpg</boxback>
 		<rating>0.7</rating>
 		<releasedate>19960301T000000</releasedate>
 		<developer>Time Warner Interactive</developer>
 		<publisher>SEGA</publisher>
 		<genre>Fight</genre>
 		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T215135</lastplayed>
 		<md5>c7a1f8a7f71e95213d0b285ae3d23025</md5>
+		<gametime>65</gametime>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20221028T072621" />
-		<scrap name="HfsDB" date="20220917T144712" />
+		<scrap name="ScreenScraper" date="20221121T193609" />
 	</game>
 	<game id="46327">
 		<path>./RBI Baseball '95 (USA).zip</path>
@@ -490,12 +457,9 @@ Primal Rage is a one-on-one fighting game featuring dinosaurs and giant apes as 
 
 Though it doesn't have a full MLB license, it tries to recreate the MLB experience by omitted the teams nicknames but using similar team colors and using the actual stadiums and redoing them without the distinctive trademarks.  It doesn't feature a battery back-up, but does have a password feature for a player to pick up and play later if they choose.</desc>
 		<image>./images/RBI Baseball '95 (USA)-image.jpg</image>
-		<video>./videos/RBI Baseball '95 (USA)-video.mp4</video>
 		<marquee>./images/RBI Baseball '95 (USA)-marquee.png</marquee>
 		<thumbnail>./images/RBI Baseball '95 (USA)-thumb.jpg</thumbnail>
 		<fanart>./images/RBI Baseball '95 (USA)-fanart.jpg</fanart>
-		<bezel>./images/RBI Baseball '95 (USA)-bezel.png</bezel>
-		<boxback>./images/RBI Baseball '95 (USA)-boxback.jpg</boxback>
 		<rating>0.5</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>Atari</developer>
@@ -506,20 +470,37 @@ Though it doesn't have a full MLB license, it tries to recreate the MLB experien
 		<md5>3827cd38f432c4aea40ca3336b275cb1</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072624" />
-		<scrap name="HfsDB" date="20220917T144722" />
+		<scrap name="ScreenScraper" date="20221121T193610" />
+	</game>
+	<game id="12695">
+		<path>./Shadow Squadron ~ Stellar Assault (USA, Europe).zip</path>
+		<name>Stellar Assault</name>
+		<desc>Shadow Squadron is a 3D space combat shooter. The player controls a space fighter in a series of battles against huge enemy ships.  There are 2 different types of ships to fly, and 6 different missions.  In most missions, the player has to destroy several locations on a large ship in order to blow up the whole thing. 
+
+There are two ways to play the game.  First, one can directly control the ship and maneuver it around the 3D polygon environments.  Second, the player can let the 32X do the flying, and simply control a gun turret.</desc>
+		<image>./images/Shadow Squadron ~ Stellar Assault (USA, Europe)-image.png</image>
+		<marquee>./images/Shadow Squadron ~ Stellar Assault (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Shadow Squadron ~ Stellar Assault (USA, Europe)-thumb.png</thumbnail>
+		<fanart>./images/Shadow Squadron ~ Stellar Assault (USA, Europe)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19950601T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<md5>1415a8675adf3e8647b3df673b50056d</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221121T193611" />
 	</game>
 	<game id="12676">
 		<path>./Space Harrier (Japan, USA).zip</path>
 		<name>Space Harrier</name>
 		<desc>Deep Space. The last blast! You pick up a frantic distress call from deep space. You teleport to the Land of the Dragons which is swarming with incredible monsters. You must laser blast your way by giant snakes and robotic monsters. Blast through rings of fire, blazing dragons, dreaded orbs and mutant space-heads!</desc>
 		<image>./images/Space Harrier (Japan, USA)-image.jpg</image>
-		<video>./videos/Space Harrier (Japan, USA)-video.mp4</video>
 		<marquee>./images/Space Harrier (Japan, USA)-marquee.png</marquee>
 		<thumbnail>./images/Space Harrier (Japan, USA)-thumb.jpg</thumbnail>
 		<fanart>./images/Space Harrier (Japan, USA)-fanart.jpg</fanart>
-		<bezel>./images/Space Harrier (Japan, USA)-bezel.png</bezel>
-		<boxback>./images/Space Harrier (Japan, USA)-boxback.jpg</boxback>
 		<rating>0.7</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -533,34 +514,31 @@ Though it doesn't have a full MLB license, it tries to recreate the MLB experien
 		<gametime>25</gametime>
 		<lang>en,jp</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072628" />
-		<scrap name="HfsDB" date="20220917T144737" />
+		<scrap name="ScreenScraper" date="20221121T193612" />
 	</game>
 	<game id="12691">
 		<path>./Star Trek Starfleet Academy - Starship Bridge Simulator (USA).zip</path>
 		<name>Star Trek, Starfleet Academy : Starship Bridge Simulator</name>
-		<desc>Two years before the better-known computer game came this title, in which the aim is to successfully complete the space combat element of Starfleet training. You will fight Klingons, deal with repairs, and find yourself in all manner of dangerous situations, but try to stay within Starfleet directives.
+		<desc>Challenge your tactical skills! Command the Starfleet's finest vessels and pilot your way through dozens of stuffing scenarios. Sneak through a Klingon gauntlet to rescue thousands of colonists... or lose your whole crew to a warp core breach. Can you master the legendary Kobayashi Maru scenario?
 
-The game is viewed from the bridge of your vessel (there are 5 different ones in total), with polygons used to display the action. Information on the world situation at the time of the game is supplied within the game. There are quick missions bringing scenes from Star Trek movies to life.</desc>
+- Command five different Federation vessels! Warp through space aboard the bridge of a star cruiser.
+- Serve your initiation as a cadet and work to the ultimate honor of command!
+- Experience the beauty of the final frontier in high-speed 3D polygon graphics.</desc>
 		<image>./images/Star Trek Starfleet Academy - Starship Bridge Simulator (USA)-image.jpg</image>
-		<video>./videos/Star Trek Starfleet Academy - Starship Bridge Simulator (USA)-video.mp4</video>
 		<marquee>./images/Star Trek Starfleet Academy - Starship Bridge Simulator (USA)-marquee.png</marquee>
 		<thumbnail>./images/Star Trek Starfleet Academy - Starship Bridge Simulator (USA)-thumb.jpg</thumbnail>
 		<fanart>./images/Star Trek Starfleet Academy - Starship Bridge Simulator (USA)-fanart.jpg</fanart>
-		<bezel>./images/Star Trek Starfleet Academy - Starship Bridge Simulator (USA)-bezel.png</bezel>
-		<boxback>./images/Star Trek Starfleet Academy - Starship Bridge Simulator (USA)-boxback.jpg</boxback>
 		<rating>0.7</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>High Voltage</developer>
 		<publisher>SEGA</publisher>
-		<genre>Lightgun Shooter</genre>
+		<genre>Simulation / SciFi</genre>
 		<family>Star Trek</family>
 		<players>1-2</players>
 		<md5>19be4f542e42957e25b20e90f97cdca9</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072632" />
-		<scrap name="HfsDB" date="20220917T144744" />
+		<scrap name="ScreenScraper" date="20221121T193612" />
 	</game>
 	<game id="12667">
 		<path>./Star Wars Arcade (USA).zip</path>
@@ -569,12 +547,9 @@ The game is viewed from the bridge of your vessel (there are 5 different ones in
 
 Some of the missions take place in deep space, around asteroids, or near Star Destroyers.  Other missions take place on the surface of the Death Star and re-create the Luke Skywalker's famous trench run to destroy it.</desc>
 		<image>./images/Star Wars Arcade (USA)-image.png</image>
-		<video>./videos/Star Wars Arcade (USA)-video.mp4</video>
 		<marquee>./images/Star Wars Arcade (USA)-marquee.png</marquee>
 		<thumbnail>./images/Star Wars Arcade (USA)-thumb.png</thumbnail>
 		<fanart>./images/Star Wars Arcade (USA)-fanart.jpg</fanart>
-		<bezel>./images/Star Wars Arcade (USA)-bezel.png</bezel>
-		<boxback>./images/Star Wars Arcade (USA)-boxback.jpg</boxback>
 		<rating>0.7</rating>
 		<releasedate>19941121T000000</releasedate>
 		<developer>LucasArts</developer>
@@ -585,8 +560,7 @@ Some of the missions take place in deep space, around asteroids, or near Star De
 		<md5>cfe66fe508b71e7f7dfe50f21f02a399</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072635" />
-		<scrap name="HfsDB" date="20220917T144749" />
+		<scrap name="ScreenScraper" date="20221121T193612" />
 	</game>
 	<game id="12696">
 		<path>./T-Mek (USA, Europe).zip</path>
@@ -595,12 +569,9 @@ Some of the missions take place in deep space, around asteroids, or near Star De
 
 The action is viewed from your perspective as you travel around the arena. You also have an overall view of where your opponents are. Terrain surfaces and characteristics vary in each battle. In most levels you need to reach a certain score to progress, however there are out-and-out one-off Deathmatch duels to deal with periodically.</desc>
 		<image>./images/T-Mek (USA, Europe)-image.jpg</image>
-		<video>./videos/T-Mek (USA, Europe)-video.mp4</video>
 		<marquee>./images/T-Mek (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/T-Mek (USA, Europe)-thumb.jpg</thumbnail>
 		<fanart>./images/T-Mek (USA, Europe)-fanart.jpg</fanart>
-		<bezel>./images/T-Mek (USA, Europe)-bezel.png</bezel>
-		<boxback>./images/T-Mek (USA, Europe)-boxback.jpg</boxback>
 		<rating>0.7</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>Time Warner Interactive</developer>
@@ -610,8 +581,7 @@ The action is viewed from your perspective as you travel around the arena. You a
 		<md5>445ffc3b620d09560a7c6744e63e7716</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20221028T072639" />
-		<scrap name="HfsDB" date="20220917T144758" />
+		<scrap name="ScreenScraper" date="20221121T193613" />
 	</game>
 	<game id="12683">
 		<path>./Tempo (Japan, USA).zip</path>
@@ -620,23 +590,22 @@ The action is viewed from your perspective as you travel around the arena. You a
 
 Tempo's game is a side scrolling platformer with 7 levels.  It's a single player game, although you can collect "dance" power-ups that allow you to call your friend, a butterfly, to help you defeat your enemies using killer dance moves.</desc>
 		<image>./images/Tempo (Japan, USA)-image.png</image>
-		<video>./videos/Tempo (Japan, USA)-video.mp4</video>
 		<marquee>./images/Tempo (Japan, USA)-marquee.png</marquee>
 		<thumbnail>./images/Tempo (Japan, USA)-thumb.png</thumbnail>
 		<fanart>./images/Tempo (Japan, USA)-fanart.jpg</fanart>
-		<bezel>./images/Tempo (Japan, USA)-bezel.png</bezel>
-		<boxback>./images/Tempo (Japan, USA)-boxback.jpg</boxback>
 		<rating>0.75</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>SEGA</developer>
 		<publisher>SEGA</publisher>
 		<genre>Platform</genre>
 		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T215258</lastplayed>
 		<md5>04bb423d8fad7ba6abb0bca4fd29552e</md5>
+		<gametime>76</gametime>
 		<lang>en,jp</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072642" />
-		<scrap name="HfsDB" date="20220917T144808" />
+		<scrap name="ScreenScraper" date="20221121T193613" />
 	</game>
 	<game id="12699">
 		<path>./Toughman Contest (USA, Europe).zip</path>
@@ -645,12 +614,9 @@ Tempo's game is a side scrolling platformer with 7 levels.  It's a single player
 
 The boxing action is viewed from behind the back of fighter you control.  Your fighter is rendered as an outline, so you can see what your opponent is up to and react accordingly.  Toughman matches consist of three one minute rounds.  Your goal is to KO your opponent by causing their stamina meter to decrease to the point where they fall down, or beating on them enough that you are scored the winner at end of the third round.</desc>
 		<image>./images/Toughman Contest (USA, Europe)-image.jpg</image>
-		<video>./videos/Toughman Contest (USA, Europe)-video.mp4</video>
 		<marquee>./images/Toughman Contest (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Toughman Contest (USA, Europe)-thumb.jpg</thumbnail>
 		<fanart>./images/Toughman Contest (USA, Europe)-fanart.jpg</fanart>
-		<bezel>./images/Toughman Contest (USA, Europe)-bezel.png</bezel>
-		<boxback>./images/Toughman Contest (USA, Europe)-boxback.jpg</boxback>
 		<rating>0.5</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>Visual Concepts</developer>
@@ -660,8 +626,7 @@ The boxing action is viewed from behind the back of fighter you control.  Your f
 		<md5>641fe2bce78e5a2be1992b0b1df238bb</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20221028T072646" />
-		<scrap name="HfsDB" date="20220917T144812" />
+		<scrap name="ScreenScraper" date="20221121T193614" />
 	</game>
 	<game id="12671">
 		<path>./Virtua Fighter (Japan, USA).zip</path>
@@ -670,12 +635,9 @@ The boxing action is viewed from behind the back of fighter you control.  Your f
 
 There are 8 fighters to choose from in Virtua Fighter, and an equal number of fighting backdrops in which to compete. Each fighter has a distinctive fighting style, and their own set of signature moves.</desc>
 		<image>./images/Virtua Fighter (Japan, USA)-image.jpg</image>
-		<video>./videos/Virtua Fighter (Japan, USA)-video.mp4</video>
 		<marquee>./images/Virtua Fighter (Japan, USA)-marquee.png</marquee>
 		<thumbnail>./images/Virtua Fighter (Japan, USA)-thumb.jpg</thumbnail>
 		<fanart>./images/Virtua Fighter (Japan, USA)-fanart.jpg</fanart>
-		<bezel>./images/Virtua Fighter (Japan, USA)-bezel.png</bezel>
-		<boxback>./images/Virtua Fighter (Japan, USA)-boxback.jpg</boxback>
 		<rating>0.7</rating>
 		<releasedate>19951020T000000</releasedate>
 		<developer>SEGA</developer>
@@ -689,8 +651,7 @@ There are 8 fighters to choose from in Virtua Fighter, and an equal number of fi
 		<gametime>62</gametime>
 		<lang>en,jp</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072650" />
-		<scrap name="HfsDB" date="20220917T144814" />
+		<scrap name="ScreenScraper" date="20221121T193614" />
 	</game>
 	<game id="12686">
 		<path>./Virtua Racing Deluxe (USA).zip</path>
@@ -699,12 +660,9 @@ There are 8 fighters to choose from in Virtua Fighter, and an equal number of fi
 
 The 32X version of Virtua Racing adds a couple of new features. There are now 3 different types of cars to drive, including a stock car and a prototype racer. Furthermore, there are two all-new tracks.</desc>
 		<image>./images/Virtua Racing Deluxe (USA)-image.jpg</image>
-		<video>./videos/Virtua Racing Deluxe (USA)-video.mp4</video>
 		<marquee>./images/Virtua Racing Deluxe (USA)-marquee.png</marquee>
 		<thumbnail>./images/Virtua Racing Deluxe (USA)-thumb.jpg</thumbnail>
 		<fanart>./images/Virtua Racing Deluxe (USA)-fanart.jpg</fanart>
-		<bezel>./images/Virtua Racing Deluxe (USA)-bezel.png</bezel>
-		<boxback>./images/Virtua Racing Deluxe (USA)-boxback.jpg</boxback>
 		<rating>0.75</rating>
 		<releasedate>19941121T000000</releasedate>
 		<developer>SEGA</developer>
@@ -717,8 +675,7 @@ The 32X version of Virtua Racing adds a couple of new features. There are now 3 
 		<gametime>70</gametime>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072654" />
-		<scrap name="HfsDB" date="20220917T144822" />
+		<scrap name="ScreenScraper" date="20221121T193615" />
 	</game>
 	<game id="12701">
 		<path>./World Series Baseball Starring Deion Sanders (USA).zip</path>
@@ -727,12 +684,9 @@ The 32X version of Virtua Racing adds a couple of new features. There are now 3 
 
 There are 3 main game modes: exhibition, full season, and playoff.  Exhibition is usefull for a quick game between any two teams of your choosing.  Full season allows you to play an entire Major League Baseball season.  And finally the playoff mode allows you to play the games leading up to the World Series.  Also included are two different home run derby modes, and a full draft and trade for creating your team.</desc>
 		<image>./images/World Series Baseball Starring Deion Sanders (USA)-image.png</image>
-		<video>./videos/World Series Baseball Starring Deion Sanders (USA)-video.mp4</video>
 		<marquee>./images/World Series Baseball Starring Deion Sanders (USA)-marquee.png</marquee>
 		<thumbnail>./images/World Series Baseball Starring Deion Sanders (USA)-thumb.png</thumbnail>
 		<fanart>./images/World Series Baseball Starring Deion Sanders (USA)-fanart.jpg</fanart>
-		<bezel>./images/World Series Baseball Starring Deion Sanders (USA)-bezel.png</bezel>
-		<boxback>./images/World Series Baseball Starring Deion Sanders (USA)-boxback.jpg</boxback>
 		<rating>0.6</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>Blue Sky Software</developer>
@@ -743,8 +697,7 @@ There are 3 main game modes: exhibition, full season, and playoff.  Exhibition i
 		<md5>4c08828e19178367f80ee6664d1a9821</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072657" />
-		<scrap name="HfsDB" date="20220917T144830" />
+		<scrap name="ScreenScraper" date="20221121T193615" />
 	</game>
 	<game id="12681">
 		<path>./WWF Raw (World).zip</path>
@@ -755,12 +708,9 @@ In this game, you attempt to pin your opponent to the mat by reducing his power 
 
 This game supports up to 4 simultaneous players, and has the following game modes: One-on-One, Tag Team, Bedlam, Survivor Series, Royal Rumble, Raw Endurance Match, and Rematch.</desc>
 		<image>./images/WWF Raw (World)-image.png</image>
-		<video>./videos/WWF Raw (World)-video.mp4</video>
 		<marquee>./images/WWF Raw (World)-marquee.png</marquee>
 		<thumbnail>./images/WWF Raw (World)-thumb.png</thumbnail>
 		<fanart>./images/WWF Raw (World)-fanart.jpg</fanart>
-		<bezel>./images/WWF Raw (World)-bezel.png</bezel>
-		<boxback>./images/WWF Raw (World)-boxback.jpg</boxback>
 		<rating>0.7</rating>
 		<releasedate>19950131T000000</releasedate>
 		<developer>Sculptured Software</developer>
@@ -771,8 +721,7 @@ This game supports up to 4 simultaneous players, and has the following game mode
 		<md5>cf6d0876461abf0ca1c02c6f49280757</md5>
 		<lang>en</lang>
 		<region>wr</region>
-		<scrap name="ScreenScraper" date="20221028T072701" />
-		<scrap name="HfsDB" date="20220917T144834" />
+		<scrap name="ScreenScraper" date="20221121T193616" />
 	</game>
 	<game id="12687">
 		<path>./WWF WrestleMania - The Arcade Game (USA).zip</path>
@@ -784,7 +733,6 @@ Although it is a wrestling title, this game is structured a lot like a one-on-on
 		<marquee>./images/WWF WrestleMania - The Arcade Game (USA)-marquee.png</marquee>
 		<thumbnail>./images/WWF WrestleMania - The Arcade Game (USA)-thumb.png</thumbnail>
 		<fanart>./images/WWF WrestleMania - The Arcade Game (USA)-fanart.jpg</fanart>
-		<bezel>./images/WWF WrestleMania - The Arcade Game (USA)-bezel.png</bezel>
 		<rating>0.7</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>Sculptured Software</developer>
@@ -795,65 +743,6 @@ Although it is a wrestling title, this game is structured a lot like a one-on-on
 		<md5>9506a18c1c865b6131fb0ca483255617</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072706" />
-		<scrap name="HfsDB" date="20220917T144834" />
-	</game>
-	<game id="12673">
-		<path>./Amazing Spider-Man, The - Web of Fire (USA).zip</path>
-		<name>The Amazing Spider-Man : Web of Fire</name>
-		<desc>An electric plasma grid has left New York in a state of chaos, and only Spider-Man and Daredevil can save the city from total destruction.
-
-Lead Spidey through side-scrolling levels filled with a range of enemies and puzzles and take on HYDRA, the source of the evil, head on.</desc>
-		<image>./images/Amazing Spider-Man, The - Web of Fire (USA)-image.png</image>
-		<video>./videos/Amazing Spider-Man, The - Web of Fire (USA)-video.mp4</video>
-		<marquee>./images/Amazing Spider-Man, The - Web of Fire (USA)-marquee.png</marquee>
-		<thumbnail>./images/Amazing Spider-Man, The - Web of Fire (USA)-thumb.png</thumbnail>
-		<fanart>./images/Amazing Spider-Man, The - Web of Fire (USA)-fanart.jpg</fanart>
-		<bezel>./images/Amazing Spider-Man, The - Web of Fire (USA)-bezel.png</bezel>
-		<boxback>./images/Amazing Spider-Man, The - Web of Fire (USA)-boxback.jpg</boxback>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>BlueSky Software</developer>
-		<publisher>SEGA</publisher>
-		<genre>Platform / Fighter Scrolling</genre>
-		<family>Spider-Man</family>
-		<players>1</players>
-		<playcount>1</playcount>
-		<lastplayed>20221031T165629</lastplayed>
-		<md5>24292ec6e0f4601fac945a82e71c57c8</md5>
-		<gametime>60</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072503" />
-		<scrap name="HfsDB" date="20220917T144519" />
-	</game>
-	<game id="12668">
-		<path>./Mortal Kombat II (Japan, USA).zip</path>
-		<name>Mortal Kombat II</name>
-		<desc>The Mortal Kombat fighters, plus several new ones, return for a tournament held by the evil Shang Tsung of the Outworld. The action is one-on-one as before, and famed for its high level of violence and blood (other than the sanitised Nintendo version). There are 5 difficulty levels and optional credits, as well as the usual two player mode including same character duels.
-
-To win the main tournament, the player must beat each of the other human players, before taking on Shang Tsung, Kintaro and finally Shao Kahn. Players have a range of punches and kicks available, as well as flying kicks, uppercuts, roundhouses, and the special moves, which vary for each player. These include throws, uppercuts, long-distance bullets, bicycle kicks and a teleport feature.</desc>
-		<image>./images/Mortal Kombat II (Japan, USA)-image.jpg</image>
-		<video>./videos/Mortal Kombat II (Japan, USA)-video.mp4</video>
-		<marquee>./images/Mortal Kombat II (Japan, USA)-marquee.png</marquee>
-		<thumbnail>./images/Mortal Kombat II (Japan, USA)-thumb.jpg</thumbnail>
-		<fanart>./images/Mortal Kombat II (Japan, USA)-fanart.jpg</fanart>
-		<bezel>./images/Mortal Kombat II (Japan, USA)-bezel.png</bezel>
-		<boxback>./images/Mortal Kombat II (Japan, USA)-boxback.jpg</boxback>
-		<rating>0.85</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Probe Software</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Fight</genre>
-		<family>Mortal Kombat</family>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20221031T165506</lastplayed>
-		<md5>acf4cfc1d8ba99bd22df466d66ecfba7</md5>
-		<gametime>70</gametime>
-		<lang>en,jp</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20221028T072553" />
-		<scrap name="HfsDB" date="20220917T144655" />
+		<scrap name="ScreenScraper" date="20221121T193616" />
 	</game>
 </gameList>

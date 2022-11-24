@@ -1,26 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="63076">
-		<path>./Mario Kart Arcade GP 2 (USA).iso</path>
-		<name>Mario Kart Arcade Gp 2</name>
-		<desc>This sequel to Mario Kart Arcade GP adds new characters Waluigi (from Nintendo) and Tamagotchi (from Bandai), new items, new courses, improved 'NamCam' functionality, and announcer commentary.</desc>
-		<image>./images/Mario Kart Arcade GP 2 (USA)-image.png</image>
-		<video>./videos/Mario Kart Arcade GP 2 (USA)-video.mp4</video>
-		<marquee>./images/Mario Kart Arcade GP 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mario Kart Arcade GP 2 (USA)-thumb.png</thumbnail>
-		<fanart>./images/Mario Kart Arcade GP 2 (USA)-fanart.jpg</fanart>
-		<releasedate>20070101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<arcadesystemname>namco</arcadesystemname>
-		<playcount>2</playcount>
-		<lastplayed>20221002T122634</lastplayed>
-		<gametime>356</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T062134" />
-	</game>
 	<game id="63077">
 		<path>./Mario Kart Arcade GP (USA).iso</path>
 		<name>Mario Kart Arcade Gp</name>
@@ -37,12 +16,30 @@
 		<genre>Race, Driving / Race 3rd Pers. view</genre>
 		<family>Mario Kart</family>
 		<arcadesystemname>namco</arcadesystemname>
-		<players>2</players>
-		<playcount>5</playcount>
-		<lastplayed>20221002T164641</lastplayed>
-		<gametime>392</gametime>
+		<players>1-2</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T062132" />
+		<scrap name="ScreenScraper" date="20221004T180254" />
+	</game>
+	<game id="63076">
+		<path>./Mario Kart Arcade GP 2 (USA).iso</path>
+		<name>Mario Kart Arcade Gp 2</name>
+		<desc>This sequel to Mario Kart Arcade GP adds new characters Waluigi (from Nintendo) and Tamagotchi (from Bandai), new items, new courses, improved 'NamCam' functionality, and announcer commentary.</desc>
+		<image>./images/Mario Kart Arcade GP 2 (USA)-image.png</image>
+		<video>./videos/Mario Kart Arcade GP 2 (USA)-video.mp4</video>
+		<marquee>./images/Mario Kart Arcade GP 2 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Mario Kart Arcade GP 2 (USA)-thumb.png</thumbnail>
+		<fanart>./images/Mario Kart Arcade GP 2 (USA)-fanart.jpg</fanart>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<arcadesystemname>namco</arcadesystemname>
+		<playcount>1</playcount>
+		<lastplayed>20221004T183503</lastplayed>
+		<gametime>16</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221004T180231" />
 	</game>
 </gameList>

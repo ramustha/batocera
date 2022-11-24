@@ -1,46 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./galaxy keiji gayvan.chd</path>
-		<name>Galaxy Keiji Gayvan</name>
-		<desc>Galaxy Deka Gayvan est un beat'em up. Vous incarnez seul ou à deux joueur Hiro et Michiko,, deux agents envoyés pour éliminer le criminel Ballas qui menace la paix sur terre.
-
-Au fil du jeu, vous accumulez de l'énergie qui permet de se transformer en super héros (Gayvan et Mittchi). Ils deviennent alors plus fort et ont accès à de nouveaux coups spéciaux.
-
-Un mode VS est également disponible.</desc>
-		<image>./images/galaxy keiji gayvan-image.png</image>
-		<video>./videos/galaxy keiji gayvan-video.mp4</video>
-		<marquee>./images/galaxy keiji gayvan-marquee.png</marquee>
-		<thumbnail>./images/galaxy keiji gayvan-thumb.png</thumbnail>
-		<rating>0</rating>
-		<releasedate>19931029T000000</releasedate>
-		<developer>Fill in Café Co., Ltd.</developer>
-		<publisher>Intec Inc.</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./star parodia.chd</path>
-		<name>Fantasy Star Soldier</name>
-		<desc>Fantasy Star Soldier est la version US de l'excellent shmup Star Parodier. Cette version, bien que finalisée, n'est jamais sortie. Le jeu est parfaitement jouable.</desc>
-		<image>./images/star parodia-image.png</image>
-		<video>./videos/star parodia-video.mp4</video>
-		<marquee>./images/star parodia-marquee.png</marquee>
-		<thumbnail>./images/star parodia-thumb.png</thumbnail>
-		<rating>0</rating>
-		<releasedate>19920424T000000</releasedate>
-		<developer>Inter State</developer>
-		<publisher>Hudson</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<playcount>1</playcount>
-		<lastplayed>20200307T230755</lastplayed>
-		<gametime>201</gametime>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
 		<path>./Chou Aniki - Super Big Brothers (Japan).chd</path>
 		<name>Cho Aniki - Super Big Brothers</name>
 		<desc>Dans Cho Aniki : Super Big Brothers sur Turbografx, le joueur contrôle Idaten ou Benten, deux guerriers célestes qui luttent pour mettre un terme au règne tyrannique de l'empereur Constructeur. Aidés par les robustes Adon et Samson, les deux guerriers ont pour mission de défaire l'armée impériale au fil des cinq niveaux proposés.</desc>
@@ -73,79 +33,6 @@ Un mode VS est également disponible.</desc>
 		<region>jp</region>
 	</game>
 	<game>
-		<path>./crest of wolf.chd</path>
-		<name>crest of wolf</name>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./rainbow islands.chd</path>
-		<name>Rainbow Islands</name>
-		<desc>Ultra cute sequel to Bubble Bobble. Work your way up each level by jumping platforms and throwing out rainbows. You can collapse your rainbows by jumping on them from above, allowing you to destroy any enemies trapped underneath, or you can shoot them directly at anything heading your way. The rainbows can be powered up to shoot three at a time and are essential to use as temporary platforms to progress up the level.</desc>
-		<image>./images/rainbow islands-image.jpg</image>
-		<thumbnail>./images/rainbow islands-thumb.jpg</thumbnail>
-		<releasedate>19930630T000000</releasedate>
-		<developer>NEC AVENUE</developer>
-		<publisher>Taito Corporation</publisher>
-		<genre>Action, Platform</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./kaze kiri ninja action.chd</path>
-		<name>Kaze Kiri: Ninja Action</name>
-		<desc>Kaze Kiri takes place in Feudal Japan where the kingdom princess Shizuhime is abducted by a group of mysterious ninjas. A feared swordsman called Kaze Kiri, hero of the game, is given the task to rescue the poor girl and restore order. Our ninja can can use a broad variety of fightings skills - he can run, jump, dash and slash without mercy anyone who gets in his way.</desc>
-		<image>./images/kaze kiri ninja action-image.png</image>
-		<thumbnail>./images/kaze kiri ninja action-thumb.png</thumbnail>
-		<releasedate>19940428T000000</releasedate>
-		<developer>NAXAT Soft</developer>
-		<publisher>Naxat Soft</publisher>
-		<genre>Action</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./gate of thunder.chd</path>
-		<name>Gate of Thunder</name>
-		<desc>Aries was a peaceful and calm planet for millennia; however, it is now faced with its worst crisis. The deadly army of Obellon fighters led by General Don Jingi, the evil merchant known to do anything for personal gain, is out to steal the “Starlight,” a powerful source of energy that could destroy the universe if misused. You must properly guide the “Hunting Dog” fighter-plane along with Hawk and Esty (special undercover agents protecting the Galaxy) to destroy Obellon before they destroy the world. 
-
-You are the last resort of our planet.</desc>
-		<image>./images/gate of thunder-image.jpg</image>
-		<thumbnail>./images/gate of thunder-thumb.jpg</thumbnail>
-		<releasedate>19920221T000000</releasedate>
-		<developer>Hudson Entertainment, Inc., Red Entertainment</developer>
-		<publisher>Hudson Entertainment, Inc.</publisher>
-		<genre>Shooter</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./R-Type Complete (Japan).chd</path>
-		<name>R-Type Complete CD</name>
-		<desc>This CD combines both HuCards into the complete game, as it originally should have been. There are some added visual scenes to justify the CD format, as well as re-arranged music tracks for each level.</desc>
-		<image>./images/R-Type Complete (Japan)-image.jpg</image>
-		<thumbnail>./images/R-Type Complete (Japan)-thumb.jpg</thumbnail>
-		<releasedate>19911220T000000</releasedate>
-		<developer>Irem Corp.</developer>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./seirei senshi spriggan.chd</path>
-		<name>SEIREI SENSHI SPRIGGAN</name>
-		<desc>Take on the alien hordes in this vertically scrolling shoot 'em up from the people behind Aleste. The power-up system in Spriggan relies on different coloured globes - you can have three of these in stock at any one time and the order they are in will vary what style of weapon you have. This allows for a certain degree of mix-and-match until you find your preferred combination. You can also eject these orbs, which act as a smart bomb in times of need.</desc>
-		<image>./images/seirei senshi spriggan-image.jpg</image>
-		<thumbnail>./images/seirei senshi spriggan-thumb.jpg</thumbnail>
-		<releasedate>19910712T000000</releasedate>
-		<developer>Compile</developer>
-		<publisher>Naxat Soft</publisher>
-		<genre>Shooter</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
 		<path>./faussette amour.chd</path>
 		<name>Fausetté amour</name>
 		<desc>This is the adventures of Koruku Ransu, a young blue-haired warrior. The evil lord Goat Bone has kidnaped her beloved sister and also controls the minds of most of her best friends. Koruku wears a strong pink armor  Through seven long stages, one of Kokuru's friend awaits at the end of each one of them - however, she will have to defeat their dark side first and free their controlled minds.</desc>
@@ -159,166 +46,6 @@ You are the last resort of our planet.</desc>
 		<region>jp</region>
 	</game>
 	<game>
-		<path>./Ginga Fukei Densetsu - Sapphire (Japan).chd</path>
-		<name>Ginga Fukei Densetsu Sapphire</name>
-		<desc>Join the four girls pilots part of a futuristic police unit called the Burning Rabbits. Their duty is to go after bandits, to explore the far corners of the universe and to even venture back in time, whatever the risks, to prosecute the worst criminals. Because humanity is now advanced enough to travel through time, this special police force was created to protect society from these new "time criminals". You have four spaceships, to choose from. Each one balances out the next and usually trades off fire power for maneuverability and speed.</desc>
-		<image>./images/Ginga Fukei Densetsu - Sapphire (Japan)-image.jpg</image>
-		<thumbnail>./images/Ginga Fukei Densetsu - Sapphire (Japan)-thumb.jpg</thumbnail>
-		<releasedate>19951124T000000</releasedate>
-		<developer>CAProductions Co. Ltd.</developer>
-		<publisher>Hudson Entertainment, Inc.</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./cd denjin rockabilly tengoku.chd</path>
-		<name>Super Air Zonk</name>
-		<desc>Zonk is back in Super Air Zonk!!
-
-Now moving to a rockabilly beat and able to transform into nine different characters, Zonk lets loose through seven action-packed stages in another battle against his arch nemesis, Sandro Vitch. Power up Zonk with the classic Meat item, eventually turning him into the champion of justice, Ultra Zonk, or the fearsome Tyrano Zonk in the latter stages of the game.
-Read More&gt;&gt;
-
-After rescuing his friends from enemies, Zonk can also morph with them to combine powers. Fight enemies with killer tunes belted out from a trusty microphone. Hurl freshly made sushi at them. With its variety of wacky attacks, Super Air Zonk has a sense of humor all its own.</desc>
-		<image>./images/cd denjin rockabilly tengoku-image.jpg</image>
-		<thumbnail>./images/cd denjin rockabilly tengoku-thumb.jpg</thumbnail>
-		<releasedate>19930730T000000</releasedate>
-		<developer>Dual</developer>
-		<publisher>Hudson Entertainment, Inc.</publisher>
-		<genre>Shooter</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./ryuuko no ken.chd</path>
-		<name>Art of Fighting</name>
-		<desc>A conversion of the 1992 Neo Geo game, Art of Fighting is based around two main characters - Ryo Sakazaki and Robert Garcia who set out to find Ryo's kindapped sister. Gameplay consists of standard 3 rounds one-on-one beat 'em up action with a spirit gauge that is combo charged for special attack power (think Street Fighter II's Had?ken). Every couple of stages you also get the chance to increase your stats a little by playing one of three mini games. These are fairly simple and usually involve a bit of timing or button bashing.</desc>
-		<image>./images/ryuuko no ken-image.jpg</image>
-		<thumbnail>./images/ryuuko no ken-thumb.jpg</thumbnail>
-		<releasedate>19940326T000000</releasedate>
-		<developer>Hudson Soft</developer>
-		<publisher>SNK</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./Psychic Storm (Japan).chd</path>
-		<name>Psychic Storm</name>
-		<image>./images/Psychic Storm (Japan)-image.jpg</image>
-		<thumbnail>./images/Psychic Storm (Japan)-thumb.jpg</thumbnail>
-		<releasedate>19920319T000000</releasedate>
-		<developer>Alfa System</developer>
-		<publisher>Telenet Japan Co., Ltd., Lasersoft</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./Valis IV (Japan).chd</path>
-		<name>Valis IV</name>
-		<desc>Yuko has become the goddess of the world of Vecanti and has watched over the world in peace since the defeat of Glames. Trouble brews when the Dark World prince named Galgear begins to search for a magical ring. This ring increases his powers, but to the loss of control he could have maintained under its effects, and the gods of Vecanti recognize this and imprison Galgear inside a crystal sunk into the ocean.
-
-Fifteen years pass, and Galgear manages to break out of his prison, kidnapping the former heroine Valna and being pursued by troops led by Cham as a result. A member of her band, named Lena Brande, requests permission to infiltrate Galgear's stronghold and free Valna.</desc>
-		<image>./images/Valis IV (Japan)-image.png</image>
-		<thumbnail>./images/Valis IV (Japan)-thumb.png</thumbnail>
-		<releasedate>19910823T000000</releasedate>
-		<developer>Laser Soft</developer>
-		<publisher>Telenet Japan Co., Ltd.</publisher>
-		<genre>Action, Platform</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./pop n magic.chd</path>
-		<name>Pop 'n Magic</name>
-		<desc>A static screen action game in the style of Bubble Bobble or Don Doko Don, Pop 'n Magic allows you to trap enemies by firing your wand at them, then pick them up and throw them across the screen to destroy them. The bubbles they are trapped in are specific colours and care must be taken not to throw two of the same colour together as this will release the (now quite upset) creatures inside.</desc>
-		<image>./images/pop n magic-image.jpg</image>
-		<thumbnail>./images/pop n magic-thumb.jpg</thumbnail>
-		<releasedate>19920727T000000</releasedate>
-		<developer>Riot</developer>
-		<publisher>Telenet Japan Co., Ltd.</publisher>
-		<players>2</players>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./Snatcher_(NTSC-J)_[KMCD2002].iso</path>
-		<name>Snatcher</name>
-		<desc>Snatcher CD-ROMantic is an Adventure game, developed and published by Konami, which was released in Japan in 1992.  A cyber punk adventure.</desc>
-		<image>./images/Snatcher_(NTSC-J)_[KMCD2002]-image.jpg</image>
-		<thumbnail>./images/Snatcher_(NTSC-J)_[KMCD2002]-thumb.jpg</thumbnail>
-		<releasedate>19921023T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Puzzle</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./kiaidan 00.chd</path>
-		<name>Kiaidan 00</name>
-		<desc>Year 20XX. Mad Scientist Dr. Gigaga's world conquest Operation has begun. The armored beast army that he created attacks humanity when he seizes the earth!! However, God did not abandon humanity. The super robot Kiaidan 00 created by Dr. Sakura, a genius scientist who escaped from Giga ga ! And the son of Dr. Sakura, the pilot of Kiaidan 00, Takeshi Sakura! The future of humanity is entrusted to them.</desc>
-		<image>./images/kiaidan 00-image.png</image>
-		<thumbnail>./images/kiaidan 00-thumb.png</thumbnail>
-		<releasedate>19921023T000000</releasedate>
-		<publisher>Riot</publisher>
-		<genre>Shooter</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./Super Darius 2 (Japan).chd</path>
-		<name>Super Darius</name>
-		<desc>Super Darius is a 1990 port of Darius for the PC Engine CD-ROM², and the only attempt at an accurate port of the game for many years; it even uses recordings of music and sound effects straight from the PCB! Its other claim to fame is the introduction of all 26 bosses from the original draft for Darius, some of which were earlier seen on promotional material and some of which were used in Darius II instead.
-
-A "light" version for normal PC Engines, Darius Plus, was released later in the year. At the time that was released, owning both versions allowed you to get Darius Alpha.</desc>
-		<image>./images/Super Darius 2 (Japan)-image.png</image>
-		<thumbnail>./images/Super Darius 2 (Japan)-thumb.png</thumbnail>
-		<releasedate>19900316T000000</releasedate>
-		<developer>Taito Corporation</developer>
-		<publisher>NEC Avenue, Ltd.</publisher>
-		<genre>Shooter</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./AKUMAJOU DRACULA X - CHI NO RONDO.cue</path>
-		<name>Castlevania: Rondo of Blood</name>
-		<desc>Castlevania: Rondo of Blood is the first CD game in the series, which allowed for more features to be included, such as CD quality soundtrack and visual cut-scenes. The opening, ending, and various cutscenes done in a hand-drawn visual style are included in the game. However, at the time this wasn't considered to be a very popular decision. Various details in the terrain are more polished than previous entries, and the behavior of the enemies is more elaborate. For example, the boss characters in the game will perform an unique final attack when their health meter is depleted. If the player didn't sustain any damage during the fight and manages to avoid this attack, a "Perfect Bonus" (1UP) is obtained.
-The mechanic of picking upgrades in order to power up the whip, which until that time was a staple of the series, has been removed. A new feature is the Item Crash, a special sub-weapon attack during which the player becomes momentarily invincible and a powerful attack is performed, at the expense of a large amount of hearts. Similar to Castlevania III: Dracula's Curse, a branching path system has been implemented, but with some differences. Unlike the former, it's not possible to choose between two paths in between stages. Rather, there are two ways to proceed through a stage, one of the paths being hidden. Finding this path requires several tricks such as destroying a wall, deliberately falling down a pit, and so on. In addition, there are four characters who have been kidnapped by Dracula and require to be rescued. One of these characters, Maria, becomes playable after being rescued. She attacks with magical, whimsical skills, such as throwing doves at enemies, hiding in a turtle shell, and other animal based attacks. When playing as Maria, the cutscenes when rescuing the other characters, the conversation with Dracula, the ending, the player's defeat sequence, as well as the Game Over screen become more light-hearted in tone.
-Once a stage is cleared, it can be selected from the "STAGE SELECT" in the file screen at the start of the game. Choosing "PLAYER SELECT" allows switching to Maria. Other things which are displayed are the completion percentage, the amount of continues left, "SOUND TEST", and "TECHNIQUE". The latter are videos which show the correct strategy to use against bosses. These videos can be unlocked by collecting certain amounts of money.</desc>
-		<image>./images/AKUMAJOU DRACULA X - CHI NO RONDO-image.jpg</image>
-		<thumbnail>./images/AKUMAJOU DRACULA X - CHI NO RONDO-thumb.jpg</thumbnail>
-		<rating>0</rating>
-		<releasedate>19931029T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action, Adventure, Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20200914T035547</lastplayed>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./Ai Chou Aniki (Japan).chd</path>
-		<name>Ai Cho Aniki</name>
-		<desc>Bo Emperor Conshyasu raise the Neo Builder Army to fight Idaten and Benten. However, the two fall in love and elope. This leaves Samson and Adon to fight the new threat, Su Emperor Roido!</desc>
-		<image>./images/Ai Chou Aniki (Japan)-image.png</image>
-		<thumbnail>./images/Ai Chou Aniki (Japan)-thumb.png</thumbnail>
-		<rating>0</rating>
-		<releasedate>19950224T000000</releasedate>
-		<developer>Masaya</developer>
-		<publisher>NCS Corporation</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
 		<path>./kaizou choujin shubibinman 3 kai no princess.chd</path>
 		<name>Kaizou Choujin Shubibinman 3: Ikai no Princess</name>
 		<desc>Tasuke and Kyapiko are spending a nice relaxing day at the beach, when suddenly a huge spaceship appears overhead! This can only mean one thing... another invasion! Tasuke and Kyapiko suit up and set out to stop it... or is it all just a gross misunderstanding?</desc>
@@ -328,195 +55,6 @@ Once a stage is cleared, it can be selected from the "STAGE SELECT" in the file 
 		<developer>Masaya</developer>
 		<publisher>NCS Corporation</publisher>
 		<genre>Action</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./super air zonk.chd</path>
-		<name>Super Air Zonk</name>
-		<desc>Zonk is back in Super Air Zonk!!
-
-Now moving to a rockabilly beat and able to transform into nine different characters, Zonk lets loose through seven action-packed stages in another battle against his arch nemesis, Sandro Vitch. Power up Zonk with the classic Meat item, eventually turning him into the champion of justice, Ultra Zonk, or the fearsome Tyrano Zonk in the latter stages of the game.
-Read More&gt;&gt;
-
-After rescuing his friends from enemies, Zonk can also morph with them to combine powers. Fight enemies with killer tunes belted out from a trusty microphone. Hurl freshly made sushi at them. With its variety of wacky attacks, Super Air Zonk has a sense of humor all its own.</desc>
-		<image>./images/super air zonk-image.jpg</image>
-		<thumbnail>./images/super air zonk-thumb.jpg</thumbnail>
-		<releasedate>19930730T000000</releasedate>
-		<developer>Dual</developer>
-		<publisher>Hudson Entertainment, Inc.</publisher>
-		<genre>Shooter</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./space fantasy zone.chd</path>
-		<name>Space Fantasy Zone</name>
-		<desc>Take the graphics from Fantasy Zone and the gameplay from Space Harrier, mix them together and you get Space Fantasy Zone. This unreleased game has the basis of its gameplay in Space Harrier, but with some differences - you have an energy meter instead of one-hit-kills and you can upgrade your weaponry between levels in a shop.</desc>
-		<image>./images/space fantasy zone-image.jpg</image>
-		<thumbnail>./images/space fantasy zone-thumb.jpg</thumbnail>
-		<releasedate>19700101T010000</releasedate>
-		<developer>NEC AVENUE</developer>
-		<publisher>NEC Avenue, Ltd.</publisher>
-		<genre>Action, Shooter</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./Double Dragon 2 - The Revenge (Japan).chd</path>
-		<name>Double Dragon II: The Revenge</name>
-		<desc>In the year 2000,  A nuclear strike has left New York City in disaster and law and order have taken a backseat to crime and violence.  One of the most powerful crime syndicate in New York is called the Gen-Satsu-Ken, a mysterious organization led by a mysterious warrior who is a master in a wicked style of Kung Fu.  However two young men named Billy and Jimmy, masters of a martial art called the Sou-Setsu-Ken, were brave enough to challenge them.  One day, during a Gen-Satsu-Ken attack, Billy's girlfriend, Marian, is murdered by the Gen-Satsu-Ken. Billy and Jimmy swore revenge by taking down the Gen-Satsu-Ken once and for all.</desc>
-		<image>./images/Double Dragon 2 - The Revenge (Japan)-image.jpg</image>
-		<thumbnail>./images/Double Dragon 2 - The Revenge (Japan)-thumb.jpg</thumbnail>
-		<releasedate>19930312T000000</releasedate>
-		<developer>NAXAT Soft</developer>
-		<publisher>Naxat Soft</publisher>
-		<genre>Action, Adventure, Fighting</genre>
-		<players>2</players>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./Sylphia (Japan).chd</path>
-		<name>Sylphia</name>
-		<desc>Sylphia is a vertical shooter published by Tonkin House. The game draws from Greek mythology and tells the story of Sylphia, a female warrior with a tragic destiny. Her tale starts as she lays fatally wounded in the temple of Athena - merciless monsters have taken over the city and she perished as she desperately tried to protect innocent villagers. The gods, touched by the sincerity of the young woman's devotion and love, decide to give Sylphia another chance... Now turned into a Sylphid with tremendous powers, the female warrior embarks on a long journey of revenge, ready to fight for her homeland. Sylphia starts equipped with a fairly basic fire weapon that can be upgraded in various ways - four different types based on the four basic elements are available throughout the game, from Fire (Red), Air (Green), Water (Blue) and Earth (Brown). Each weapon type is associated with an additional sub-weapon which range from Homing Fireballs (Red), Reverse Fire (Blue), Ring Blades (Green) and Rotating Rocks (Brown). Sylphia can also trigger a devastative special attack that deals great damage to on-screen enemies - this power is obviously available in limited quantities and may only be be used in desperate situations. Various other items are available for the taking, such as extra lives, Mirrors/Gems (slowly increase a health bar located at the bottom of the screen that gives the player an extra life when full) and Green Orbs (increase the active weapon's power level). Sylphia consists of eight stages and is single player only.</desc>
-		<image>./images/Sylphia (Japan)-image.jpg</image>
-		<thumbnail>./images/Sylphia (Japan)-thumb.jpg</thumbnail>
-		<releasedate>19931022T000000</releasedate>
-		<developer>Tonkin House</developer>
-		<publisher>Tokyo Shoseki Co., Ltd.</publisher>
-		<genre>Shooter</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./Zero Wing (Japan).chd</path>
-		<name>Zero Wing</name>
-		<desc>Horizontal shoot 'em up where you can suck in enemy craft and either use them as a shield or fire them off for extra damage.</desc>
-		<image>./images/Zero Wing (Japan)-image.jpg</image>
-		<thumbnail>./images/Zero Wing (Japan)-thumb.jpg</thumbnail>
-		<releasedate>19920918T000000</releasedate>
-		<developer>Toaplan Co., Ltd.</developer>
-		<publisher>Naxat Soft</publisher>
-		<genre>Shooter</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./Rayxanber III (Japan).chd</path>
-		<name>Rayxanber III</name>
-		<desc>RayXanbeR III is an Action game, developed and published by DataWest, which was released in Japan in 1992.</desc>
-		<image>./images/Rayxanber III (Japan)-image.jpg</image>
-		<thumbnail>./images/Rayxanber III (Japan)-thumb.jpg</thumbnail>
-		<releasedate>19920626T000000</releasedate>
-		<developer>DataWest</developer>
-		<publisher>DataWest</publisher>
-		<genre>Action, Shooter</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./Forgotten Worlds [U][SCD][TGXCD1030][Capcom][1992][PCE][aguichor].chd</path>
-		<name>Forgotten Worlds</name>
-		<desc>The Turbografx-16 version of the arcade smash.
-
-It was released as a Super CD-ROM² title which supported a specialized 3-button controller that NEC released only in Japan. An American version for the TurboGrafx 16 was released by Turbo Technologies Inc. as well. With the 3-button controller, the player can control their character as they would in the Mega Drive version, with two buttons to rotate the character and one to shoot. 
-
-With the standard TurboGrafx-16 controller, the Run button is used in the place of the third button to rotate the character to the left. The TurboGrafx-16 is one-player only, but allows the player to select between either of the two Unknown Soldiers at the start of the game (with their respective abilities from the arcade version retained).</desc>
-		<image>./images/Forgotten Worlds [U][SCD][TGXCD1030][Capcom][1992][PCE][aguichor]-image.jpg</image>
-		<thumbnail>./images/Forgotten Worlds [U][SCD][TGXCD1030][Capcom][1992][PCE][aguichor]-thumb.jpg</thumbnail>
-		<releasedate>19920327T000000</releasedate>
-		<developer>NEC</developer>
-		<publisher>NEC Home Electronics, Ltd.</publisher>
-		<playcount>1</playcount>
-		<lastplayed>20200306T060427</lastplayed>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Nexzr (Japan).chd</path>
-		<name>Nexzr</name>
-		<desc>Space based vertically scrolling shoot ‘em up, similar in style to Super Star Solider, but far more challenging.</desc>
-		<image>./images/Nexzr (Japan)-image.jpg</image>
-		<thumbnail>./images/Nexzr (Japan)-thumb.jpg</thumbnail>
-		<releasedate>19921211T000000</releasedate>
-		<developer>NAXAT Soft</developer>
-		<publisher>Naxat Soft</publisher>
-		<genre>Shooter</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./download 2.chd</path>
-		<name>DOWNLOAD 2</name>
-		<desc>Shoot 'em up sequel that takes place over a series of very different and sometimes surreal landscapes.
-
-Cheats/tips: CONFIG MODE: On the title screen push SELECT, I, II, I, II, I, II, I, II, I, II, SELECT
-ALTERNATE GRAPHICS: From config mode, go to the DEMO section and watch the ending (9?). When the NEC Avenue logo appears, press UP, SELECT, II then RUN. When the game starts you should see the enemy and some background object replaced by slightly silly things (look out for Ultraman).</desc>
-		<image>./images/download 2-image.jpg</image>
-		<thumbnail>./images/download 2-thumb.jpg</thumbnail>
-		<releasedate>19910329T000000</releasedate>
-		<developer>nec adventure</developer>
-		<genre>Shooter</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./dynastic hero.chd</path>
-		<name>Dynastic Hero</name>
-		<desc>The land of Tarron is under siege and you must save it from the wicked Drillkor Empire. A beautiful guide will help you along the way as only you, The Dynastic Hero, can deliver the goods!</desc>
-		<image>./images/dynastic hero-image.png</image>
-		<thumbnail>./images/dynastic hero-thumb.png</thumbnail>
-		<releasedate>19940520T000000</releasedate>
-		<developer>Hudson Entertainment, Inc.</developer>
-		<publisher>Hudson Entertainment, Inc.</publisher>
-		<genre>Adventure</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./Super Raiden (Japan).chd</path>
-		<name>Super Raiden</name>
-		<desc>A conversion of the classic arcade shoot 'em up, Raiden follows the conventions of the genre with coloured power up pods that give different weapons when collected. 
-
-Raiden is one of the all-time greats in the annals of shoot 'em up history. It’s not just the excellent graphics and sounds, but the engaging gameplay that keeps you addicted for ages. It’s also capable of throwing up some hair-raising moments, and bullet dodging skills are pushed to the extreme</desc>
-		<image>./images/Super Raiden (Japan)-image.jpg</image>
-		<thumbnail>./images/Super Raiden (Japan)-thumb.jpg</thumbnail>
-		<releasedate>19920402T000000</releasedate>
-		<developer>Seibu Kaihatsu Inc.</developer>
-		<publisher>Hudson Entertainment, Inc.</publisher>
-		<genre>Shooter</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./flash hiders.chd</path>
-		<name>Flash Hiders</name>
-		<desc>A martial artist from the Wallace tribe named Bang Bipot and a temperamental sorceress named Tiria Rossette are on a trek across the world. The duo runs across and all but adopts Erue, an emotionally fragile young man somehow connected to an assortment of thugs, bounty hunters, and stranger things.</desc>
-		<image>./images/flash hiders-image.png</image>
-		<thumbnail>./images/flash hiders-thumb.png</thumbnail>
-		<releasedate>19931219T000000</releasedate>
-		<developer>RIGHT STUFF</developer>
-		<publisher>Right Stuff</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./Chiki Chiki Boys (Japan).chd</path>
-		<name>Chiki Chiki Boys</name>
-		<image>./images/Chiki Chiki Boys (Japan)-image.jpg</image>
-		<thumbnail>./images/Chiki Chiki Boys (Japan)-thumb.jpg</thumbnail>
-		<releasedate>19940715T000000</releasedate>
-		<developer>NEC AVENUE</developer>
-		<publisher>Capcom</publisher>
-		<genre>Action, Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<playcount>1</playcount>
-		<lastplayed>20220921T215016</lastplayed>
-		<gametime>39</gametime>
 		<lang>jp</lang>
 		<region>jp</region>
 	</game>
@@ -547,5 +85,674 @@ Also available between the stages (and as a separate gameplay mode, "vs.") is a 
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20220928T122924" />
+	</game>
+	<game id="106995">
+		<path>./kiaidan 00.chd</path>
+		<name>Kiaidan 00</name>
+		<desc>In 21st century, Tokyo was suddenly attacked by combined forces of robotic and organic alien races. A special giant mecha fighter craft was constructed in order to avert the threat. A young pilot is sent on the most dangerous mission of his life.
+
+Kiaidan 00 is a horizontally scrolling sci-fi shoot-em-up. The basic gameplay is similar to other games of this genre; however, the weapon system differs from the traditional power-up and upgrade style. The player character has all the weapons at his disposal from the very beginning. The five weapons include spreading energy blasts, focused multiple shot, laser beams that travel in different directions, an energy ball that protects the ship from frontal assaults, and an extended arm that hits enemies melee-style. The player can cycle through and choose any of these weapons at any time. 
+
+Instead of the traditional secondary weapon system the game offers charged modes for all the weapons. When a weapon is charged it either becomes more powerful or gains new properties (for example, the extended arm becomes longer and is controlled from a distance). The player character's health is represented by shield units, which can also be picked up in the stages. Dialogue and cutscenes advance the story between and within missions.</desc>
+		<image>./images/kiaidan 00-image.png</image>
+		<marquee>./images/kiaidan 00-marquee.png</marquee>
+		<thumbnail>./images/kiaidan 00-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19921023T000000</releasedate>
+		<developer>Alfa System</developer>
+		<publisher>Telenet</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185251" />
+	</game>
+	<game id="14483">
+		<path>./Ai Chou Aniki (Japan).chd</path>
+		<name>Ai Cho Aniki</name>
+		<desc>The sequel to the first Cho Aniki (Super Big Brother) game, this is very Japanese in its bizarreness. It's a shoot ?em up, with the player taking the role of an almost nude muscle-man (Adon) or his brother (Samson) in a 2 player game. Their main weapon is a ball of energy that grows over a hole in their heads and shoots out towards any advancing enemies. Other, more powerful shots are achieved by a combination of back-forward-fire, down-up-fire etc on the pad. Through the levels you will encounter all manner of nasties out to get you, but you are aided by a woman in blue that flies around and drops power-ups conveniently for you. Also, levels vary from the standard left-to-right to vertically scrolling.</desc>
+		<image>./images/Ai Chou Aniki (Japan)-image.png</image>
+		<marquee>./images/Ai Chou Aniki (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Ai Chou Aniki (Japan)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19950224T000000</releasedate>
+		<developer>Masaya Games</developer>
+		<publisher>NCS Corporation</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185253" />
+	</game>
+	<game id="14466">
+		<path>./AKUMAJOU DRACULA X - CHI NO RONDO.cue</path>
+		<name>Akumajou Dracula X - Chi No Rondo</name>
+		<desc>In the days of old, the people thrived on peace and prosperity. Indeed, fears of unrest were not among their thoughts...
+
+But, ever-present, beneath the veneer of tranquility, evil lurks. Evil, which spurns prosperity and disdains peace.
+
+Gather they did, those who wished to summon the powers of darkness and cleanse the decadence of the world. And, with smiling countenance, they anxiously awaited the coming of their era.
+
+A hundred years had past, and he was resurrected. Able to become bat, wolf, or mist at will, he lived in the night. He drank the blood of young maidens and lived an eternal life. The lord of Castlevania, the god of evil, Count Dracula was reborn.</desc>
+		<image>./images/AKUMAJOU DRACULA X - CHI NO RONDO-image.jpg</image>
+		<marquee>./images/AKUMAJOU DRACULA X - CHI NO RONDO-marquee.png</marquee>
+		<thumbnail>./images/AKUMAJOU DRACULA X - CHI NO RONDO-thumb.jpg</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19931029T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<family>Castlevania</family>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20200914T035547</lastplayed>
+		<md5>f26e593e55db3a26e51cb77ed38a88c2</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185254" />
+	</game>
+	<game id="14518">
+		<path>./cd denjin rockabilly tengoku.chd</path>
+		<name>Super Air Zonk : Rockabilly Paradise</name>
+		<desc>After the success of PC Denjin, our hero leaps onto CD with a whole new game and a whole new soundtrack. Flying over the various landscapes (you get to choose which order to play the first four levels in), you come up against tidal waves, giant robots and a general array of nasty but cute bad guys as you would expect. The plants from the original PC Kid games are still here to provide such joys as extra firepower, fountains of smiley faces or the tiny-denjin which makes dodging bullets that little bit easier. Another handy little trick is that your boots also pack a punch, so backing into an enemy is more likely to dispose of them than do you any permanent damage. Part way along each of the levels you get the chance to rescue a friend who then joins with you, giving you a specific extra ability. These friends are pre-set one per level and cannot be chosen, and they allow things like rapid-sushi-fire and handy rear shots.</desc>
+		<image>./images/cd denjin rockabilly tengoku-image.jpg</image>
+		<marquee>./images/cd denjin rockabilly tengoku-marquee.png</marquee>
+		<thumbnail>./images/cd denjin rockabilly tengoku-thumb.jpg</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19930730T000000</releasedate>
+		<developer>Red Company</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185256" />
+	</game>
+	<game id="119200">
+		<path>./Chiki Chiki Boys (Japan).chd</path>
+		<name>Chiki Chiki Boys</name>
+		<desc>This platform-based action game is set in the land of Alurea. The idyllic life of the Alurean people was shattered when the King is killed by a dragon, and a range of nasties inhabit the lands. Fortunately his twin sons have come to the rescue, and you must take control of one or the other to put the world right.
+
+The boys have differing skills - one is more skilled in sword-fighting (which you are always armed with), the other in magic (available in limited amounts on each level). You collect coins as the game goes on, and spend these in the shop on extra magic, extra lives and enhanced swords.
+
+There are 3 levels on offer - Earth, The Heavens and The Sea, and these can be tackled in any order. The first is straight platform action, the second involves jumping across clouds, and the third sees your characters swim. After those are completed, you must venture into the Monster Castle and finally slay the dragon.</desc>
+		<image>./images/Chiki Chiki Boys (Japan)-image.jpg</image>
+		<marquee>./images/Chiki Chiki Boys (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Chiki Chiki Boys (Japan)-thumb.jpg</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19940715T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>NEC</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20220921T215016</lastplayed>
+		<gametime>39</gametime>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185257" />
+	</game>
+	<game id="106875">
+		<path>./crest of wolf.chd</path>
+		<name>Riot Zone</name>
+		<desc>The police is afraid to deal with a criminal organization known as the Dragon Zone. Street punks and leaders of Chinese crime syndicates dominate the area where its headquarters are supposedly located. The young fighter Hawk has his own score to settle with the Dragon Zone: they have kidnapped his girlfriend Candy. Together with his friend, the punk Tony, Hawk enters the dangerous districts and is determined to rescue his sweetheart and put an end to the organization.
+
+Riot Zone (Crest of Wolf in Japan) is a rather simple brawler in which the player can choose to control either Hawk or Tony. Hawk is faster, but doesn't hit quite as hard as Tony. Both characters fight entirely unarmed, using kicks and punches to deal with the enemies; both also possess a powerful all-screen attack that depletes a portion of their health bar. Each stage culminates with a boss battle as Hawk and Tony gradually defeat the "wanted" criminals of the city.</desc>
+		<image>./images/crest of wolf-image.png</image>
+		<marquee>./images/crest of wolf-marquee.png</marquee>
+		<thumbnail>./images/crest of wolf-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>19930226T000000</releasedate>
+		<developer>Westone Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185302" />
+	</game>
+	<game id="14477">
+		<path>./Double Dragon 2 - The Revenge (Japan).chd</path>
+		<name>Double Dragon II : The Revenge</name>
+		<desc>The arcade version of Double Dragon II: The Revenge begins with Marian, the damsel in distress from the original Double Dragon, being shot to death by the leader of the Black Warriors. Once again, the players assume the role of brothers Billy and Jimmy Lee, who are now tasked with the duty of avenging Marian's death. The arcade version of the game is essentially an improved version of the original title. The biggest change in the game's controls are in the replacement of the original's punch and kick buttons with two directional-based attack buttons (Left Attack and Right Attack) similar to Renegade. Pressing the attack button of the player's current direction will do a standard series of punches, while pressing the opposite attack button will perform a back kick. A few new moves are added as well, including a Hurricane Kick.</desc>
+		<image>./images/Double Dragon 2 - The Revenge (Japan)-image.jpg</image>
+		<marquee>./images/Double Dragon 2 - The Revenge (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Double Dragon 2 - The Revenge (Japan)-thumb.jpg</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19930312T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Double Dragon</family>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185303" />
+	</game>
+	<game id="109088">
+		<path>./download 2.chd</path>
+		<name>Download 2</name>
+		<desc>Download 2 is an horizontal shooter. Nec Avenue certainly acknowledged that the game's best asset was the unique and innovative ability to jack-in and dive into computerized cyber-space worlds. This sequel follows the same formula but also features probably one of most electrifying storyline ever written for a video game. The brain of Adolf Hitler has been digitized inside a computer mainframe by terrorists and Syd, an elite cyber-diver and protagonist of the game, embarks on a perilous journey to stop and destroy the incoming threat. On board his ship and helped by the cute Deva, Syd flies through nine enemy infested areas and dives into abstract and challenging cyber worlds. Four different weapons are available to him at the press of a button - multiway Vulcan-gun, wide laser-beams, spread homing-lasers and a short-range lightning gun. Each weapon can be powered-up a grand total of three times by collecting "P" pods that appear on the screen whereas "S" pods increase the overall speed of the ship. Other special items are available throughout the game such as smart-bombs and protective shields.</desc>
+		<image>./images/download 2-image.jpg</image>
+		<marquee>./images/download 2-marquee.png</marquee>
+		<thumbnail>./images/download 2-thumb.jpg</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19910329T000000</releasedate>
+		<developer>Alfa System</developer>
+		<publisher>NEC</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185304" />
+	</game>
+	<game id="14582">
+		<path>./dynastic hero.chd</path>
+		<name>The Dynastic Hero</name>
+		<desc>The Dynastic Hero is a slightly re-branded version of Wonder Boy in Monster World for the Turbo Duo.The game features palette-swapped visuals, new insect-themed graphics for main characters (and insects' natural predators as bosses), a Red Book audio soundtrack which is completely different from the Wonder Boy original, and anime-style cutscenes at the intro and ending. Shion was renamed Dyna and was modeled after a Hercules Beetle, and the final boss was changed to a giant lizard king. An English-language version was also produced, but both were built off of the Japanese version of Wonder Boy in Monster World. They feature the same difficulty and mechanics as the Japanese original.</desc>
+		<image>./images/dynastic hero-image.png</image>
+		<marquee>./images/dynastic hero-marquee.png</marquee>
+		<thumbnail>./images/dynastic hero-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Westone</developer>
+		<publisher>Hudson</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185306" />
+	</game>
+	<game id="109089">
+		<path>./flash hiders.chd</path>
+		<name>Flash Hiders</name>
+		<desc>Flash Hiders is an anime-style 2D fighting game with a distinct RPG slant. The game has a heavy focus on story and presentation, featuring animated, voiced cutscenes throughout the game's scenario mode, as well as the ability to purchase and use equipment to increase your stats. The scenario mode follows the martial-artist Bang as he travels through a war-torn world with the sorceress Tiria and an all-but-adopted kid named Erue. The "Advance" mode lets you choose any character in the game and follow their specific story, building your character's abilities as you go. There is, of course, also a versus mode for two players.</desc>
+		<image>./images/flash hiders-image.png</image>
+		<marquee>./images/flash hiders-marquee.png</marquee>
+		<thumbnail>./images/flash hiders-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19931219T000000</releasedate>
+		<developer>Right Stuff Corp.</developer>
+		<publisher>Right Stuff Corp.</publisher>
+		<genre>Fight / 2D</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185308" />
+	</game>
+	<game id="14578">
+		<path>./Forgotten Worlds [U][SCD][TGXCD1030][Capcom][1992][PCE][aguichor].chd</path>
+		<name>Forgotten Worlds</name>
+		<desc>Forgotten Worlds features two characters known as The Nameless Ones, who both look like Arnold Schwarzenegger, one even has a mohawk. It's their job to rid the planet of the attacking aliens. 
+
+Guiding your character around the screen as they fly with jet-packs, guns on full auto, you control a satellite which you rotate around your character for the direction in which your gun is firing. At the end of each level is a boss which needs to be killed to progress.
+
+Enemies that have been killed drop money. At the end of every level is a shop where you can buy weapons, armour, items and first-aid packs.</desc>
+		<image>./images/Forgotten Worlds [U][SCD][TGXCD1030][Capcom][1992][PCE][aguichor]-image.jpg</image>
+		<marquee>./images/Forgotten Worlds [U][SCD][TGXCD1030][Capcom][1992][PCE][aguichor]-marquee.png</marquee>
+		<thumbnail>./images/Forgotten Worlds [U][SCD][TGXCD1030][Capcom][1992][PCE][aguichor]-thumb.jpg</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19920327T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>NEC</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20200306T060427</lastplayed>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221118T185309" />
+	</game>
+	<game id="141157">
+		<path>./galaxy keiji gayvan.chd</path>
+		<name>Galaxy Keiji Gayvan</name>
+		<desc>Earth is the most beautiful planet in the galaxy, and its peaceful existence is threatened by the criminal mastermind Ballas. The galaxy police sends two agents to deal with the threat: Hiro Aoyama and Michiko Akasaka, who can transform into the powerful super-fighters Gayvan and Mittchi, respectively, and are alone able to stop Ballas.
+
+Galaxy Deka Gayvan is a brawler. Players can choose to control either of the two heroes, or both of them in a co-op mode. Like in other beat-em-up games, the player must defeat all the enemies on screen in hand-to-hand combat before being able to proceed. Both Hiro and Michiko can accumulate special energy (dropped by the enemies along with health power-ups and money) that allows them to transfer into the superheroes Gayvan and Mittchi and stay in that form until they run out of energy. The superhero forms are stronger and are able to execute special attacks.
+
+In addition, a two-player versus fighting mode is included. Players can choose either the protagonists or three enemy characters to compete against each other in one-on-one fighting.</desc>
+		<image>./images/galaxy keiji gayvan-image.png</image>
+		<video>./videos/galaxy keiji gayvan-video.mp4</video>
+		<marquee>./images/galaxy keiji gayvan-marquee.png</marquee>
+		<thumbnail>./images/galaxy keiji gayvan-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19931029T000000</releasedate>
+		<developer>Fill in Café</developer>
+		<publisher>Intec Inc.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185312" />
+	</game>
+	<game id="14496">
+		<path>./gate of thunder.chd</path>
+		<name>Gate Of Thunder</name>
+		<desc>A side-scrolling shoot-'em-up, Gate of Thunder asks players to take control of the space-craft "Hunting Dog". You fly left-to-right mostly, with occasional vertically-scrolling sections, and use several different weapon styles to defeat your many foes. Along with Esty in her ship the "Wild Cat", you must defeat the forces of General Don Jingi, who has plans of taking energy from the star of Aries.
+
+Playing as the pilot Hawk, players must avoid collisions and weapon-fire from the General's "Obellon" army. Consisting of many different types of enemy, the army has a massive, sprawling force of guns, turret, ships, battle-stations and mech-type units. Their fire-power is immense and you are the single opposing force!
+
+Gate of Thunder allows players to choose in real-time from three weapon-fire types. A blue-coloured electrical fire, a green-coloured wave-fire, and a red-coloured quake-type fire. Along with this, players obtain homing-missiles and the assistance of the "Wild Cat" which orbits the ship separately. Gate of Thunder also features a critically acclaimed soundtrack that remains a talking-point to this day.</desc>
+		<image>./images/gate of thunder-image.jpg</image>
+		<marquee>./images/gate of thunder-marquee.png</marquee>
+		<thumbnail>./images/gate of thunder-thumb.jpg</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19921010T000000</releasedate>
+		<developer>Red Company</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185313" />
+	</game>
+	<game id="106968">
+		<path>./Ginga Fukei Densetsu - Sapphire (Japan).chd</path>
+		<name>Ginga Fukei Densetsu Sapphire</name>
+		<desc>In the future, time travel became a regular commodity. Criminal organizations began using advanced science in order to escape into different time periods to avoid capture. To counter that, a special police unit called "Burning Rabbits" was formed, consisting of four young ladies who bravely pilot their fighter craft through time and space.
+
+Ginga Fukei Densetsu: Sapphire is a vertically-scrolling shoot-em-up. The player can choose between four different female characters, each piloting a different ship: Sapphire has balanced strength is speed; Charlotte is the fastest, but also the weakest; Helen is the slowest and the strongest; Jasmine is the second-strongest and the second-slowest. The ships are also distinguished by their weapon properties. Each ship can collect red, green, or blue power-ups; collecting a power-up of the same color enhances the currently equipped weapon, while a differently-colored power-up changes weapon properties while retaining whatever enhancements the ship might have had with the previous weapon. The actual properties of each weapon is different for each ship, and include various combinations of lasers, beams, missiles, piercing and homing weapons.
+
+Each ship also has two pods on the sides that fire simultaneously. If the player releases the fire button for five seconds, the pods will charge up and damage enemies with electricity during the next shot. In additions, the ships can also drop bombs that heavily damage all the enemies on the screen; up to two bombs can be carried at the same time. The stages include various themes such as medieval, feudal China, ancient Egypt, etc., all with a strong sci-fi angle. The player can continue up to nine times from the same spot if the protagonist runs out of lives, and additional continues are granted when the player gathers a sufficient amount of points.</desc>
+		<image>./images/Ginga Fukei Densetsu - Sapphire (Japan)-image.jpg</image>
+		<marquee>./images/Ginga Fukei Densetsu - Sapphire (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Ginga Fukei Densetsu - Sapphire (Japan)-thumb.jpg</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19951124T000000</releasedate>
+		<developer>CAProduction co., ltd.</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185316" />
+	</game>
+	<game id="119205">
+		<path>./kaze kiri ninja action.chd</path>
+		<name>Kaze Kiri - Ninja Action</name>
+		<desc>Princess Shizuhime has been kidnapped by a group of ninja under the command of Genbu, and brought to the castle of the malevolent Lord Hiei. The brave young ninja Kaze is summoned by Lord Yoshikage and sent on a dangerous mission: infiltrate Hiei's castle, defeat his minions, and rescue Shizuhime.
+
+Kaze Kiri is essentially a beat-em-up with a few distinguishing characteristics. The game consists of traversing fully linear side-scrolling areas, defeating regular enemies and bosses on the way. Before being able to fight the stage boss, Kaze has to vanquish a pre-determined number of enemies, which is displayed as a shared enemy HP on top of the screen.
+
+Kaze attacks with his sword when he is near the enemy, or throws shurikens at them from afar. Enemy projectiles can also be blocked by countering them with shurikens. Kaze can also disappear for a moment and re-appear at another location. He can jump, duck, perform somersaults, and grab and throw enemies. Kaze's health regenerates over time if he is not hit repeatedly. Completing the game unlocks another playable character, the female ninja Suzu.</desc>
+		<image>./images/kaze kiri ninja action-image.png</image>
+		<marquee>./images/kaze kiri ninja action-marquee.png</marquee>
+		<thumbnail>./images/kaze kiri ninja action-thumb.png</thumbnail>
+		<releasedate>19940428T000000</releasedate>
+		<developer>Naxat Soft</developer>
+		<publisher>Naxat Soft</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185318" />
+	</game>
+	<game id="106963">
+		<path>./mugen senshi valis legend of a fantasm soldier.chd</path>
+		<name>Mugen Senshi Valis - The Legend Of A Fantasm Soldier</name>
+		<desc>Yuko Ahso is an ordinary Japanese teenager with an ordinary life - until one day she is attacked by a monster on the street. Out of nowhere, a sword appears in her hands. She fights the monsters who have suddenly invaded the city, and is summoned to the parallel world known as Vecanti, which is ruled by a cruel tyrant named Rogles, whose actions disrupt the balance of the the worlds. Wielding the legendary Valis sword, Yuko must defeat Rogles and restore the balance.
+
+Valis has the same story and basic genre (platform action) as the  original first game in the  series; however, it is a different game with different locations, regular enemies and bosses, new cutscenes, etc.  Defeating the numerous enemies populating the game world requires precise usage of jumping and ducking abilities, and attack timing. Yuko can jump very high and attack while jumping. Various power-ups are scattered through the game, many of which enhance the performance of Yuko's sword. Acting as a melee weapon in the beginning, it can be customized with power-ups and turn into a medium-range weapon, firing shots at the enemies - with proper power-ups, also in different directions. Boss enemies typically have different attack patterns and require different strategies to defeat them.</desc>
+		<image>./images/mugen senshi valis legend of a fantasm soldier-image.png</image>
+		<marquee>./images/mugen senshi valis legend of a fantasm soldier-marquee.png</marquee>
+		<thumbnail>./images/mugen senshi valis legend of a fantasm soldier-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19920319T000000</releasedate>
+		<developer>Riot</developer>
+		<publisher>Telenet</publisher>
+		<genre>Action</genre>
+		<family>Valis</family>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185320" />
+	</game>
+	<game id="107007">
+		<path>./Nexzr (Japan).chd</path>
+		<name>Nexzr</name>
+		<desc>In the year 2012 an alien armada attacked the Earth. Two young pilots were in the midst of a battle, and one of them, a lovely young woman, was killed. Three years later, the surviving pilot finally got a chance to avenge her death. Navigating a powerful new fighter ship named "Slasher", the pilot ventured into space, ready to bring destruction to those who took so much away from him.
+
+Nexzr is a vertically scrolling shoot-em-up similar to Super Star Soldier. The player-controlled spaceship starts with a simple vulcan gun that can only shoot straight. Various power-ups can either enhance the strength of this gun, replace it with a laser weapon, or add a secondary weapon (homing fire, thin spreading laser attacks, etc.), which is activated automatically. Mid- and end-level bosses are encountered on nearly every stage. Additional lives can be collected, but the player always restarts from the beginning of the stage when his fighter craft is destroyed.</desc>
+		<image>./images/Nexzr (Japan)-image.jpg</image>
+		<marquee>./images/Nexzr (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Nexzr (Japan)-thumb.jpg</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19921211T000000</releasedate>
+		<developer>Inter State</developer>
+		<publisher>Naxat Soft</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185322" />
+	</game>
+	<game id="119206">
+		<path>./pop n magic.chd</path>
+		<name>Pop'n Magic</name>
+		<desc>A static screen action game in the style of Bubble Bobble or Don Doko Don, Pop 'n Magic allows you to trap enemies by firing your wand at them, then pick them up and throw them across the screen to destroy them. The bubbles they are trapped in are specific colours and care must be taken not to throw two of the same colour together as this will release the (now quite upset) creatures inside.</desc>
+		<image>./images/pop n magic-image.jpg</image>
+		<marquee>./images/pop n magic-marquee.png</marquee>
+		<thumbnail>./images/pop n magic-thumb.jpg</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19920724T000000</releasedate>
+		<developer>Riot</developer>
+		<publisher>Telenet</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185323" />
+	</game>
+	<game id="106935">
+		<path>./Psychic Storm (Japan).chd</path>
+		<name>Psychic Storm</name>
+		<desc>Psychic Storm is a vertically scrolling shoot-em-up in which the player takes the role of four characters who must protect Neo Hong Kong City from an assault by vicious insectoid aliens. The player can select any of the four characters before each stage. The characters are distinguished by the unique attacks of their ships: Alex uses a vulcan gun, Charr has short-ranged "psychic" beam, Joe has a slow, yet powerful Hell Flame attack, and Nastasia uses ion laser. Each character can also acquire additional weapons by picking regular power-ups.
+
+The game's stand-out feature, however, is its transformation mode. Each of the characters can transform to a larger and much more powerful biomechanical insect-like ship. The transformation can be performed at any time as long as the correspondent bar, which refills itself over the time, is not empty. The bar is reduced rapidly when the character is transformed; special power-ups can be collected from vanquished enemies to extend it temporarily, but once it is depleted the character transforms back to his or her normal form.</desc>
+		<image>./images/Psychic Storm (Japan)-image.jpg</image>
+		<marquee>./images/Psychic Storm (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Psychic Storm (Japan)-thumb.jpg</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19920319T000000</releasedate>
+		<developer>Alfa System</developer>
+		<publisher>Shin-Nihon Laser Soft</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185324" />
+	</game>
+	<game id="106981">
+		<path>./R-Type Complete (Japan).chd</path>
+		<name>R-type Complete Cd</name>
+		<desc>R-Type Complete CD combines part I and part II of the japanese PC Engine HuCard releases. It also adds remixed music, fully voiced cut scenes, an extra boss fight, and some other minor changes.
+An alien race called the Bydo attacks humanity without mercy. The prototype space fighter R-9 must stop the Bydo and save the human race.</desc>
+		<image>./images/R-Type Complete (Japan)-image.jpg</image>
+		<marquee>./images/R-Type Complete (Japan)-marquee.png</marquee>
+		<thumbnail>./images/R-Type Complete (Japan)-thumb.jpg</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19911220T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>R-Type</family>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185326" />
+	</game>
+	<game id="14586">
+		<path>./rainbow islands.chd</path>
+		<name>Rainbow Islands</name>
+		<desc>Sequel to Bubble Bobble, Rainbow Islands sees Bub and Bob (in 2 player mode), who are now curiously small boys rather than dinosaurs, attempting to rid the Rainbow Islands of bad guys.
+
+Using the power to cast rainbows, trapping anything underneath, the boys must ascend vertically 4 levels each island, with a big, bad boss at the end of each.
+
+By trapping beasts under your rainbows, then jumping on them to break them you can collect seven different colored gems, and there are also power-ups for extra speed and rainbows.</desc>
+		<image>./images/rainbow islands-image.jpg</image>
+		<marquee>./images/rainbow islands-marquee.png</marquee>
+		<thumbnail>./images/rainbow islands-thumb.jpg</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>19930630T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>NEC</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185328" />
+	</game>
+	<game id="109093">
+		<path>./Rayxanber III (Japan).chd</path>
+		<name>Rayxanber 3</name>
+		<desc>Rayxanber II sequel. Absolutely everything has been reviewed for the better, while simultaneously staying true to the style of the previous two games. To start, someone finally fixed the mechanics of the board, so now it really works and is easily controlled. As before, there is a temperature bar, so if it turns red it must cool down before running again, but now it is much easier to regulate the duration of your run without resorting to a turbo button. The level structure and the attack patterns of the enemy are also much more balanced to take into account the use of the board: you are no longer forced to throw yourself headlong into a phalanx of enemies because something is chasing your tail. It has legitimately become a useful tool in your arsenal.</desc>
+		<image>./images/Rayxanber III (Japan)-image.jpg</image>
+		<marquee>./images/Rayxanber III (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Rayxanber III (Japan)-thumb.jpg</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19920626T000000</releasedate>
+		<developer>Datawest</developer>
+		<publisher>Datawest</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185329" />
+	</game>
+	<game id="106984">
+		<path>./ryuuko no ken.chd</path>
+		<name>Ryuuko No Ken</name>
+		<desc>Yuri Sakazaki has been kidnapped! Her big brother Ryo Sakazaki and Robert Garcia, his best friend, go search for her on the streets of South Town. As they go deeper and deeper they will find clues as to who ordered the kidnapping, the Sakazaki family's relation to the mob, and a person from their past.
+
+The gameplay differs from most fighting games. In this game, you have a Spirit meter. A Spirit meter is in the game and will decrease as you perform special moves. It can be recharged, but doing so leaves you open to attack. When your health is almost gone, you can perform a secret combination that will unleash a deadly attack on your opponent - provided you have a full Spirit meter.
+
+The arcade version doesn't allow you to play as Mr. Big and the elusive Mr. Karate.</desc>
+		<image>./images/ryuuko no ken-image.jpg</image>
+		<marquee>./images/ryuuko no ken-marquee.png</marquee>
+		<thumbnail>./images/ryuuko no ken-thumb.jpg</thumbnail>
+		<rating>0.45</rating>
+		<releasedate>19940326T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Fight / 2D</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185330" />
+	</game>
+	<game id="106853">
+		<path>./seirei senshi spriggan.chd</path>
+		<name>Seirei Senshi Spriggan</name>
+		<desc>Another top-down shooter from Compile staged in a fantasy world that mingles traditional sci-fi elements with a feudal Japan setting.
+
+As the game starts a struggle for total control over elemental powers is about to begin between two warring nations. As the best mecha pilot in the good guy's army it's your task to repel the invasion and win the war by dealing with the enemy armada in standard shooter fashion. But surprise surprise! You won't be alone this time, as other AI-controlled mecha pilots will join you in the fray at key moments. Only you can command the magical powers that can be added to your mecha by collecting several color-coded orbs though, so most of the fight is still going to be up to you.</desc>
+		<image>./images/seirei senshi spriggan-image.jpg</image>
+		<marquee>./images/seirei senshi spriggan-marquee.png</marquee>
+		<thumbnail>./images/seirei senshi spriggan-thumb.jpg</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19910712T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Naxat Soft</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185332" />
+	</game>
+	<game id="106915">
+		<path>./Snatcher_(NTSC-J)_[KMCD2002].iso</path>
+		<name>Snatcher</name>
+		<desc>Snatcher is set in the futuristic Neo Kobe City, a city of madness and decadence. The year is 2047 (or 2042, according to the original Japanese version). Mankind is facing its gravest crisis. A mysterious bio-roid life form has appeared. Its true nature and purpose are unknown. Is it some country's secret weapon, or an alien from another world? They appear in the winter, killing people and taking their place in society. They wear artificial skin and can sweat and even bleed. They are called "Snatchers" because they "snatch" their victims before they take their place.
+
+A new police force, specifically trained to fight the Snatchers, has been formed. They are JUNKERs (which is deciphered as "Japanese Undercover Neuro-Kinetic Elimination Rangers" in the English version). Every time you encounter someone, a difficult question must be asked ? is it a person or a snatcher? 
+
+The player takes control of Gillian Seed, one of the JUNKERs. The gameplay largely follows the structure of a Japanese-style adventure. The player uses a menu-driven interface to execute commands, which include moving between locations and interacting with the environment. Typically, every room contains objects that can be examined, leading to text descriptions and comments. Conversations occupy a large portion of the gameplay, with various topics available and a wealth of information about the game's world and characters. A few parts contain light puzzle-solving elements, though as a rule the game is almost completely devoid of puzzles.
+
+During key moments of the narrative, the player will be prompted to participate in intense shooting sequences. The goal is usually to kill all the enemies that pop out on the screen before they are able to kill Gillian. Some of such sequences are timed, i.e. the player is required to quickly shoot before another events is triggered, leading to the protagonist's death.</desc>
+		<image>./images/Snatcher_(NTSC-J)_[KMCD2002]-image.jpg</image>
+		<marquee>./images/Snatcher_(NTSC-J)_[KMCD2002]-marquee.png</marquee>
+		<thumbnail>./images/Snatcher_(NTSC-J)_[KMCD2002]-thumb.jpg</thumbnail>
+		<releasedate>19921023T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185334" />
+	</game>
+	<game id="141169">
+		<path>./space fantasy zone.chd</path>
+		<name>Space Fantasy Zone</name>
+		<desc>Take the graphics from Fantasy Zone and the gameplay from Space Harrier, mix them together and you get Space Fantasy Zone. This unreleased game has the basis of its gameplay in Space Harrier, but with some differences - you have an energy meter instead of one-hit-kills and you can upgrade your weaponry between levels in a shop.</desc>
+		<image>./images/space fantasy zone-image.jpg</image>
+		<marquee>./images/space fantasy zone-marquee.png</marquee>
+		<thumbnail>./images/space fantasy zone-thumb.jpg</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Nec Avenue</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<md5>7191d0f03490d440457cc06c7a2dd341</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185337" />
+	</game>
+	<game id="103574">
+		<path>./star parodia.chd</path>
+		<name>Fantasy Star Soldier</name>
+		<desc>Move fast and blast! It's a nonstop explosion of fire power and you're streaking through space, right in the middle of it! The Brains Cult you once defeated is back, badder than ever. But your finger's on the trigger of an incredible new techno-attack! Scorch the Scorpion with a nuclear a sting. Fire your heat-seeking sidewinders. Then power-up to launch your doomsday Super Bomb! Blow those Brains out and save the galaxy. Then challenge your friends with a special competition time mode to prove who the Super Star really is!</desc>
+		<image>./images/star parodia-image.png</image>
+		<video>./videos/star parodia-video.mp4</video>
+		<marquee>./images/star parodia-marquee.png</marquee>
+		<thumbnail>./images/star parodia-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19920424T000000</releasedate>
+		<developer>Inter State</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20200307T230755</lastplayed>
+		<gametime>201</gametime>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185344" />
+	</game>
+	<game id="14518">
+		<path>./super air zonk.chd</path>
+		<name>Super Air Zonk : Rockabilly Paradise</name>
+		<desc>After the success of PC Denjin, our hero leaps onto CD with a whole new game and a whole new soundtrack. Flying over the various landscapes (you get to choose which order to play the first four levels in), you come up against tidal waves, giant robots and a general array of nasty but cute bad guys as you would expect. The plants from the original PC Kid games are still here to provide such joys as extra firepower, fountains of smiley faces or the tiny-denjin which makes dodging bullets that little bit easier. Another handy little trick is that your boots also pack a punch, so backing into an enemy is more likely to dispose of them than do you any permanent damage. Part way along each of the levels you get the chance to rescue a friend who then joins with you, giving you a specific extra ability. These friends are pre-set one per level and cannot be chosen, and they allow things like rapid-sushi-fire and handy rear shots.</desc>
+		<image>./images/super air zonk-image.jpg</image>
+		<marquee>./images/super air zonk-marquee.png</marquee>
+		<thumbnail>./images/super air zonk-thumb.jpg</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19930730T000000</releasedate>
+		<developer>Red Company</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185345" />
+	</game>
+	<game id="109097">
+		<path>./Super Darius 2 (Japan).chd</path>
+		<name>Super Darius 2</name>
+		<desc>Super Darius II is a updated Darius II released for the TurboGrafx-CD featuring an entirely new set of bosses, major changes to levels, and a fully arranged soundtrack including new songs.</desc>
+		<image>./images/Super Darius 2 (Japan)-image.png</image>
+		<marquee>./images/Super Darius 2 (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Super Darius 2 (Japan)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19931224T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter / Horizontal</genre>
+		<family>Darius</family>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185347" />
+	</game>
+	<game id="109104">
+		<path>./Super Raiden (Japan).chd</path>
+		<name>Super Raiden</name>
+		<desc>A conversion of the classic arcade shoot 'em up, Raiden follows the conventions of the genre with coloured power up pods that give different weapons when collected. 
+
+Raiden is one of the all-time greats in the annals of shoot 'em up history. Itâ€™s not just the excellent graphics and sounds, but the engaging gameplay that keeps you addicted for ages. Itâ€™s also capable of throwing up some hair-raising moments, and bullet dodging skills are pushed to the extreme</desc>
+		<image>./images/Super Raiden (Japan)-image.jpg</image>
+		<marquee>./images/Super Raiden (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Super Raiden (Japan)-thumb.jpg</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19920402T000000</releasedate>
+		<developer>Seibu Kaihatsu</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>Raiden</family>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185348" />
+	</game>
+	<game id="109099">
+		<path>./Sylphia (Japan).chd</path>
+		<name>Sylphia</name>
+		<desc>Sylphia is set in an environment inspired by the Greek mythology. The heroine of the game was a fearless maiden who tried to protect her home town from the onslaught of monsters. But even her power was no enough, and she was slain... Touched by her sacrifice, the goddess Athena revived her as a flying demi-goddess. Restored to new life, Sylphia can now unleash her wrath upon the monsters and their supporters.
+
+Despite its theme and setting, Sylphia plays like a vertically scrolling shooter. As in most games of this kind, the gameplay consists of shooting down waves of enemies, on the ground and in the skies. Sylphia can use four types of ranged attacks, which roughly correspond to other shooters' traditional weapons: fire blasts, laser, spreading fire, homing missiles. These weapons are displayed as colored orbs and must be collected. Power-ups can be collected for each type of attack. In addition, a devastating special attack can be stored (for one charge) and executed.</desc>
+		<image>./images/Sylphia (Japan)-image.jpg</image>
+		<marquee>./images/Sylphia (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Sylphia (Japan)-thumb.jpg</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19931022T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Tonkin House</publisher>
+		<genre>Shoot'em up / Diagonal</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185350" />
+	</game>
+	<game id="14584">
+		<path>./Valis IV (Japan).chd</path>
+		<name>Valis IV</name>
+		<desc>King Asfal from the Dark World had a son named Galgear, who inherited a magic ring from him and grew insane as a result. The prince was imprisoned, but managed to break free, kidnap Valna, the queen of Vecanti, and install himself as the Dream Land's new ruler. Cham, the leader of the resistance against Galgear, hears the voice of Yuko, the former Valis soldier who has now become a goddess, telling her that one of the resistance members, a girl named Lena, is the heir to the Valis sword. Lena and her sister Amu decide to rescue Valna and find a way to stop Galgear.
+
+Like its predecessors, Valis IV is an action platformer. It is similar to the previous game in allowing the player to control three different characters: Lena, Amu, and Asfal. Each of the characters wields a unique weapon (Valis sword for Lena, boomerang for Amu, and lance trident for Asfal) and has access to their own elemental spells (thunder for Lena, fire for Amu, ice for Asfal). Each one also has a special ability: Lena can slide through narrow passages, Amu can double-jump, and Asfal is immune to certain traps. Along with recovery and spell-enhancing (up to three levels) items, characters can also acquire special spheres that increase the overall count of their hit- and magic points.</desc>
+		<image>./images/Valis IV (Japan)-image.png</image>
+		<marquee>./images/Valis IV (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Valis IV (Japan)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19910823T000000</releasedate>
+		<developer>Shin-Nihon Laser Soft</developer>
+		<publisher>Shin-Nihon Laser Soft</publisher>
+		<genre>Platform</genre>
+		<family>Valis</family>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185353" />
+	</game>
+	<game id="14539">
+		<path>./Zero Wing (Japan).chd</path>
+		<name>Zero Wing</name>
+		<desc>Zero Wing is an horizontal shooter game where the player is in control of a ZIG, an escape pod released after its main ship was attacked and destroyed by the evil cyborg CATS, bent on taking over the world.
+
+Like most games in the genre, there are three color-coded weapons: red (scatter), green (homing) and blue (lasers). Each weapon has three levels of power, and to obtain those, similar upgrades must be collected sequentially. However, what makes the game unique is the ability to use a traction beam to trap an enemy and then throw him against his peers, destroying them.
+
+The game (more precisely, the European PAL version of it) is known for being the origin of the grammatically incorrect phrase in the English translation, All your base are belong to us, which has since become an internet phenomenon.</desc>
+		<image>./images/Zero Wing (Japan)-image.jpg</image>
+		<marquee>./images/Zero Wing (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Zero Wing (Japan)-thumb.jpg</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>19920918T000000</releasedate>
+		<developer>Naxat Soft</developer>
+		<publisher>Toaplan</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221118T185354" />
+	</game>
+	<game id="107003">
+		<path>./tengai makyou fuun kabuki den.chd</path>
+		<name>Far East Of Eden - Tengai Makyou - Fuun Kabuki-den</name>
+		<desc>In a futuristic world, where magicians and legendary creatures co-exist with robots and clones, the peaceful existence of Far the Earth is threatened by the Emperor of Evil. Atima, a young girl from the magician guild, is entrusted with a highly important task: reviving Dimeora, the legendary hero from the epoch of gods, who alone is capable of defeating the Emperor of Evil. But things take an unexpected turn as Atima is kidnapped by the Emperor, and the revived Dimeora has to find his way alone in this new world.
+
+Neo Metal Fantasy is a traditional Japanese-style RPG. Traveling over the world map, the player-controlled party visits towns, descend into dungeons, and engage randomly appearing enemies in first-person perspective, turn-based combat, using physical attacks or magic. The game features anime-style cutscenes.</desc>
+		<image>./images/tengai makyou fuun kabuki den-image.png</image>
+		<video>./videos/tengai makyou fuun kabuki den-video.mp4</video>
+		<marquee>./images/tengai makyou fuun kabuki den-marquee.png</marquee>
+		<thumbnail>./images/tengai makyou fuun kabuki den-thumb.png</thumbnail>
+		<releasedate>19930710T000000</releasedate>
+		<developer>Red Company</developer>
+		<publisher>Hudson</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221122T005556" />
 	</game>
 </gameList>

@@ -1,52 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="37515">
-		<path>./lemans24.zip</path>
-		<name>Le Mans 24</name>
-		<desc>The world's top 6 car manufacturers battle it out over 24 gruelling hours.</desc>
-		<image>./images/lemans24-image.png</image>
-		<video>./videos/lemans24-video.mp4</video>
-		<marquee>./images/lemans24-marquee.png</marquee>
-		<thumbnail>./images/lemans24-thumb.png</thumbnail>
-		<fanart>./images/lemans24-fanart.jpg</fanart>
-		<rating>0.7</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving</genre>
-		<arcadesystemname>model3</arcadesystemname>
-		<players>1</players>
-		<md5>fb37ccf25409d998ef4237006f175ea0</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20220928T072540" />
-	</game>
-	<game id="37523">
-		<path>./swtrilgyp.zip</path>
-		<name>Star Wars Trilogy Arcade</name>
-		<desc>Star Wars Trilogy Arcade is a Model 3 shooter allowing the player to ride, fly, and shoot in galactic vehicles.
-
-Players will travel through 6 incredibly detailed intergalactic stages, featuring scenes from A New Hope, Empire Strikes Back, and Return of the Jedi, both challenging the players shooting accuracy as well as vehicle maneuvering capabilities.
-
-Hidden secrets, located in all stages, allow the player to alter the course of the stage, making each game an unconventional and thrilling experience.</desc>
-		<image>./images/swtrilgyp-image.png</image>
-		<video>./videos/swtrilgyp-video.mp4</video>
-		<marquee>./images/swtrilgyp-marquee.png</marquee>
-		<thumbnail>./images/swtrilgyp-thumb.png</thumbnail>
-		<fanart>./images/swtrilgyp-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shoot'em Up</genre>
-		<family>Star Wars Arcade</family>
-		<arcadesystemname>model3</arcadesystemname>
-		<players>1</players>
-		<md5>a07d031cd0eeac4ac6d85e56fd105e07</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T072540" />
-	</game>
 	<game id="94370">
 		<path>./bass.zip</path>
 		<name>Sega Bass Fishing</name>
@@ -90,74 +43,6 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20220928T072540" />
-	</game>
-	<game id="37509">
-		<path>./dayto2pe.zip</path>
-		<name>Daytona USA 2: Power Edition</name>
-		<desc>Daytona USA 2 grades up! Experience the force and the excitement of the stock cars. This time, the player can use the Hornet Classic, the car from "Daytona USA". There are new features such as the Mix Course, the combination of Medium, Expert, and Beginners, and the player can drive the reverse direction.</desc>
-		<image>./images/dayto2pe-image.png</image>
-		<video>./videos/dayto2pe-video.mp4</video>
-		<marquee>./images/dayto2pe-marquee.png</marquee>
-		<thumbnail>./images/dayto2pe-thumb.png</thumbnail>
-		<fanart>./images/dayto2pe-fanart.jpg</fanart>
-		<rating>0.85</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<family>Daytona USA</family>
-		<arcadesystemname>model3</arcadesystemname>
-		<players>1</players>
-		<md5>9d749c4f8affa210154a58ed50d95a7f</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20220928T073605" />
-	</game>
-	<game id="37508">
-		<path>./daytona2.zip</path>
-		<name>Daytona USA 2: Battle on the Edge</name>
-		<desc>The wild and hot run is back. 16 people can run together. Not only the body of the machine and the road surface, but also smoke and the flames for the crash scenes are reproduced beautifully. The game also uses the real engines' sounds from the real cars.</desc>
-		<image>./images/daytona2-image.png</image>
-		<video>./videos/daytona2-video.mp4</video>
-		<marquee>./images/daytona2-marquee.png</marquee>
-		<thumbnail>./images/daytona2-thumb.png</thumbnail>
-		<fanart>./images/daytona2-fanart.jpg</fanart>
-		<rating>0.85</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<family>Daytona USA</family>
-		<arcadesystemname>model3</arcadesystemname>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220928T073937</lastplayed>
-		<md5>befd12f9a5f22ffce40bae782687da85</md5>
-		<gametime>203</gametime>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20220928T073606" />
-	</game>
-	<game id="37510">
-		<path>./dirtdvls.zip</path>
-		<name>Dirt Devils</name>
-		<desc>Dirt Devils is a racing game from Sega with all terrain vehicles such as a Humvee, a Sand Buggy, and a Beetle Buggy. There are 3 standard stages plus 1 hidden stage inside the big arena dome.</desc>
-		<image>./images/dirtdvls-image.png</image>
-		<video>./videos/dirtdvls-video.mp4</video>
-		<marquee>./images/dirtdvls-marquee.png</marquee>
-		<thumbnail>./images/dirtdvls-thumb.png</thumbnail>
-		<fanart>./images/dirtdvls-fanart.jpg</fanart>
-		<rating>0.75</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving / Race</genre>
-		<arcadesystemname>model3</arcadesystemname>
-		<players>1-2</players>
-		<md5>800f2350b7e142f8ffadd357aad49b4b</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T073608" />
 	</game>
 	<game id="37510">
 		<path>./dirtdvlsa.zip</path>
@@ -221,28 +106,6 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20220928T073612" />
-	</game>
-	<game id="37511">
-		<path>./eca.zip</path>
-		<name>Emergency Call Ambulance</name>
-		<desc>Become an emergency medical technician in Emergency Call Ambulance. Day or night, you're on the call! Race to the scene of a serious traffic accident, spectacular fire or senseless act of big city violence. You're mission: get the injured to the hospital emergency room as quickly and safely as possible! Players are kept aware of their patient's condition by monitoring their 'health point' indicator. Reckless driving or hitting other vehicles will dramatically reduce your patient's 'health point' indicator. Follow the on-screen directions or choose your own route. The game ends if the 'health point' indicator reaches zero before you deliver the patient to the hospital. Make it in time, and you're off to the next emergency call!</desc>
-		<image>./images/eca-image.png</image>
-		<video>./videos/eca-video.mp4</video>
-		<marquee>./images/eca-marquee.png</marquee>
-		<thumbnail>./images/eca-thumb.png</thumbnail>
-		<fanart>./images/eca-fanart.jpg</fanart>
-		<rating>0.65</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving</genre>
-		<family>Emergency Call Ambulance</family>
-		<arcadesystemname>model3</arcadesystemname>
-		<players>1</players>
-		<md5>f2f10758b634fb65e668392e0964b148</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T073613" />
 	</game>
 	<game id="37511">
 		<path>./ecaj.zip</path>
@@ -310,50 +173,6 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20220928T073937" />
 	</game>
-	<game id="37512">
-		<path>./fvipers2.zip</path>
-		<name>Fighting Vipers 2</name>
-		<desc>Fighting Vipers 2 is a 3-D fighting game.</desc>
-		<image>./images/fvipers2-image.png</image>
-		<video>./videos/fvipers2-video.mp4</video>
-		<marquee>./images/fvipers2-marquee.png</marquee>
-		<thumbnail>./images/fvipers2-thumb.png</thumbnail>
-		<fanart>./images/fvipers2-fanart.jpg</fanart>
-		<rating>0.6</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fight / 3D</genre>
-		<family>Fighting Vipers</family>
-		<arcadesystemname>model3</arcadesystemname>
-		<players>1-2</players>
-		<md5>2f4cf6fdd8cb7fb09c60dd359e69832c</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20220928T073937" />
-	</game>
-	<game id="37512">
-		<path>./fvipers2o.zip</path>
-		<name>Fighting Vipers 2</name>
-		<desc>Fighting Vipers 2 is a 3-D fighting game.</desc>
-		<image>./images/fvipers2o-image.png</image>
-		<video>./videos/fvipers2o-video.mp4</video>
-		<marquee>./images/fvipers2o-marquee.png</marquee>
-		<thumbnail>./images/fvipers2o-thumb.png</thumbnail>
-		<fanart>./images/fvipers2o-fanart.jpg</fanart>
-		<rating>0.6</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fight / 3D</genre>
-		<family>Fighting Vipers</family>
-		<arcadesystemname>model3</arcadesystemname>
-		<players>1-2</players>
-		<md5>a01af2f48c8b7195943f2a534725058d</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20220928T073937" />
-	</game>
 	<game id="94370">
 		<path>./getbass.zip</path>
 		<name>Sega Bass Fishing</name>
@@ -397,49 +216,6 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20220928T073937" />
 	</game>
-	<game id="37513">
-		<path>./harleya.zip</path>
-		<name>Harley-Davidson &amp; L.A. Riders</name>
-		<desc>Harley-Davidson &amp; L.A. Riders is a motorcycle game that allows players to choose from 5 different Harleys to ride. The goal is to race to various points around Los Angeles under a time limit, and to avoid crashing many times into cars. The game's style is very similar to 1993's "OutRunners".</desc>
-		<image>./images/harleya-image.png</image>
-		<video>./videos/harleya-video.mp4</video>
-		<marquee>./images/harleya-marquee.png</marquee>
-		<thumbnail>./images/harleya-thumb.png</thumbnail>
-		<fanart>./images/harleya-fanart.jpg</fanart>
-		<rating>0.6</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
-		<arcadesystemname>model3</arcadesystemname>
-		<players>1</players>
-		<md5>35eed69830063efb9017bf3b20f64634</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T073937" />
-	</game>
-	<game id="37514">
-		<path>./lamachin.zip</path>
-		<name>L.A. Machineguns</name>
-		<desc>During your mission, you will encounter enormous amounts of enemies ranging from human size robots to lightning fast weapon pods. The player is armed with a heavy machine gun which he uses to survive the 4 stages of the game.</desc>
-		<image>./images/lamachin-image.png</image>
-		<video>./videos/lamachin-video.mp4</video>
-		<marquee>./images/lamachin-marquee.png</marquee>
-		<thumbnail>./images/lamachin-thumb.png</thumbnail>
-		<fanart>./images/lamachin-fanart.jpg</fanart>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Lightgun Shooter</genre>
-		<family>Gunblade</family>
-		<arcadesystemname>model3</arcadesystemname>
-		<players>1</players>
-		<md5>52cfe4780de8d7848aa7751c1bea4f37</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20220928T073937" />
-	</game>
 	<game id="37516">
 		<path>./lostwsga.zip</path>
 		<name>The Lost World: Jurassic Park</name>
@@ -461,14 +237,6 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20220928T073937" />
-	</game>
-	<game>
-		<path>./lostwsgo.zip</path>
-		<name>lostwsgo</name>
-		<md5>e6f63cccac1868f265d30c9ea6ca34eb</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T073629" />
 	</game>
 	<game id="94371">
 		<path>./magtruck.zip</path>
@@ -798,133 +566,6 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20220928T073937" />
 	</game>
-	<game id="37523">
-		<path>./swtrilgya.zip</path>
-		<name>Star Wars Trilogy Arcade</name>
-		<desc>Star Wars Trilogy Arcade is a Model 3 shooter allowing the player to ride, fly, and shoot in galactic vehicles.
-
-Players will travel through 6 incredibly detailed intergalactic stages, featuring scenes from A New Hope, Empire Strikes Back, and Return of the Jedi, both challenging the players shooting accuracy as well as vehicle maneuvering capabilities.
-
-Hidden secrets, located in all stages, allow the player to alter the course of the stage, making each game an unconventional and thrilling experience.</desc>
-		<image>./images/swtrilgya-image.png</image>
-		<video>./videos/swtrilgya-video.mp4</video>
-		<marquee>./images/swtrilgya-marquee.png</marquee>
-		<thumbnail>./images/swtrilgya-thumb.png</thumbnail>
-		<fanart>./images/swtrilgya-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shoot'em Up</genre>
-		<family>Star Wars Arcade</family>
-		<arcadesystemname>model3</arcadesystemname>
-		<players>1</players>
-		<md5>d6e6a3aa97d81bd93cf5f06675388fab</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T073937" />
-	</game>
-	<game id="37525">
-		<path>./vf3.zip</path>
-		<name>Virtua Fighter 3</name>
-		<desc>Virtua Fighter 3 is the 3rd in the Virtua Fighter series.
-
-The game adds a 4th button, the Dodge button, that lets you dodge your opponent's attacks. You can move into the screen (by pressing the Dodge button with the joystick in neutral) or out of the screen (by pressing the Dodge button with the joystick held down).
-
-Virtua Fighter 3 also adds undulations in the stages - knowing how to use these to your advantage is key to winning the game (by moving to higher ground, for instance).</desc>
-		<image>./images/vf3-image.png</image>
-		<video>./videos/vf3-video.mp4</video>
-		<marquee>./images/vf3-marquee.png</marquee>
-		<thumbnail>./images/vf3-thumb.png</thumbnail>
-		<fanart>./images/vf3-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fight</genre>
-		<family>Virtua Fighter</family>
-		<arcadesystemname>model3</arcadesystemname>
-		<players>1-2</players>
-		<md5>1bd25c7d65a6c25150076ee1dc2a45e3</md5>
-		<lang>de</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20220928T073937" />
-	</game>
-	<game id="37525">
-		<path>./vf3a.zip</path>
-		<name>Virtua Fighter 3</name>
-		<desc>Virtua Fighter 3 is the 3rd in the Virtua Fighter series.
-
-The game adds a 4th button, the Dodge button, that lets you dodge your opponent's attacks. You can move into the screen (by pressing the Dodge button with the joystick in neutral) or out of the screen (by pressing the Dodge button with the joystick held down).
-
-Virtua Fighter 3 also adds undulations in the stages - knowing how to use these to your advantage is key to winning the game (by moving to higher ground, for instance).</desc>
-		<image>./images/vf3a-image.png</image>
-		<video>./videos/vf3a-video.mp4</video>
-		<marquee>./images/vf3a-marquee.png</marquee>
-		<thumbnail>./images/vf3a-thumb.png</thumbnail>
-		<fanart>./images/vf3a-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fight</genre>
-		<family>Virtua Fighter</family>
-		<arcadesystemname>model3</arcadesystemname>
-		<players>1-2</players>
-		<md5>579267a52af7c02bae65d8c6ef2a5df5</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T073937" />
-	</game>
-	<game id="37525">
-		<path>./vf3c.zip</path>
-		<name>Virtua Fighter 3</name>
-		<desc>Virtua Fighter 3 is the 3rd in the Virtua Fighter series.
-
-The game adds a 4th button, the Dodge button, that lets you dodge your opponent's attacks. You can move into the screen (by pressing the Dodge button with the joystick in neutral) or out of the screen (by pressing the Dodge button with the joystick held down).
-
-Virtua Fighter 3 also adds undulations in the stages - knowing how to use these to your advantage is key to winning the game (by moving to higher ground, for instance).</desc>
-		<image>./images/vf3c-image.png</image>
-		<video>./videos/vf3c-video.mp4</video>
-		<marquee>./images/vf3c-marquee.png</marquee>
-		<thumbnail>./images/vf3c-thumb.png</thumbnail>
-		<fanart>./images/vf3c-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fight</genre>
-		<family>Virtua Fighter</family>
-		<arcadesystemname>model3</arcadesystemname>
-		<players>1-2</players>
-		<md5>376cda8a029526df87ec7fa998b04570</md5>
-		<lang>fr</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20220928T073937" />
-	</game>
-	<game id="43937">
-		<path>./vf3tb.zip</path>
-		<name>Virtua Fighter 3</name>
-		<desc>Virtua Fighter 3 is the 3rd in the Virtua Fighter series.
-
-The game adds a 4th button, the Dodge button, that lets you dodge your opponent's attacks. You can move into the screen (by pressing the Dodge button with the joystick in neutral) or out of the screen (by pressing the Dodge button with the joystick held down).
-
-Virtua Fighter 3 also adds undulations in the stages - knowing how to use these to your advantage is key to winning the game (by moving to higher ground, for instance).</desc>
-		<image>./images/vf3tb-image.png</image>
-		<marquee>./images/vf3tb-marquee.png</marquee>
-		<thumbnail>./images/vf3tb-thumb.png</thumbnail>
-		<releasedate>19960101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Virtua Fighter</family>
-		<arcadesystemname>sega</arcadesystemname>
-		<players>1-2</players>
-		<md5>767d77702c8e411319e247af42ac8296</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T073937" />
-	</game>
 	<game id="37507">
 		<path>./von2.zip</path>
 		<name>Virtual On 2: Oratorio Tangram</name>
@@ -990,24 +631,6 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20220928T074010" />
-	</game>
-	<game id="46857">
-		<path>./von2o.zip</path>
-		<name>Virtua Athlete</name>
-		<desc>Virtua Athlete is a sport simulation.</desc>
-		<image>./images/von2o-image.png</image>
-		<video>./videos/von2o-video.mp4</video>
-		<marquee>./images/von2o-marquee.png</marquee>
-		<thumbnail>./images/von2o-thumb.png</thumbnail>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Hitmaker</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-		<md5>d6c113ce77f90def87a9b246faca9ae3</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220928T074023" />
 	</game>
 	<game id="37526">
 		<path>./vs2.zip</path>
@@ -1206,5 +829,432 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 		<lang>en</lang>
 		<region>us</region>
 		<scrap name="ScreenScraper" date="20220928T074200" />
+	</game>
+	<game id="37509">
+		<path>./dayto2pe.zip</path>
+		<name>Daytona USA 2: Power Edition</name>
+		<desc>Daytona USA 2 grades up! Experience the force and the excitement of the stock cars. This time, the player can use the Hornet Classic, the car from "Daytona USA". There are new features such as the Mix Course, the combination of Medium, Expert, and Beginners, and the player can drive the reverse direction.</desc>
+		<image>./images/dayto2pe-image.png</image>
+		<video>./videos/dayto2pe-video.mp4</video>
+		<marquee>./images/dayto2pe-marquee.png</marquee>
+		<thumbnail>./images/dayto2pe-thumb.png</thumbnail>
+		<fanart>./images/dayto2pe-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Daytona USA</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T175814</lastplayed>
+		<md5>9d749c4f8affa210154a58ed50d95a7f</md5>
+		<gametime>19</gametime>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T073605" />
+	</game>
+	<game id="37508">
+		<path>./daytona2.zip</path>
+		<name>Daytona USA 2: Battle on the Edge</name>
+		<desc>The wild and hot run is back. 16 people can run together. Not only the body of the machine and the road surface, but also smoke and the flames for the crash scenes are reproduced beautifully. The game also uses the real engines' sounds from the real cars.</desc>
+		<image>./images/daytona2-image.png</image>
+		<video>./videos/daytona2-video.mp4</video>
+		<marquee>./images/daytona2-marquee.png</marquee>
+		<thumbnail>./images/daytona2-thumb.png</thumbnail>
+		<fanart>./images/daytona2-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Daytona USA</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20221118T175749</lastplayed>
+		<md5>befd12f9a5f22ffce40bae782687da85</md5>
+		<gametime>233</gametime>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T073606" />
+	</game>
+	<game id="37510">
+		<path>./dirtdvls.zip</path>
+		<name>Dirt Devils</name>
+		<desc>Dirt Devils is a racing game from Sega with all terrain vehicles such as a Humvee, a Sand Buggy, and a Beetle Buggy. There are 3 standard stages plus 1 hidden stage inside the big arena dome.</desc>
+		<image>./images/dirtdvls-image.png</image>
+		<video>./videos/dirtdvls-video.mp4</video>
+		<marquee>./images/dirtdvls-marquee.png</marquee>
+		<thumbnail>./images/dirtdvls-thumb.png</thumbnail>
+		<fanart>./images/dirtdvls-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T175908</lastplayed>
+		<md5>800f2350b7e142f8ffadd357aad49b4b</md5>
+		<gametime>37</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T073608" />
+	</game>
+	<game id="37511">
+		<path>./eca.zip</path>
+		<name>Emergency Call Ambulance</name>
+		<desc>Become an emergency medical technician in Emergency Call Ambulance. Day or night, you're on the call! Race to the scene of a serious traffic accident, spectacular fire or senseless act of big city violence. You're mission: get the injured to the hospital emergency room as quickly and safely as possible! Players are kept aware of their patient's condition by monitoring their 'health point' indicator. Reckless driving or hitting other vehicles will dramatically reduce your patient's 'health point' indicator. Follow the on-screen directions or choose your own route. The game ends if the 'health point' indicator reaches zero before you deliver the patient to the hospital. Make it in time, and you're off to the next emergency call!</desc>
+		<image>./images/eca-image.png</image>
+		<video>./videos/eca-video.mp4</video>
+		<marquee>./images/eca-marquee.png</marquee>
+		<thumbnail>./images/eca-thumb.png</thumbnail>
+		<fanart>./images/eca-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<family>Emergency Call Ambulance</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T175940</lastplayed>
+		<md5>f2f10758b634fb65e668392e0964b148</md5>
+		<gametime>21</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T073613" />
+	</game>
+	<game id="37512">
+		<path>./fvipers2.zip</path>
+		<name>Fighting Vipers 2</name>
+		<desc>Fighting Vipers 2 is a 3-D fighting game.</desc>
+		<image>./images/fvipers2-image.png</image>
+		<video>./videos/fvipers2-video.mp4</video>
+		<marquee>./images/fvipers2-marquee.png</marquee>
+		<thumbnail>./images/fvipers2-thumb.png</thumbnail>
+		<fanart>./images/fvipers2-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / 3D</genre>
+		<family>Fighting Vipers</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T175951</lastplayed>
+		<md5>2f4cf6fdd8cb7fb09c60dd359e69832c</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T073937" />
+	</game>
+	<game id="37512">
+		<path>./fvipers2o.zip</path>
+		<name>Fighting Vipers 2</name>
+		<desc>Fighting Vipers 2 is a 3-D fighting game.</desc>
+		<image>./images/fvipers2o-image.png</image>
+		<video>./videos/fvipers2o-video.mp4</video>
+		<marquee>./images/fvipers2o-marquee.png</marquee>
+		<thumbnail>./images/fvipers2o-thumb.png</thumbnail>
+		<fanart>./images/fvipers2o-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / 3D</genre>
+		<family>Fighting Vipers</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T175957</lastplayed>
+		<md5>a01af2f48c8b7195943f2a534725058d</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T073937" />
+	</game>
+	<game id="37513">
+		<path>./harleya.zip</path>
+		<name>Harley-Davidson &amp; L.A. Riders</name>
+		<desc>Harley-Davidson &amp; L.A. Riders is a motorcycle game that allows players to choose from 5 different Harleys to ride. The goal is to race to various points around Los Angeles under a time limit, and to avoid crashing many times into cars. The game's style is very similar to 1993's "OutRunners".</desc>
+		<image>./images/harleya-image.png</image>
+		<video>./videos/harleya-video.mp4</video>
+		<marquee>./images/harleya-marquee.png</marquee>
+		<thumbnail>./images/harleya-thumb.png</thumbnail>
+		<fanart>./images/harleya-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T180022</lastplayed>
+		<md5>35eed69830063efb9017bf3b20f64634</md5>
+		<gametime>21</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T073937" />
+	</game>
+	<game id="37514">
+		<path>./lamachin.zip</path>
+		<name>L.A. Machineguns</name>
+		<desc>During your mission, you will encounter enormous amounts of enemies ranging from human size robots to lightning fast weapon pods. The player is armed with a heavy machine gun which he uses to survive the 4 stages of the game.</desc>
+		<image>./images/lamachin-image.png</image>
+		<video>./videos/lamachin-video.mp4</video>
+		<marquee>./images/lamachin-marquee.png</marquee>
+		<thumbnail>./images/lamachin-thumb.png</thumbnail>
+		<fanart>./images/lamachin-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Gunblade</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T180112</lastplayed>
+		<md5>52cfe4780de8d7848aa7751c1bea4f37</md5>
+		<gametime>43</gametime>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T073937" />
+	</game>
+	<game id="37515">
+		<path>./lemans24.zip</path>
+		<name>Le Mans 24</name>
+		<desc>The world's top 6 car manufacturers battle it out over 24 gruelling hours.</desc>
+		<image>./images/lemans24-image.png</image>
+		<video>./videos/lemans24-video.mp4</video>
+		<marquee>./images/lemans24-marquee.png</marquee>
+		<thumbnail>./images/lemans24-thumb.png</thumbnail>
+		<fanart>./images/lemans24-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T180201</lastplayed>
+		<md5>fb37ccf25409d998ef4237006f175ea0</md5>
+		<gametime>41</gametime>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20220928T072540" />
+	</game>
+	<game id="37516">
+		<path>./lostwsgo.zip</path>
+		<name>The Lost World: Jurassic Park</name>
+		<desc>If you have a good arm at shooting games you're fine. But if you don't have a good arm at shooting games better start practicing, because half of the whole game you'll be shooting a lot of raptors coming at you 30 miles per hour!!!</desc>
+		<image>./images/lostwsgo-image.png</image>
+		<thumbnail>./images/lostwsgo-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<family>Jurassic Park</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T180241</lastplayed>
+		<md5>e6f63cccac1868f265d30c9ea6ca34eb</md5>
+		<gametime>30</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221118T181305" />
+	</game>
+	<game id="37523">
+		<path>./swtrilgya.zip</path>
+		<name>Star Wars Trilogy Arcade</name>
+		<desc>Star Wars Trilogy Arcade is a Model 3 shooter allowing the player to ride, fly, and shoot in galactic vehicles.
+
+Players will travel through 6 incredibly detailed intergalactic stages, featuring scenes from A New Hope, Empire Strikes Back, and Return of the Jedi, both challenging the players shooting accuracy as well as vehicle maneuvering capabilities.
+
+Hidden secrets, located in all stages, allow the player to alter the course of the stage, making each game an unconventional and thrilling experience.</desc>
+		<image>./images/swtrilgya-image.png</image>
+		<video>./videos/swtrilgya-video.mp4</video>
+		<marquee>./images/swtrilgya-marquee.png</marquee>
+		<thumbnail>./images/swtrilgya-thumb.png</thumbnail>
+		<fanart>./images/swtrilgya-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>Star Wars Arcade</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T175707</lastplayed>
+		<md5>d6e6a3aa97d81bd93cf5f06675388fab</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T073937" />
+	</game>
+	<game id="37523">
+		<path>./swtrilgyp.zip</path>
+		<name>Star Wars Trilogy Arcade</name>
+		<desc>Star Wars Trilogy Arcade is a Model 3 shooter allowing the player to ride, fly, and shoot in galactic vehicles.
+
+Players will travel through 6 incredibly detailed intergalactic stages, featuring scenes from A New Hope, Empire Strikes Back, and Return of the Jedi, both challenging the players shooting accuracy as well as vehicle maneuvering capabilities.
+
+Hidden secrets, located in all stages, allow the player to alter the course of the stage, making each game an unconventional and thrilling experience.</desc>
+		<image>./images/swtrilgyp-image.png</image>
+		<video>./videos/swtrilgyp-video.mp4</video>
+		<marquee>./images/swtrilgyp-marquee.png</marquee>
+		<thumbnail>./images/swtrilgyp-thumb.png</thumbnail>
+		<fanart>./images/swtrilgyp-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>Star Wars Arcade</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T175713</lastplayed>
+		<md5>a07d031cd0eeac4ac6d85e56fd105e07</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T072540" />
+	</game>
+	<game id="37525">
+		<path>./vf3.zip</path>
+		<name>Virtua Fighter 3</name>
+		<desc>Virtua Fighter 3 is the 3rd in the Virtua Fighter series.
+
+The game adds a 4th button, the Dodge button, that lets you dodge your opponent's attacks. You can move into the screen (by pressing the Dodge button with the joystick in neutral) or out of the screen (by pressing the Dodge button with the joystick held down).
+
+Virtua Fighter 3 also adds undulations in the stages - knowing how to use these to your advantage is key to winning the game (by moving to higher ground, for instance).</desc>
+		<image>./images/vf3-image.png</image>
+		<video>./videos/vf3-video.mp4</video>
+		<marquee>./images/vf3-marquee.png</marquee>
+		<thumbnail>./images/vf3-thumb.png</thumbnail>
+		<fanart>./images/vf3-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<family>Virtua Fighter</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T175638</lastplayed>
+		<md5>1bd25c7d65a6c25150076ee1dc2a45e3</md5>
+		<lang>de</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20220928T073937" />
+	</game>
+	<game id="37525">
+		<path>./vf3a.zip</path>
+		<name>Virtua Fighter 3</name>
+		<desc>Virtua Fighter 3 is the 3rd in the Virtua Fighter series.
+
+The game adds a 4th button, the Dodge button, that lets you dodge your opponent's attacks. You can move into the screen (by pressing the Dodge button with the joystick in neutral) or out of the screen (by pressing the Dodge button with the joystick held down).
+
+Virtua Fighter 3 also adds undulations in the stages - knowing how to use these to your advantage is key to winning the game (by moving to higher ground, for instance).</desc>
+		<image>./images/vf3a-image.png</image>
+		<video>./videos/vf3a-video.mp4</video>
+		<marquee>./images/vf3a-marquee.png</marquee>
+		<thumbnail>./images/vf3a-thumb.png</thumbnail>
+		<fanart>./images/vf3a-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<family>Virtua Fighter</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T175645</lastplayed>
+		<md5>579267a52af7c02bae65d8c6ef2a5df5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T073937" />
+	</game>
+	<game id="37525">
+		<path>./vf3c.zip</path>
+		<name>Virtua Fighter 3</name>
+		<desc>Virtua Fighter 3 is the 3rd in the Virtua Fighter series.
+
+The game adds a 4th button, the Dodge button, that lets you dodge your opponent's attacks. You can move into the screen (by pressing the Dodge button with the joystick in neutral) or out of the screen (by pressing the Dodge button with the joystick held down).
+
+Virtua Fighter 3 also adds undulations in the stages - knowing how to use these to your advantage is key to winning the game (by moving to higher ground, for instance).</desc>
+		<image>./images/vf3c-image.png</image>
+		<video>./videos/vf3c-video.mp4</video>
+		<marquee>./images/vf3c-marquee.png</marquee>
+		<thumbnail>./images/vf3c-thumb.png</thumbnail>
+		<fanart>./images/vf3c-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<family>Virtua Fighter</family>
+		<arcadesystemname>model3</arcadesystemname>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T175657</lastplayed>
+		<md5>376cda8a029526df87ec7fa998b04570</md5>
+		<lang>fr</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20220928T073937" />
+	</game>
+	<game id="43937">
+		<path>./vf3tb.zip</path>
+		<name>Virtua Fighter 3</name>
+		<desc>Virtua Fighter 3 is the 3rd in the Virtua Fighter series.
+
+The game adds a 4th button, the Dodge button, that lets you dodge your opponent's attacks. You can move into the screen (by pressing the Dodge button with the joystick in neutral) or out of the screen (by pressing the Dodge button with the joystick held down).
+
+Virtua Fighter 3 also adds undulations in the stages - knowing how to use these to your advantage is key to winning the game (by moving to higher ground, for instance).</desc>
+		<image>./images/vf3tb-image.png</image>
+		<marquee>./images/vf3tb-marquee.png</marquee>
+		<thumbnail>./images/vf3tb-thumb.png</thumbnail>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Virtua Fighter</family>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T175651</lastplayed>
+		<md5>767d77702c8e411319e247af42ac8296</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T073937" />
+	</game>
+	<game id="46857">
+		<path>./von2o.zip</path>
+		<name>Virtua Athlete</name>
+		<desc>Virtua Athlete is a sport simulation.</desc>
+		<image>./images/von2o-image.png</image>
+		<video>./videos/von2o-video.mp4</video>
+		<marquee>./images/von2o-marquee.png</marquee>
+		<thumbnail>./images/von2o-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T181318</lastplayed>
+		<md5>d6c113ce77f90def87a9b246faca9ae3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20220928T074023" />
 	</game>
 </gameList>

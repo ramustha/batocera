@@ -262,12 +262,6 @@ The Game.com version of Frogger has two versions on the cartridge. The classic v
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20221011T132818" />
 	</game>
-	<game>
-		<path>./gamecom.zip</path>
-		<name>gamecom</name>
-		<md5>1f7e1dce357aabc03de4abbfa81110a7</md5>
-		<scrap name="ScreenScraper" date="20221011T132819" />
-	</game>
 	<game id="99419">
 		<path>./jeopardy.zip</path>
 		<name>Jeopardy!</name>
@@ -425,5 +419,12 @@ Mortal Kombat Trilogy also allows you to challenge a friend to a fight through a
 		<gametime>111</gametime>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20221011T132811" />
+	</game>
+	<game>
+		<path>./gamecom.zip</path>
+		<name>gamecom</name>
+		<md5>1f7e1dce357aabc03de4abbfa81110a7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221011T132819" />
 	</game>
 </gameList>

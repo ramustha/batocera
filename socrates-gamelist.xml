@@ -18,4 +18,14 @@
 		<gametime>211</gametime>
 		<lang>en</lang>
 	</game>
+	<game>
+		<path>./Around the World.zip</path>
+		<name>Around the World</name>
+		<md5>94d588b580096131f3f7c122442ed029</md5>
+	</game>
+	<game>
+		<path>./CAD Professor.zip</path>
+		<name>CAD Professor</name>
+		<md5>82f3c6be7e329a686ca07443067320b3</md5>
+	</game>
 </gameList>

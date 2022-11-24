@@ -15,6 +15,7 @@ The bee is still humming.</desc>
 		<marquee>./images/ddpdfk-marquee.png</marquee>
 		<thumbnail>./images/ddpdfk-thumb.png</thumbnail>
 		<fanart>./images/ddpdfk-fanart.jpg</fanart>
+		<bezel>./images/ddpdfk-bezel.png</bezel>
 		<rating>0.85</rating>
 		<releasedate>20080101T000000</releasedate>
 		<developer>Cave</developer>
@@ -26,30 +27,301 @@ The bee is still humming.</desc>
 		<md5>27e23b93cf62fe70ee35dc664733f327</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T001435" />
+		<scrap name="ScreenScraper" date="20221014T112303" />
 	</game>
-	<game id="37325">
-		<path>./deathsml.zip</path>
-		<name>Deathsmiles</name>
-		<desc>Windia, a young girl living in London, mysteriously vanishes after being drawn into a flash of light.
-Awakening in the Otherworld, Windia arrives in a Western city reminiscent of the early 20th century, and is cared for by Dior, an elderly lord. Discovering there is no way home, Dior reveals to Windia that she is one of the 'lost children', those with magical powers chosen to protect the kingdom...</desc>
-		<image>./images/deathsml-image.png</image>
-		<video>./videos/deathsml-video.mp4</video>
-		<marquee>./images/deathsml-marquee.png</marquee>
-		<thumbnail>./images/deathsml-thumb.png</thumbnail>
-		<fanart>./images/deathsml-fanart.jpg</fanart>
-		<rating>0.9</rating>
+	<game id="37345">
+		<path>./mmpork.zip</path>
+		<name>Muchi Muchi Pork!</name>
+		<desc>The story features a trio of females from Batazuka City who have been transformed into pig-girls by the main antagonist, General Porkfillet. They ride flying motor bikes called "ketta machines", which are powered by pedaling.[7]
+
+Very little story is shown in-game, besides a few comic-strip style images shown at the start, and a short ending sequence. As in Pink Sweets, many of the character names are puns on food.</desc>
+		<image>./images/mmpork-image.png</image>
+		<video>./videos/mmpork-video.mp4</video>
+		<marquee>./images/mmpork-marquee.png</marquee>
+		<thumbnail>./images/mmpork-thumb.png</thumbnail>
+		<fanart>./images/mmpork-fanart.jpg</fanart>
+		<bezel>./images/mmpork-bezel.png</bezel>
+		<rating>0.8</rating>
 		<releasedate>20070101T000000</releasedate>
 		<developer>Cave</developer>
 		<publisher>AMI</publisher>
-		<genre>Shoot'em up / Horizontal</genre>
-		<family>Deathsmiles</family>
+		<genre>Shoot'em up / Vertical</genre>
 		<arcadesystemname>cave</arcadesystemname>
-		<players>1-2</players>
-		<md5>fdb4f4321a418b167a440abbb36c8ffb</md5>
+		<players>2</players>
+		<md5>1c227375f81650a94f4c194cb3365122</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T001435" />
+		<scrap name="ScreenScraper" date="20221014T112305" />
+	</game>
+	<game id="37347">
+		<path>./mushitam.zip</path>
+		<name>Puzzle! Mushihime-Tama</name>
+		<desc>A puzzle game with the same character from "Mushihime Sama".</desc>
+		<image>./images/mushitam-image.png</image>
+		<video>./videos/mushitam-video.mp4</video>
+		<marquee>./images/mushitam-marquee.png</marquee>
+		<thumbnail>./images/mushitam-thumb.png</thumbnail>
+		<fanart>./images/mushitam-fanart.jpg</fanart>
+		<bezel>./images/mushitam-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Puzzle-Game / Equalize</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>cc125ed44b60aea71e4aff9467696461</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221014T112306" />
+	</game>
+	<game id="37346">
+		<path>./mushisama.zip</path>
+		<name>Mushihime-Sama</name>
+		<desc>In a different time than now...
+
+A time when deserts spread across the Earth,
+and arthropods with gigantic hard shells flourished.
+
+The humans living in the shadows called these beasts
+with shells who worshipped the god of the forest for Koujuu.
+
+In a small part of that forest was the village of the humans. It was a land that was allowed go on surviving, by offering a sacrifice in the form of a 15 year old once every 200 years.
+
+On the night of each sacrifice, a great number of shooting stars could be seen, which gave it the name "Hoshifuri Village". And living there was a bright princess. Her name was Reco.</desc>
+		<image>./images/mushisama-image.png</image>
+		<video>./videos/mushisama-video.mp4</video>
+		<marquee>./images/mushisama-marquee.png</marquee>
+		<thumbnail>./images/mushisama-thumb.png</thumbnail>
+		<fanart>./images/mushisama-fanart.jpg</fanart>
+		<bezel>./images/mushisama-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>034b0d5a6ef07deed504834c5af1b17a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221014T112308" />
+	</game>
+	<game id="37346">
+		<path>./mushisamb.zip</path>
+		<name>Mushihime-Sama</name>
+		<desc>In a different time than now...
+
+A time when deserts spread across the Earth,
+and arthropods with gigantic hard shells flourished.
+
+The humans living in the shadows called these beasts
+with shells who worshipped the god of the forest for Koujuu.
+
+In a small part of that forest was the village of the humans. It was a land that was allowed go on surviving, by offering a sacrifice in the form of a 15 year old once every 200 years.
+
+On the night of each sacrifice, a great number of shooting stars could be seen, which gave it the name "Hoshifuri Village". And living there was a bright princess. Her name was Reco.</desc>
+		<image>./images/mushisamb-image.png</image>
+		<video>./videos/mushisamb-video.mp4</video>
+		<marquee>./images/mushisamb-marquee.png</marquee>
+		<thumbnail>./images/mushisamb-thumb.png</thumbnail>
+		<fanart>./images/mushisamb-fanart.jpg</fanart>
+		<bezel>./images/mushisamb-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>846ef56d8e4a953f67863535424877f8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221014T112310" />
+	</game>
+	<game id="37335">
+		<path>./futaribl.zip</path>
+		<name>Mushihime-Sama Futari Black Label</name>
+		<desc>Mushihime-sama Futari Black Label is a heavily altered version of Mushihime-sama Futari developed by Cave.
+
+The placement and shot patterns of many enemies have been changed, sometimes dramatically. As a result, the stages can feel very different from the original game in some places. The player characters' shot types have changed as well; rather than offering a choice between Normal and Abnormal shot types as in the original game, each character now has a single shot type that combines certain elements from each of the previous variations. In addition, the player characters' shot power is significantly increased, allowing for bosses to be killed more quickly and some of their more dangerous patterns to be avoided entirely.
+
+There are also some more minor, cosmetic changes: some of the stages have had their colors changed slightly, and the appearance of the golden score gems has been changed a bit.</desc>
+		<image>./images/futaribl-image.png</image>
+		<video>./videos/futaribl-video.mp4</video>
+		<marquee>./images/futaribl-marquee.png</marquee>
+		<thumbnail>./images/futaribl-thumb.png</thumbnail>
+		<fanart>./images/futaribl-fanart.jpg</fanart>
+		<bezel>./images/futaribl-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>cd0b9290f784bc3d434e9ae2fabf37f1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221014T112315" />
+	</game>
+	<game id="37339">
+		<path>./ibara.zip</path>
+		<name>Ibara</name>
+		<desc>The time is the 19th century, excited with the development of the steam engine. The Northern European country of Edelweiss is a land which especially excels in the mechanical industry with their precise techniques. Their growth is amazing. However, when one least desires it, dark clouds always appear.
+
+That morning there was a cold, awkward feeling in the air. The once called Professor Teresa Rose gives a fearless smile. "Let's destroy this filthy land and it's people. We must make this world beautiful. Yes... then we'll make the entire surface a lovely rose garden."
+
+"We'll make you beautiful."
+
+Teresa began her attack along with five other women and their fortress which resembled a lump of knives. Under the Rose Garden Emblem, the nails of an eerily laughing iron man destroy buildings, and the roars of a plane which covers the sky burn the Earth. The people's cries and the rising flames illuminate the fortress, as if it were a beautiful flower blossoming from scorched earth.
+
+The Rose Garden's power was horrific, but the Edelweiss forces pressed through the desperate battle. Far from being surpressed, but in a worsening situation, the Emperor, not able to handle the situation, ordered into battle his Special Imperial Attack Unit, the Negotiators. 
+
+"Annihilate the Rose Garden with your ships!"
+
+The "ships" which had been secretely readied, as if predicting they would have to stand up to a threat and had longed for this day to come, shone bright.</desc>
+		<image>./images/ibara-image.png</image>
+		<video>./videos/ibara-video.mp4</video>
+		<marquee>./images/ibara-marquee.png</marquee>
+		<thumbnail>./images/ibara-thumb.png</thumbnail>
+		<fanart>./images/ibara-fanart.jpg</fanart>
+		<bezel>./images/ibara-bezel.png</bezel>
+		<rating>0.75</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Ibara</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>d1855ea9edde2ac7f7fc806fb2e3b518</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221014T112318" />
+	</game>
+	<game id="37334">
+		<path>./futari15a.zip</path>
+		<name>Mushihime-Sama Futari</name>
+		<desc>A vertically shooting game, where players get a choice of characters. Each craft has a different ratio of speed to firepower.
+
+The main characters in this version are 'Hiro', 'Kiniro', 'Palm' and 'Reco'.</desc>
+		<image>./images/futari15a-image.png</image>
+		<video>./videos/futari15a-video.mp4</video>
+		<marquee>./images/futari15a-marquee.png</marquee>
+		<thumbnail>./images/futari15a-thumb.png</thumbnail>
+		<fanart>./images/futari15a-fanart.jpg</fanart>
+		<bezel>./images/futari15a-bezel.png</bezel>
+		<rating>0.85</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>c4e375c9258ea5e13935f6cc2c037edb</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221014T112320" />
+	</game>
+	<game id="37331">
+		<path>./espgal2.zip</path>
+		<name>Espgaluda II</name>
+		<desc>Three years after the so-called "Great Shinra War" comes to a close, its impact has yet to fade: the formerly-prosperous nation of Soma, one of the invasion's targets, still struggles to recover. In the midst of all this, Ageha and Tateha, along with their mother, newly freed from her self-imposed bonds, have retreated into hiding here, hoping to finally obtain some measure of peace for themselves. Little do they know that the country's researchers have been combing through the wreckage of Jakou's empire, in search of the secret behind the "spirit engine" - once the device's inner workings are finally deciphered, Soma's royal family quickly commences its own quest for military dominance. The children of Project Espgaluda find themselves hunted down once again, and are forced back into battle - this time around, though, they're not quite so alone.</desc>
+		<image>./images/espgal2-image.png</image>
+		<video>./videos/espgal2-video.mp4</video>
+		<marquee>./images/espgal2-marquee.png</marquee>
+		<thumbnail>./images/espgal2-thumb.png</thumbnail>
+		<fanart>./images/espgal2-fanart.jpg</fanart>
+		<bezel>./images/espgal2-bezel.png</bezel>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>ESP Ra.De.</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>04ecdae4b3201e745b550f32cea87a72</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221014T112322" />
+	</game>
+	<game id="149544">
+		<path>./ibarablka.zip</path>
+		<name>Ibara Kuro Black Label</name>
+		<desc>Gameplay in Ibara Kuro: Black Label is the closer to the Arrange mode found in the PlayStation 2 port of Ibara than the original version of the game. Like Arrange mode, players are able to switch weapons by pressing a button, although the ability to change the options formation has been removed. The rank bar is also now in the center of the screen. The controls are roughly the same as the original, with the addition of a button dedicated to rapid fire of the normal shot. Holding down the A button causes the player's ship to slow down, in addition to increasing its fire rate and making the ship's hitbox visible. Ibara Kuro: Black Label adds two important changes to the player's ships.
+
+The first change is that the Silister Similis (Bond's ship) and Dio Spirossi (Dyne's ship) are no longer locked to the Player 1 and Player 2 sides, with both ships being selectable at the start of the game. After selecting your ship, players then select their ship type. The different ship types are the same as the ones previously only selectable by holding down certain button combinations when selecting your ship. They are listed in the game as A Type (default version), B Type (A button held ship), C Type (B button held variant), and D Type (variant selected by holding A + B). Each ship variant also has its speed, power, and bomb information displayed for that type when highlighted. Note that while both ships are selectable for either player, the characters themselves are still locked to their respective sides. The second change, is that any time the A button is not being held down, any nearby medals, power-ups, or other collectable items are sucked into your ship. This is a game-changer, making the game quite a bit easier than the regular Ibara, but also makes the game tons more fun, as you don't have to put your life on the line when trying to keep the medal chain going. The Dio Spirossi ship (the wide shot ship) can suck in items further away than the Silister Similis can.</desc>
+		<image>./images/ibarablka-image.png</image>
+		<video>./videos/ibarablka-video.mp4</video>
+		<marquee>./images/ibarablka-marquee.png</marquee>
+		<thumbnail>./images/ibarablka-thumb.png</thumbnail>
+		<fanart>./images/ibarablka-fanart.jpg</fanart>
+		<bezel>./images/ibarablka-bezel.png</bezel>
+		<rating>0.75</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>Cave</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Ibara</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>7b443679d1c3dc3ff01e30eb52b39a02</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221014T112324" />
+	</game>
+	<game id="149544">
+		<path>./ibarablk.zip</path>
+		<name>Ibara Kuro Black Label</name>
+		<desc>Gameplay in Ibara Kuro: Black Label is the closer to the Arrange mode found in the PlayStation 2 port of Ibara than the original version of the game. Like Arrange mode, players are able to switch weapons by pressing a button, although the ability to change the options formation has been removed. The rank bar is also now in the center of the screen. The controls are roughly the same as the original, with the addition of a button dedicated to rapid fire of the normal shot. Holding down the A button causes the player's ship to slow down, in addition to increasing its fire rate and making the ship's hitbox visible. Ibara Kuro: Black Label adds two important changes to the player's ships.
+
+The first change is that the Silister Similis (Bond's ship) and Dio Spirossi (Dyne's ship) are no longer locked to the Player 1 and Player 2 sides, with both ships being selectable at the start of the game. After selecting your ship, players then select their ship type. The different ship types are the same as the ones previously only selectable by holding down certain button combinations when selecting your ship. They are listed in the game as A Type (default version), B Type (A button held ship), C Type (B button held variant), and D Type (variant selected by holding A + B). Each ship variant also has its speed, power, and bomb information displayed for that type when highlighted. Note that while both ships are selectable for either player, the characters themselves are still locked to their respective sides. The second change, is that any time the A button is not being held down, any nearby medals, power-ups, or other collectable items are sucked into your ship. This is a game-changer, making the game quite a bit easier than the regular Ibara, but also makes the game tons more fun, as you don't have to put your life on the line when trying to keep the medal chain going. The Dio Spirossi ship (the wide shot ship) can suck in items further away than the Silister Similis can.</desc>
+		<image>./images/ibarablk-image.png</image>
+		<video>./videos/ibarablk-video.mp4</video>
+		<marquee>./images/ibarablk-marquee.png</marquee>
+		<thumbnail>./images/ibarablk-thumb.png</thumbnail>
+		<fanart>./images/ibarablk-fanart.jpg</fanart>
+		<bezel>./images/ibarablk-bezel.png</bezel>
+		<rating>0.75</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>Cave</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Ibara</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>0c8e2e116535923110ec82c72ab6603d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221014T112326" />
+	</game>
+	<game id="37335">
+		<path>./futariblj.zip</path>
+		<name>Mushihime-Sama Futari Black Label</name>
+		<desc>Mushihime-sama Futari Black Label is a heavily altered version of Mushihime-sama Futari developed by Cave.
+
+The placement and shot patterns of many enemies have been changed, sometimes dramatically. As a result, the stages can feel very different from the original game in some places. The player characters' shot types have changed as well; rather than offering a choice between Normal and Abnormal shot types as in the original game, each character now has a single shot type that combines certain elements from each of the previous variations. In addition, the player characters' shot power is significantly increased, allowing for bosses to be killed more quickly and some of their more dangerous patterns to be avoided entirely.
+
+There are also some more minor, cosmetic changes: some of the stages have had their colors changed slightly, and the appearance of the golden score gems has been changed a bit.</desc>
+		<image>./images/futariblj-image.png</image>
+		<video>./videos/futariblj-video.mp4</video>
+		<marquee>./images/futariblj-marquee.png</marquee>
+		<thumbnail>./images/futariblj-thumb.png</thumbnail>
+		<fanart>./images/futariblj-fanart.jpg</fanart>
+		<bezel>./images/futariblj-bezel.png</bezel>
+		<rating>0.8</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>1-2</players>
+		<md5>bf7327099e68a2c7183b66005aa5ba0e</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221014T112328" />
 	</game>
 	<game id="37326">
 		<path>./dfkbl.zip</path>
@@ -82,51 +354,7 @@ All the music has been replaced.</desc>
 		<md5>9d77aa77e64a4e073a4f5e9c8eefd5d3</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T001456" />
-	</game>
-	<game id="37329">
-		<path>./dsmbl.zip</path>
-		<name>Deathsmiles MegaBlack Label</name>
-		<desc>Enter the world of Gilverado, a kingdom plagued by hideous monsters and tortured souls. Choose from four angels with unique demonic familiars and battle against a storm of enemies pouring out of Hell's gates! Fight your way out of tight spots as you are surrounded by enemy units and bullets from both sides of the screen.</desc>
-		<image>./images/dsmbl-image.png</image>
-		<video>./videos/dsmbl-video.mp4</video>
-		<marquee>./images/dsmbl-marquee.png</marquee>
-		<thumbnail>./images/dsmbl-thumb.png</thumbnail>
-		<fanart>./images/dsmbl-fanart.jpg</fanart>
-		<rating>0.9</rating>
-		<releasedate>20080101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>AMI</publisher>
-		<genre>Shoot'em up / Horizontal</genre>
-		<family>Deathsmiles</family>
-		<arcadesystemname>cave</arcadesystemname>
-		<players>1-2</players>
-		<md5>f5e1f75df919f5cb13fc4d6b5a84603b</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T001716" />
-	</game>
-	<game id="37331">
-		<path>./espgal2.zip</path>
-		<name>Espgaluda II</name>
-		<desc>Three years after the so-called "Great Shinra War" comes to a close, its impact has yet to fade: the formerly-prosperous nation of Soma, one of the invasion's targets, still struggles to recover. In the midst of all this, Ageha and Tateha, along with their mother, newly freed from her self-imposed bonds, have retreated into hiding here, hoping to finally obtain some measure of peace for themselves. Little do they know that the country's researchers have been combing through the wreckage of Jakou's empire, in search of the secret behind the "spirit engine" - once the device's inner workings are finally deciphered, Soma's royal family quickly commences its own quest for military dominance. The children of Project Espgaluda find themselves hunted down once again, and are forced back into battle - this time around, though, they're not quite so alone.</desc>
-		<image>./images/espgal2-image.png</image>
-		<video>./videos/espgal2-video.mp4</video>
-		<marquee>./images/espgal2-marquee.png</marquee>
-		<thumbnail>./images/espgal2-thumb.png</thumbnail>
-		<fanart>./images/espgal2-fanart.jpg</fanart>
-		<rating>0.85</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>AMI</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<family>ESP Ra.De.</family>
-		<arcadesystemname>cave</arcadesystemname>
-		<players>1-2</players>
-		<md5>04ecdae4b3201e745b550f32cea87a72</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T001716" />
+		<scrap name="ScreenScraper" date="20221014T112330" />
 	</game>
 	<game id="37334">
 		<path>./futari15.zip</path>
@@ -139,6 +367,7 @@ The main characters in this version are 'Hiro', 'Kiniro', 'Palm' and 'Reco'.</de
 		<marquee>./images/futari15-marquee.png</marquee>
 		<thumbnail>./images/futari15-thumb.png</thumbnail>
 		<fanart>./images/futari15-fanart.jpg</fanart>
+		<bezel>./images/futari15-bezel.png</bezel>
 		<rating>0.85</rating>
 		<releasedate>20060101T000000</releasedate>
 		<developer>Cave</developer>
@@ -149,185 +378,30 @@ The main characters in this version are 'Hiro', 'Kiniro', 'Palm' and 'Reco'.</de
 		<md5>b7f23153ae2cf672a110edb6fe8e860b</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T001716" />
+		<scrap name="ScreenScraper" date="20221014T112333" />
 	</game>
-	<game id="37334">
-		<path>./futari15a.zip</path>
-		<name>Mushihime-Sama Futari</name>
-		<desc>A vertically shooting game, where players get a choice of characters. Each craft has a different ratio of speed to firepower.
-
-The main characters in this version are 'Hiro', 'Kiniro', 'Palm' and 'Reco'.</desc>
-		<image>./images/futari15a-image.png</image>
-		<video>./videos/futari15a-video.mp4</video>
-		<marquee>./images/futari15a-marquee.png</marquee>
-		<thumbnail>./images/futari15a-thumb.png</thumbnail>
-		<fanart>./images/futari15a-fanart.jpg</fanart>
-		<rating>0.85</rating>
-		<releasedate>20060101T000000</releasedate>
+	<game id="37329">
+		<path>./dsmbl.zip</path>
+		<name>Deathsmiles MegaBlack Label</name>
+		<desc>Enter the world of Gilverado, a kingdom plagued by hideous monsters and tortured souls. Choose from four angels with unique demonic familiars and battle against a storm of enemies pouring out of Hell's gates! Fight your way out of tight spots as you are surrounded by enemy units and bullets from both sides of the screen.</desc>
+		<image>./images/dsmbl-image.png</image>
+		<video>./videos/dsmbl-video.mp4</video>
+		<marquee>./images/dsmbl-marquee.png</marquee>
+		<thumbnail>./images/dsmbl-thumb.png</thumbnail>
+		<fanart>./images/dsmbl-fanart.jpg</fanart>
+		<bezel>./images/dsmbl-bezel.png</bezel>
+		<rating>0.9</rating>
+		<releasedate>20080101T000000</releasedate>
 		<developer>Cave</developer>
 		<publisher>AMI</publisher>
-		<genre>Shoot'em up / Vertical</genre>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Deathsmiles</family>
 		<arcadesystemname>cave</arcadesystemname>
 		<players>1-2</players>
-		<md5>c4e375c9258ea5e13935f6cc2c037edb</md5>
+		<md5>f5e1f75df919f5cb13fc4d6b5a84603b</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T001716" />
-	</game>
-	<game id="37335">
-		<path>./futaribl.zip</path>
-		<name>Mushihime-Sama Futari Black Label</name>
-		<desc>Mushihime-sama Futari Black Label is a heavily altered version of Mushihime-sama Futari developed by Cave.
-
-The placement and shot patterns of many enemies have been changed, sometimes dramatically. As a result, the stages can feel very different from the original game in some places. The player characters' shot types have changed as well; rather than offering a choice between Normal and Abnormal shot types as in the original game, each character now has a single shot type that combines certain elements from each of the previous variations. In addition, the player characters' shot power is significantly increased, allowing for bosses to be killed more quickly and some of their more dangerous patterns to be avoided entirely.
-
-There are also some more minor, cosmetic changes: some of the stages have had their colors changed slightly, and the appearance of the golden score gems has been changed a bit.</desc>
-		<image>./images/futaribl-image.png</image>
-		<video>./videos/futaribl-video.mp4</video>
-		<marquee>./images/futaribl-marquee.png</marquee>
-		<thumbnail>./images/futaribl-thumb.png</thumbnail>
-		<fanart>./images/futaribl-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>20070101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>AMI</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<arcadesystemname>cave</arcadesystemname>
-		<players>1-2</players>
-		<md5>cd0b9290f784bc3d434e9ae2fabf37f1</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T001735" />
-	</game>
-	<game id="37335">
-		<path>./futariblj.zip</path>
-		<name>Mushihime-Sama Futari Black Label</name>
-		<desc>Mushihime-sama Futari Black Label is a heavily altered version of Mushihime-sama Futari developed by Cave.
-
-The placement and shot patterns of many enemies have been changed, sometimes dramatically. As a result, the stages can feel very different from the original game in some places. The player characters' shot types have changed as well; rather than offering a choice between Normal and Abnormal shot types as in the original game, each character now has a single shot type that combines certain elements from each of the previous variations. In addition, the player characters' shot power is significantly increased, allowing for bosses to be killed more quickly and some of their more dangerous patterns to be avoided entirely.
-
-There are also some more minor, cosmetic changes: some of the stages have had their colors changed slightly, and the appearance of the golden score gems has been changed a bit.</desc>
-		<image>./images/futariblj-image.png</image>
-		<video>./videos/futariblj-video.mp4</video>
-		<marquee>./images/futariblj-marquee.png</marquee>
-		<thumbnail>./images/futariblj-thumb.png</thumbnail>
-		<fanart>./images/futariblj-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>20070101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>AMI</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<arcadesystemname>cave</arcadesystemname>
-		<players>1-2</players>
-		<md5>bf7327099e68a2c7183b66005aa5ba0e</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20220930T002032" />
-	</game>
-	<game id="37339">
-		<path>./ibara.zip</path>
-		<name>Ibara</name>
-		<desc>The time is the 19th century, excited with the development of the steam engine. The Northern European country of Edelweiss is a land which especially excels in the mechanical industry with their precise techniques. Their growth is amazing. However, when one least desires it, dark clouds always appear.
-
-That morning there was a cold, awkward feeling in the air. The once called Professor Teresa Rose gives a fearless smile. "Let's destroy this filthy land and it's people. We must make this world beautiful. Yes... then we'll make the entire surface a lovely rose garden."
-
-"We'll make you beautiful."
-
-Teresa began her attack along with five other women and their fortress which resembled a lump of knives. Under the Rose Garden Emblem, the nails of an eerily laughing iron man destroy buildings, and the roars of a plane which covers the sky burn the Earth. The people's cries and the rising flames illuminate the fortress, as if it were a beautiful flower blossoming from scorched earth.
-
-The Rose Garden's power was horrific, but the Edelweiss forces pressed through the desperate battle. Far from being surpressed, but in a worsening situation, the Emperor, not able to handle the situation, ordered into battle his Special Imperial Attack Unit, the Negotiators. 
-
-"Annihilate the Rose Garden with your ships!"
-
-The "ships" which had been secretely readied, as if predicting they would have to stand up to a threat and had longed for this day to come, shone bright.</desc>
-		<image>./images/ibara-image.png</image>
-		<video>./videos/ibara-video.mp4</video>
-		<marquee>./images/ibara-marquee.png</marquee>
-		<thumbnail>./images/ibara-thumb.png</thumbnail>
-		<fanart>./images/ibara-fanart.jpg</fanart>
-		<rating>0.75</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>AMI</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<family>Ibara</family>
-		<arcadesystemname>cave</arcadesystemname>
-		<players>1-2</players>
-		<md5>d1855ea9edde2ac7f7fc806fb2e3b518</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T002032" />
-	</game>
-	<game id="149544">
-		<path>./ibarablk.zip</path>
-		<name>Ibara Kuro Black Label</name>
-		<desc>Gameplay in Ibara Kuro: Black Label is the closer to the Arrange mode found in the PlayStation 2 port of Ibara than the original version of the game. Like Arrange mode, players are able to switch weapons by pressing a button, although the ability to change the options formation has been removed. The rank bar is also now in the center of the screen. The controls are roughly the same as the original, with the addition of a button dedicated to rapid fire of the normal shot. Holding down the A button causes the player's ship to slow down, in addition to increasing its fire rate and making the ship's hitbox visible. Ibara Kuro: Black Label adds two important changes to the player's ships.
-
-The first change is that the Silister Similis (Bond's ship) and Dio Spirossi (Dyne's ship) are no longer locked to the Player 1 and Player 2 sides, with both ships being selectable at the start of the game. After selecting your ship, players then select their ship type. The different ship types are the same as the ones previously only selectable by holding down certain button combinations when selecting your ship. They are listed in the game as A Type (default version), B Type (A button held ship), C Type (B button held variant), and D Type (variant selected by holding A + B). Each ship variant also has its speed, power, and bomb information displayed for that type when highlighted. Note that while both ships are selectable for either player, the characters themselves are still locked to their respective sides. The second change, is that any time the A button is not being held down, any nearby medals, power-ups, or other collectable items are sucked into your ship. This is a game-changer, making the game quite a bit easier than the regular Ibara, but also makes the game tons more fun, as you don't have to put your life on the line when trying to keep the medal chain going. The Dio Spirossi ship (the wide shot ship) can suck in items further away than the Silister Similis can.</desc>
-		<image>./images/ibarablk-image.png</image>
-		<video>./videos/ibarablk-video.mp4</video>
-		<marquee>./images/ibarablk-marquee.png</marquee>
-		<thumbnail>./images/ibarablk-thumb.png</thumbnail>
-		<fanart>./images/ibarablk-fanart.jpg</fanart>
-		<rating>0.75</rating>
-		<releasedate>20060101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>Cave</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<family>Ibara</family>
-		<arcadesystemname>cave</arcadesystemname>
-		<players>1-2</players>
-		<md5>0c8e2e116535923110ec82c72ab6603d</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T002032" />
-	</game>
-	<game id="149544">
-		<path>./ibarablka.zip</path>
-		<name>Ibara Kuro Black Label</name>
-		<desc>Gameplay in Ibara Kuro: Black Label is the closer to the Arrange mode found in the PlayStation 2 port of Ibara than the original version of the game. Like Arrange mode, players are able to switch weapons by pressing a button, although the ability to change the options formation has been removed. The rank bar is also now in the center of the screen. The controls are roughly the same as the original, with the addition of a button dedicated to rapid fire of the normal shot. Holding down the A button causes the player's ship to slow down, in addition to increasing its fire rate and making the ship's hitbox visible. Ibara Kuro: Black Label adds two important changes to the player's ships.
-
-The first change is that the Silister Similis (Bond's ship) and Dio Spirossi (Dyne's ship) are no longer locked to the Player 1 and Player 2 sides, with both ships being selectable at the start of the game. After selecting your ship, players then select their ship type. The different ship types are the same as the ones previously only selectable by holding down certain button combinations when selecting your ship. They are listed in the game as A Type (default version), B Type (A button held ship), C Type (B button held variant), and D Type (variant selected by holding A + B). Each ship variant also has its speed, power, and bomb information displayed for that type when highlighted. Note that while both ships are selectable for either player, the characters themselves are still locked to their respective sides. The second change, is that any time the A button is not being held down, any nearby medals, power-ups, or other collectable items are sucked into your ship. This is a game-changer, making the game quite a bit easier than the regular Ibara, but also makes the game tons more fun, as you don't have to put your life on the line when trying to keep the medal chain going. The Dio Spirossi ship (the wide shot ship) can suck in items further away than the Silister Similis can.</desc>
-		<image>./images/ibarablka-image.png</image>
-		<video>./videos/ibarablka-video.mp4</video>
-		<marquee>./images/ibarablka-marquee.png</marquee>
-		<thumbnail>./images/ibarablka-thumb.png</thumbnail>
-		<fanart>./images/ibarablka-fanart.jpg</fanart>
-		<rating>0.75</rating>
-		<releasedate>20060101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>Cave</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<family>Ibara</family>
-		<arcadesystemname>cave</arcadesystemname>
-		<players>1-2</players>
-		<md5>7b443679d1c3dc3ff01e30eb52b39a02</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T002032" />
-	</game>
-	<game id="37345">
-		<path>./mmpork.zip</path>
-		<name>Muchi Muchi Pork!</name>
-		<desc>The story features a trio of females from Batazuka City who have been transformed into pig-girls by the main antagonist, General Porkfillet. They ride flying motor bikes called "ketta machines", which are powered by pedaling.[7]
-
-Very little story is shown in-game, besides a few comic-strip style images shown at the start, and a short ending sequence. As in Pink Sweets, many of the character names are puns on food.</desc>
-		<image>./images/mmpork-image.png</image>
-		<video>./videos/mmpork-video.mp4</video>
-		<marquee>./images/mmpork-marquee.png</marquee>
-		<thumbnail>./images/mmpork-thumb.png</thumbnail>
-		<fanart>./images/mmpork-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>20070101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>AMI</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<arcadesystemname>cave</arcadesystemname>
-		<players>2</players>
-		<md5>1c227375f81650a94f4c194cb3365122</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T002032" />
+		<scrap name="ScreenScraper" date="20221014T112335" />
 	</game>
 	<game id="37346">
 		<path>./mushisam.zip</path>
@@ -348,6 +422,7 @@ On the night of each sacrifice, a great number of shooting stars could be seen, 
 		<marquee>./images/mushisam-marquee.png</marquee>
 		<thumbnail>./images/mushisam-thumb.png</thumbnail>
 		<fanart>./images/mushisam-fanart.jpg</fanart>
+		<bezel>./images/mushisam-bezel.png</bezel>
 		<rating>0.8</rating>
 		<releasedate>20040101T000000</releasedate>
 		<developer>Cave</developer>
@@ -358,90 +433,53 @@ On the night of each sacrifice, a great number of shooting stars could be seen, 
 		<md5>245f12288294086712390ff44fe031e5</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T002032" />
+		<scrap name="ScreenScraper" date="20221014T112337" />
 	</game>
-	<game id="37346">
-		<path>./mushisama.zip</path>
-		<name>Mushihime-Sama</name>
-		<desc>In a different time than now...
-
-A time when deserts spread across the Earth,
-and arthropods with gigantic hard shells flourished.
-
-The humans living in the shadows called these beasts
-with shells who worshipped the god of the forest for Koujuu.
-
-In a small part of that forest was the village of the humans. It was a land that was allowed go on surviving, by offering a sacrifice in the form of a 15 year old once every 200 years.
-
-On the night of each sacrifice, a great number of shooting stars could be seen, which gave it the name "Hoshifuri Village". And living there was a bright princess. Her name was Reco.</desc>
-		<image>./images/mushisama-image.png</image>
-		<video>./videos/mushisama-video.mp4</video>
-		<marquee>./images/mushisama-marquee.png</marquee>
-		<thumbnail>./images/mushisama-thumb.png</thumbnail>
-		<fanart>./images/mushisama-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>20040101T000000</releasedate>
+	<game id="37325">
+		<path>./deathsml.zip</path>
+		<name>Deathsmiles</name>
+		<desc>Windia, a young girl living in London, mysteriously vanishes after being drawn into a flash of light.
+Awakening in the Otherworld, Windia arrives in a Western city reminiscent of the early 20th century, and is cared for by Dior, an elderly lord. Discovering there is no way home, Dior reveals to Windia that she is one of the 'lost children', those with magical powers chosen to protect the kingdom...</desc>
+		<image>./images/deathsml-image.png</image>
+		<video>./videos/deathsml-video.mp4</video>
+		<marquee>./images/deathsml-marquee.png</marquee>
+		<thumbnail>./images/deathsml-thumb.png</thumbnail>
+		<fanart>./images/deathsml-fanart.jpg</fanart>
+		<bezel>./images/deathsml-bezel.png</bezel>
+		<rating>0.9</rating>
+		<releasedate>20070101T000000</releasedate>
 		<developer>Cave</developer>
 		<publisher>AMI</publisher>
-		<genre>Shoot'em up / Vertical</genre>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Deathsmiles</family>
 		<arcadesystemname>cave</arcadesystemname>
 		<players>1-2</players>
-		<md5>034b0d5a6ef07deed504834c5af1b17a</md5>
+		<md5>fdb4f4321a418b167a440abbb36c8ffb</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T002053" />
+		<scrap name="ScreenScraper" date="20221014T112338" />
 	</game>
-	<game id="37346">
-		<path>./mushisamb.zip</path>
-		<name>Mushihime-Sama</name>
-		<desc>In a different time than now...
-
-A time when deserts spread across the Earth,
-and arthropods with gigantic hard shells flourished.
-
-The humans living in the shadows called these beasts
-with shells who worshipped the god of the forest for Koujuu.
-
-In a small part of that forest was the village of the humans. It was a land that was allowed go on surviving, by offering a sacrifice in the form of a 15 year old once every 200 years.
-
-On the night of each sacrifice, a great number of shooting stars could be seen, which gave it the name "Hoshifuri Village". And living there was a bright princess. Her name was Reco.</desc>
-		<image>./images/mushisamb-image.png</image>
-		<video>./videos/mushisamb-video.mp4</video>
-		<marquee>./images/mushisamb-marquee.png</marquee>
-		<thumbnail>./images/mushisamb-thumb.png</thumbnail>
-		<fanart>./images/mushisamb-fanart.jpg</fanart>
+	<game id="417454">
+		<path>./akatana.zip</path>
+		<name>Akai Katana</name>
+		<desc>Set in a parallel world resembling Japan's Taishō period, the people have discovered the powerful Blood Swords, the titular Akai Katana. Requiring human sacrifices to unleash their immense destructive power, these swords have been used by the empire to crush neighbouring countries. However, all the bloodshed and power gained through sacrificing close family members has made some of the swordsmen reconsider. With new fighter planes and the powered up swords at their disposal, this small band of rebels now fight back against the tyrannical empire.</desc>
+		<image>./images/akatana-image.png</image>
+		<video>./videos/akatana-video.mp4</video>
+		<thumbnail>./images/akatana-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
-		<releasedate>20040101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>AMI</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<arcadesystemname>cave</arcadesystemname>
-		<players>1-2</players>
-		<md5>846ef56d8e4a953f67863535424877f8</md5>
+		<releasedate>20100101T000000</releasedate>
+		<developer>CAVE Co., Ltd.</developer>
+		<publisher>CAVE Co., Ltd.</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20221118T193016</lastplayed>
+		<md5>7b5204304e95676962d2c77c487d4c8c</md5>
+		<gametime>109</gametime>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T002121" />
-	</game>
-	<game id="37347">
-		<path>./mushitam.zip</path>
-		<name>Puzzle! Mushihime-Tama</name>
-		<desc>A puzzle game with the same character from "Mushihime Sama".</desc>
-		<image>./images/mushitam-image.png</image>
-		<video>./videos/mushitam-video.mp4</video>
-		<marquee>./images/mushitam-marquee.png</marquee>
-		<thumbnail>./images/mushitam-thumb.png</thumbnail>
-		<fanart>./images/mushitam-fanart.jpg</fanart>
-		<rating>0.8</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>AMI</publisher>
-		<genre>Puzzle-Game / Equalize</genre>
-		<arcadesystemname>cave</arcadesystemname>
-		<players>1-2</players>
-		<md5>cc125ed44b60aea71e4aff9467696461</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T002151" />
+		<scrap name="ScreenScraper" date="20221118T184504" />
+		<scrap name="TheGamesDB" date="20221014T112510" />
 	</game>
 	<game id="37348">
 		<path>./pinkswts.zip</path>
@@ -452,6 +490,7 @@ On the night of each sacrifice, a great number of shooting stars could be seen, 
 		<marquee>./images/pinkswts-marquee.png</marquee>
 		<thumbnail>./images/pinkswts-thumb.png</thumbnail>
 		<fanart>./images/pinkswts-fanart.jpg</fanart>
+		<bezel>./images/pinkswts-bezel.png</bezel>
 		<rating>0.7</rating>
 		<releasedate>20060101T000000</releasedate>
 		<developer>Cave</developer>
@@ -459,11 +498,14 @@ On the night of each sacrifice, a great number of shooting stars could be seen, 
 		<genre>Shoot'em up / Vertical</genre>
 		<family>Ibara</family>
 		<arcadesystemname>cave</arcadesystemname>
-		<players>1-2</players>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T192808</lastplayed>
 		<md5>398eb81bddb61520c7cf8357a39d743f</md5>
+		<gametime>91</gametime>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T002222" />
+		<scrap name="ScreenScraper" date="20221014T112317" />
 	</game>
 	<game id="37348">
 		<path>./pinkswtsx.zip</path>
@@ -474,6 +516,7 @@ On the night of each sacrifice, a great number of shooting stars could be seen, 
 		<marquee>./images/pinkswtsx-marquee.png</marquee>
 		<thumbnail>./images/pinkswtsx-thumb.png</thumbnail>
 		<fanart>./images/pinkswtsx-fanart.jpg</fanart>
+		<bezel>./images/pinkswtsx-bezel.png</bezel>
 		<rating>0.7</rating>
 		<releasedate>20060101T000000</releasedate>
 		<developer>Cave</developer>
@@ -481,28 +524,13 @@ On the night of each sacrifice, a great number of shooting stars could be seen, 
 		<genre>Shoot'em up / Vertical</genre>
 		<family>Ibara</family>
 		<arcadesystemname>cave</arcadesystemname>
-		<players>1-2</players>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221118T192850</lastplayed>
 		<md5>0f29ff767ac3329bfb19af9b835a3772</md5>
+		<gametime>37</gametime>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T002251" />
-	</game>
-	<game id="417454">
-		<path>./akatana.zip</path>
-		<name>Akai Katana</name>
-		<desc>Set in a parallel world resembling Japan's Taishō period, the people have discovered the powerful Blood Swords, the titular Akai Katana. Requiring human sacrifices to unleash their immense destructive power, these swords have been used by the empire to crush neighbouring countries. However, all the bloodshed and power gained through sacrificing close family members has made some of the swordsmen reconsider. With new fighter planes and the powered up swords at their disposal, this small band of rebels now fight back against the tyrannical empire.</desc>
-		<image>./images/akatana-image.png</image>
-		<video>./videos/akatana-video.mp4</video>
-		<thumbnail>./images/akatana-thumb.png</thumbnail>
-		<rating>0.8</rating>
-		<releasedate>20100101T000000</releasedate>
-		<genre>Shooter</genre>
-		<playcount>5</playcount>
-		<lastplayed>20221002T210349</lastplayed>
-		<md5>7b5204304e95676962d2c77c487d4c8c</md5>
-		<gametime>359</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220930T001435" />
+		<scrap name="ScreenScraper" date="20221014T112312" />
 	</game>
 </gameList>

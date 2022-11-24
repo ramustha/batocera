@@ -371,23 +371,6 @@ On the more difficult skill levels, circuit parts may even overheat and cause a 
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20220928T151704" />
 	</game>
-	<game id="97554">
-		<path>./Bouncing Pixels (1999) (JRMZ Electronics).int</path>
-		<name>SDK-1600: Bouncing Pixels</name>
-		<desc>SDK-1600 is a fully-fledged development kit for the Intellivision * video-game system. The tools contained within it were used to write the first new game in a decade for the Intellivision: 4-Tris. SDK-1600 derives its name from the CP-1600 CPU that lies at the heart of the Intellivision. You can run the programs created with this kit using one of the available Intellivision Emulators, or by using Chad Schell's Intellicart.
-
-Here are various demos included in SDK-1600. Altogether, 19 complete Intellivision programs and over 2 dozen library functions are provided.</desc>
-		<image>./images/Bouncing Pixels (1999) (JRMZ Electronics)-image.png</image>
-		<marquee>./images/Bouncing Pixels (1999) (JRMZ Electronics)-marquee.png</marquee>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Joseph Zbiciak</developer>
-		<publisher>Public Domain</publisher>
-		<genre>Demo</genre>
-		<players>1</players>
-		<md5>d70737eb584ce7da69a6169b6025adc0</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T151705" />
-	</game>
 	<game id="97438">
 		<path>./Boxing (World).int</path>
 		<name>Boxing</name>
@@ -488,22 +471,6 @@ Stay focused as endless layers descend upon you.</desc>
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20220928T151714" />
-	</game>
-	<game id="97445">
-		<path>./Castle Trailer (2003) (Arnauld Chevallier).bin</path>
-		<name>Castle: Trailer</name>
-		<desc>Originally planned as an adventure game.
-
-Unfortunately, it never came out.</desc>
-		<image>./images/Castle Trailer (2003) (Arnauld Chevallier)-image.png</image>
-		<releasedate>20030101T000000</releasedate>
-		<developer>Arnauld Chevallier</developer>
-		<publisher>Public Domain</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<md5>f8044adf6fcabec7db12b5f980b56fc2</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T151715" />
 	</game>
 	<game id="97446">
 		<path>./Centipede (World).int</path>
@@ -802,21 +769,6 @@ The game is divided into four different one-screen stages. Each represents 25 me
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20220928T151740" />
 	</game>
-	<game id="97460">
-		<path>./Doom (2002) (Joseph Zbiciak).bin</path>
-		<name>ZZZ(notgame):Doom</name>
-		<desc>Doom for Intellivision is a port from Joseph Zbiciak in 2002</desc>
-		<image>./images/Doom (2002) (Joseph Zbiciak)-image.png</image>
-		<marquee>./images/Doom (2002) (Joseph Zbiciak)-marquee.png</marquee>
-		<developer>Joseph Zbiciak</developer>
-		<publisher>Public Domain</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<hidden>true</hidden>
-		<md5>6b7bec79823d2f3b92df69b45da2eaf9</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T151740" />
-	</game>
 	<game id="97461">
 		<path>./Dracula (World).int</path>
 		<name>Dracula</name>
@@ -906,15 +858,6 @@ You control Duncan by pressing the hand controller DISC.  Skate around the other
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220928T151748" />
 	</game>
-	<game id="172119">
-		<path>./Eggs 'n' Eyes by Scott Nudds (1996) (PD).int</path>
-		<name>ZZZ(notgame):Eggs 'n' Eyes By Scott Nudds</name>
-		<image>./images/Eggs 'n' Eyes by Scott Nudds (1996) (PD)-image.png</image>
-		<hidden>true</hidden>
-		<md5>28eb88001826f62a908fbd66f631376c</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T151749" />
-	</game>
 	<game id="97464">
 		<path>./Electric Company - Math Fun (World).int</path>
 		<name>Electric Company: Math Fun</name>
@@ -951,28 +894,6 @@ Crosswords, letter hunt and Word Rockets.</desc>
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20220928T151753" />
-	</game>
-	<game id="97466">
-		<path>./Entertainment Computer System EXEC-BASIC (1978) (Mattel) [!].int</path>
-		<name>Entertainment Computer System Exec-basic</name>
-		<image>./images/Entertainment Computer System EXEC-BASIC (1978) (Mattel) [!]-image.png</image>
-		<developer>Mattel Electronics</developer>
-		<publisher>Mattel Electronics</publisher>
-		<players>1</players>
-		<md5>2e72a9a2b897d330a35c8b07a6146c52</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T151754" />
-	</game>
-	<game id="97468">
-		<path>./Executive ROM, The (1978) (Mattel).int</path>
-		<name>Executive Rom</name>
-		<image>./images/Executive ROM, The (1978) (Mattel)-image.png</image>
-		<developer>Mattel Electronics</developer>
-		<publisher>Mattel Electronics</publisher>
-		<players>1</players>
-		<md5>62e761035cb657903761800f4437b8af</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T151754" />
 	</game>
 	<game id="97469">
 		<path>./Fathom (World).int</path>
@@ -1258,21 +1179,6 @@ The more nasty elements you shoot, the higher you'll score.</desc>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20220928T151820" />
 	</game>
-	<game id="97615">
-		<path>./Tetris (2000) (Joseph Zbiciak).int</path>
-		<name>Tetris</name>
-		<desc>The graphics are colourful, though bland as no work has sadly gone into the Tetris blocks themselves - being nothing more than single coloured blocks.</desc>
-		<image>./images/Tetris (2000) (Joseph Zbiciak)-image.png</image>
-		<marquee>./images/Tetris (2000) (Joseph Zbiciak)-marquee.png</marquee>
-		<developer>Joseph Zbiciak</developer>
-		<publisher>Public Domain</publisher>
-		<genre>Puzzle-Game</genre>
-		<family>Tetris</family>
-		<players>1</players>
-		<md5>4e0c836abb43d9522206c6c8705bb8c1</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T151820" />
-	</game>
 	<game id="97474">
 		<path>./Grid Shock (World).int</path>
 		<name>Grid Shock</name>
@@ -1290,30 +1196,6 @@ The more nasty elements you shoot, the higher you'll score.</desc>
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20220928T151822" />
-	</game>
-	<game id="97475">
-		<path>./GROM, The (1978) (General Instruments) [!].int</path>
-		<name>Grom</name>
-		<image>./images/GROM, The (1978) (General Instruments) [!]-image.png</image>
-		<developer>General Instruments</developer>
-		<publisher>General Instruments</publisher>
-		<players>1</players>
-		<md5>0cd5946c6473e42e8e4c2137785e427f</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T151823" />
-	</game>
-	<game id="97476">
-		<path>./Groovy! (1999) (JRMZ Electronics).int</path>
-		<name>Groovy</name>
-		<desc>This is a demo that uses the Intellivisions sound chip (no intellivoice here) to say the word 'Groovy' - repeatedly.. Ad nauseum..</desc>
-		<image>./images/Groovy! (1999) (JRMZ Electronics)-image.png</image>
-		<marquee>./images/Groovy! (1999) (JRMZ Electronics)-marquee.png</marquee>
-		<developer>JMRZ Electronics</developer>
-		<publisher>Public Domain</publisher>
-		<players>1</players>
-		<md5>c76d599ee3036ba40aa6b8fba2630081</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T151823" />
 	</game>
 	<game id="97481">
 		<path>./Happy Trails (World).int</path>
@@ -1426,33 +1308,6 @@ The terrorists hits can damage the engine, the navigation system, the cannons an
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20220928T151833" />
-	</game>
-	<game id="97487">
-		<path>./IMI Test Cart (1978) (Mattel) [!].int</path>
-		<name>ZZZ(notgame):Imi Test Cart</name>
-		<desc>The IMI is believed to contain an early version of the MTE 201 test cartridge software.</desc>
-		<image>./images/IMI Test Cart (1978) (Mattel) [!]-image.png</image>
-		<video>./videos/IMI Test Cart (1978) (Mattel) [!]-video.mp4</video>
-		<marquee>./images/IMI Test Cart (1978) (Mattel) [!]-marquee.png</marquee>
-		<developer>Mattel Electronics</developer>
-		<publisher>Mattel Electronics</publisher>
-		<players>1</players>
-		<hidden>true</hidden>
-		<md5>1a7bb66701745b183a6e60fa2cd0eb39</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T151835" />
-	</game>
-	<game id="97495">
-		<path>./IntelliVoice BIOS (1981) (Mattel).int</path>
-		<name>ZZZ(notgame):Intellivoice Bios</name>
-		<image>./images/IntelliVoice BIOS (1981) (Mattel)-image.png</image>
-		<developer>Mattel Electronics</developer>
-		<publisher>Mattel Electronics</publisher>
-		<players>1</players>
-		<hidden>true</hidden>
-		<md5>d5530f74681ec6e0f282dab42e6b1c5f</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T151835" />
 	</game>
 	<game id="97617">
 		<path>./Jetsons, The - Ways With Words (World).int</path>
@@ -1767,15 +1622,6 @@ Mattel released the game for the Atari 2600. Renamed Astroblast, it has faster p
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20220928T151911" />
 	</game>
-	<game id="172115">
-		<path>./Mickey's Hello World (1999) (PD).int</path>
-		<name>ZZZ(notgame):Mickey's Hello World</name>
-		<image>./images/Mickey's Hello World (1999) (PD)-image.png</image>
-		<hidden>true</hidden>
-		<md5>91c196362e658d1dfcf867a49883ac81</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T151912" />
-	</game>
 	<game id="97515">
 		<path>./Microsurgeon (World).int</path>
 		<name>Microsurgeon</name>
@@ -1910,18 +1756,6 @@ Mattel released the game for the Atari 2600. Renamed Astroblast, it has faster p
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20220928T151926" />
 	</game>
-	<game id="97523">
-		<path>./MOB Collision Test (2002) (Arnauld Chevallier).bin</path>
-		<name>ZZZ(notgame):Mob Collision Test</name>
-		<image>./images/MOB Collision Test (2002) (Arnauld Chevallier)-image.png</image>
-		<developer>Arnauld Chevallier</developer>
-		<publisher>Public Domain</publisher>
-		<players>1</players>
-		<hidden>true</hidden>
-		<md5>24f2272e7a5022b90ce92fdea5976a41</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T151926" />
-	</game>
 	<game id="97524">
 		<path>./Moto Cross (World).int</path>
 		<name>Motocross</name>
@@ -1980,19 +1814,6 @@ Mattel released the game for the Atari 2600. Renamed Astroblast, it has faster p
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20220928T151932" />
-	</game>
-	<game id="97488">
-		<path>./MTE201 Intellivision Test Cartridge (1978) (Mattel).int</path>
-		<name>Intellivision Test Cartridge And Baseball</name>
-		<image>./images/MTE201 Intellivision Test Cartridge (1978) (Mattel)-image.png</image>
-		<video>./videos/MTE201 Intellivision Test Cartridge (1978) (Mattel)-video.mp4</video>
-		<developer>Mattel Electronics</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Sports / Baseball</genre>
-		<players>1</players>
-		<md5>8e39e8b421879e01e0d3dede29279a4e</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T151935" />
 	</game>
 	<game id="97528">
 		<path>./NASL Soccer (World).int</path>
@@ -2271,21 +2092,6 @@ Positions
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20220928T151959" />
 	</game>
-	<game id="97541">
-		<path>./Pong (1999) (Joseph Zbiciak).int</path>
-		<name>Pong</name>
-		<desc>Pong is a Homebrew game created by Joseph Zbiciak in 1999.</desc>
-		<image>./images/Pong (1999) (Joseph Zbiciak)-image.png</image>
-		<video>./videos/Pong (1999) (Joseph Zbiciak)-video.mp4</video>
-		<marquee>./images/Pong (1999) (Joseph Zbiciak)-marquee.png</marquee>
-		<developer>Joseph Zbiciak</developer>
-		<publisher>Public Domain</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<md5>5bdcf45165f46d5de3c3d43d9e95da64</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T152000" />
-	</game>
 	<game id="97542">
 		<path>./Popeye (World).int</path>
 		<name>Popeye</name>
@@ -2306,18 +2112,6 @@ Positions
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20220928T152002" />
-	</game>
-	<game id="97543">
-		<path>./PSG Tinkerer (2002) (Ryan Kinnen).bin</path>
-		<name>Programmable Sound Generator Tinkerer</name>
-		<desc>In the process of working on my game projects, I programmed a utility that allows a person to experiment with the chip that generates the Intellivision's sound effects - the "General Instrument AY-3-8914 Programmable Sound Gene</desc>
-		<image>./images/PSG Tinkerer (2002) (Ryan Kinnen)-image.png</image>
-		<developer>Ryan Kinnen</developer>
-		<publisher>Public Domain</publisher>
-		<players>1</players>
-		<md5>f195f52eff1b67b4f7e667f4e4a5c70b</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T152003" />
 	</game>
 	<game id="97544">
 		<path>./Q-bert (World).int</path>
@@ -2494,17 +2288,6 @@ The ever-popular television cartoon dog had his first video game conversion in t
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20220928T152018" />
-	</game>
-	<game id="97574">
-		<path>./Sears Super Video Arcade BIOS (1978) (Sears) [!].int</path>
-		<name>Sears Super Video Arcade Bios</name>
-		<image>./images/Sears Super Video Arcade BIOS (1978) (Sears) [!]-image.png</image>
-		<developer>Sears</developer>
-		<publisher>Sears</publisher>
-		<players>1</players>
-		<md5>8590d338a1bb5e0feed3e8a8cd493035</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T152019" />
 	</game>
 	<game id="97576">
 		<path>./Shark! Shark! (1982) (Mattel) [a1].int</path>
@@ -2762,20 +2545,6 @@ As player, you control every member of your team. Aim your serves; pass the ball
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20220928T152041" />
-	</game>
-	<game id="97599">
-		<path>./Spirit  (2003) (Arnauld Chevallier).bin</path>
-		<name>Spirit</name>
-		<desc>The music was created by a musician from the Commodore 64 days called Jeroen Tell.</desc>
-		<image>./images/Spirit  (2003) (Arnauld Chevallier)-image.png</image>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Arnauld Chevallier</developer>
-		<publisher>Public Domain</publisher>
-		<genre>Demo</genre>
-		<players>1</players>
-		<md5>a34d1d134a23c88904e883dd7c988f13</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T152042" />
 	</game>
 	<game id="97601">
 		<path>./Stampede (World).int</path>
@@ -3182,19 +2951,6 @@ There are two skill levels, and the higher your score, the harder the game becom
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20220928T152116" />
 	</game>
-	<game id="97624">
-		<path>./TRON - Deadly Discs - Deadly Dogs (1987) (Intv Corp).int</path>
-		<name>TRON: Deadly Discs: Deadly Dogs</name>
-		<desc>The game is a cross between Burgertime and Tron: Deadly Discs. In this version you control the hot dog from Burgertime in the Tron arena.</desc>
-		<image>./images/TRON - Deadly Discs - Deadly Dogs (1987) (Intv Corp)-image.png</image>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Mattel Electronics</developer>
-		<publisher>Intv Corp</publisher>
-		<players>1-2</players>
-		<md5>251eae6057e3b55773748c39850cbcbe</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220928T152117" />
-	</game>
 	<game id="97625">
 		<path>./TRON - Maze-A-Tron (World).int</path>
 		<name>TRON: Maze-A-Tron</name>
@@ -3536,5 +3292,249 @@ Stage two is a space shoot out against hordes of enemy aircraft - those you fail
 		<md5>4c5c490b225748cc6777afe3af0d74cb</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220928T152147" />
+	</game>
+	<game id="172115">
+		<path>./Mickey's Hello World (1999) (PD).int</path>
+		<name>ZZZ(notgame):Mickey's Hello World</name>
+		<image>./images/Mickey's Hello World (1999) (PD)-image.png</image>
+		<hidden>true</hidden>
+		<md5>91c196362e658d1dfcf867a49883ac81</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174210" />
+	</game>
+	<game id="97523">
+		<path>./MOB Collision Test (2002) (Arnauld Chevallier).bin</path>
+		<name>ZZZ(notgame):Mob Collision Test</name>
+		<image>./images/MOB Collision Test (2002) (Arnauld Chevallier)-image.png</image>
+		<developer>Arnauld Chevallier</developer>
+		<publisher>Public Domain</publisher>
+		<players>1</players>
+		<hidden>true</hidden>
+		<md5>24f2272e7a5022b90ce92fdea5976a41</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174211" />
+	</game>
+	<game id="97488">
+		<path>./MTE201 Intellivision Test Cartridge (1978) (Mattel).int</path>
+		<name>Intellivision Test Cartridge And Baseball</name>
+		<image>./images/MTE201 Intellivision Test Cartridge (1978) (Mattel)-image.png</image>
+		<video>./videos/MTE201 Intellivision Test Cartridge (1978) (Mattel)-video.mp4</video>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>1</players>
+		<md5>8e39e8b421879e01e0d3dede29279a4e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174211" />
+	</game>
+	<game id="97460">
+		<path>./Doom (2002) (Joseph Zbiciak).bin</path>
+		<name>ZZZ(notgame):Doom</name>
+		<desc>Doom for Intellivision is a port from Joseph Zbiciak in 2002</desc>
+		<image>./images/Doom (2002) (Joseph Zbiciak)-image.png</image>
+		<marquee>./images/Doom (2002) (Joseph Zbiciak)-marquee.png</marquee>
+		<developer>Joseph Zbiciak</developer>
+		<publisher>Public Domain</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<hidden>true</hidden>
+		<md5>6b7bec79823d2f3b92df69b45da2eaf9</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174212" />
+	</game>
+	<game id="172119">
+		<path>./Eggs 'n' Eyes by Scott Nudds (1996) (PD).int</path>
+		<name>ZZZ(notgame):Eggs 'n' Eyes By Scott Nudds</name>
+		<image>./images/Eggs 'n' Eyes by Scott Nudds (1996) (PD)-image.png</image>
+		<hidden>true</hidden>
+		<md5>28eb88001826f62a908fbd66f631376c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174212" />
+	</game>
+	<game id="97466">
+		<path>./Entertainment Computer System EXEC-BASIC (1978) (Mattel) [!].int</path>
+		<name>Entertainment Computer System Exec-basic</name>
+		<image>./images/Entertainment Computer System EXEC-BASIC (1978) (Mattel) [!]-image.png</image>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<players>1</players>
+		<md5>2e72a9a2b897d330a35c8b07a6146c52</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174213" />
+	</game>
+	<game id="97468">
+		<path>./Executive ROM, The (1978) (Mattel).int</path>
+		<name>Executive Rom</name>
+		<image>./images/Executive ROM, The (1978) (Mattel)-image.png</image>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<players>1</players>
+		<md5>62e761035cb657903761800f4437b8af</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174213" />
+	</game>
+	<game id="97574">
+		<path>./Sears Super Video Arcade BIOS (1978) (Sears) [!].int</path>
+		<name>Sears Super Video Arcade Bios</name>
+		<image>./images/Sears Super Video Arcade BIOS (1978) (Sears) [!]-image.png</image>
+		<developer>Sears</developer>
+		<publisher>Sears</publisher>
+		<players>1</players>
+		<md5>8590d338a1bb5e0feed3e8a8cd493035</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174214" />
+	</game>
+	<game id="97615">
+		<path>./Tetris (2000) (Joseph Zbiciak).int</path>
+		<name>Tetris</name>
+		<desc>The graphics are colourful, though bland as no work has sadly gone into the Tetris blocks themselves - being nothing more than single coloured blocks.</desc>
+		<image>./images/Tetris (2000) (Joseph Zbiciak)-image.png</image>
+		<marquee>./images/Tetris (2000) (Joseph Zbiciak)-marquee.png</marquee>
+		<developer>Joseph Zbiciak</developer>
+		<publisher>Public Domain</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Tetris</family>
+		<players>1</players>
+		<md5>4e0c836abb43d9522206c6c8705bb8c1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174214" />
+	</game>
+	<game id="97624">
+		<path>./TRON - Deadly Discs - Deadly Dogs (1987) (Intv Corp).int</path>
+		<name>TRON: Deadly Discs: Deadly Dogs</name>
+		<desc>The game is a cross between Burgertime and Tron: Deadly Discs. In this version you control the hot dog from Burgertime in the Tron arena.</desc>
+		<image>./images/TRON - Deadly Discs - Deadly Dogs (1987) (Intv Corp)-image.png</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Intv Corp</publisher>
+		<players>1-2</players>
+		<md5>251eae6057e3b55773748c39850cbcbe</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174214" />
+	</game>
+	<game id="97475">
+		<path>./GROM, The (1978) (General Instruments) [!].int</path>
+		<name>Grom</name>
+		<image>./images/GROM, The (1978) (General Instruments) [!]-image.png</image>
+		<developer>General Instruments</developer>
+		<publisher>General Instruments</publisher>
+		<players>1</players>
+		<md5>0cd5946c6473e42e8e4c2137785e427f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174215" />
+	</game>
+	<game id="97476">
+		<path>./Groovy! (1999) (JRMZ Electronics).int</path>
+		<name>Groovy</name>
+		<desc>This is a demo that uses the Intellivisions sound chip (no intellivoice here) to say the word 'Groovy' - repeatedly.. Ad nauseum..</desc>
+		<image>./images/Groovy! (1999) (JRMZ Electronics)-image.png</image>
+		<marquee>./images/Groovy! (1999) (JRMZ Electronics)-marquee.png</marquee>
+		<developer>JMRZ Electronics</developer>
+		<publisher>Public Domain</publisher>
+		<players>1</players>
+		<md5>c76d599ee3036ba40aa6b8fba2630081</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174215" />
+	</game>
+	<game id="97487">
+		<path>./IMI Test Cart (1978) (Mattel) [!].int</path>
+		<name>ZZZ(notgame):Imi Test Cart</name>
+		<desc>The IMI is believed to contain an early version of the MTE 201 test cartridge software.</desc>
+		<image>./images/IMI Test Cart (1978) (Mattel) [!]-image.png</image>
+		<video>./videos/IMI Test Cart (1978) (Mattel) [!]-video.mp4</video>
+		<marquee>./images/IMI Test Cart (1978) (Mattel) [!]-marquee.png</marquee>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<players>1</players>
+		<hidden>true</hidden>
+		<md5>1a7bb66701745b183a6e60fa2cd0eb39</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174216" />
+	</game>
+	<game id="97495">
+		<path>./IntelliVoice BIOS (1981) (Mattel).int</path>
+		<name>ZZZ(notgame):Intellivoice Bios</name>
+		<image>./images/IntelliVoice BIOS (1981) (Mattel)-image.png</image>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<players>1</players>
+		<hidden>true</hidden>
+		<md5>d5530f74681ec6e0f282dab42e6b1c5f</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174216" />
+	</game>
+	<game id="97541">
+		<path>./Pong (1999) (Joseph Zbiciak).int</path>
+		<name>Pong</name>
+		<desc>Pong is a Homebrew game created by Joseph Zbiciak in 1999.</desc>
+		<image>./images/Pong (1999) (Joseph Zbiciak)-image.png</image>
+		<video>./videos/Pong (1999) (Joseph Zbiciak)-video.mp4</video>
+		<marquee>./images/Pong (1999) (Joseph Zbiciak)-marquee.png</marquee>
+		<developer>Joseph Zbiciak</developer>
+		<publisher>Public Domain</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<md5>5bdcf45165f46d5de3c3d43d9e95da64</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174216" />
+	</game>
+	<game id="97543">
+		<path>./PSG Tinkerer (2002) (Ryan Kinnen).bin</path>
+		<name>Programmable Sound Generator Tinkerer</name>
+		<desc>In the process of working on my game projects, I programmed a utility that allows a person to experiment with the chip that generates the Intellivision's sound effects - the "General Instrument AY-3-8914 Programmable Sound Gene</desc>
+		<image>./images/PSG Tinkerer (2002) (Ryan Kinnen)-image.png</image>
+		<developer>Ryan Kinnen</developer>
+		<publisher>Public Domain</publisher>
+		<players>1</players>
+		<md5>f195f52eff1b67b4f7e667f4e4a5c70b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174217" />
+	</game>
+	<game id="97554">
+		<path>./Bouncing Pixels (1999) (JRMZ Electronics).int</path>
+		<name>SDK-1600: Bouncing Pixels</name>
+		<desc>SDK-1600 is a fully-fledged development kit for the Intellivision * video-game system. The tools contained within it were used to write the first new game in a decade for the Intellivision: 4-Tris. SDK-1600 derives its name from the CP-1600 CPU that lies at the heart of the Intellivision. You can run the programs created with this kit using one of the available Intellivision Emulators, or by using Chad Schell's Intellicart.
+
+Here are various demos included in SDK-1600. Altogether, 19 complete Intellivision programs and over 2 dozen library functions are provided.</desc>
+		<image>./images/Bouncing Pixels (1999) (JRMZ Electronics)-image.png</image>
+		<marquee>./images/Bouncing Pixels (1999) (JRMZ Electronics)-marquee.png</marquee>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Joseph Zbiciak</developer>
+		<publisher>Public Domain</publisher>
+		<genre>Demo</genre>
+		<players>1</players>
+		<md5>d70737eb584ce7da69a6169b6025adc0</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174217" />
+	</game>
+	<game id="97445">
+		<path>./Castle Trailer (2003) (Arnauld Chevallier).bin</path>
+		<name>Castle: Trailer</name>
+		<desc>Originally planned as an adventure game.
+
+Unfortunately, it never came out.</desc>
+		<image>./images/Castle Trailer (2003) (Arnauld Chevallier)-image.png</image>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Arnauld Chevallier</developer>
+		<publisher>Public Domain</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>f8044adf6fcabec7db12b5f980b56fc2</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174218" />
+	</game>
+	<game id="97599">
+		<path>./Spirit  (2003) (Arnauld Chevallier).bin</path>
+		<name>Spirit</name>
+		<desc>The music was created by a musician from the Commodore 64 days called Jeroen Tell.</desc>
+		<image>./images/Spirit  (2003) (Arnauld Chevallier)-image.png</image>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Arnauld Chevallier</developer>
+		<publisher>Public Domain</publisher>
+		<genre>Demo</genre>
+		<players>1</players>
+		<md5>a34d1d134a23c88904e883dd7c988f13</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221118T174218" />
 	</game>
 </gameList>

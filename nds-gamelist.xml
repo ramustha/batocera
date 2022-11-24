@@ -672,16 +672,6 @@ Each Game &amp; Watch game can function as a clock by using the internal clock o
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20221011T142839" />
 	</game>
-	<game id="85108">
-		<path>./Acekard R.P.G. (World) (Unl).nds</path>
-		<name>ZZZ(notgame):Acekard 2</name>
-		<hidden>true</hidden>
-		<md5>dca58ccf68833849dd5542b6b81e4c59</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20221011T142840" />
-		<scrap name="HfsDB" date="20220922T143522" />
-	</game>
 	<game id="5797">
 		<path>./Dragon Quest VI - Realms of Revelation.zip</path>
 		<name>Dragon Quest VI : Realms of Revelation</name>
@@ -7732,16 +7722,6 @@ Magnetica takes advantage of the Nintendo DS hardware for precise touch-screen f
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20221011T151709" />
 	</game>
-	<game id="85108">
-		<path>./Acekard 2 (World) (v2.1) (Unl).nds</path>
-		<name>ZZZ(notgame):Acekard 2</name>
-		<hidden>true</hidden>
-		<md5>32fd851c32099a51377a7ec342e03be8</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20221011T151710" />
-		<scrap name="HfsDB" date="20220922T143502" />
-	</game>
 	<game id="85384">
 		<path>./Clubhouse Games.zip</path>
 		<name>Clubhouse Games</name>
@@ -9811,5 +9791,25 @@ Both games have Quick, Career and Multiplayer game modes.</desc>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20221011T143838" />
 		<scrap name="HfsDB" date="20220922T143302" />
+	</game>
+	<game id="85108">
+		<path>./Acekard 2 (World) (v2.1) (Unl).nds</path>
+		<name>ZZZ(notgame):Acekard 2</name>
+		<hidden>true</hidden>
+		<md5>32fd851c32099a51377a7ec342e03be8</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221124T144233" />
+		<scrap name="HfsDB" date="20220922T143502" />
+	</game>
+	<game id="85108">
+		<path>./Acekard R.P.G. (World) (Unl).nds</path>
+		<name>ZZZ(notgame):Acekard 2</name>
+		<hidden>true</hidden>
+		<md5>dca58ccf68833849dd5542b6b81e4c59</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20221124T144233" />
+		<scrap name="HfsDB" date="20220922T143522" />
 	</game>
 </gameList>

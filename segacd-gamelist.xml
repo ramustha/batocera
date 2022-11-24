@@ -1,91 +1,545 @@
 <?xml version="1.0"?>
 <gameList>
-	<game>
-		<path>./Night Trap - disc 1 (U).cue</path>
-		<name>Night Trap - disc 1 (U)</name>
-		<playcount>6</playcount>
-		<lastplayed>20200914T035219</lastplayed>
-		<gametime>204</gametime>
+	<game id="12737">
+		<path>./Adventures of Batman &amp; Robin, The (USA).chd</path>
+		<name>The Adventures of Batman &amp; Robin</name>
+		<desc>In The Adventures of Batman and Robin, Robin and Commissioner Gordon have both gone missing. The Dark Knight suspects that one or more of the usual suspects might be involved, including Poison Ivy, Riddler, and The Joker. He sets out in his trusty Batmobile to set the situation right. Much of the game consists of 3D driving action behind the wheel of the Batmobile. There are also levels in which the Caped Crusader must stage an aerial assault using the Batwing. In between levels, the player is treated to a series of cutscenes which comprise nearly an entire exclusive episode of Batman: The Animated Series, upon which the game is based.</desc>
+		<image>./images/Adventures of Batman &amp; Robin, The (USA)-image.png</image>
+		<video>./videos/Adventures of Batman &amp; Robin, The (USA)-video.mp4</video>
+		<marquee>./images/Adventures of Batman &amp; Robin, The (USA)-marquee.png</marquee>
+		<thumbnail>./images/Adventures of Batman &amp; Robin, The (USA)-thumb.png</thumbnail>
+		<fanart>./images/Adventures of Batman &amp; Robin, The (USA)-fanart.jpg</fanart>
+		<rating>1</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Clockwork Tortoise</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<family>Batman</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235422" />
 	</game>
-	<game>
-		<path>./Night Trap - disc 2 (U).cue</path>
-		<name>Night Trap - disc 2 (U)</name>
-		<playcount>1</playcount>
-		<lastplayed>20200914T035236</lastplayed>
-		<gametime>13</gametime>
+	<game id="12780">
+		<path>./Amazing Spider-Man vs. The Kingpin, The (USA).chd</path>
+		<name>The	Amazing Spider-Man vs. The Kingpin</name>
+		<desc>The city of New York is certainly a great place to be, but not when there's the criminal element running about. Lucky for the NYPD, there's also the heroic Spider-Man on their side! But now one of the biggest criminals in the city, Wilson Fisk, a.k.a. The Kingpin, tells the press that a bomb planted somewhere in New York will detonate within 24 hours. He directly accuses Spider-Man, who ends up with the police on his back. You have to find the bomb and restore your image, but Dr. Octopus, Electro and Mysterio will try to block your way.</desc>
+		<image>./images/Amazing Spider-Man vs. The Kingpin, The (USA)-image.png</image>
+		<video>./videos/Amazing Spider-Man vs. The Kingpin, The (USA)-video.mp4</video>
+		<marquee>./images/Amazing Spider-Man vs. The Kingpin, The (USA)-marquee.png</marquee>
+		<thumbnail>./images/Amazing Spider-Man vs. The Kingpin, The (USA)-thumb.png</thumbnail>
+		<fanart>./images/Amazing Spider-Man vs. The Kingpin, The (USA)-fanart.jpg</fanart>
+		<releasedate>19930901T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<family>Spider-Man</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235423" />
 	</game>
-	<game>
+	<game id="12716">
+		<path>./Batman Returns (USA).chd</path>
+		<name>Batman Returns</name>
+		<desc>Batman Returns on Mega-CD is an action game that allows the player to embody the famous batman. The objective of the game is to bring down the insecurity in Gotham City aboard your Batmobile, the Batskiboat (Jet-Ski in the sewers) or directly in single combat.</desc>
+		<image>./images/Batman Returns (USA)-image.png</image>
+		<video>./videos/Batman Returns (USA)-video.mp4</video>
+		<marquee>./images/Batman Returns (USA)-marquee.png</marquee>
+		<thumbnail>./images/Batman Returns (USA)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Batman</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235406" />
+	</game>
+	<game id="58731">
+		<path>./Cadillacs and Dinosaurs - The Second Cataclysm (USA).chd</path>
+		<name>Cadillacs and Dinosaurs : The Second Cataclysm</name>
+		<desc>Cadillacs and Dinosaurs: The Second Cataclysm is a Sega Mega-CD (and DOS) game based on the comic book series Xenozoic Tales, and the TV show of the same name. It is not to be confused with the arcade beat-'em-up, Cadillacs and Dinosaurs by Capcom. The Mega-CD game was only released in North America and Brazil.
+
+Set in the "Xenozoic Age", which occurs after a disaster in the year 2020 causing all of Earth's previous inhabitants to share the planet at once. In order to maintain balance disrupted by a mutant-like race known as the Girth, you set out in a 1953 Cadillac with machine guns.
+
+It is an on-the-rails FMV game, where you spend most of the time avoiding obstacles and shooting enemies.</desc>
+		<image>./images/Cadillacs and Dinosaurs - The Second Cataclysm (USA)-image.png</image>
+		<video>./videos/Cadillacs and Dinosaurs - The Second Cataclysm (USA)-video.mp4</video>
+		<marquee>./images/Cadillacs and Dinosaurs - The Second Cataclysm (USA)-marquee.png</marquee>
+		<thumbnail>./images/Cadillacs and Dinosaurs - The Second Cataclysm (USA)-thumb.png</thumbnail>
+		<fanart>./images/Cadillacs and Dinosaurs - The Second Cataclysm (USA)-fanart.jpg</fanart>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Rocket Science Games</developer>
+		<publisher>Rocket Science Games</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235424" />
+	</game>
+	<game id="12743">
 		<path>./Chuck Rock (USA).chd</path>
 		<name>Chuck Rock</name>
 		<desc>Chuck Rock is your typical average cave man.  He likes to spend his Sunday afternoons watching football and drinking beer.  Unfortunately, his peaceful existence is interrupted one day when his wife, Ophelia Rock, is kidnapped by the village wierdo, Gary Gritter.  So, Chuck is rather upset about this whole situation and you have to help him make things right.
 
 The game is a side-scrolling platformer.  Chuck fights of a variety of dinosaurs using his belly-buster attack and a jump kick.  Occasionally he has to pick up and throw rocks to defeat enemies and allow him to jump to greater heights.</desc>
-		<image>./images/Chuck Rock (USA)-image.jpg</image>
+		<image>./images/Chuck Rock (USA)-image.png</image>
+		<video>./videos/Chuck Rock (USA)-video.mp4</video>
 		<marquee>./images/Chuck Rock (USA)-marquee.png</marquee>
-		<thumbnail>./images/Chuck Rock (USA)-thumb.jpg</thumbnail>
+		<thumbnail>./images/Chuck Rock (USA)-thumb.png</thumbnail>
+		<fanart>./images/Chuck Rock (USA)-fanart.jpg</fanart>
 		<rating>0.5</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Core Design</developer>
 		<publisher>Core Design</publisher>
-		<genre>Platform</genre>
+		<genre>Action</genre>
+		<family>Chuck Rock</family>
+		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235426" />
 	</game>
-	<game>
+	<game id="12732">
+		<path>./Chuck Rock II - Son of Chuck (USA).chd</path>
+		<name>Chuck Rock II : Son of Chuck</name>
+		<desc>As you may remember, Chuck Rock had to rescue his girl, Ophelia from the bad dude Gary Gritter.</desc>
+		<image>./images/Chuck Rock II - Son of Chuck (USA)-image.png</image>
+		<video>./videos/Chuck Rock II - Son of Chuck (USA)-video.mp4</video>
+		<marquee>./images/Chuck Rock II - Son of Chuck (USA)-marquee.png</marquee>
+		<thumbnail>./images/Chuck Rock II - Son of Chuck (USA)-thumb.png</thumbnail>
+		<fanart>./images/Chuck Rock II - Son of Chuck (USA)-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Platform</genre>
+		<family>Chuck Rock</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235427" />
+	</game>
+	<game id="12811">
+		<path>./Cliffhanger (USA).chd</path>
+		<name>Cliffhanger</name>
+		<desc>Cliffhanger is the Mega CD adaptation of the 1992 film of the same name. You play as Gabe (Silvester Stallone) and relive the scenario of the movie. Gabe must climb mountains, avoid avalanches and eliminate enemies. To do this, he can fight with his bare hands or pick up his opponents' weapons.</desc>
+		<image>./images/Cliffhanger (USA)-image.png</image>
+		<video>./videos/Cliffhanger (USA)-video.mp4</video>
+		<marquee>./images/Cliffhanger (USA)-marquee.png</marquee>
+		<thumbnail>./images/Cliffhanger (USA)-thumb.png</thumbnail>
+		<rating>0.45</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Malibu Games</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235435" />
+	</game>
+	<game id="12783">
+		<path>./Cobra Command (USA).chd</path>
+		<name>Cobra Command</name>
+		<desc>Cobra Command is an arcade conversion of a helicopter shooting game from Data East.  It is an "on rails" style shooter with the player controlling only the aiming of the shooting but not the direction of the helicopter.  
+
+Your job is to shoot down the enemies as you are flown through footage of New York streets, the Statue of Liberty, the Atlantic Ocean, Italy, the Grand Canyon and finally, the treacherous corners and return fire of the enemy's stronghold on Easter Island.
+
+There is no background music to go along with the sound effects.  The levels are fairly short with a total game run through possible in about 20 minutes.</desc>
+		<image>./images/Cobra Command (USA)-image.png</image>
+		<video>./videos/Cobra Command (USA)-video.mp4</video>
+		<marquee>./images/Cobra Command (USA)-marquee.png</marquee>
+		<thumbnail>./images/Cobra Command (USA)-thumb.png</thumbnail>
+		<fanart>./images/Cobra Command (USA)-fanart.jpg</fanart>
+		<rating>0.15</rating>
+		<releasedate>19921101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<md5>accdf4f05ae837962dbccbf0a55fef94</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235436" />
+	</game>
+	<game id="12729">
+		<path>./Demolition Man (USA).chd</path>
+		<name>Demolition Man</name>
+		<desc>Demolition Man is the Mega-CD adaptation of the American movie released in 1993. Relive the story of this movie in a futuristic universe, with the chase between Simon Phoenix (Wesley Snipes) and John Spartan (Sylvester Stallone), which you play. To deal with Phoenix, a criminal cryogenically frozen in 1996 and thawed in 2032, the police decide to thaw the former cop Spartan, who will have to take charge of stopping his enemy.</desc>
+		<image>./images/Demolition Man (USA)-image.png</image>
+		<video>./videos/Demolition Man (USA)-video.mp4</video>
+		<marquee>./images/Demolition Man (USA)-marquee.png</marquee>
+		<thumbnail>./images/Demolition Man (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Alexandria, Inc.</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235451" />
+	</game>
+	<game id="12711">
+		<path>./Earthworm Jim - Special Edition (USA).chd</path>
+		<name>Earthworm Jim : Special Edition</name>
+		<desc>This special edition includes: a password system, a new world &amp; new hidden Areas, a new weapon, over 1000 additional frames of animation. All new CD quality soundtrack, totally new endings in two of the worlds, all the extra cool ideas and special features that Shiny couldn't fit onto the cartridge are on this special edition.</desc>
+		<image>./images/Earthworm Jim - Special Edition (USA)-image.png</image>
+		<video>./videos/Earthworm Jim - Special Edition (USA)-video.mp4</video>
+		<marquee>./images/Earthworm Jim - Special Edition (USA)-marquee.png</marquee>
+		<thumbnail>./images/Earthworm Jim - Special Edition (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Shiny Entertainment</developer>
+		<publisher>Interplay</publisher>
+		<genre>Platform</genre>
+		<family>Earthworm Jim</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235458" />
+	</game>
+	<game id="12736">
+		<path>./Fatal Fury Special (USA).chd</path>
+		<name>Fatal Fury Special</name>
+		<desc>Fatal Fury Special is an improved version of SNK's 2D one-on-one fighter Fatal Fury 2. It's a conversion of the 1993 arcade game of the same name. The objective is still to win the tournament by defeating all other fighters including end boss Wolfgang Krauser. Fatal Fury Special features a fairly large selection of fighters that includes:
+
+1. The eight regular fighters from Fatal Fury 2: Terry Bogard, Andy Bogard, Joe Higashi, Kim Kaphwan, Jubei Yamada, Cheng Sinzan, Mai Shiranui and Big Bear.The four bosses from Fatal Fury 2: Billy Kane, Axel Hawk, Lawrence Blood and Wolfgang Krauser (this time they're all immediately playable).Three characters returning from the first Fatal Fury: Duck King, Tung Fu Rue and Geese Howard (the end boss from Fatal Fury).
+Other improvements include:
+
+1. A new Count Down mode (defeat as many opponents as possible in 3 minutes).Extra color schemes for every character.New &amp; improved background graphics.Dolby Surround Sound support.
+Fatal Fury Special still features the series' trademark pseudo-3D movement along two planes.</desc>
+		<image>./images/Fatal Fury Special (USA)-image.png</image>
+		<video>./videos/Fatal Fury Special (USA)-video.mp4</video>
+		<marquee>./images/Fatal Fury Special (USA)-marquee.png</marquee>
+		<thumbnail>./images/Fatal Fury Special (USA)-thumb.png</thumbnail>
+		<fanart>./images/Fatal Fury Special (USA)-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>JVC</developer>
+		<publisher>JVC</publisher>
+		<genre>Action</genre>
+		<family>Fatal Fury</family>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220925T110928</lastplayed>
+		<gametime>130</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235459" />
+	</game>
+	<game id="12708">
+		<path>./Final Fight CD (USA).chd</path>
+		<name>Final Fight CD</name>
+		<desc>The game is set in the metropolis of Metro City, a town constantly plagued by crime and violence. When the mayor, Mike Haggar, promises to clean up the city, the Mad Gear gang kidnaps his daughter Jessica and warns him not to interfere. Haggar responds going on a battle across the city to free her, bringing along her boyfriend Cody, and the ninjitsu master Guy to assist him.</desc>
+		<image>./images/Final Fight CD (USA)-image.png</image>
+		<video>./videos/Final Fight CD (USA)-video.mp4</video>
+		<marquee>./images/Final Fight CD (USA)-marquee.png</marquee>
+		<thumbnail>./images/Final Fight CD (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Final Fight</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235505" />
+	</game>
+	<game id="12725">
 		<path>./Flink (USA).chd</path>
 		<name>Flink</name>
 		<desc>The Misadventures of Flink is a Jump'n Run set in the fantasy world of Imagica. The evil wizard Wicked Wainwright has captured the four elders and it is up to Flink, a wizard's apprentice, to set them free and defeat Wicked Wainwright.
 
 Apart from the usual platformer elements, the game has a unique feature: Flink's ability to create spells. Whenever the game is paused, Flink can combine three ingredients to create a spell. Ingredients can be collected throughout the game. They are usually carried around by a certain type of enemy or hidden in treasure chests. There are ten different spells, the "recipes" which are contained in scrolls that are given to Flink by rescued elders or found within certain levels. The spells include different attack spells (for example a demon that accompanies Flink and attacks his enemies), a shield spell, a shrink spell, a quick grow spell that lets certain plants grow so that Flink can reach new areas of a level, magic keys that open locked treasure chests and more. 
 Casting spells uses up magic energy that can be replenished by collecting magic bottles or defeating enemies. Similar to the Sonic games, when Flink is hit, he looses all of his magic energy and has only limited time to pick it up again. If he is hit while having no magic energy, he loses a life.</desc>
-		<image>./images/Flink (USA)-image.jpg</image>
+		<image>./images/Flink (USA)-image.png</image>
+		<video>./videos/Flink (USA)-video.mp4</video>
 		<marquee>./images/Flink (USA)-marquee.png</marquee>
-		<thumbnail>./images/Flink (USA)-thumb.jpg</thumbnail>
+		<thumbnail>./images/Flink (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
+		<releasedate>19950201T000000</releasedate>
 		<developer>Sony</developer>
 		<publisher>Psygnosis</publisher>
-		<genre>Adventure</genre>
+		<genre>Platform</genre>
+		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235515" />
 	</game>
-	<game>
-		<path>./Space Ace (USA).chd</path>
-		<name>Space Ace</name>
-		<desc>Following the successful gameplay of Dragon's Lair, Don Bluth released this second conversion of his Laserdisc games series.
+	<game id="12715">
+		<path>./Heart of the Alien - Out of This World Parts I and II (USA).chd</path>
+		<name>Heart of the Alien : Out of this World Parts I and II</name>
+		<desc>Heart of the Alien is a cinematic platformer video game developed by Interplay Entertainment and Virgin Interactive and was released by Virgin Interactive in 1994 for the Sega CD exclusively in North America. It is a sequel to Another World and continues the story directly from where the original ended. The game switches the player's role from Another World; this time the player takes control of Buddy, the main character's alien ally from the previous game.
 
-You're playing Dexter, a guy fighting the evil madman Borf who has kidnapped your girlfriend Kimberly and is now threatening the world with his dreaded weapon, the "Infanto Ray" which turns adults into small children.
+The story picks up immediately after the end of Another World. Buddy lands the pterodactyl in the ruins of his village, lays Lester down on a cot to rest and walks through the village, thinking of his past. This sequence contains many flashbacks of events that lead up to Buddy's capture and his and Lester's escape from prison. In the game, Buddy is searching for the red-eyed alien responsible for the destruction of his village and the imprisonment of his people. Buddy enters again the prison in search of the red-eyed alien.
 
-The game plays like a comic strip - visuals are similar to many cartoon movies. In each scene you only have to decide which direction of the keyboard has to be hit in order to avoid one of the countless death screens and to advance to the next screen...</desc>
-		<image>./images/Space Ace (USA)-image.jpg</image>
-		<marquee>./images/Space Ace (USA)-marquee.png</marquee>
-		<thumbnail>./images/Space Ace (USA)-thumb.jpg</thumbnail>
-		<rating>0.35</rating>
+Near the end of the game, Lester who wakes back up, helps Buddy out, but then dies in the process. Buddy then goes to find again the red-eyed alien in a fortress. Eventually, he is able to find him and traps him in a cage with a beast that kills him. At the end of the game, Buddy gives Lester's body a ceremonial cremation. It is shown later how Buddy's village is rebuilt with its citizens living again in harmony.</desc>
+		<image>./images/Heart of the Alien - Out of This World Parts I and II (USA)-image.png</image>
+		<video>./videos/Heart of the Alien - Out of This World Parts I and II (USA)-video.mp4</video>
+		<marquee>./images/Heart of the Alien - Out of This World Parts I and II (USA)-marquee.png</marquee>
+		<thumbnail>./images/Heart of the Alien - Out of This World Parts I and II (USA)-thumb.png</thumbnail>
+		<rating>0.6</rating>
 		<releasedate>19940101T000000</releasedate>
-		<developer>ReadySoft</developer>
-		<publisher>ReadySoft</publisher>
+		<developer>Virgin Interactive</developer>
+		<publisher>Delphine Software International</publisher>
 		<genre>Adventure</genre>
+		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235518" />
 	</game>
-	<game>
-		<path>./Shadow of the Beast II (USA).chd</path>
-		<name>Shadow of the Beast II</name>
-		<desc>Essentially a side-on scrolling beat 'em up in the vain of Way of the Exploding Fist, but with an epic storyline and puzzles a-plenty.
+	<game id="12751">
+		<path>./Hook (USA).chd</path>
+		<name>Hook</name>
+		<desc>In this video game adaption of the Steven Spielberg film Hook, the player takes the role of a grown-up Peter Pan, whose kids have been kidnapped by Captain Hook. Tinker Bell takes Peter back to Neverland where he must again become Pan and reclaim his children.
 
-The introduction, now an Amiga classic, shows the Beast-mage stealing your infant sister and the purpose of the game is to rescue her back. On the way a variety of puzzles, sub-quests and really nasty monsters dog your every step.</desc>
-		<image>./images/Shadow of the Beast II (USA)-image.png</image>
-		<marquee>./images/Shadow of the Beast II (USA)-marquee.png</marquee>
-		<thumbnail>./images/Shadow of the Beast II (USA)-thumb.png</thumbnail>
-		<rating>0.45</rating>
+This particular interpretation is a side-scrolling action game, in which players must hack their way past Hook's denizens through 11 levels.  These include forests, icy regions, and towns which Peter will have to jump, climb, and swim through. Magic items such as apples and pixie dust can be collected for special powers. When enemies are attacked, they simply put their hands up in surrender rather than dying, so as to make the game more child-friendly.</desc>
+		<image>./images/Hook (USA)-image.png</image>
+		<video>./videos/Hook (USA)-video.mp4</video>
+		<marquee>./images/Hook (USA)-marquee.png</marquee>
+		<thumbnail>./images/Hook (USA)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235532" />
+	</game>
+	<game id="12767">
+		<path>./Lords of Thunder (USA).chd</path>
+		<name>Lords of Thunder</name>
+		<desc>In the once peaceful land of Mistral, legend holds of a brave knight named Drak who has sealed an evil god named Deoric beneath the six continents of the land. However, peace never lasts. The Garuda Empire has invaded the lands of Mistral, and the six Dark Generals, led by Sornbul, have conquered the continents. Sornbul's ambition is nothing less than to resurrect Deoric and plunge the land into chaos.
+
+Duran, descendant of Drak, is the only one who can stop the Garuda Empire's mad plan, and with the power of Drak's mystic armors, he heads off to stop Sornbul at any cost.
+
+The six continents of Mistral can be challenged in any order, each of which are filled with hordes of demons and one of Sornbul's Dark Generals. After completing all six continents the player will face Sornbul on the final island. Before a level the player can choose from one of four elemental armors, each with its own bullet spread and unique bomb. The armor's attack can be powered up several levels by finding jewels dropped by enemies. This power level, as well as the armor's health, is reduced when hit. Enemies also drop crystals that are used in a between-level shop to buy additional health, bombs, and continues.</desc>
+		<image>./images/Lords of Thunder (USA)-image.png</image>
+		<video>./videos/Lords of Thunder (USA)-video.mp4</video>
+		<marquee>./images/Lords of Thunder (USA)-marquee.png</marquee>
+		<thumbnail>./images/Lords of Thunder (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Red Company</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235548" />
+	</game>
+	<game id="12781">
+		<path>./Lunar - Eternal Blue (USA).chd</path>
+		<name>Lunar : Eternal Blue</name>
+		<desc>Come back to the enchanting world of Lunar! Join Hiro and Ruby 1,000 years after the first adventure, as they work to unlock the secrets of the Blue Spire and the strange young girl they found within it! But be careful! Forces are at work trying to revive the evil Zophar and immerse Lunar in darkness forever! Journey to distant lands in search of the Goddess Althena, who may be the only one powerful enough to stop Zophar. Along the way, you'll meet exciting new characters, fight fully animated monsters, traverse snow-covered peaks, and crawl through slimy dungeons as you work towards the terrifying climax!</desc>
+		<image>./images/Lunar - Eternal Blue (USA)-image.png</image>
+		<video>./videos/Lunar - Eternal Blue (USA)-video.mp4</video>
+		<marquee>./images/Lunar - Eternal Blue (USA)-marquee.png</marquee>
+		<thumbnail>./images/Lunar - Eternal Blue (USA)-thumb.png</thumbnail>
+		<fanart>./images/Lunar - Eternal Blue (USA)-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Working Designs</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235549" />
+	</game>
+	<game id="12741">
+		<path>./Lunar - The Silver Star (USA).chd</path>
+		<name>Lunar : The Silver Star</name>
+		<desc>Welcome to the world of Lunar, where dragons yet live and magic is valued above all else. Join Alex, the young adventurer as he begins a quest with his friends to save their land from the crushing advances of the Magic Emperor. Explore dungeons, fight terrifying monsters, and gather information from the locals as you advance toward the explosive confrontation with the Magic Emperor himself! Exciting, menu-driven combat will keep you challenged until the last. And thanks to the storage power of the CD, Lunar contains awesome animation sequences that'll get you involved in the story -- fast! Get ready for the ride of your life...</desc>
+		<image>./images/Lunar - The Silver Star (USA)-image.png</image>
+		<video>./videos/Lunar - The Silver Star (USA)-video.mp4</video>
+		<marquee>./images/Lunar - The Silver Star (USA)-marquee.png</marquee>
+		<thumbnail>./images/Lunar - The Silver Star (USA)-thumb.png</thumbnail>
+		<fanart>./images/Lunar - The Silver Star (USA)-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>19931201T000000</releasedate>
+		<developer>Working Designs</developer>
+		<publisher>Working Designs</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235550" />
+	</game>
+	<game id="12707">
+		<path>./Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).chd</path>
+		<name>Mickey Mania : The Timeless Adventures of Mickey Mouse</name>
+		<desc>Mickey Mania: The Timeless Adventures of Mickey Mouse is a 2D-platformer developed by Traveller's Tales and published by Sony Imagesoft. In the game, you control Mickey Mouse, who must navigate through various side-scrolling levels, each designed and based from classical Mickey Mouse cartoons from 1928 to 1990.</desc>
+		<image>./images/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)-image.png</image>
+		<video>./videos/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)-video.mp4</video>
+		<marquee>./images/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)-marquee.png</marquee>
+		<thumbnail>./images/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19941002T000000</releasedate>
+		<developer>Travellers Tales</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Action</genre>
+		<family>Mickey Mouse</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235559" />
+	</game>
+	<game id="12704">
+		<path>./Mortal Kombat (USA).chd</path>
+		<name>Mortal Kombat</name>
+		<desc>Five Hundred years ago, an ancient and well respected Shaolin fighting tournament, held every 50 years, was corrupted by an evil and elderly sorcerer by the name of Shang Tsung.  Shang was accompanied by Prince Goro, a warrior of the Shokan race (a four armed half-human/half-dragon). Knowing that if ten tournaments in a row were won by the Outworld champion, the Earth Realm would be conquered by evil and fall into darkness, Shang entered Goro in the tournament and had him defeat the great Kung Lao. Goro has been  reigning supreme as the undefeated fighting champion for five hundred years now. As the last tournament required draws near, Raiden, Thunder God and protector of the Earth Realm, enacts a plan to tip the scales in the humans favor, Seven fighters step into the arena on Shang Tsung's mysterious island: Shaolin warrior Liu Kang, Special Forces operative Sonya Blade, the mercenary thug Kano, fame-seeking actor Johnny Cage, the ice wielding Lin Kuei warrior Sub-Zero and his undead adversary Scorpion, and Raiden himself.
+
+Mortal Kombat is a side-scrolling 1 on 1 fighting game. Fighting is set as one on one kombat, allowing each player to perform a variety of punches, kicks, and special moves in order to defeat their opponent.  When the opponent faces their second round loss, the winner can perform a finishing move called a "Fatality" on the loser.  The Fatality is a move unique to each fighter that graphically kills the loser in a blood-soaked finale.
+
+Mortal Kombat began its life as a 2-player arcade title. It is notable for its use of digitized actors to represent the game's fighters, as well as its use of copious amounts of blood during gameplay.</desc>
+		<image>./images/Mortal Kombat (USA)-image.png</image>
+		<video>./videos/Mortal Kombat (USA)-video.mp4</video>
+		<marquee>./images/Mortal Kombat (USA)-marquee.png</marquee>
+		<thumbnail>./images/Mortal Kombat (USA)-thumb.png</thumbnail>
+		<fanart>./images/Mortal Kombat (USA)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19931202T000000</releasedate>
+		<developer>Probe</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fight</genre>
+		<family>Mortal Kombat</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235600" />
+	</game>
+	<game id="12820">
+		<path>./Novastorm (USA).chd</path>
+		<name>Novastorm</name>
+		<desc>A behind-the-view perspective of a shooter's dream:  Blast enemies against a cinematic backdrop.  Kill the computer-controlled fighters before they take over the world!
+
+Unlike first-generation interactive movies with action, Novastorm has hooks into the environment; if you move into the path of a pre-rendered obstacle and it "hits" you, you take damage, etc.</desc>
+		<image>./images/Novastorm (USA)-image.png</image>
+		<video>./videos/Novastorm (USA)-video.mp4</video>
+		<marquee>./images/Novastorm (USA)-marquee.png</marquee>
+		<thumbnail>./images/Novastorm (USA)-thumb.png</thumbnail>
+		<rating>0.4</rating>
 		<releasedate>19940101T000000</releasedate>
-		<developer>Reflections Interactive Limited</developer>
+		<developer>Psygnosis</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235611" />
+	</game>
+	<game id="12755">
+		<path>./Pitfall - The Mayan Adventure (USA).chd</path>
+		<name>Pitfall : The Mayan Adventure</name>
+		<desc>Pitfall: The Mayan Adventure is a side-scrolling action game in which you play adventurer Pitfall Harry Jr in search of his father Pitfall Harry. You battle your way through the Mayan jungles, waterfalls, deserted mines and can bungee jump and boomerang your way to safety. There are 13 levels and the action is fast and gripping. You will need to be attentive—and quick. Or prepare to die.</desc>
+		<image>./images/Pitfall - The Mayan Adventure (USA)-image.png</image>
+		<video>./videos/Pitfall - The Mayan Adventure (USA)-video.mp4</video>
+		<marquee>./images/Pitfall - The Mayan Adventure (USA)-marquee.png</marquee>
+		<thumbnail>./images/Pitfall - The Mayan Adventure (USA)-thumb.png</thumbnail>
+		<fanart>./images/Pitfall - The Mayan Adventure (USA)-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235612" />
+	</game>
+	<game id="12807">
+		<path>./Popful Mail (USA).chd</path>
+		<name>Popful Mail</name>
+		<desc>In this platform action game, you play as a cute bounty hunter known as Popful Mail. While you might think that a cute Anime chick would have no trouble making a living slashing bad guys with her sword, Popful is having a hard time making ends meet.  One day, however, Popful learns about a magician who has gone rogue and has a hefty bounty on his head. So, her adventure begins as Popful fights her way through a new adventure, and makes new friends along the way.
+
+Primarily this is an action game with very slight RPG elements. As you make your way through the plethora of levels, you will have to collect money from slain foes. You use this money in the shops to buy weapons, armor, health, and so on. Also, this game features interaction with many, many characters through both on-screen dialog and fully animated sequences. Some of these characters become playable as you progress through the game.
+
+This release has the same story and general gameplay style as the  earlier version, but otherwise was made from scratch, having entirely different graphics, locations, enemies, challenges, etc.</desc>
+		<image>./images/Popful Mail (USA)-image.png</image>
+		<video>./videos/Popful Mail (USA)-video.mp4</video>
+		<marquee>./images/Popful Mail (USA)-marquee.png</marquee>
+		<thumbnail>./images/Popful Mail (USA)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19950223T000000</releasedate>
+		<developer>Working Designs</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235617" />
+	</game>
+	<game id="12721">
+		<path>./Prince of Persia (USA).chd</path>
+		<name>Prince of Persia</name>
+		<desc>The Grand Vizier Jaffar has thrown you into a dark dungeon and plans to marry the girl of your dreams in an hour. You're not going to let that happen are you? Try to escape from the dungeon, take out Jaffar's guards, find your way through the Sultan's palace and defeat Jaffar himself. Now go, you've got 60 minutes!
+
+Prince of Persia is a 2D platformer with run and jump gameplay. Your hero must avoid deadly traps, solve some simple puzzles and engage in sword fights with the guards. The player has an infinite amount of lives, but has to restart at the beginning of a level each time he dies, and must complete the game within an hour. An especially noteworthy aspect of the game is the very fluent animation of your character.
+
+The Game Boy Color and SNES versions of the game feature additional levels and new enemies. The Genesis version has a new intro and an altered set of graphics but the level layout remains almost identical to that of the original.</desc>
+		<image>./images/Prince of Persia (USA)-image.png</image>
+		<video>./videos/Prince of Persia (USA)-video.mp4</video>
+		<marquee>./images/Prince of Persia (USA)-marquee.png</marquee>
+		<thumbnail>./images/Prince of Persia (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19921201T000000</releasedate>
+		<developer>Bits Laboratory</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<family>Prince of Persia</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235623" />
+	</game>
+	<game id="12782">
+		<path>./Puggsy (USA).chd</path>
+		<name>Puggsy</name>
+		<desc>Puggsy is a platform game with a combination of action and puzzle-solving elements. You control the the creature Puggsy, who has crash landed on an alien planet and had his spaceship stolen. Your goal is find the spaceship so you can get off the planet and return home.  To do this, you will need to make your way from the start to the exit of numerous levels which take place in a variety of environments. Throughout each level are a variety of objects which you can pick up; on many of the levels you will need to figure out how to use the objects available to you in order to reach the exit. Some objects can used (like a gun or keys), and objects may be thrown, moved around and stacked. Of course, each level will also have a variety of bad guys wandering about which will cost Puggsy one of his lives if he's caught. On your quest there will also be six evil guardians which will need to be defeated before you get your spaceship back!</desc>
+		<image>./images/Puggsy (USA)-image.png</image>
+		<video>./videos/Puggsy (USA)-video.mp4</video>
+		<marquee>./images/Puggsy (USA)-marquee.png</marquee>
+		<thumbnail>./images/Puggsy (USA)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Travellers Tales</developer>
 		<publisher>Psygnosis</publisher>
 		<genre>Action</genre>
+		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235630" />
 	</game>
-	<game>
+	<game id="12813">
+		<path>./Racing Aces (USA).chd</path>
+		<name>Racing Aces</name>
+		<desc>The cold war has ended. Big defense contractors, specifically the ones that make fighter planes, organize a new sport. Pilots fly planes of various historical significance in low altitude races for big prizes.
+
+Racing Aces puts you behind the stick of World War 1, World War 2, and modern day fighting aircraft.  Each competition is a dogfight as much as a race, and you will have to gun down your enemies to win. The tracks are littered with power up balloons to give you extra weapons and speed.
+
+The races are viewed from a behind-the-plane perspective, and the courses are drawn in 3D using polygons.</desc>
+		<image>./images/Racing Aces (USA)-image.png</image>
+		<video>./videos/Racing Aces (USA)-video.mp4</video>
+		<marquee>./images/Racing Aces (USA)-marquee.png</marquee>
+		<thumbnail>./images/Racing Aces (USA)-thumb.png</thumbnail>
+		<fanart>./images/Racing Aces (USA)-fanart.jpg</fanart>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235631" />
+	</game>
+	<game id="12804">
 		<path>./Revenge of the Ninja (USA).chd</path>
 		<name>Revenge of the Ninja</name>
 		<desc>The story takes place in Japan, you play as Hayate, a young up and coming ninja warrior out to stop the evil of Lougi and his army of ghouls and goblins. You are out to avenge your father's death as well as the emperor and rescue your girlfriend from the clutches of evil and bring an end to the terror visited upon your lands.
@@ -93,67 +547,303 @@ The introduction, now an Amiga classic, shows the Beast-mage stealing your infan
 Some of the villians you face are Marco Killmore (a half man, half eagle samurai warrior), Zallen (a disgraced samurai warrior out to destroy Hayate), Vengor (a stone shiva-type character), Desfal (a medusa-like woman), Destroyer MPK (a possessed collection of samurai armor) and of course the evil samurai knight himself, Lougi.
 
 To play the game you must press the corresponding buttons on the screen at a certain time, such as pressing left to go left or possibly to avoid a enemies weapon or pressing one of the regular buttons to draw your weapon and attack a certain enemy, much like Dragon's Lair and Space Ace. There are three difficulty levels, each one giving you a certain amount of time to press the buttons, the hardest setting giving you the least amount of time.</desc>
-		<image>./images/Revenge of the Ninja (USA)-image.jpg</image>
+		<image>./images/Revenge of the Ninja (USA)-image.png</image>
+		<video>./videos/Revenge of the Ninja (USA)-video.mp4</video>
 		<marquee>./images/Revenge of the Ninja (USA)-marquee.png</marquee>
-		<thumbnail>./images/Revenge of the Ninja (USA)-thumb.jpg</thumbnail>
+		<thumbnail>./images/Revenge of the Ninja (USA)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Wolf Team</developer>
 		<publisher>Renovation Products</publisher>
-		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235643" />
 	</game>
-	<game>
-		<path>./Heart of the Alien - Out of This World Parts I and II (USA).chd</path>
-		<name>Heart of the Alien: Out of this World Parts I and II</name>
-		<desc>Heart of the Alien is a cinematic platformer video game developed by Interplay Entertainment and Virgin Interactive and was released by Virgin Interactive in 1994 for the Sega CD exclusively in North America. It is a sequel to Another World and continues the story directly from where the original ended. The game switches the player's role from Another World; this time the player takes control of Buddy, the main character's alien ally from the previous game.
-
-The story picks up immediately after the end of Another World. Buddy lands the pterodactyl in the ruins of his village, lays Lester down on a cot to rest and walks through the village, thinking of his past. This sequence contains many flashbacks of events that lead up to Buddy's capture and his and Lester's escape from prison. In the game, Buddy is searching for the red-eyed alien responsible for the destruction of his village and the imprisonment of his people. Buddy enters again the prison in search of the red-eyed alien.
-
-Near the end of the game, Lester who wakes back up, helps Buddy out, but then dies in the process. Buddy then goes to find again the red-eyed alien in a fortress. Eventually, he is able to find him and traps him in a cage with a beast that kills him. At the end of the game, Buddy gives Lester's body a ceremonial cremation. It is shown later how Buddy's village is rebuilt with its citizens living again in harmony.</desc>
-		<image>./images/Heart of the Alien - Out of This World Parts I and II (USA)-image.png</image>
-		<marquee>./images/Heart of the Alien - Out of This World Parts I and II (USA)-marquee.png</marquee>
-		<thumbnail>./images/Heart of the Alien - Out of This World Parts I and II (USA)-thumb.png</thumbnail>
-		<rating>0.6</rating>
+	<game id="102821">
+		<path>./Revengers of Vengeance (USA).chd</path>
+		<name>Revengers of Vengeance</name>
+		<desc>Revengers of Vengeance is a combination of RPG, vertical shooter, and fighting game with a fantasy/anime style. There are ten available characters, each with their own animated backstory and fighting techniques. You must choose a hero and guide their stats to create a formidable fighter capable of taking down the Devil King and freeing the land.</desc>
+		<image>./images/Revengers of Vengeance (USA)-image.png</image>
+		<video>./videos/Revengers of Vengeance (USA)-video.mp4</video>
+		<marquee>./images/Revengers of Vengeance (USA)-marquee.png</marquee>
+		<thumbnail>./images/Revengers of Vengeance (USA)-thumb.png</thumbnail>
+		<fanart>./images/Revengers of Vengeance (USA)-fanart.jpg</fanart>
 		<releasedate>19940101T000000</releasedate>
-		<developer>Virgin Interactive</developer>
-		<publisher>Delphine Software International</publisher>
-		<genre>Platform</genre>
+		<developer>Micronet</developer>
+		<publisher>Extreme Entertainment</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
 		<lang>en</lang>
 		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235644" />
 	</game>
-	<game>
+	<game id="12756">
 		<path>./Robo Aleste (USA).chd</path>
 		<name>Robo Aleste</name>
 		<desc>Overhead Shooter based in Japan. The bloodthirsty Chugoko Warlords of the west have ruled and ravaged the once-supreme Oda Clan. Time to get your revenge. This is an overhead shooter with large bosses and massive power-ups.</desc>
-		<image>./images/Robo Aleste (USA)-image.jpg</image>
+		<image>./images/Robo Aleste (USA)-image.png</image>
+		<video>./videos/Robo Aleste (USA)-video.mp4</video>
 		<marquee>./images/Robo Aleste (USA)-marquee.png</marquee>
-		<thumbnail>./images/Robo Aleste (USA)-thumb.jpg</thumbnail>
+		<thumbnail>./images/Robo Aleste (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Compile</developer>
-		<publisher>Tengen</publisher>
-		<genre>Action</genre>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235703" />
 	</game>
-	<game>
-		<path>./Chuck Rock II - Son of Chuck (USA).chd</path>
-		<name>Chuck Rock II: Son of Chuck</name>
-		<desc>As you may remember, Chuck Rock had to rescue his girl, Ophelia from the bad dude Gary Gritter.</desc>
-		<image>./images/Chuck Rock II - Son of Chuck (USA)-image.jpg</image>
-		<marquee>./images/Chuck Rock II - Son of Chuck (USA)-marquee.png</marquee>
-		<thumbnail>./images/Chuck Rock II - Son of Chuck (USA)-thumb.jpg</thumbnail>
-		<rating>0.8</rating>
+	<game id="58725">
+		<path>./Samurai Shodown (USA).chd</path>
+		<name>Samurai Shodown</name>
+		<desc>In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness.
+Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor of destroying Amakusa, and fulfilling a mission.</desc>
+		<image>./images/Samurai Shodown (USA)-image.png</image>
+		<video>./videos/Samurai Shodown (USA)-video.mp4</video>
+		<marquee>./images/Samurai Shodown (USA)-marquee.png</marquee>
+		<thumbnail>./images/Samurai Shodown (USA)-thumb.png</thumbnail>
+		<fanart>./images/Samurai Shodown (USA)-fanart.jpg</fanart>
+		<rating>0.7</rating>
 		<releasedate>19930101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>JVC</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235704" />
+	</game>
+	<game id="97380">
+		<path>./Sengoku Denshou (Japan).chd</path>
+		<name>Sengoku Denshou</name>
+		<desc>It's the final battle. A warlord in the past planned to conquer the world by brutal attack. Now, 400 years later, this "Demon Castle" suddenly appeared in the sky above Washington D.C. The prophecy came true! Only two samurai warriors with the special weapon can stop the revival of this ghost!</desc>
+		<image>./images/Sengoku Denshou (Japan)-image.png</image>
+		<video>./videos/Sengoku Denshou (Japan)-video.mp4</video>
+		<marquee>./images/Sengoku Denshou (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Sengoku Denshou (Japan)-thumb.png</thumbnail>
+		<fanart>./images/Sengoku Denshou (Japan)-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>19931228T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Sammy</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Sengoku</family>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221121T235705" />
+	</game>
+	<game id="12752">
+		<path>./Shadow of the Beast II (USA).chd</path>
+		<name>Shadow of the Beast II</name>
+		<desc>Essentially a side-on scrolling beat 'em up in the vain of Way of the Exploding Fist, but with an epic storyline and puzzles a-plenty.
+
+The introduction, now an Amiga classic, shows the Beast-mage stealing your infant sister and the purpose of the game is to rescue her back. On the way a variety of puzzles, sub-quests and really nasty monsters dog your every step.</desc>
+		<image>./images/Shadow of the Beast II (USA)-image.png</image>
+		<video>./videos/Shadow of the Beast II (USA)-video.mp4</video>
+		<marquee>./images/Shadow of the Beast II (USA)-marquee.png</marquee>
+		<thumbnail>./images/Shadow of the Beast II (USA)-thumb.png</thumbnail>
+		<rating>0.45</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Reflections Interactive Limited</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Adventure</genre>
+		<family>Shadow of the Beast</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235710" />
+	</game>
+	<game id="12757">
+		<path>./Shadowrun (US).chd</path>
+		<name>Shadowrun</name>
+		<desc>"Shadowrun" for Sega CD is a little-known game (and one of the very last ones released for this console) that is based on the FASA RPG of the same name and has only very little to do with its much more popular brethren for SNES and Genesis.
+
+It is twenty-first century, and the humanity faces a difficult period that follows devastating wars and other disasters. Magic and technology co-exist, supernatural powers, mythical creatures, ghosts, cyberspace, where hackers meet and fight each other, street deckers which can be hired to do the dirty work, anarchy and struggle between mighty and corrupt corporation - this is the world of Shadowrun. Unlike the two other Shadowrun games which are set in Seattle, according to tradition, "Shadowrun" for Sega CD is set in the futuristic Neo Tokyo. You control a party of characters with different backgrounds: the street samurai Rikudo, the shaman girl Mao, the decker (a hired mercenary) D-Head who also happens to be an elf, and Shiun, a former member of a mighty corporation. Your first assignment is to hunt down a ghostly warrior who has been disturbing the piece of the city for quite some time. As you begin your investigation, you plunge deeper into the dark work of intrigues and find yourself fighting on different fronts.
+
+"Shadowrun" for Sega CD (unlike its two other counterparts) is a distinctly Japanese game. It is a hybrid of Japanese adventure along the lines of  Snatcher and turn-based party RPG. In adventure mode, you interact with the game world by choosing commands ("Look", "Talk", "Move", etc.) from a menu. There are no real puzzles, but rather realistic detective work: you talk to people, gather evidence, access the internet, talk to informers, and so on. But often you find yourself in places where you navigate your characters from a top-down view and fight enemies. The battles occupy the whole screen, and you can move around the battle field, using melee, long-ranged, and magic attacks, like in early  Ultima games. The outcome of an attack is decided by a dice roll. You can stop the dices yourself, or you can let the computer do the rolling for you. There are also cyberspace fights which occur when you encounter a hostile hacker in the matrix world.</desc>
+		<image>./images/Shadowrun (US)-image.png</image>
+		<video>./videos/Shadowrun (US)-video.mp4</video>
+		<marquee>./images/Shadowrun (US)-marquee.png</marquee>
+		<thumbnail>./images/Shadowrun (US)-thumb.png</thumbnail>
+		<fanart>./images/Shadowrun (US)-fanart.jpg</fanart>
+		<rating>0.45</rating>
+		<releasedate>19930223T000000</releasedate>
+		<developer>Group SNE</developer>
+		<publisher>Compile</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235711" />
+	</game>
+	<game id="12738">
+		<path>./Shining Force CD (USA).chd</path>
+		<name>Shining Force CD</name>
+		<desc>This is a compilation of two strategy RPG titles from Shining Force titles:  Shining Force Gaiden (the original version released in Japan only), and its sequel, known outside of Japan as  Shining Force II: The Sword of Hajya, both for GameGear. In those games you control Nick, the Prince of Cypress. In the first game his task is to rescue Arni, the princess of Gardiana; in the second game, he has to conquer his kingdom back, that was captured by the evil empire of Iom. The re-release includes re-mastered graphics and higher quality music.</desc>
+		<image>./images/Shining Force CD (USA)-image.png</image>
+		<video>./videos/Shining Force CD (USA)-video.mp4</video>
+		<marquee>./images/Shining Force CD (USA)-marquee.png</marquee>
+		<thumbnail>./images/Shining Force CD (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19950322T000000</releasedate>
+		<developer>Sonic! Software Planning</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role playing games</genre>
+		<family>Shining Force</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235718" />
+	</game>
+	<game id="12742">
+		<path>./Silpheed (USA).chd</path>
+		<name>Silpheed</name>
+		<desc>Silpheed for the Sega CD is a shoot-'em-up sequel to the PC title of the same name. Gameplay is similar: this is basically a 2D shooter with 3D graphics.  You move your ship in a 2D plane that reaches into the screen, kind of like a pinball table. The Sega CD version of Silpheed uses pre-rendered video for the backdrops, and filled polygon graphics for the player ship and enemies. 
+
+The story here is typical for a game of this type. The central computer system controlling the galaxy network has been hacked by terrorists.  The terrorists are using the computer to attack colony planets throughout the system.  You are the Galaxy Union's last resort: you must fight your way across 11 stages to reach Earth, and re-take control of the computer.</desc>
+		<image>./images/Silpheed (USA)-image.png</image>
+		<video>./videos/Silpheed (USA)-video.mp4</video>
+		<marquee>./images/Silpheed (USA)-marquee.png</marquee>
+		<thumbnail>./images/Silpheed (USA)-thumb.png</thumbnail>
+		<fanart>./images/Silpheed (USA)-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235719" />
+	</game>
+	<game id="12726">
+		<path>./Snatcher (Sega CD) (U)-redump.cue</path>
+		<name>Snatcher</name>
+		<desc>A.D. 2047. Neo Kobe City, Japan, a place of madness and decadence... A mysterious Bio-roid life form has appeared. Its true nature and purpose are unknown. Is it some country's secret weapon, or an alien from another world? They slay their victims and take their place, earning them the nickname "SNATCHERS." A new police division - J.U.N.K.E.R.s - has been formed. They are trained specifically to combat the SNATCHERS. The fate of mankind hangs in the balance. The war between the SNATCHERS and J.U.N.K.E.R.s has begun!</desc>
+		<image>./images/Snatcher (Sega CD) (U)-redump-image.png</image>
+		<video>./videos/Snatcher (Sega CD) (U)-redump-video.mp4</video>
+		<marquee>./images/Snatcher (Sega CD) (U)-redump-marquee.png</marquee>
+		<thumbnail>./images/Snatcher (Sega CD) (U)-redump-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19941130T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>783a337d055481aa7f6b446e611c2e5a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235723" />
+	</game>
+	<game id="12794">
+		<path>./Sol-Feace (USA).chd</path>
+		<name>Sol-Feace</name>
+		<desc>Sol-Feace (Sol-Deace in the Genesis) is a typical 2D shooter with weapon powerups. The game features six levels: Sirius, Enemy Arsenal, ArtifiStar, Pluto Base, Almathea, and Final Battle. 
+
+Along the way various weapons can be picked up including plasma bullets, double plasma bullets, lasers, and missiles.
+
+The most unique feature of the game is that you can realign your upgraded guns to fire front-back, up-down, tight spread, wide spread or whatever the current situation required.</desc>
+		<image>./images/Sol-Feace (USA)-image.png</image>
+		<video>./videos/Sol-Feace (USA)-video.mp4</video>
+		<marquee>./images/Sol-Feace (USA)-marquee.png</marquee>
+		<thumbnail>./images/Sol-Feace (USA)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19911101T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235735" />
+	</game>
+	<game id="12702">
+		<path>./Sonic CD (USA).chd</path>
+		<name>Sonic the Hedgehog CD</name>
+		<desc>This is a standard Sonic the Hedgehog side-scrolling action game. Dr. Robotnik has taken over the Little Planet, captured Amy, and created Metal Sonic with the goal of collecting all the Time Stones to be able to manipulate time and conquer the world.  It is up to Sonic to stop him, by rushing through levels set in different time periods, collecting Time Stones.
+
+Sonic CD has features that take advantage of the CD format such as CD audio, video clips, and more levels (over 50 in total).</desc>
+		<image>./images/Sonic CD (USA)-image.png</image>
+		<video>./videos/Sonic CD (USA)-video.mp4</video>
+		<marquee>./images/Sonic CD (USA)-marquee.png</marquee>
+		<thumbnail>./images/Sonic CD (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19931119T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<family>Sonic</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235748" />
+	</game>
+	<game id="12777">
+		<path>./Soulstar (USA).chd</path>
+		<name>Soul Star</name>
+		<desc>Soulstar for the Sega CD/Mega CD is a 3D shoot-'em up that combines several different types of gameplay into one game. Some levels in this game are on a fixed path, similar to Space Harrier or Star Fox. Other levels allow your space craft to hover freely around a 3D environment, and in other levels your craft transforms into a walker robot for close-up attacks.</desc>
+		<image>./images/Soulstar (USA)-image.png</image>
+		<video>./videos/Soulstar (USA)-video.mp4</video>
+		<marquee>./images/Soulstar (USA)-marquee.png</marquee>
+		<thumbnail>./images/Soulstar (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19940101T000000</releasedate>
 		<developer>Core Design</developer>
 		<publisher>Core Design</publisher>
-		<genre>Action</genre>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
 		<lang>en</lang>
 		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235758" />
 	</game>
-	<game>
+	<game id="12798">
+		<path>./Space Ace (USA).chd</path>
+		<name>Space Ace</name>
+		<desc>Following the successful gameplay of Dragon's Lair, Don Bluth released this second conversion of his Laserdisc games series.
+
+You're playing Dexter, a guy fighting the evil madman Borf who has kidnapped your girlfriend Kimberly and is now threatening the world with his dreaded weapon, the "Infanto Ray" which turns adults into small children.
+
+The game plays like a comic strip - visuals are similar to many cartoon movies. In each scene you only have to decide which direction of the keyboard has to be hit in order to avoid one of the countless death screens and to advance to the next screen...</desc>
+		<image>./images/Space Ace (USA)-image.png</image>
+		<video>./videos/Space Ace (USA)-video.mp4</video>
+		<marquee>./images/Space Ace (USA)-marquee.png</marquee>
+		<thumbnail>./images/Space Ace (USA)-thumb.png</thumbnail>
+		<fanart>./images/Space Ace (USA)-fanart.jpg</fanart>
+		<rating>0.35</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>ReadySoft</developer>
+		<publisher>ReadySoft</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235759" />
+	</game>
+	<game id="12717">
+		<path>./Star Wars Rebel Assault (USA).chd</path>
+		<name>Star Wars : Rebel Assault</name>
+		<desc>Star Wars: Rebel Assault on Mega-CD is an action game based on the universe of Star Wars. The player plays Rookie one, a young farmer on Tatooine who has just joined the rebellious alliance and has to accomplish different kinds of missions: destruction of ships, infiltration, ...</desc>
+		<image>./images/Star Wars Rebel Assault (USA)-image.png</image>
+		<video>./videos/Star Wars Rebel Assault (USA)-video.mp4</video>
+		<marquee>./images/Star Wars Rebel Assault (USA)-marquee.png</marquee>
+		<thumbnail>./images/Star Wars Rebel Assault (USA)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>JVC</publisher>
+		<genre>Shooter</genre>
+		<family>Star Wars</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235811" />
+	</game>
+	<game id="12709">
 		<path>./Terminator, The (USA).chd</path>
 		<name>The Terminator</name>
 		<desc>Similar to adaptations of The Terminator on other systems, the Sega CD game is a platformer where the player controls Kyle Reese, who travels back in time from the year 2029 to protect Sarah Connor from the unstoppable killing machine known as the Terminator.
@@ -164,380 +854,22 @@ Reese is armed with a gun with unlimited ammo as well as a limited number of gre
 
 Between levels, the game shows small digitized clips from the film that advance the storyline. The game also features a fully CD-based soundtrack with tracks ranging from heavy rock to electronic tunes.</desc>
 		<image>./images/Terminator, The (USA)-image.png</image>
+		<video>./videos/Terminator, The (USA)-video.mp4</video>
 		<marquee>./images/Terminator, The (USA)-marquee.png</marquee>
 		<thumbnail>./images/Terminator, The (USA)-thumb.png</thumbnail>
+		<fanart>./images/Terminator, The (USA)-fanart.jpg</fanart>
 		<rating>0.85</rating>
 		<releasedate>19930101T000000</releasedate>
-		<developer>Probe Software Ltd.</developer>
+		<developer>Probe Software</developer>
 		<publisher>Virgin</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Soulstar (USA).chd</path>
-		<name>Soul Star</name>
-		<desc>Soulstar for the Sega CD/Mega CD is a 3D shoot-'em up that combines several different types of gameplay into one game. Some levels in this game are on a fixed path, similar to Space Harrier or Star Fox. Other levels allow your space craft to hover freely around a 3D environment, and in other levels your craft transforms into a walker robot for close-up attacks.</desc>
-		<image>./images/Soulstar (USA)-image.jpg</image>
-		<marquee>./images/Soulstar (USA)-marquee.png</marquee>
-		<thumbnail>./images/Soulstar (USA)-thumb.jpg</thumbnail>
-		<rating>0.85</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Core Design</developer>
-		<publisher>Core Design</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
+		<genre>Platform / Shooter Scrolling</genre>
+		<family>Terminator</family>
+		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235811" />
 	</game>
-	<game>
-		<path>./Popful Mail (USA).chd</path>
-		<name>Popful Mail</name>
-		<desc>In this platform action game, you play as a cute bounty hunter known as Popful Mail. While you might think that a cute Anime chick would have no trouble making a living slashing bad guys with her sword, Popful is having a hard time making ends meet.  One day, however, Popful learns about a magician who has gone rogue and has a hefty bounty on his head. So, her adventure begins as Popful fights her way through a new adventure, and makes new friends along the way.
-
-Primarily this is an action game with very slight RPG elements. As you make your way through the plethora of levels, you will have to collect money from slain foes. You use this money in the shops to buy weapons, armor, health, and so on. Also, this game features interaction with many, many characters through both on-screen dialog and fully animated sequences. Some of these characters become playable as you progress through the game.
-
-This release has the same story and general gameplay style as the  earlier version, but otherwise was made from scratch, having entirely different graphics, locations, enemies, challenges, etc.</desc>
-		<image>./images/Popful Mail (USA)-image.jpg</image>
-		<marquee>./images/Popful Mail (USA)-marquee.png</marquee>
-		<thumbnail>./images/Popful Mail (USA)-thumb.jpg</thumbnail>
-		<rating>0.75</rating>
-		<releasedate>19950223T000000</releasedate>
-		<developer>Working Designs</developer>
-		<publisher>Nihon Falcom</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Sengoku Denshou (Japan).chd</path>
-		<name>Sengoku Denshou</name>
-		<desc>It's the final battle. A warlord in the past planned to conquer the world by brutal attack. Now, 400 years later, this "Demon Castle" suddenly appeared in the sky above Washington D.C. The prophecy came true! Only two samurai warriors with the special weapon can stop the revival of this ghost!</desc>
-		<image>./images/Sengoku Denshou (Japan)-image.jpg</image>
-		<marquee>./images/Sengoku Denshou (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Sengoku Denshou (Japan)-thumb.jpg</thumbnail>
-		<rating>0.65</rating>
-		<releasedate>19931228T000000</releasedate>
-		<developer>SNK</developer>
-		<genre>Beat'em Up</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./Lords of Thunder (USA).chd</path>
-		<name>Lords of Thunder</name>
-		<desc>In the once peaceful land of Mistral, legend holds of a brave knight named Drak who has sealed an evil god named Deoric beneath the six continents of the land. However, peace never lasts. The Garuda Empire has invaded the lands of Mistral, and the six Dark Generals, led by Sornbul, have conquered the continents. Sornbul's ambition is nothing less than to resurrect Deoric and plunge the land into chaos.
-
-Duran, descendant of Drak, is the only one who can stop the Garuda Empire's mad plan, and with the power of Drak's mystic armors, he heads off to stop Sornbul at any cost.
-
-The six continents of Mistral can be challenged in any order, each of which are filled with hordes of demons and one of Sornbul's Dark Generals. After completing all six continents the player will face Sornbul on the final island. Before a level the player can choose from one of four elemental armors, each with its own bullet spread and unique bomb. The armor's attack can be powered up several levels by finding jewels dropped by enemies. This power level, as well as the armor's health, is reduced when hit. Enemies also drop crystals that are used in a between-level shop to buy additional health, bombs, and continues.</desc>
-		<image>./images/Lords of Thunder (USA)-image.jpg</image>
-		<marquee>./images/Lords of Thunder (USA)-marquee.png</marquee>
-		<thumbnail>./images/Lords of Thunder (USA)-thumb.jpg</thumbnail>
-		<rating>0.85</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Red Company</developer>
-		<publisher>Hudson</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20200914T035258</lastplayed>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Novastorm (USA).chd</path>
-		<name>Novastorm</name>
-		<desc>A behind-the-view perspective of a shooter's dream:  Blast enemies against a cinematic backdrop.  Kill the computer-controlled fighters before they take over the world!
-
-Unlike first-generation interactive movies with action, Novastorm has hooks into the environment; if you move into the path of a pre-rendered obstacle and it &amp;quot;hits&amp;quot; you, you take damage, etc.</desc>
-		<image>./images/Novastorm (USA)-image.jpg</image>
-		<marquee>./images/Novastorm (USA)-marquee.png</marquee>
-		<thumbnail>./images/Novastorm (USA)-thumb.jpg</thumbnail>
-		<rating>0.4</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Psygnosis</developer>
-		<publisher>Psygnosis</publisher>
-		<genre>Shoot'em Up</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Cliffhanger (USA).chd</path>
-		<name>Cliffhanger</name>
-		<desc>Standard side-scrolling fighter based off of the Stallone film of the same name. Sly must fight thugs and the elements as he tracks down suitcases of stolen cash dropped around the peaks of the Rockies. Combat follows the Final Fight standard, broken up by some mountain climbing and running (or 3-D snowboarding on the Sega CD) from avalanches. 
-
-Enemies are the standard brawler crooks, occasionally carrying guns and knives the player can pick up. The game tends to follow a pattern of having you deal with a natural hazard (scaling a cliff, leaping over gaps), then locking the screen down for a fighting segment, nature again, fighting again, etc. The available fighting moves is limited, compared to other games of this type, and the ability to hit an enemy character is noticeably less accurate.
-
-The plot is identical to the film, with levels based off of, or inspired by, scenes in the movie. Animated cutscenes move the story along on the cartridge systems, while brief clips from the film play between levels on the Sega CD.</desc>
-		<image>./images/Cliffhanger (USA)-image.jpg</image>
-		<marquee>./images/Cliffhanger (USA)-marquee.png</marquee>
-		<thumbnail>./images/Cliffhanger (USA)-thumb.jpg</thumbnail>
-		<rating>0.45</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Malibu Games</developer>
-		<publisher>Sony</publisher>
-		<genre>Platform</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Pitfall - The Mayan Adventure (USA).chd</path>
-		<name>Pitfall: The Mayan Adventure</name>
-		<desc>Pitfall: The Mayan Adventure is a side-scrolling action game in which you play adventurer Pitfall Harry Jr in search of his father Pitfall Harry. You battle your way through the Mayan jungles, waterfalls, deserted mines and can bungee jump and boomerang your way to safety. There are 13 levels and the action is fast and gripping. You will need to be attentive—and quick. Or prepare to die.</desc>
-		<image>./images/Pitfall - The Mayan Adventure (USA)-image.png</image>
-		<marquee>./images/Pitfall - The Mayan Adventure (USA)-marquee.png</marquee>
-		<thumbnail>./images/Pitfall - The Mayan Adventure (USA)-thumb.png</thumbnail>
-		<rating>0.85</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Activision</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Cobra Command (USA).chd</path>
-		<name>Cobra Command</name>
-		<desc>Cobra Command is an arcade conversion of a helicopter shooting game from Data East.  It is an "on rails" style shooter with the player controlling only the aiming of the shooting but not the direction of the helicopter.  
-
-Your job is to shoot down the enemies as you are flown through footage of New York streets, the Statue of Liberty, the Atlantic Ocean, Italy, the Grand Canyon and finally, the treacherous corners and return fire of the enemy's stronghold on Easter Island.
-
-There is no background music to go along with the sound effects.  The levels are fairly short with a total game run through possible in about 20 minutes.</desc>
-		<image>./images/Cobra Command (USA)-image.jpg</image>
-		<marquee>./images/Cobra Command (USA)-marquee.png</marquee>
-		<thumbnail>./images/Cobra Command (USA)-thumb.jpg</thumbnail>
-		<rating>0.15</rating>
-		<releasedate>19921101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Simulation</genre>
-		<playcount>1</playcount>
-		<lastplayed>20200914T034418</lastplayed>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Mortal Kombat (USA).chd</path>
-		<name>Mortal Kombat</name>
-		<desc>Five Hundred years ago, an ancient and well respected Shaolin fighting tournament, held every 50 years, was corrupted by an evil and elderly sorcerer by the name of Shang Tsung.  Shang was accompanied by Prince Goro, a warrior of the Shokan race (a four armed half-human/half-dragon). Knowing that if ten tournaments in a row were won by the Outworld champion, the Earth Realm would be conquered by evil and fall into darkness, Shang entered Goro in the tournament and had him defeat the great Kung Lao. Goro has been  reigning supreme as the undefeated fighting champion for five hundred years now. As the last tournament required draws near, Raiden, Thunder God and protector of the Earth Realm, enacts a plan to tip the scales in the humans favor, Seven fighters step into the arena on Shang Tsung's mysterious island: Shaolin warrior Liu Kang, Special Forces operative Sonya Blade, the mercenary thug Kano, fame-seeking actor Johnny Cage, the ice wielding Lin Kuei warrior Sub-Zero and his undead adversary Scorpion, and Raiden himself.
-
-Mortal Kombat is a side-scrolling 1 on 1 fighting game. Fighting is set as one on one kombat, allowing each player to perform a variety of punches, kicks, and special moves in order to defeat their opponent.  When the opponent faces their second round loss, the winner can perform a finishing move called a "Fatality" on the loser.  The Fatality is a move unique to each fighter that graphically kills the loser in a blood-soaked finale.
-
-Mortal Kombat began its life as a 2-player arcade title. It is notable for its use of digitized actors to represent the game's fighters, as well as its use of copious amounts of blood during gameplay.</desc>
-		<image>./images/Mortal Kombat (USA)-image.jpg</image>
-		<marquee>./images/Mortal Kombat (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mortal Kombat (USA)-thumb.jpg</thumbnail>
-		<rating>0.7</rating>
-		<releasedate>19931202T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-		<playcount>2</playcount>
-		<lastplayed>20200914T034331</lastplayed>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Demolition Man (USA).chd</path>
-		<name>Demolition Man</name>
-		<desc>Demolition Man is a game based on the 1993 movie by the same name. As with the movie, the game takes place in a dystopian Los Angeles, in 1996. John Spartan is the country´s most fearsome cop and hunts his nemesis, Simon Phoenix. However in doing so, he kills several innocent civilians and both characters are sentenced to cryostasis rehabilitation where they will be brainwashed for 30 years. However the brainwashing does not go as planned and upon waking up, Phoenix goes on a new crime spree. However in 30 years the world has also changed and Los Angeles has become San Angeles, a utopian and violence-free society. As a remnant of a more violent past, police officer John Spartan is once again sent to capture Phoenix.
-
-Demolition Man is a fast-paced platform game, with some levels taking place in an overhead perspective (similar to Smash TV). As John Spartan, the player will spend most of his time shooting endless waves of "cryocons" released upon the antiseptic world of the future. The standard weapon can be upgraded with a shotgun and magnum, both with limited ammo. Additionally, various types of grenades can be collected, which are thrown independently of the firearm. Simon Phoenix appears as a boss character at the end of every level that is directly tied in with the movie.
-
-The Sega CD version of the game retains identical levels and gameplay, but adds digitized clips from the film to introduce levels and advance the plot.</desc>
-		<image>./images/Demolition Man (USA)-image.jpg</image>
-		<marquee>./images/Demolition Man (USA)-marquee.png</marquee>
-		<thumbnail>./images/Demolition Man (USA)-thumb.jpg</thumbnail>
-		<rating>0.8</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Alexandria, Inc.</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Amazing Spider-Man vs. The Kingpin, The (USA).chd</path>
-		<name>The	Amazing Spider-Man vs. The Kingpin</name>
-		<desc>The city of New York is certainly a great place to be, but not when there's the criminal element running about. Lucky for the NYPD, there's also the heroic Spider-Man on their side!But now one of the biggest criminals in the city, Wilson Fisk, a.k.a. The</desc>
-		<image>./images/Amazing Spider-Man vs. The Kingpin, The (USA)-image.png</image>
-		<marquee>./images/Amazing Spider-Man vs. The Kingpin, The (USA)-marquee.png</marquee>
-		<thumbnail>./images/Amazing Spider-Man vs. The Kingpin, The (USA)-thumb.png</thumbnail>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Star Wars Rebel Assault (USA).chd</path>
-		<name>Star Wars: Rebel Assault</name>
-		<desc>Star Wars: Rebel Assault on Mega-CD is an action game based on the universe of Star Wars. The player plays Rookie one, a young farmer on Tatooine who has just joined the rebellious alliance and has to accomplish different kinds of missions: destruction of ships, infiltration, ...</desc>
-		<image>./images/Star Wars Rebel Assault (USA)-image.jpg</image>
-		<marquee>./images/Star Wars Rebel Assault (USA)-marquee.png</marquee>
-		<thumbnail>./images/Star Wars Rebel Assault (USA)-thumb.jpg</thumbnail>
-		<releasedate>19940101T000000</releasedate>
-		<developer>JVC</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Shoot'em Up</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Racing Aces (USA).chd</path>
-		<name>Racing Aces</name>
-		<desc>The cold war has ended. Big defense contractors, specifically the ones that make fighter planes, organize a new sport. Pilots fly planes of various historical significance in low altitude races for big prizes.
-
-Racing Aces puts you behind the stick of World War 1, World War 2, and modern day fighting aircraft.  Each competition is a dogfight as much as a race, and you will have to gun down your enemies to win. The tracks are littered with power up balloons to give you extra weapons and speed.
-
-The races are viewed from a behind-the-plane perspective, and the courses are drawn in 3D using polygons.</desc>
-		<image>./images/Racing Aces (USA)-image.jpg</image>
-		<marquee>./images/Racing Aces (USA)-marquee.png</marquee>
-		<thumbnail>./images/Racing Aces (USA)-thumb.jpg</thumbnail>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Revengers of Vengeance (USA).chd</path>
-		<name>Revengers of Vengeance</name>
-		<desc>Revengers of Vengeance is a combination of RPG, vertical shooter, and fighting game with a fantasy/anime style. There are ten available characters, each with their own animated backstory and fighting techniques. You must choose a hero and guide their stats to create a formidable fighter capable of taking down the Devil King and freeing the land.</desc>
-		<image>./images/Revengers of Vengeance (USA)-image.jpg</image>
-		<marquee>./images/Revengers of Vengeance (USA)-marquee.png</marquee>
-		<thumbnail>./images/Revengers of Vengeance (USA)-thumb.jpg</thumbnail>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Micronet</developer>
-		<publisher>Extreme Entertainment</publisher>
-		<genre>Fight</genre>
-		<players />
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Adventures of Batman &amp; Robin, The (USA).chd</path>
-		<name>The Adventures of Batman &amp; Robin</name>
-		<desc>In The Adventures of Batman and Robin, Robin and Commissioner Gordon have both gone missing. The Dark Knight suspects that one or more of the usual suspects might be involved, including Poison Ivy, Riddler, and The Joker. He sets out in his trusty Batmobile to set the situation right. Much of the game consists of 3D driving action behind the wheel of the Batmobile. There are also levels in which the Caped Crusader must stage an aerial assault using the Batwing. In between levels, the player is treated to a series of cutscenes which comprise nearly an entire exclusive episode of Batman: The Animated Series, upon which the game is based.</desc>
-		<image>./images/Adventures of Batman &amp; Robin, The (USA)-image.png</image>
-		<marquee>./images/Adventures of Batman &amp; Robin, The (USA)-marquee.png</marquee>
-		<thumbnail>./images/Adventures of Batman &amp; Robin, The (USA)-thumb.png</thumbnail>
-		<rating>1</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Clockwork Tortoise</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-	</game>
-	<game>
-		<path>./Prince of Persia (USA).chd</path>
-		<name>Prince of Persia</name>
-		<desc>The Grand Vizier Jaffar has thrown you into a dark dungeon and plans to marry the girl of your dreams in an hour. You're not going to let that happen are you? Try to escape from the dungeon, take out Jaffar's guards, find your way through the Sultan's palace and defeat Jaffar himself. Now go, you've got 60 minutes!
-
-Prince of Persia is a 2D platformer with run and jump gameplay. Your hero must avoid deadly traps, solve some simple puzzles and engage in sword fights with the guards. The player has an infinite amount of lives, but has to restart at the beginning of a level each time he dies, and must complete the game within an hour. An especially noteworthy aspect of the game is the very fluent animation of your character.
-
-The Game Boy Color and SNES versions of the game feature additional levels and new enemies. The Genesis version has a new intro and an altered set of graphics but the level layout remains almost identical to that of the original.</desc>
-		<image>./images/Prince of Persia (USA)-image.jpg</image>
-		<marquee>./images/Prince of Persia (USA)-marquee.png</marquee>
-		<thumbnail>./images/Prince of Persia (USA)-thumb.jpg</thumbnail>
-		<rating>0.8</rating>
-		<releasedate>19921201T000000</releasedate>
-		<developer>Broderbund Software</developer>
-		<publisher>Broderbund Software</publisher>
-		<genre>Platform</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Earthworm Jim - Special Edition (USA).chd</path>
-		<name>Earthworm Jim: Special Edition</name>
-		<desc>This special edition includes: a password system, a new world &amp; new hidden Areas, a new weapon, over 1000 additional frames of animation. All new CD quality soundtrack, totally new endings in two of the worlds, all the extra cool ideas and special features that Shiny couldn't fit onto the cartridge are on this special edition.</desc>
-		<image>./images/Earthworm Jim - Special Edition (USA)-image.jpg</image>
-		<marquee>./images/Earthworm Jim - Special Edition (USA)-marquee.png</marquee>
-		<thumbnail>./images/Earthworm Jim - Special Edition (USA)-thumb.jpg</thumbnail>
-		<rating>0.9</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Shiny Entertainment</developer>
-		<publisher>Interplay</publisher>
-		<genre>Platform</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).chd</path>
-		<name>Mickey Mania: The Timeless Adventures of Mickey Mouse</name>
-		<desc>Mickey Mania: The Timeless Adventures of Mickey Mouse is a 2D-platformer developed by Traveller's Tales and published by Sony Imagesoft. In the game, you control Mickey Mouse, who must navigate through various side-scrolling levels, each designed and based from classical Mickey Mouse cartoons from 1928 to 1990.</desc>
-		<image>./images/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)-image.png</image>
-		<marquee>./images/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)-thumb.png</thumbnail>
-		<rating>0.85</rating>
-		<releasedate>19941002T000000</releasedate>
-		<developer>SCE Santa Monica Studio</developer>
-		<publisher>Travellers Tales</publisher>
-		<genre>Platform</genre>
-		<playcount>2</playcount>
-		<lastplayed>20200914T034403</lastplayed>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Silpheed (USA).chd</path>
-		<name>Silpheed</name>
-		<desc>Silpheed for the Sega CD is a shoot-'em-up sequel to the PC title of the same name. Gameplay is similar: this is basically a 2D shooter with 3D graphics.  You move your ship in a 2D plane that reaches into the screen, kind of like a pinball table. The Sega CD version of Silpheed uses pre-rendered video for the backdrops, and filled polygon graphics for the player ship and enemies. 
-
-The story here is typical for a game of this type. The central computer system controlling the galaxy network has been hacked by terrorists.  The terrorists are using the computer to attack colony planets throughout the system.  You are the Galaxy Union's last resort: you must fight your way across 11 stages to reach Earth, and re-take control of the computer.</desc>
-		<image>./images/Silpheed (USA)-image.jpg</image>
-		<marquee>./images/Silpheed (USA)-marquee.png</marquee>
-		<thumbnail>./images/Silpheed (USA)-thumb.jpg</thumbnail>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Game Arts</developer>
-		<publisher>Game Arts</publisher>
-		<genre>Shoot'em Up</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Final Fight CD (USA).chd</path>
-		<name>Final Fight CD</name>
-		<desc>The game is set in the metropolis of Metro City, a town constantly plagued by crime and violence. When the mayor, Mike Haggar, promises to clean up the city, the Mad Gear gang kidnaps his daughter Jessica and warns him not to interfere. Haggar responds going on a battle across the city to free her, bringing along her boyfriend Cody, and the ninjitsu master Guy to assist him.
-
-</desc>
-		<image>./images/Final Fight CD (USA)-image.png</image>
-		<marquee>./images/Final Fight CD (USA)-marquee.png</marquee>
-		<thumbnail>./images/Final Fight CD (USA)-thumb.png</thumbnail>
-		<rating>0.85</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Sega</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Shadowrun (US).chd</path>
-		<name>Shadowrun</name>
-		<desc>"Shadowrun" for Sega CD is a little-known game (and one of the very last ones released for this console) that is based on the FASA RPG of the same name and has only very little to do with its much more popular brethren for SNES and Genesis.
-
-It is twenty-first century, and the humanity faces a difficult period that follows devastating wars and other disasters. Magic and technology co-exist, supernatural powers, mythical creatures, ghosts, cyberspace, where hackers meet and fight each other, street deckers which can be hired to do the dirty work, anarchy and struggle between mighty and corrupt corporation - this is the world of Shadowrun. Unlike the two other Shadowrun games which are set in Seattle, according to tradition, "Shadowrun" for Sega CD is set in the futuristic Neo Tokyo. You control a party of characters with different backgrounds: the street samurai Rikudo, the shaman girl Mao, the decker (a hired mercenary) D-Head who also happens to be an elf, and Shiun, a former member of a mighty corporation. Your first assignment is to hunt down a ghostly warrior who has been disturbing the piece of the city for quite some time. As you begin your investigation, you plunge deeper into the dark work of intrigues and find yourself fighting on different fronts.
-
-"Shadowrun" for Sega CD (unlike its two other counterparts) is a distinctly Japanese game. It is a hybrid of Japanese adventure along the lines of  Snatcher and turn-based party RPG. In adventure mode, you interact with the game world by choosing commands ("Look", "Talk", "Move", etc.) from a menu. There are no real puzzles, but rather realistic detective work: you talk to people, gather evidence, access the internet, talk to informers, and so on. But often you find yourself in places where you navigate your characters from a top-down view and fight enemies. The battles occupy the whole screen, and you can move around the battle field, using melee, long-ranged, and magic attacks, like in early  Ultima games. The outcome of an attack is decided by a dice roll. You can stop the dices yourself, or you can let the computer do the rolling for you. There are also cyberspace fights which occur when you encounter a hostile hacker in the matrix world.</desc>
-		<image>./images/Shadowrun (US)-image.jpg</image>
-		<marquee>./images/Shadowrun (US)-marquee.png</marquee>
-		<thumbnail>./images/Shadowrun (US)-thumb.jpg</thumbnail>
-		<rating>0.45</rating>
-		<releasedate>19930223T000000</releasedate>
-		<developer>Group SNE</developer>
-		<publisher>Compile</publisher>
-		<genre>Role playing games</genre>
-		<playcount>1</playcount>
-		<lastplayed>20200914T035148</lastplayed>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
+	<game id="12796">
 		<path>./Tomcat Alley (USA).chd</path>
 		<name>Tomcat Alley</name>
 		<desc>Tomcat Alley is one of the last of Sega's TruVideo games for the SegaCD, featuring you and your F-14 Tomcat doing what you do best - dogfighting Russian Migs!
@@ -545,232 +877,19 @@ It is twenty-first century, and the humanity faces a difficult period that follo
 This time, a renegade Soviet commander is threatening the United States with chemical weapons from his base in the Mexican desert, and its up to you and your wingmen to fine-tune your air-to-air combat strategies to make the entire western hemisphere safe again!
 
 Tomcat Alley was one of Sega's last TruVideo games, featuring what is called "Active Matrix" software, which allows for many different outcomes to any given situation.  This means only one thing - much more interaction and variation than previous FMV (Full Motion Video) games!</desc>
-		<image>./images/Tomcat Alley (USA)-image.jpg</image>
+		<image>./images/Tomcat Alley (USA)-image.png</image>
+		<video>./videos/Tomcat Alley (USA)-video.mp4</video>
 		<marquee>./images/Tomcat Alley (USA)-marquee.png</marquee>
-		<thumbnail>./images/Tomcat Alley (USA)-thumb.jpg</thumbnail>
+		<thumbnail>./images/Tomcat Alley (USA)-thumb.png</thumbnail>
+		<fanart>./images/Tomcat Alley (USA)-fanart.jpg</fanart>
 		<rating>0.6</rating>
 		<releasedate>19940206T000000</releasedate>
 		<developer>The Code Monkeys</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Hook (USA).chd</path>
-		<name>Hook</name>
-		<desc>In this video game adaption of the Steven Spielberg film Hook, the player takes the role of a grown-up Peter Pan, whose kids have been kidnapped by Captain Hook. Tinker Bell takes Peter back to Neverland where he must again become Pan and reclaim his children.
-
-This particular interpretation is a side-scrolling action game, in which players must hack their way past Hook's denizens through 11 levels.  These include forests, icy regions, and towns which Peter will have to jump, climb, and swim through. Magic items such as apples and pixie dust can be collected for special powers. When enemies are attacked, they simply put their hands up in surrender rather than dying, so as to make the game more child-friendly.</desc>
-		<image>./images/Hook (USA)-image.jpg</image>
-		<marquee>./images/Hook (USA)-marquee.png</marquee>
-		<thumbnail>./images/Hook (USA)-thumb.jpg</thumbnail>
-		<rating>0.7</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Sony</developer>
-		<publisher>Sony</publisher>
-		<genre>Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20200914T035312</lastplayed>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Fatal Fury Special (USA).chd</path>
-		<name>Fatal Fury Special</name>
-		<desc>Fatal Fury Special is an improved version of SNK's 2D one-on-one fighter Fatal Fury 2. It's a conversion of the 1993 arcade game of the same name. The objective is still to win the tournament by defeating all other fighters including end boss Wolfgang Krauser. Fatal Fury Special features a fairly large selection of fighters that includes:
-
-1. The eight regular fighters from Fatal Fury 2: Terry Bogard, Andy Bogard, Joe Higashi, Kim Kaphwan, Jubei Yamada, Cheng Sinzan, Mai Shiranui and Big Bear.The four bosses from Fatal Fury 2: Billy Kane, Axel Hawk, Lawrence Blood and Wolfgang Krauser (this time they're all immediately playable).Three characters returning from the first Fatal Fury: Duck King, Tung Fu Rue and Geese Howard (the end boss from Fatal Fury).
-Other improvements include:
-
-1. A new Count Down mode (defeat as many opponents as possible in 3 minutes).Extra color schemes for every character.New &amp; improved background graphics.Dolby Surround Sound support.
-Fatal Fury Special still features the series' trademark pseudo-3D movement along two planes.</desc>
-		<image>./images/Fatal Fury Special (USA)-image.jpg</image>
-		<marquee>./images/Fatal Fury Special (USA)-marquee.png</marquee>
-		<thumbnail>./images/Fatal Fury Special (USA)-thumb.jpg</thumbnail>
-		<rating>0.9</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>JVC</developer>
-		<publisher>JVC</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Samurai Shodown (USA).chd</path>
-		<name>Samurai Shodown</name>
-		<desc>In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness.
-Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor of destroying Amakusa, and fulfilling a mission.</desc>
-		<image>./images/Samurai Shodown (USA)-image.jpg</image>
-		<marquee>./images/Samurai Shodown (USA)-marquee.png</marquee>
-		<thumbnail>./images/Samurai Shodown (USA)-thumb.jpg</thumbnail>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>JVC</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Shining Force CD (USA).chd</path>
-		<name>Shining Force CD</name>
-		<desc>This is a compilation of two strategy RPG titles from Shining Force titles:  Shining Force Gaiden (the original version released in Japan only), and its sequel, known outside of Japan as  Shining Force II: The Sword of Hajya, both for GameGear. In those games you control Nick, the Prince of Cypress. In the first game his task is to rescue Arni, the princess of Gardiana; in the second game, he has to conquer his kingdom back, that was captured by the evil empire of Iom. The re-release includes re-mastered graphics and higher quality music.</desc>
-		<image>./images/Shining Force CD (USA)-image.jpg</image>
-		<marquee>./images/Shining Force CD (USA)-marquee.png</marquee>
-		<thumbnail>./images/Shining Force CD (USA)-thumb.jpg</thumbnail>
-		<rating>0.8</rating>
-		<releasedate>19950322T000000</releasedate>
-		<developer>Camelot Software</developer>
-		<publisher>Sega</publisher>
-		<genre>Role playing games</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Sol-Feace (USA).chd</path>
-		<name>Sol-Feace</name>
-		<desc>Sol-Feace (Sol-Deace in the Genesis) is a typical 2D shooter with weapon powerups. The game features six levels: Sirius, Enemy Arsenal, ArtifiStar, Pluto Base, Almathea, and Final Battle. 
-
-Along the way various weapons can be picked up including plasma bullets, double plasma bullets, lasers, and missiles.
-
-The most unique feature of the game is that you can realign your upgraded guns to fire front-back, up-down, tight spread, wide spread or whatever the current situation required.</desc>
-		<image>./images/Sol-Feace (USA)-image.jpg</image>
-		<marquee>./images/Sol-Feace (USA)-marquee.png</marquee>
-		<thumbnail>./images/Sol-Feace (USA)-thumb.jpg</thumbnail>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Wolf Team</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Lunar - Eternal Blue (USA).chd</path>
-		<name>Lunar: Eternal Blue</name>
-		<desc>Come back to the enchanting world of Lunar! Join Hiro and Ruby 1,000 years after the first adventure, as they work to unlock the secrets of the Blue Spire and the strange young girl they found within it! But be careful! Forces are at work trying to revive the evil Zophar and immerse Lunar in darkness forever! Journey to distant lands in search of the Goddess Althena, who may be the only one powerful enough to stop Zophar. Along the way, you'll meet exciting new characters, fight fully animated monsters, traverse snow-covered peaks, and crawl through slimy dungeons as you work towards the terrifying climax!</desc>
-		<image>./images/Lunar - Eternal Blue (USA)-image.png</image>
-		<marquee>./images/Lunar - Eternal Blue (USA)-marquee.png</marquee>
-		<thumbnail>./images/Lunar - Eternal Blue (USA)-thumb.png</thumbnail>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Game Arts</developer>
-		<publisher>Game Arts</publisher>
-		<genre>Role playing games</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Lunar - The Silver Star (USA).chd</path>
-		<name>Lunar: The Silver Star</name>
-		<desc>Welcome to the world of Lunar, where dragons yet live and magic is valued above all else. Join Alex, the young adventurer as he begins a quest with his friends to save their land from the crushing advances of the Magic Emperor. Explore dungeons, fight terrifying monsters, and gather information from the locals as you advance toward the explosive confrontation with the Magic Emperor himself! Exciting, menu-driven combat will keep you challenged until the last. And thanks to the storage power of the CD, Lunar contains awesome animation sequences that'll get you involved in the story -- fast! Get ready for the ride of your life...</desc>
-		<image>./images/Lunar - The Silver Star (USA)-image.jpg</image>
-		<marquee>./images/Lunar - The Silver Star (USA)-marquee.png</marquee>
-		<thumbnail>./images/Lunar - The Silver Star (USA)-thumb.jpg</thumbnail>
-		<rating>0.75</rating>
-		<releasedate>19931201T000000</releasedate>
-		<developer>Working Designs</developer>
-		<publisher>Game Arts</publisher>
-		<genre>Role playing games</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Puggsy (USA).chd</path>
-		<name>Puggsy</name>
-		<desc>Puggsy is a platform game with a combination of action and puzzle-solving elements. You control the the creature Puggsy, who has crash landed on an alien planet and had his spaceship stolen. Your goal is find the spaceship so you can get off the planet and return home.  To do this, you will need to make your way from the start to the exit of numerous levels which take place in a variety of environments. Throughout each level are a variety of objects which you can pick up; on many of the levels you will need to figure out how to use the objects available to you in order to reach the exit. Some objects can used (like a gun or keys), and objects may be thrown, moved around and stacked. Of course, each level will also have a variety of bad guys wandering about which will cost Puggsy one of his lives if he's caught. On your quest there will also be six evil guardians which will need to be defeated before you get your spaceship back!</desc>
-		<image>./images/Puggsy (USA)-image.jpg</image>
-		<marquee>./images/Puggsy (USA)-marquee.png</marquee>
-		<thumbnail>./images/Puggsy (USA)-thumb.jpg</thumbnail>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Travellers Tales</developer>
-		<publisher>Psygnosis</publisher>
+		<publisher>SEGA</publisher>
 		<genre>Action</genre>
+		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-	</game>
-	<game>
-		<path>./Sonic CD (USA).chd</path>
-		<name>Sonic the Hedgehog CD</name>
-		<desc>This is a standard Sonic the Hedgehog side-scrolling action game. Dr. Robotnik has taken over the Little Planet, captured Amy, and created Metal Sonic with the goal of collecting all the Time Stones to be able to manipulate time and conquer the world.  It is up to Sonic to stop him, by rushing through levels set in different time periods, collecting Time Stones.
-
-Sonic CD has features that take advantage of the CD format such as CD audio, video clips, and more levels (over 50 in total).</desc>
-		<image>./images/Sonic CD (USA)-image.jpg</image>
-		<marquee>./images/Sonic CD (USA)-marquee.png</marquee>
-		<thumbnail>./images/Sonic CD (USA)-thumb.jpg</thumbnail>
-		<rating>0.8</rating>
-		<releasedate>19931119T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<playcount>2</playcount>
-		<lastplayed>20200917T014502</lastplayed>
-		<gametime>128</gametime>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Snatcher (Sega CD) (U)-redump.cue</path>
-		<name>Snatcher</name>
-		<desc>A.D. 2047. Neo Kobe City, Japan, a place of madness and decadence... A mysterious Bio-roid life form has appeared. Its true nature and purpose are unknown. Is it some country's secret weapon, or an alien from another world? They slay their victims and take their place, earning them the nickname "SNATCHERS." A new police division - J.U.N.K.E.R.s - has been formed. They are trained specifically to combat the SNATCHERS. The fate of mankind hangs in the balance. The war between the SNATCHERS and J.U.N.K.E.R.s has begun!</desc>
-		<image>./images/Snatcher (Sega CD) (U)-redump-image.png</image>
-		<marquee>./images/Snatcher (Sega CD) (U)-redump-marquee.png</marquee>
-		<thumbnail>./images/Snatcher (Sega CD) (U)-redump-thumb.png</thumbnail>
-		<rating>0.8</rating>
-		<releasedate>19941130T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Adventure</genre>
-		<playcount>2</playcount>
-		<lastplayed>20200930T162557</lastplayed>
-		<gametime>199</gametime>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Cadillacs and Dinosaurs - The Second Cataclysm (USA).chd</path>
-		<name>Cadillacs and Dinosaurs: The Second Cataclysm</name>
-		<desc>Cadillacs and Dinosaurs: The Second Cataclysm is a Sega Mega-CD (and DOS) game based on the comic book series Xenozoic Tales, and the TV show of the same name. It is not to be confused with the arcade beat-'em-up, Cadillacs and Dinosaurs by Capcom. The Mega-CD game was only released in North America and Brazil.nnnnSet in the "Xenozoic Age", which occurs after a disaster in the year 2020 causing all of Earth's previous inhabitants to share the planet at once. In order to maintain balance disrupted by a mutant-like race known as the Girth, you set out in a 1953 Cadillac with machine guns.nnnnIt is an on-the-rails FMV game, where you spend most of the time avoiding obstacles and shooting enemies.</desc>
-		<image>./images/Cadillacs and Dinosaurs - The Second Cataclysm (USA)-image.jpg</image>
-		<marquee>./images/Cadillacs and Dinosaurs - The Second Cataclysm (USA)-marquee.png</marquee>
-		<thumbnail>./images/Cadillacs and Dinosaurs - The Second Cataclysm (USA)-thumb.jpg</thumbnail>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Rocket Science Games</developer>
-		<publisher>Rocket Science Games</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<playcount>2</playcount>
-		<lastplayed>20220911T052014</lastplayed>
-		<gametime>41</gametime>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Batman Returns (USA).chd</path>
-		<name>Batman Returns</name>
-		<desc>Batman Returns on the SEGA CD is an enhanced version of the Genesis adaptation of the movie. It includes the entirety of the original platform game, but adds all-new driving levels.
-
-The game can be played in three ways: either as only the platform game, only the racing game, or a combination of both. Each option features a unique ending sequence.
-
-For every of the original version's five platform levels, there is a related driving section in which the player controls either the Batmobile or the Batskiboat. Both in perspective and gameplay, these sections are reminiscent of arcade titles like OutRun. Seen from above and behind, the player's vehicle must reach checkpoints before a timer runs out, receiving bonus points for any surplus seconds. The CD system's hardware is used for sprite scaling and other tricks, achieving a 3D effect.
-
-The game being based on an action-filled movie, there's not only driving but also shooting: both the car and the boat are armed with machine guns and heat-seeking missiles (with limited ammunition). Besides the roads being full of enemies in general, each level also ends in a boss fight against a big (and usually heavily armed) vehicle.
-
-The game features CD-based audio tracks, replacing those from the original.</desc>
-		<image>./images/Batman Returns (USA)-image.png</image>
-		<marquee>./images/Batman Returns (USA)-marquee.png</marquee>
-		<thumbnail>./images/Batman Returns (USA)-thumb.png</thumbnail>
-		<rating>0.75</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Malibu Games</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220912T172352</lastplayed>
-		<lang>en</lang>
-		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T235813" />
 	</game>
 </gameList>

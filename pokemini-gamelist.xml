@@ -76,25 +76,6 @@
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20221011T141838" />
 	</game>
-	<game id="189687">
-		<path>./Pokemon Party Mini - Slowking's Judge (Europe) (GameCube).zip</path>
-		<name>Pokemon Party Mini - Slowking's Judge</name>
-		<desc>The player (a Slowking) is the judge of a tennis court. The object of the game is to watch the tennis balls go by and make the correct call based on where they land. If they land to the left of the line, they're in. If they land to the right or go straight through without landing, they're out. The A button makes Slowking rule an out, and the B button makes it rule an in. Rather quickly, the game begins to get tricky; A ball may suddenly change direction in midair, making it land in when it looked like an out, or vice versa; a ball may also vanish for a second, then reappear as it hits the ground; Two balls may appear simultaneously (the trick with this one is to only rule the ball that can actually be seen hitting the ground). If Slowking makes an incorrect call, the game is over. Failing to make a call in time is counted as an incorrect call.
-
-This minigame was emulated onto Pokémon Channel as an entire Pokémon mini cartridge.</desc>
-		<image>./images/Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)-image.png</image>
-		<video>./videos/Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)-video.mp4</video>
-		<marquee>./images/Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)-marquee.png</marquee>
-		<thumbnail>./images/Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)-thumb.png</thumbnail>
-		<developer>Ambrella</developer>
-		<publisher>Nintendo</publisher>
-		<family>Pokémon</family>
-		<players>1</players>
-		<md5>a46b17f221404b64e914535831f36c3a</md5>
-		<lang>en</lang>
-		<region>eu</region>
-		<scrap name="ScreenScraper" date="20221011T141848" />
-	</game>
 	<game id="189018">
 		<path>./Pokemon Zany Cards (USA, Europe).zip</path>
 		<name>Pokémon Zany Cards</name>
@@ -833,5 +814,27 @@ This minigame was emulated onto Pokémon Channel as an entire Pokémon mini cart
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20221011T142233" />
+	</game>
+	<game id="189687">
+		<path>./Pokemon Party Mini - Slowking's Judge (Europe) (GameCube).zip</path>
+		<name>Pokemon Party Mini - Slowking's Judge</name>
+		<desc>The player (a Slowking) is the judge of a tennis court. The object of the game is to watch the tennis balls go by and make the correct call based on where they land. If they land to the left of the line, they're in. If they land to the right or go straight through without landing, they're out. The A button makes Slowking rule an out, and the B button makes it rule an in. Rather quickly, the game begins to get tricky; A ball may suddenly change direction in midair, making it land in when it looked like an out, or vice versa; a ball may also vanish for a second, then reappear as it hits the ground; Two balls may appear simultaneously (the trick with this one is to only rule the ball that can actually be seen hitting the ground). If Slowking makes an incorrect call, the game is over. Failing to make a call in time is counted as an incorrect call.
+
+This minigame was emulated onto Pokémon Channel as an entire Pokémon mini cartridge.</desc>
+		<image>./images/Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)-image.png</image>
+		<video>./videos/Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)-video.mp4</video>
+		<marquee>./images/Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)-marquee.png</marquee>
+		<thumbnail>./images/Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)-thumb.png</thumbnail>
+		<developer>Ambrella</developer>
+		<publisher>Nintendo</publisher>
+		<family>Pokémon</family>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221122T000635</lastplayed>
+		<md5>a46b17f221404b64e914535831f36c3a</md5>
+		<gametime>12</gametime>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221011T141848" />
 	</game>
 </gameList>

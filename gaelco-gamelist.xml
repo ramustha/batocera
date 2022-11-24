@@ -1,28 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game>
-		<path>./smashdrvb.zip</path>
-		<name>Smashing Drive (UK)</name>
-		<playcount>1</playcount>
-		<lastplayed>20220720T120618</lastplayed>
-		<gametime>351</gametime>
-	</game>
-	<game id="149742">
-		<path>./gfootbal.zip</path>
-		<name>Gaelco Football</name>
-		<desc>Gaelco Football is an arcade football game and a follow up to Football Power from the same developer. Like it's predecessor it has an actual ball attached to the cabinet that the player has to kick on to shoot, pass and tackle. The machine measures both the force and direction of the player's kick. In addition, the game is controlled with a joystick for movement and three buttons for additional actions such as changing the controlled player, blocking balls in defence and increasing the running speed. The game consists of three competition levels in single player as well as a single match mode for two players. On all competition levels the aim is to win all matches by getting through the elimination rounds. The easy level is a four team training league consisting of two elimination rounds (semi finals and finals). If there is a draw the match is decided with a round of penalties (three for each team). The medium level is a European cup consisting of four elimination rounds that works like the easy level. The hardest level is the European League which is a tournament in the style of Champions League which consists of four groups with four teams each who play both home and away. After these six games the two best go on to the next stage which consists of two elimination rounds with two matches in each. After that there is the cup final which decides the winner of the tournament. The total number of games in the European League is therefore eleven.</desc>
-		<image>./images/gfootbal-image.png</image>
-		<video>./videos/gfootbal-video.mp4</video>
-		<releasedate>20020101T000000</releasedate>
-		<arcadesystemname>gaelco</arcadesystemname>
-		<playcount>12</playcount>
-		<lastplayed>20220720T125216</lastplayed>
-		<md5>503cae0d799f254c47bb72d68fa27fac</md5>
-		<gametime>1329</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220720T124704" />
-	</game>
 	<game id="64287">
 		<path>./smashdrv.zip</path>
 		<name>Smashing Drive</name>
@@ -42,30 +19,6 @@
 		<lang>en</lang>
 		<region>wr</region>
 		<scrap name="ScreenScraper" date="20220720T124635" />
-	</game>
-	<game id="40103">
-		<path>./atvtrack.zip</path>
-		<name>Atv Track</name>
-		<desc>A four-wheel motorcycle racing simulator with four different circuits and two selectable modes : Practice and Competition.</desc>
-		<image>./images/atvtrack-image.png</image>
-		<video>./videos/atvtrack-video.mp4</video>
-		<marquee>./images/atvtrack-marquee.png</marquee>
-		<thumbnail>./images/atvtrack-thumb.png</thumbnail>
-		<boxback>./images/atvtrack-boxback.png</boxback>
-		<rating>0</rating>
-		<releasedate>20020101T000000</releasedate>
-		<publisher>Gaelco</publisher>
-		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
-		<arcadesystemname>gaelco</arcadesystemname>
-		<players>1</players>
-		<hidden>true</hidden>
-		<playcount>8</playcount>
-		<lastplayed>20220720T122058</lastplayed>
-		<md5>033759ef626b436a8bab8b53a17d27f9</md5>
-		<gametime>704</gametime>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20220720T124638" />
 	</game>
 	<game>
 		<path>./footbpow.zip</path>
@@ -179,27 +132,86 @@ You must choose from four pizza couriers each with his or her own particular abi
 		<releasedate>19700101T010000</releasedate>
 		<hidden>true</hidden>
 	</game>
+	<game id="149742">
+		<path>./gfootbal.zip</path>
+		<name>Gaelco Football</name>
+		<desc>Gaelco Football is an arcade football game and a follow up to Football Power from the same developer. Like it's predecessor it has an actual ball attached to the cabinet that the player has to kick on to shoot, pass and tackle. The machine measures both the force and direction of the player's kick. In addition, the game is controlled with a joystick for movement and three buttons for additional actions such as changing the controlled player, blocking balls in defence and increasing the running speed. The game consists of three competition levels in single player as well as a single match mode for two players. On all competition levels the aim is to win all matches by getting through the elimination rounds. The easy level is a four team training league consisting of two elimination rounds (semi finals and finals). If there is a draw the match is decided with a round of penalties (three for each team). The medium level is a European cup consisting of four elimination rounds that works like the easy level. The hardest level is the European League which is a tournament in the style of Champions League which consists of four groups with four teams each who play both home and away. After these six games the two best go on to the next stage which consists of two elimination rounds with two matches in each. After that there is the cup final which decides the winner of the tournament. The total number of games in the European League is therefore eleven.</desc>
+		<image>./images/gfootbal-image.png</image>
+		<video>./videos/gfootbal-video.mp4</video>
+		<releasedate>20020101T000000</releasedate>
+		<arcadesystemname>gaelco</arcadesystemname>
+		<playcount>15</playcount>
+		<lastplayed>20221004T205914</lastplayed>
+		<md5>503cae0d799f254c47bb72d68fa27fac</md5>
+		<gametime>1536</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221118T172023" />
+	</game>
+	<game>
+		<path>./smashdrvb.zip</path>
+		<name>Smashing Drive</name>
+		<desc>Smashing Drive puts you in the driver's seat of an insane, outrageous taxi on the busy streets of New York City. Your job is to simply race from point to point in the fastest time possible.
+
+The key to success in Smashing Drive lies in two features: crazy power-ups and hidden shortcuts. Almost all of the power-ups transform your taxi in some way that allows you to smash your way through traffic with ease. And the shortcuts usually involve crashing through the insides of buildings, like movie theaters and sports arenas.</desc>
+		<thumbnail>./images/smashdrvb-thumb.jpg</thumbnail>
+		<releasedate>20001210T000000</releasedate>
+		<developer>Gaelco SA.</developer>
+		<publisher>Gaelco, S.A.</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20221014T060141</lastplayed>
+		<md5>0150d5da73ff7d308c35cced55e9a90f</md5>
+		<gametime>409</gametime>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221118T172024" />
+		<scrap name="TheGamesDB" date="20221014T060039" />
+	</game>
 	<game id="40103">
-		<path>./atvtracka.zip</path>
-		<name>ATV Track</name>
+		<path>./atvtrack.zip</path>
+		<name>Atv Track</name>
 		<desc>A four-wheel motorcycle racing simulator with four different circuits and two selectable modes : Practice and Competition.</desc>
-		<image>./images/atvtracka-image.png</image>
-		<video>./videos/atvtracka-video.mp4</video>
-		<marquee>./images/atvtracka-marquee.png</marquee>
-		<thumbnail>./images/atvtracka-thumb.png</thumbnail>
-		<boxback>./images/atvtracka-boxback.png</boxback>
+		<image>./images/atvtrack-image.png</image>
+		<video>./videos/atvtrack-video.mp4</video>
+		<marquee>./images/atvtrack-marquee.png</marquee>
+		<thumbnail>./images/atvtrack-thumb.png</thumbnail>
+		<boxback>./images/atvtrack-boxback.png</boxback>
 		<rating>0</rating>
 		<releasedate>20020101T000000</releasedate>
 		<publisher>Gaelco</publisher>
 		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
 		<arcadesystemname>gaelco</arcadesystemname>
 		<players>1</players>
-		<playcount>12</playcount>
-		<lastplayed>20221002T210201</lastplayed>
-		<md5>85de891229e45b4314346f633af1d557</md5>
-		<gametime>979</gametime>
+		<hidden>true</hidden>
+		<playcount>8</playcount>
+		<lastplayed>20220720T122058</lastplayed>
+		<md5>033759ef626b436a8bab8b53a17d27f9</md5>
+		<gametime>704</gametime>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20220720T124634" />
+		<scrap name="ScreenScraper" date="20221121T210059" />
+	</game>
+	<game id="40103">
+		<path>./atvtracka.zip</path>
+		<name>Atv Track</name>
+		<desc>A four-wheel motorcycle racing simulator with four different circuits and two selectable modes : Practice and Competition.</desc>
+		<image>./images/atvtracka-image.png</image>
+		<video>./videos/atvtracka-video.mp4</video>
+		<marquee>./images/atvtracka-marquee.png</marquee>
+		<thumbnail>./images/atvtracka-thumb.png</thumbnail>
+		<releasedate>20020101T000000</releasedate>
+		<publisher>Gaelco</publisher>
+		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
+		<arcadesystemname>gaelco</arcadesystemname>
+		<players>1</players>
+		<playcount>5</playcount>
+		<lastplayed>20221118T173412</lastplayed>
+		<md5>85de891229e45b4314346f633af1d557</md5>
+		<gametime>339</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221121T210100" />
 	</game>
 </gameList>

@@ -1296,20 +1296,6 @@ With the intention to provide more action in the battles, the "No Contest" Moves
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./ghostlop.zip</path>
-		<name>Ghostlop</name>
-		<desc>Bruce and McCoy are 2 ghost hunters who have to eradicate all the Great King of Terror's minions to save the world from his threat.</desc>
-		<image>./downloaded_images/ghostlop-image.png</image>
-		<video>./downloaded_images/ghostlop-video.mp4</video>
-		<marquee>./images/ghostlop-marquee.png</marquee>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<arcadesystemname>dataeast</arcadesystemname>
-		<players />
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./svc.zip</path>
 		<name>SVC Chaos - SNK Vs. Capcom</name>
 		<desc>SVC Chaos: SNK vs. Capcom on Neo Geo is a fighting game featuring the warriors of the two famous series Street Fighter and King of Fighters. The game offers an arcade mode where one follows the story of his hero, as well as modes versus, challenge and survival.</desc>
@@ -2853,5 +2839,25 @@ Unique to Aggressors of Dark Kombat is the combination of traditional side-scrol
 		<lastplayed>20221002T115151</lastplayed>
 		<gametime>802</gametime>
 		<lang>en</lang>
+	</game>
+	<game id="37582">
+		<path>./ghostlop.zip</path>
+		<name>Ghostlop</name>
+		<desc>Ghost Lop is an excellent Ghostbusters themed puzzle game by Data East from 1996. It combines the fast action of an Arkanoid style game, with the quick thinking of a Bust-A-Move type game. The game was re-considered for release in 2001, but SNK's untimely demise later that same year may have ended that possibility. Data East was best known for its' Chain Reaction / Magical Drop series of puzzle games, and even later included the Ghostlop characters in one of the later releases for modern home game systems.</desc>
+		<image>./downloaded_images/ghostlop-image.png</image>
+		<video>./downloaded_images/ghostlop-video.mp4</video>
+		<marquee>./images/ghostlop-marquee.png</marquee>
+		<thumbnail>./images/ghostlop-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Puzzle-Game / Throw</genre>
+		<arcadesystemname>neogeo</arcadesystemname>
+		<players>1-2</players>
+		<md5>97a1304835464b8bb676c8b80f70f3cd</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221118T175254" />
 	</game>
 </gameList>

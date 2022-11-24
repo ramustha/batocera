@@ -4193,27 +4193,6 @@ Gameplay involves walking Dizzy through the levels, picking up objects and using
 		<region>eu</region>
 	</game>
 	<game>
-		<path>./Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta).zip</path>
-		<name>Les Schtroumpfs Autour du Monde</name>
-		<desc>The magic crystal has broken. And so inquisitive Smurf and Smurfette are teleported through time and all around the world. Sadly they discover that the whole world suffers from pollution. They set off to find the 21 crystals in each area and smurf the world's rubbish in order to get back to their European village. 
-
-So you as male Smurf or female Smurfette should travel from one continent to another. The continents represent North Pole, Africa, Asia, North America, South America, and Australia, and each of them consists of 3 levels. On each level character should collect certain number of crystal shards, which in sum gives 21 crystal shards. During the level character should collect other items to raise a score, avoid or eliminate the enemies specific for each area jumping over them, swim somewhere, or run away from cougar. 
-
-Certain parts of the game may be accessed via password.
-
-The game is available in French/English/Spanish/German.
-</desc>
-		<image>./images/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta)-image.png</image>
-		<marquee>./images/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta)-marquee.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Virtual Studio</developer>
-		<publisher>Infogrames</publisher>
-		<genre>Platform</genre>
-		<lang>es,fr,de</lang>
-		<region>eu</region>
-	</game>
-	<game>
 		<path>./Alex Kidd in Miracle World (USA, Europe) (v1.1).zip</path>
 		<name>Alex Kidd in Miracle World</name>
 		<desc>Many centuries ago, on the planet Aries, there lived a boy called Alex Kidd. For seven years, he lived on Mt. Eternal studying Shellcore, an ancient art that makes one strong enough to break rocks into pieces. As he was leaving the mountain one day to travel to his spiritual homeland, a dying man told him that the peaceful city of Radactian was in grave danger. Before taking his last breath, the man gave Alex a piece of a map and a medallion made of Sun Stone.
@@ -4442,5 +4421,30 @@ Your mission ... stop enemy trains, intercept the terrible german V-1 buzz bombs
 		<lang>en</lang>
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20220929T175757" />
+	</game>
+	<game id="18527">
+		<path>./Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta).zip</path>
+		<name>The Smurfs Travel The World</name>
+		<desc>The magic crystal has broken. And so inquisitive Smurf and Smurfette are teleported through time and all around the world. Sadly they discover that the whole world suffers from pollution. They set off to find the 21 crystals in each area and smurf the world's rubbish in order to get back to their European village. 
+
+So you as male Smurf or female Smurfette should travel from one continent to another. The continents represent North Pole, Africa, Asia, North America, South America, and Australia, and each of them consists of 3 levels. On each level character should collect certain number of crystal shards, which in sum gives 21 crystal shards. During the level character should collect other items to raise a score, avoid or eliminate the enemies specific for each area jumping over them, swim somewhere, or run away from cougar. 
+
+Certain parts of the game may be accessed via password.
+
+The game is available in French/English/Spanish/German.</desc>
+		<image>./images/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta)-image.png</image>
+		<marquee>./images/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta)-marquee.png</marquee>
+		<thumbnail>./images/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Virtual Studio</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Platform</genre>
+		<family>Les Schtroumpfs</family>
+		<players>1</players>
+		<md5>4aba236d2a81e738adaaf5b00de81653</md5>
+		<lang>es,de,fr,en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20221118T174228" />
 	</game>
 </gameList>
