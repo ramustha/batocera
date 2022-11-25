@@ -1,0 +1,498 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="14827">
+		<path>./Dynasty Warriors 5.iso</path>
+		<name>Dynasty Warriors 5</name>
+		<desc>The series returns for yet another iteration removing majority of the features included in Empires and Xtreme Legends. The setting is again ancient China. This time there are 48 different characters to choose from in Musou mode. The majority of the 48 characters have to be unlocked and only 6 new characters have been added to the series. Each character has his or her own storyline.</desc>
+		<image>./images/Dynasty Warriors 5-image.png</image>
+		<video>./videos/Dynasty Warriors 5-video.mp4</video>
+		<marquee>./images/Dynasty Warriors 5-marquee.png</marquee>
+		<thumbnail>./images/Dynasty Warriors 5-thumb.png</thumbnail>
+		<fanart>./images/Dynasty Warriors 5-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20050913T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Koei</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Dynasty Warriors</family>
+		<players>2</players>
+		<playcount>4</playcount>
+		<lastplayed>20220926T211233</lastplayed>
+		<gametime>324</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220929T181756" />
+		<scrap name="HfsDB" date="20220918T155617" />
+	</game>
+	<game id="14627">
+		<path>./Hitman - Blood Money.iso</path>
+		<name>Hitman : Blood Money</name>
+		<desc>Hitman: Blood Money on Xbox features Agent 47 in an action/infiltration game. You are a hitman tasked with eliminating your targets with the utmost discretion. Blend into the background, find the quietest way to your target and do what you do best: kill. You can use any means to achieve your goal.</desc>
+		<image>./images/Hitman - Blood Money-image.png</image>
+		<video>./videos/Hitman - Blood Money-video.mp4</video>
+		<marquee>./images/Hitman - Blood Money-marquee.png</marquee>
+		<thumbnail>./images/Hitman - Blood Money-thumb.png</thumbnail>
+		<fanart>./images/Hitman - Blood Money-fanart.jpg</fanart>
+		<rating>0.95</rating>
+		<releasedate>20060530T000000</releasedate>
+		<developer>Eidos Interactive</developer>
+		<publisher>IO Interactive</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222452" />
+	</game>
+	<game id="14725">
+		<path>./Hitman - Contracts.iso</path>
+		<name>Hitman Contracts</name>
+		<desc>Hitman Contracts is a third-person infiltration game for Xbox. Some of the missions are remakes of the first game, but others are new. The objectives are varied: eliminate a pair of murderous brothers, interrupt a Russian arms deal or escape from an asylum. Agent 47 can still disguise himself, poison his victims and use various weapons.</desc>
+		<image>./images/Hitman - Contracts-image.png</image>
+		<video>./videos/Hitman - Contracts-video.mp4</video>
+		<marquee>./images/Hitman - Contracts-marquee.png</marquee>
+		<thumbnail>./images/Hitman - Contracts-thumb.png</thumbnail>
+		<fanart>./images/Hitman - Contracts-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<developer>IO Interactive</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222457" />
+	</game>
+	<game id="14694">
+		<path>./Harry Potter and the Goblet of Fire.iso</path>
+		<name>Harry Potter And The Goblet Of Fire</name>
+		<desc>Harry, Ron, and Hermione are back in Harry Potter and the Goblet of Fire, a game based on J.K. Rowling's fourth book. The game follows Harry, the wizard-in-training, as he confronts a fire-breathing dragon, rescues friends from the icy depths of the Black Lake, and navigates the twisting corridors of a maze. As Harry, Ron, or Hermione, you can cast a variety of spells in both single-player and cooperative modes.</desc>
+		<image>./images/Harry Potter and the Goblet of Fire-image.png</image>
+		<video>./videos/Harry Potter and the Goblet of Fire-video.mp4</video>
+		<marquee>./images/Harry Potter and the Goblet of Fire-marquee.png</marquee>
+		<thumbnail>./images/Harry Potter and the Goblet of Fire-thumb.png</thumbnail>
+		<fanart>./images/Harry Potter and the Goblet of Fire-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<family>Harry Potter</family>
+		<players>2-3</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222503" />
+	</game>
+	<game id="14674">
+		<path>./Hitman 2 - Silent Assassin.iso</path>
+		<name>Hitman 2 : Silent Assassin</name>
+		<desc>The sequel to Hitman forces a retired assassin back into action by treason. Visit the dark recesses of the world corrupted by crime, greed, degradation, and dishonor. Your contracts will take you to exotic locations around the globe including Sicily, St. Petersburg, Japan, Malaysia, and India. A diverse arsenal of equipment, from armor-piercing rifles and explosives to chloroform and poison darts, are at your disposal. Stalk and eliminate your targets up close and personal, in either first- or third-person perspectives. You must decide whether to use stealth or aggression, but be careful--you'll have to deal with the consequences.</desc>
+		<image>./images/Hitman 2 - Silent Assassin-image.png</image>
+		<video>./videos/Hitman 2 - Silent Assassin-video.mp4</video>
+		<marquee>./images/Hitman 2 - Silent Assassin-marquee.png</marquee>
+		<thumbnail>./images/Hitman 2 - Silent Assassin-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20020930T000000</releasedate>
+		<developer>IO Interactive</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221121T222525</lastplayed>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222507" />
+	</game>
+	<game id="202493">
+		<path>./I-Ninja.iso</path>
+		<name>I-Ninja</name>
+		<desc>A robot army led by Master O-Dor has destroyed the ninja clan. As the last of your kind, you must take on the robot army and defeat Master O-Dor. You play a cartoon ninja with a big head in a level-based 3D platform game. Each level is packed with new skills to master, challenges to beat, and grades to earn. Various power-ups can be acquired as you progress, including sword upgrades, shurikens, darts and a ninja revive move which boosts your health.</desc>
+		<image>./images/I-Ninja-image.png</image>
+		<video>./videos/I-Ninja-video.mp4</video>
+		<marquee>./images/I-Ninja-marquee.png</marquee>
+		<thumbnail>./images/I-Ninja-thumb.png</thumbnail>
+		<releasedate>20031204T000000</releasedate>
+		<developer>Argonaut Games</developer>
+		<publisher>Namco</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221121T222540</lastplayed>
+		<gametime>12</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222512" />
+	</game>
+	<game id="14986">
+		<path>./Ice Age 2 - The Meltdown.iso</path>
+		<name>Ice Age 2 : The Meltdown</name>
+		<desc>Ice Age 2: The Meltdown is loosely based on the movie of the same name. The game takes place in prehistory - you play as Scrat, the hapless (but not totally helpless!) proto-squirrel, helping your friends escape the coming of a huge flood. The WASD keys move you forward and back, left and right, and the mouse controls camera movement and some actions. Scrat has a few special moves as well, such as sniff, his spin attack, a double jump, a ground stomp (useful for breaking ice), and a roll attack. Much of the game consists of hunting down acorns and other special nuts for health renewal or for unlocking bonuses. There are a few mini-games within the game - you can play as Sid, zipping along an ice slide while avoiding obstacles; there's also penguin-bowling and a mini-game where you "shoot" at monkeys to regain a walnut that was whisked out from under your nose.</desc>
+		<image>./images/Ice Age 2 - The Meltdown-image.png</image>
+		<video>./videos/Ice Age 2 - The Meltdown-video.mp4</video>
+		<marquee>./images/Ice Age 2 - The Meltdown-marquee.png</marquee>
+		<thumbnail>./images/Ice Age 2 - The Meltdown-thumb.png</thumbnail>
+		<releasedate>20060314T000000</releasedate>
+		<developer>Eurocom Developments</developer>
+		<publisher>Sierra</publisher>
+		<genre>Various</genre>
+		<family>Ice Age</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222516" />
+	</game>
+	<game id="14997">
+		<path>./Burnout.iso</path>
+		<name>Burnout</name>
+		<desc>Driving overpowered cars through dense traffic is now possible in the Burnout racing game for Xbox. Very arcade driving allows you to play different modes. To become a driving ace, compete in championships, single races, head-to-head, time trials, survival mode, and more.</desc>
+		<image>./images/Burnout-image.png</image>
+		<video>./videos/Burnout-video.mp4</video>
+		<marquee>./images/Burnout-marquee.png</marquee>
+		<thumbnail>./images/Burnout-thumb.png</thumbnail>
+		<fanart>./images/Burnout-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20020430T000000</releasedate>
+		<developer>Criterion Games</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Race, Driving</genre>
+		<family>Burnout</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222734" />
+	</game>
+	<game id="14772">
+		<path>./Burnout_ Revenge.iso</path>
+		<name>Burnout : Revenge</name>
+		<desc>The fourth Burnout racing game puts you once again in the eye of traffic storms, where you do not only rush to be the fastest, but brutally, yet stylishly, take down your opponents. This is emphasized by impact time, which shows crashes in all their slowed-down glory, and the boost you receive after a successful wrecking. Reckless driving bumps your Revenge rank, unlocking new events. This can also be achieved by medal placings that grant new vehicles.</desc>
+		<image>./images/Burnout_ Revenge-image.png</image>
+		<video>./videos/Burnout_ Revenge-video.mp4</video>
+		<marquee>./images/Burnout_ Revenge-marquee.png</marquee>
+		<thumbnail>./images/Burnout_ Revenge-thumb.png</thumbnail>
+		<fanart>./images/Burnout_ Revenge-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<releasedate>20050913T000000</releasedate>
+		<developer>Criterion Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Race, Driving</genre>
+		<family>Burnout</family>
+		<players>2-6</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222739" />
+	</game>
+	<game id="14689">
+		<path>./Call of Duty 3.iso</path>
+		<name>Call Of Duty 3</name>
+		<desc>Call of Duty 3: March to Paris is a first-person shooter for Xbox. Still in the heart of the Second World War, in 1944 to be precise, when the German invasion starts to get worse, it is up to you to launch the assault to push back the enemy. In addition to the single-player campaign, it is also possible to try out multiplayer.</desc>
+		<image>./images/Call of Duty 3-image.png</image>
+		<video>./videos/Call of Duty 3-video.mp4</video>
+		<thumbnail>./images/Call of Duty 3-thumb.png</thumbnail>
+		<fanart>./images/Call of Duty 3-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<releasedate>20061107T000000</releasedate>
+		<developer>Treyarch Corporation</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Call Of Duty</family>
+		<players>2-16</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222741" />
+	</game>
+	<game id="14758">
+		<path>./Crash Bandicoot - The Wrath of Cortex.iso</path>
+		<name>Crash Bandicoot : The Wrath Of Cortex</name>
+		<desc>Crash Bandicoot: The Wrath of Cortex is the first Crash Bandicoot game for a system other than the original PlayStation. The story is set sometime after Warped: Dr. Cortex wants revenge after being defeated by Crash (again). For this purpose, he creates Crunch, a super-bandicoot who can destroy everything that crosses his way. Crunch's power source is a set of magical masks known as the Elementals, each representing a different element, including Earth, Water, Fire, and Ice. The warp room splits levels into their respective elements, with the boss of each section being a battle against Crunch influenced by the Elemental mask of said section. The game is a typical jump and run, with some other action passages, like air combat and a sequence where Crash is trapped inside a giant sphere rolling around in some sort of rollercoaster. All graphics are in 3D, and the sound is typical for cartoon games like this. The whole game is pretty straightforward in design, getting stuck on a puzzle is not really possible.</desc>
+		<image>./images/Crash Bandicoot - The Wrath of Cortex-image.png</image>
+		<video>./videos/Crash Bandicoot - The Wrath of Cortex-video.mp4</video>
+		<marquee>./images/Crash Bandicoot - The Wrath of Cortex-marquee.png</marquee>
+		<thumbnail>./images/Crash Bandicoot - The Wrath of Cortex-thumb.png</thumbnail>
+		<fanart>./images/Crash Bandicoot - The Wrath of Cortex-fanart.jpg</fanart>
+		<rating>0.8</rating>
+		<releasedate>20020415T000000</releasedate>
+		<developer>Travellers Tales</developer>
+		<publisher>Universal Interactive</publisher>
+		<genre>Platform</genre>
+		<family>Crash Bandicoot</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222743" />
+	</game>
+	<game id="14881">
+		<path>./Crash Nitro Kart.iso</path>
+		<name>Crash Nitro Kart</name>
+		<desc>Crash Bandicoot returns to the karting scene with a host of other characters from the adventure series, and this time they have both Neo Cortex and Emperor Velo to worry about. Velo has taken the crew to a remote planet, forced to race for their lives against Neo Cortex and his many evil doers.
+
+Choose from various game modes, from the straight into the action Arcade mode to Adventure mode, following Crash and the gang in the story to save Earth. Race against four friends in multiplayer battle modes, plus connect to the Gamecube for extra options and upload your high scores to the internet ranking system.
+[</desc>
+		<image>./images/Crash Nitro Kart-image.png</image>
+		<video>./videos/Crash Nitro Kart-video.mp4</video>
+		<marquee>./images/Crash Nitro Kart-marquee.png</marquee>
+		<thumbnail>./images/Crash Nitro Kart-thumb.png</thumbnail>
+		<fanart>./images/Crash Nitro Kart-fanart.jpg</fanart>
+		<rating>0.6</rating>
+		<releasedate>20031111T000000</releasedate>
+		<developer>Vicarious Vision</developer>
+		<publisher>Universal Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<family>Crash Bandicoot</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222745" />
+	</game>
+	<game id="14865">
+		<path>./Crash Tag Team Racing.iso</path>
+		<name>Crash Tag Team Racing</name>
+		<desc>The game's story centers on the exploits of the main protagonist, Crash Bandicoot, who must win the ownership of a dilapidated theme park by finding its missing Power Gems before his nemesis, Doctor Neo Cortex, can. Crash Tag Team Racing is the thirteenth installment in the Crash Bandicoot series, as well as the third racing game, following Crash Nitro Kart, which was an indirect sequel to Crash Team Racing.</desc>
+		<image>./images/Crash Tag Team Racing-image.png</image>
+		<video>./videos/Crash Tag Team Racing-video.mp4</video>
+		<marquee>./images/Crash Tag Team Racing-marquee.png</marquee>
+		<thumbnail>./images/Crash Tag Team Racing-thumb.png</thumbnail>
+		<fanart>./images/Crash Tag Team Racing-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20051019T000000</releasedate>
+		<developer>Radical Entertainment</developer>
+		<publisher>Vivendi Universal Games</publisher>
+		<genre>Platform</genre>
+		<family>Crash Bandicoot</family>
+		<players>2-8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222748" />
+	</game>
+	<game id="15038">
+		<path>./Godzilla - Destroy All Monsters Melee.iso</path>
+		<name>Godzilla : Destroy all Monsters Melee</name>
+		<desc>Godzilla: Destroy all Monsters Melee is a fighting game released on Xbox. Get ready to raze entire cities to the ground with the fire of your gigantic feet. Indeed Godzilla has brought all his friends, tens of meters high, to happily get on each other's faces in large human cities that can be completely destroyed.</desc>
+		<image>./images/Godzilla - Destroy All Monsters Melee-image.png</image>
+		<video>./videos/Godzilla - Destroy All Monsters Melee-video.mp4</video>
+		<marquee>./images/Godzilla - Destroy All Monsters Melee-marquee.png</marquee>
+		<thumbnail>./images/Godzilla - Destroy All Monsters Melee-thumb.png</thumbnail>
+		<fanart>./images/Godzilla - Destroy All Monsters Melee-fanart.jpg</fanart>
+		<releasedate>20030416T000000</releasedate>
+		<developer>Pipeworks Software</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Fight</genre>
+		<family>Godzilla</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222751" />
+	</game>
+	<game id="15033">
+		<path>./Godzilla - Save the Earth.iso</path>
+		<name>Godzilla : Save the Earth</name>
+		<desc>Godzilla: Save the Earth is an action game for Xbox. Play with Japan's most popular monster, and fight many other gigantic creatures in fully destructible virtual cities.</desc>
+		<image>./images/Godzilla - Save the Earth-image.png</image>
+		<video>./videos/Godzilla - Save the Earth-video.mp4</video>
+		<marquee>./images/Godzilla - Save the Earth-marquee.png</marquee>
+		<thumbnail>./images/Godzilla - Save the Earth-thumb.png</thumbnail>
+		<fanart>./images/Godzilla - Save the Earth-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>20041102T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Fight</genre>
+		<family>Godzilla</family>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222753" />
+	</game>
+	<game id="14608">
+		<path>./Grand Theft Auto - San Andreas.iso</path>
+		<name>Grand Theft Auto : San Andreas</name>
+		<desc>GTA: San Andreas on Xbox is an action game in which you play as Carl Johnson, a small-time crook who has returned to his hometown. You discover that the hard law of gangs reigns and you have to build a name and reputation to gain respect. The game area is huge and consists of three large cities to complete missions. Murder, corruption, theft, betrayal... Find your place in Los Santos!</desc>
+		<image>./images/Grand Theft Auto - San Andreas-image.png</image>
+		<video>./videos/Grand Theft Auto - San Andreas-video.mp4</video>
+		<marquee>./images/Grand Theft Auto - San Andreas-marquee.png</marquee>
+		<thumbnail>./images/Grand Theft Auto - San Andreas-thumb.png</thumbnail>
+		<fanart>./images/Grand Theft Auto - San Andreas-fanart.jpg</fanart>
+		<rating>0.95</rating>
+		<releasedate>20050607T000000</releasedate>
+		<developer>Take 2 Interactive</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Race, Driving</genre>
+		<family>Grand Theft Auto</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222755" />
+	</game>
+	<game id="14795">
+		<path>./Harry Potter - Quidditch World Cup.iso</path>
+		<name>Harry Potter : Coupe du Monde de Quidditch</name>
+		<desc>Get on your broomstick in Harry Potter: Quidditch World Cup on Xbox. Choose to represent one of the Hogwarts classes or an international team to win the cup of the most popular wizarding sport.</desc>
+		<image>./images/Harry Potter - Quidditch World Cup-image.png</image>
+		<video>./videos/Harry Potter - Quidditch World Cup-video.mp4</video>
+		<marquee>./images/Harry Potter - Quidditch World Cup-marquee.png</marquee>
+		<thumbnail>./images/Harry Potter - Quidditch World Cup-thumb.png</thumbnail>
+		<fanart>./images/Harry Potter - Quidditch World Cup-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>20031028T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<family>Harry Potter</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222757" />
+	</game>
+	<game id="14644">
+		<path>./Harry Potter and the Chamber of Secrets.iso</path>
+		<name>Harry Potter and the Chamber of Secrets</name>
+		<desc>Harry Potter and the Chamber of Secrets is an action/adventure game released on Xbox. Find Harry and his friends in this title inspired by the second adventures of the little wizard. As a bonus, take part in Quidditch matches.</desc>
+		<image>./images/Harry Potter and the Chamber of Secrets-image.png</image>
+		<video>./videos/Harry Potter and the Chamber of Secrets-video.mp4</video>
+		<marquee>./images/Harry Potter and the Chamber of Secrets-marquee.png</marquee>
+		<thumbnail>./images/Harry Potter and the Chamber of Secrets-thumb.png</thumbnail>
+		<fanart>./images/Harry Potter and the Chamber of Secrets-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20021114T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>KnowWonder</publisher>
+		<genre>Adventure</genre>
+		<family>Harry Potter</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222759" />
+	</game>
+	<game id="15050">
+		<path>./Digimon Rumble Arena 2.iso</path>
+		<name>Digimon : Rumble Arena 2</name>
+		<desc>Pick your favorite Digimon and battle your way to the top in this arena-style fighter based on characters from the Digimon TV show. You can play through various interactive (and dangerous) arenas for the championship, or you can rumble with your friends in 2-4 player multiplayer mode. Collect pickups and learn special moves to gain the advantage over your friends, and for the ultimate upgrade, you can evolve (Digi-volve) into bigger and better versions of yourself.</desc>
+		<image>./images/Digimon Rumble Arena 2-image.png</image>
+		<video>./videos/Digimon Rumble Arena 2-video.mp4</video>
+		<marquee>./images/Digimon Rumble Arena 2-marquee.png</marquee>
+		<thumbnail>./images/Digimon Rumble Arena 2-thumb.png</thumbnail>
+		<fanart>./images/Digimon Rumble Arena 2-fanart.jpg</fanart>
+		<rating>0.95</rating>
+		<releasedate>20040903T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fight</genre>
+		<family>Digimon</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222801" />
+	</game>
+	<game id="14938">
+		<path>./Digimon World 4.iso</path>
+		<name>Digimon : Digimon World 4</name>
+		<desc>The game is set in the Digimon Data Squad universe, and revolves around the Seven Great Demon Lords. In this game the player will be able to control the four main Savers characters, Marcus Damon, Thomas H. Norstein, Yoshino "Yoshi" Fujieda, and Keenan Crier along with their respective Digimon partners. The graphics for this game are cel-shaded and the battle system is similar to the Battle Terminal (a Japanese-only arcade game). The game is classified as a "special genre", called a "Dramatic/Innovative RPG", which means that the Digimon partners are affected by how you, the player, treat them. The way your Digimon evolves will be similar to Digimon World; the Digimon will be affected by how you take care of it and, depending on that, will digivolve into different types of Digimon. In Digimon World Data Squad, a new type of digivolution method is used, called the Galactica Evolution System: this will determine what Digimon your partner will evolve into. There will also be new, original characters for this game, meaning that these characters are exclusive to Digimon World Data Squad, and will not appear in any other Digimon Data Squad media.</desc>
+		<image>./images/Digimon World 4-image.png</image>
+		<video>./videos/Digimon World 4-video.mp4</video>
+		<marquee>./images/Digimon World 4-marquee.png</marquee>
+		<thumbnail>./images/Digimon World 4-thumb.png</thumbnail>
+		<fanart>./images/Digimon World 4-fanart.jpg</fanart>
+		<rating>0.65</rating>
+		<releasedate>20050602T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Role playing games</genre>
+		<family>Digimon</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222803" />
+	</game>
+	<game id="5151">
+		<path>./Fantastic Four.iso</path>
+		<name>The Fantastic 4</name>
+		<desc>Based on the 2005 movie of the same name, Fantastic Four lets you control the team of superheroes known as the Fantastic 4. Each character possesses a unique set of abilities that you can use and combine in the hunt for Doctor Doom. The game includes single-player, cooperative, and two-player versus modes.</desc>
+		<image>./images/Fantastic Four-image.png</image>
+		<video>./videos/Fantastic Four-video.mp4</video>
+		<marquee>./images/Fantastic Four-marquee.png</marquee>
+		<thumbnail>./images/Fantastic Four-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>20050627T000000</releasedate>
+		<developer>7 Studios</developer>
+		<publisher>Activision</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222638" />
+	</game>
+	<game id="14791">
+		<path>./FlatOut 2.iso</path>
+		<name>Flatout 2</name>
+		<desc>FlatOut 2 on Xbox marks the return of crazy races with ejectable driver at the slightest crash. There are even more tracks, races and collisions. Also on the menu, a multitude of mini-games featuring the famous kamikaze puppet who serves as your pilot and to whom you must subject 1001 tortures!</desc>
+		<image>./images/FlatOut 2-image.png</image>
+		<video>./videos/FlatOut 2-video.mp4</video>
+		<marquee>./images/FlatOut 2-marquee.png</marquee>
+		<thumbnail>./images/FlatOut 2-thumb.png</thumbnail>
+		<fanart>./images/FlatOut 2-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20060801T000000</releasedate>
+		<developer>Bugbear Entertainment</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-16</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222805" />
+	</game>
+	<game id="14973">
+		<path>./FlatOut.iso</path>
+		<name>Flatout</name>
+		<desc>FlatOut is a racing game on Xbox where all means are good to try to win. At the wheel of your car, push your opponents into the scenery and cause numerous accidents in order to take the lead in the race. The title features 36 fully destructible tracks, 6 destruction arenas and 6 different mini-games.</desc>
+		<image>./images/FlatOut-image.png</image>
+		<video>./videos/FlatOut-video.mp4</video>
+		<marquee>./images/FlatOut-marquee.png</marquee>
+		<thumbnail>./images/FlatOut-thumb.png</thumbnail>
+		<fanart>./images/FlatOut-fanart.jpg</fanart>
+		<rating>0.85</rating>
+		<releasedate>20050712T000000</releasedate>
+		<developer>Bugbear Entertainment</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222807" />
+	</game>
+	<game id="15320">
+		<path>./Freestyle Street Soccer.iso</path>
+		<name>Freestyle Street Soccer</name>
+		<desc>Freestyle Street Soccer known as Urban Freestyle Soccer in Europe is, as the name implies, a Freestyle soccer-game in an urban setting. The game focuses on action and fun instead of realism. You play four on four in five game modes: Turf War, Home Turf, Street Challenge Cup, Exhibition and Multiplayer. The first requires you to conquer neighborhoods in the city by winning soccer matches against rival gangs. Street Challenge Cup allows you to play an entire competition. Each player can perform a large variety of moves beyond the typical soccer game moves, such as scissor kicks, midair juggles, and bicycle kicks. Performing said moves allows you to gain skill points that can be used to unlock new game modes, teams, courts, and cheats. Next to these special moves, you can also interact with the environment. Your players can pick things up and throw them around or manually hit your opponents.</desc>
+		<image>./images/Freestyle Street Soccer-image.png</image>
+		<video>./videos/Freestyle Street Soccer-video.mp4</video>
+		<marquee>./images/Freestyle Street Soccer-marquee.png</marquee>
+		<thumbnail>./images/Freestyle Street Soccer-thumb.png</thumbnail>
+		<fanart>./images/Freestyle Street Soccer-fanart.jpg</fanart>
+		<rating>0.7</rating>
+		<releasedate>20040325T000000</releasedate>
+		<developer>Acclaim</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222809" />
+	</game>
+	<game id="14651">
+		<path>./Harry Potter And The Prisoner Of Azkaban.iso</path>
+		<name>Harry Potter Et Le Prisonnier D'azkaban</name>
+		<desc>Harry Potter and the Prisoner of Azkaban is a third-person action-adventure game for Xbox. As Harry, Ron or Hermione, the player can ride a hippogriff, control a dragon and use various spells (such as the freezing spell) against the terrible guards of Azkaban.</desc>
+		<image>./images/Harry Potter And The Prisoner Of Azkaban-image.png</image>
+		<video>./videos/Harry Potter And The Prisoner Of Azkaban-video.mp4</video>
+		<marquee>./images/Harry Potter And The Prisoner Of Azkaban-marquee.png</marquee>
+		<thumbnail>./images/Harry Potter And The Prisoner Of Azkaban-thumb.png</thumbnail>
+		<fanart>./images/Harry Potter And The Prisoner Of Azkaban-fanart.jpg</fanart>
+		<rating>0.9</rating>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Adventure</genre>
+		<family>Harry Potter</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222811" />
+	</game>
+	<game id="14638">
+		<path>./Harry Potter and the Sorcerer's Stone.iso</path>
+		<name>Harry Potter À L'ecole Des Sorciers</name>
+		<desc>Harry Potter at the Philosopher's Stone takes you into the magical world of the young wizard on Xbox. Through the various missions, you will discover the many secrets of Hogwarts. With your friends Ron and Hermione, learn to ride your broom and master the spells to become a real wizard. Finally, Quidditch will be your new favourite sport.</desc>
+		<image>./images/Harry Potter and the Sorcerer's Stone-image.png</image>
+		<video>./videos/Harry Potter and the Sorcerer's Stone-video.mp4</video>
+		<marquee>./images/Harry Potter and the Sorcerer's Stone-marquee.png</marquee>
+		<thumbnail>./images/Harry Potter and the Sorcerer's Stone-thumb.png</thumbnail>
+		<fanart>./images/Harry Potter and the Sorcerer's Stone-fanart.jpg</fanart>
+		<rating>0.75</rating>
+		<developer>Electronic Arts</developer>
+		<publisher>Warthog</publisher>
+		<genre>Platform</genre>
+		<family>Harry Potter</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221121T222818" />
+	</game>
+	<game>
+		<path>./iso/XDVDMulleter Beta 10.2/XDVDMulleter Beta 10.2/StealthFiles/Video_66D0CB54.iso</path>
+		<name>Video_66D0CB54</name>
+		<rating>0</rating>
+		<releasedate>19700101T070000</releasedate>
+		<hidden>true</hidden>
+		<md5>9c312fdd4186b0ef55ea1fd93d3b6d73</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221124T140414" />
+	</game>
+</gameList>
