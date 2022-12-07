@@ -3399,4 +3399,2179 @@ While in Story Mode, only a limited set of characters are available for each bat
 		<region>eu</region>
 		<scrap name="ScreenScraper" date="20221124T185313" />
 	</game>
+	<game id="24004">
+		<path>./BILLIARDS XCITING.iso</path>
+		<name>Billiards Xciting</name>
+		<desc>Billiards Xciting is a Sports game, developed by Agenda and published by D3Publisher, which was released in Japan in 2002.</desc>
+		<image>./images/BILLIARDS XCITING-image.png</image>
+		<thumbnail>./images/BILLIARDS XCITING-thumb.png</thumbnail>
+		<releasedate>20040227T000000</releasedate>
+		<developer>Agenda</developer>
+		<publisher>Agetec</publisher>
+		<genre>Sports / Pool</genre>
+		<players>2</players>
+		<md5>e37d9a4fad7f62db445d6c115f669043</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063539" />
+	</game>
+	<game id="22022">
+		<path>./Black.iso</path>
+		<name>Black</name>
+		<desc>Newton's third law is put to the test in Black, a first-person shooter from the development team behind the acclaimed Burnout franchise. Players are cast in the role of Jack Kelar, member of an elite tactical squad, whose team is assigned to Eastern Europe on a hunt for an American traitor. Rather than slinking through environments making quick, covert strikes, players in Black perform a full-on assault through nine levels of explosive action.
+ A total of 13 cutting-edge weapons are available to eliminate the enemy threat, but the most distinguishing aspect of Black is its physics engine: fully destructible environments allow players the freedom to shoot inanimate targets as well as live ones. Instead of firing at a patrol of soldiers, for example, players can instead target nearby vehicles or barrels to trigger explosions, shoot out windows and balconies, and more. As Kelar blasts through the besieged cities, snow-covered wilderness, and other levels, shell casings, glass, dust, and debris will fly across the screen as plumes of smoke and raging fires dot the war-torn landscapes.</desc>
+		<image>./images/Black-image.jpg</image>
+		<thumbnail>./images/Black-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20060228T000000</releasedate>
+		<developer>Criterion Games</developer>
+		<publisher>EA Games</publisher>
+		<genre>Shooter / 1st person</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063541" />
+	</game>
+	<game id="22202">
+		<path>./BMX XXX [RIP].iso</path>
+		<name>BMX XXX</name>
+		<desc>Slightly unusual for a tricks/stunt game, BMX XXX adds a twist to its genre by employing themes involving foul language, nudity and toilet humour.
+
+The "Hardcore Tour" mode has you playing the levels, pulling off tricks and completing goals to unlock things such as new levels or stripper videos. The goals are of the odd variety, including things like collecting yellow snow for an icecream man, or gathering empty cans for a homeless guy. Also have to watch out for a health bar which accounts for your injuries and can make you start over levels if you run out of it.
+
+Do well enough in the game and you unlock a topless mode, where the riders are all.. well.. 
+
+There's also a 'create-a-ride' mode, and a two player split screen option, with different games of its own. The game plays on Acclaim's own Dave Mirra series' engine.</desc>
+		<image>./images/BMX XXX [RIP]-image.png</image>
+		<thumbnail>./images/BMX XXX [RIP]-thumb.png</thumbnail>
+		<rating>0.45</rating>
+		<releasedate>20021115T000000</releasedate>
+		<developer>Z-Axis</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Sports / Cycling</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221207T063745</lastplayed>
+		<gametime>76</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063544" />
+	</game>
+	<game>
+		<path>./Bola pantai.iso</path>
+		<name>Bola pantai</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063544" />
+	</game>
+	<game>
+		<path>./BOMBERMAN.iso</path>
+		<name>BOMBERMAN</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063545" />
+	</game>
+	<game id="128751">
+		<path>./CABELAS MONSTER BASS.iso</path>
+		<name>Cabela's Monster Bass</name>
+		<desc>Cabela's Monster Bass is a game based on the fishing and hunting retailer. The main objective of the game is to catch "The Monster Bass" and hold on for your life. There are over 500 locations across North America to fish from, and they all have different kinds of fish. You can also battle world record trophies for the largest fish, from the smallest fish to the largest. The weather is always perfect in this game and there are no hazards. The game plays like most other Cabela fishing games, and strives to be just like real life. When you begin to catch a fish, you must press a series of buttons to catch the fish. The larger the fish, the more buttons you have to press.</desc>
+		<image>./images/CABELAS MONSTER BASS-image.png</image>
+		<thumbnail>./images/CABELAS MONSTER BASS-thumb.png</thumbnail>
+		<releasedate>20071119T000000</releasedate>
+		<developer>Sand Grain Studios</developer>
+		<publisher>Activision</publisher>
+		<genre>Adventure / Fishing</genre>
+		<family>Cabela's</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063550" />
+	</game>
+	<game id="22758">
+		<path>./Capcom Fighting Evolution.iso</path>
+		<name>Capcom Fighting Evolution</name>
+		<desc>Legendary fighters from five Capcom arcade classics finally meet in one totally cool, totally old-school game! This all-new game lets you choose from characters spanning Street Fighter II, Street Fighter III, Street Fighter Alpha, Darkstalkers and Red Earth, never before released in the U.S.</desc>
+		<image>./images/Capcom Fighting Evolution-image.jpg</image>
+		<thumbnail>./images/Capcom Fighting Evolution-thumb.png</thumbnail>
+		<rating>0.45</rating>
+		<releasedate>20041116T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063554" />
+	</game>
+	<game id="22292">
+		<path>./Chaos Legion [RIP].iso</path>
+		<name>Chaos Legion</name>
+		<desc>Chaos Legion is an action game on PS2 in which you play as Sieg Wharheit, a charismatic and seasoned fighter. Your mission is to prevent your former comrade in arms, Victor Delacroix, from plunging the world into chaos. To help you in your task, seven legions join the sword at your side, ready to fight until the final victory.</desc>
+		<image>./images/Chaos Legion [RIP]-image.png</image>
+		<thumbnail>./images/Chaos Legion [RIP]-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20030806T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063601" />
+	</game>
+	<game id="23788">
+		<path>./CHESS CHALLENGER.iso</path>
+		<name>Chess Challenger</name>
+		<desc>Chess is a two-player strategy board game played on a chessboard, a checkered gameboard with 64 squares arranged in an eight-by-eight grid. It is one of the world's most popular games, played by millions of people worldwide at home, in clubs, online, by correspondence, and in tournaments.
+ Each player begins the game with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns. Each of the six piece types moves differently. Pieces are used to attack and capture the opponent's pieces, with the objective to 'checkmate' the opponent's king by placing it under an inescapable threat of capture. In addition to checkmate, the game can be won by the voluntary resignation of the opponent, which typically occurs when too much material is lost, or if checkmate appears unavoidable. A game may also result in a draw in several ways, where neither player wins. The course of the game is divided into three phases: opening, middlegame, and endgame.</desc>
+		<image>./images/CHESS CHALLENGER-image.png</image>
+		<thumbnail>./images/CHESS CHALLENGER-thumb.png</thumbnail>
+		<rating>0.1</rating>
+		<releasedate>20040116T000000</releasedate>
+		<developer>Play It!</developer>
+		<publisher>Play It!</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<md5>021e06375205d16dc1c2e56357365645</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063605" />
+	</game>
+	<game id="22866">
+		<path>./CHICKEN LITTLE.iso</path>
+		<name>Disney's Chicken Little</name>
+		<desc>Based on the 2005 theatrical release, Disney's Chicken Little puts players in control of the titular character right after the infamous "acorn incident" that sullied his reputation. Joined by his friends, Abby Mallard, Runt-of-the-Litter, and Fish-out-of-Water, Chicken Little must outsmart Foxy Loxy and at the same time stave off an alien invasion by using a variety of gadgets and pick-ups. Side-games, mini-games, and multiplayer action will complement the main quest, and players will be able to view clips from the film.
+ The game begins with Chicken Little missing his school bus and it's up to you to help him get to school. There are a total of 24 levels and you must complete a set of objectives in each one before being able to advance to the next.
+ By collecting Buck Cluck Trading Cards in each game level, you can purchase Minigames at the Minigame Store to play with a friend.</desc>
+		<image>./images/CHICKEN LITTLE-image.png</image>
+		<thumbnail>./images/CHICKEN LITTLE-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>20051018T000000</releasedate>
+		<developer>Avalanche Software</developer>
+		<publisher>Buena Vista Games</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063608" />
+	</game>
+	<game id="22528">
+		<path>./Conflict - Vietnam.iso</path>
+		<name>Conflict : Vietnam</name>
+		<desc>Conflict: Vietnam is the third game in Pivotal Games' Conflict Series this time taking you further back in time to the bloody battleground of Vietnam. The game is set during the Tet offensive in the year 1968.
+
+You take over the role of four soldiers who aren't, contrary to previous games, elite S.A.S / Delta Force soldiers. In fact, they are normal American G.I. who are separated from their unit during battle and have to fight themselves through enemy territory with hordes of hostile Vietnamese.
+
+Team up in this tactical shooter.All missions except for the first are playable in co-op with up to four players.</desc>
+		<image>./images/Conflict - Vietnam-image.png</image>
+		<thumbnail>./images/Conflict - Vietnam-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>20041006T000000</releasedate>
+		<developer>Pivotal Games</developer>
+		<publisher>SCi Games</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063612" />
+	</game>
+	<game id="128786">
+		<path>./COOL SHOT.iso</path>
+		<name>Cool Shot</name>
+		<image>./images/COOL SHOT-image.png</image>
+		<thumbnail>./images/COOL SHOT-thumb.png</thumbnail>
+		<releasedate>20030919T000000</releasedate>
+		<developer>DigiCube</developer>
+		<publisher>Phoenix Games</publisher>
+		<genre>Sports</genre>
+		<md5>f6c200760117834f1be4561208ffa7d4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063617" />
+	</game>
+	<game id="22176">
+		<path>./Crash Nitro Kart [RIP].iso</path>
+		<name>Crash Nitro Kart</name>
+		<desc>The orange wonder from down under is back for another adventure, this time from behind the wheel of a go-kart. Inspired by 1999's hit CTR (Crash Team Racing) for the original PlayStation, Crash Nitro Kart offers four-player racing action in a variety of game modes. Players will compete in cup challenges, time trials, and an assortment of multiplayer battles. While speeding along the predominately outdoor environments, players can run over such items as wumpa fruit to increase speed, ramps to leap over chasms, and crates to acquire power-ups for offense or defense. In addition to Crash Bandicoot, featured characters include Crunch, Coco, Dingodile, Neo Cortex, and more.</desc>
+		<image>./images/Crash Nitro Kart [RIP]-image.png</image>
+		<thumbnail>./images/Crash Nitro Kart [RIP]-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>20031111T000000</releasedate>
+		<developer>Vicarious Vision</developer>
+		<publisher>Universal Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<family>Crash Bandicoot</family>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063621" />
+	</game>
+	<game id="128664">
+		<path>./Dance Dance Revolution SuperNOVA.iso</path>
+		<name>Dance Dance Revolution SuperNova</name>
+		<desc>Billed as a "new evolution" in Konami's perennial dancing series, Dance Dance Revolution SuperNova features a new graphics engine and more than 65 songs for 100 minutes of pulse-pounding music. This PlayStation 2 release is based on the 2006 arcade game and includes a variety of new play modes to attract both novice and expert dancers.
+ A voice assisted tutorial mode is available for those new to the series, while aggressive dancers can strut their stuff in the new battle mode, where rhythmic rivals use their feet to perform attacks and counterattacks. In addition to the visual enhancements, which include 3D backgrounds, music videos, and dancers, the game adds EyeToy support, online functionality, and an ability to transfer data to and from the arcade title.</desc>
+		<image>./images/Dance Dance Revolution SuperNOVA-image.jpg</image>
+		<thumbnail>./images/Dance Dance Revolution SuperNOVA-thumb.png</thumbnail>
+		<releasedate>20060926T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Music and Dance</genre>
+		<family>Dance Dance Revolution</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063626" />
+	</game>
+	<game id="153951">
+		<path>./Dance Dance Revolution X2.iso</path>
+		<name>Dance Dance Revolution X2</name>
+		<desc>Dance Dance Revolution X2 is a music video game released by Konami for the North American PlayStation 2. Released on October 27, 2009 alongside Dance Dance Revolution Hottest Party 3, DDR X2 was one of the first Dance Dance Revolution games released to use songs from the 2009-10 soundtrack. It contains a unique soundtrack, a new master mode, additional modes of play and minor changes and refinements but is otherwise unchanged from its global predecessor Dance Dance Revolution X. It was the final DDR game released for the PlayStation 2.</desc>
+		<thumbnail>./images/Dance Dance Revolution X2-thumb.png</thumbnail>
+		<releasedate>20091027T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Music and Dance</genre>
+		<family>Dance Dance Revolution</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063628" />
+	</game>
+	<game id="23061">
+		<path>./DEEP WATER.iso</path>
+		<name>Deep Water</name>
+		<desc>Deep Water is a single player action shooter game set in a post-apocalyptic world where the atmosphere has changed after an unspecified disaster. You now take on the role of a young man named El Shipak who hunts sea monster for a living. Six months ago Shipak has sighted a special monster and he is now obsessed with hunting it down.
+
+Gameplay includes sailing around the oceans with El Shipaks boat. In the Oceans are floating harbors where supplies like fuel and ammo can be bought to hunt down the monster. Here the player can also buy better guns and upgrade his ship. At the harbor the player can also take on missions. Missions usually involve sailing to a certain area and gunning down enemies from the deck of your ship. Maneuvering the ship and fighting off the enemies can?t be done at the same time. If fighting enemies the player can move freely across the deck of the ship.</desc>
+		<image>./images/DEEP WATER-image.png</image>
+		<thumbnail>./images/DEEP WATER-thumb.png</thumbnail>
+		<rating>0.15</rating>
+		<releasedate>20051116T000000</releasedate>
+		<developer>Tamsoft</developer>
+		<publisher>505 Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>08244970abecd8ef06e36fb3e18ff147</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="21977">
+		<path>./DEF JAM FIGHT FOR NY.iso</path>
+		<name>Def Jam : Fight for NY</name>
+		<desc>Def Jam: Fight for NY is the sequel to the out-of-left-field Def Jam: Vendetta.
+
+The game opens with the person you beat in the previous game, D-Mobb, being arrested.  As the police are driving, an SUV comes out of nowhere and smashes into the car, setting D-Mobb free.  After a quick cutscene, it turns out the person who was driving the SUV was you, and you have now joined D-Mobb's crew.
+
+Fight for NY's story mode takes you through the ranks, and pits you against tougher and tougher fighters.  You start off in D-Mobb's crew as a nobody, and will have to work your way up, fighting off people from other crews, including D-Mobb's rival, Crow.  You'll take part mostly in one-on-one brawls, with the odd team match and free for all thrown in.</desc>
+		<image>./images/DEF JAM FIGHT FOR NY-image.png</image>
+		<thumbnail>./images/DEF JAM FIGHT FOR NY-thumb.png</thumbnail>
+		<releasedate>20040928T000000</releasedate>
+		<developer>AKI Corporation</developer>
+		<publisher>EA Games</publisher>
+		<genre>Fight</genre>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="24330">
+		<path>./Downhill Slalom.iso</path>
+		<name>Downhill Slalom</name>
+		<desc>Skiing is a recreational activity and competitive sport in which the participant attaches long runners or skis to boots or shoes on the feet and uses them to travel on top of snow.
+ Slalom is an alpine skiing and alpine snowboarding discipline, involving skiing between poles (gates) spaced much closer together than in Giant Slalom, Super-G or Downhill, thereby causing quicker and shorter turns. Slalom skiing may also refer waterskiing with only one ski. Similar to the alpine version, the skier must pass around buoys on either side of the tow boat.</desc>
+		<image>./images/Downhill Slalom-image.png</image>
+		<thumbnail>./images/Downhill Slalom-thumb.png</thumbnail>
+		<releasedate>20061006T000000</releasedate>
+		<developer>Mere Mortals</developer>
+		<publisher>Phoenix Games</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<md5>b4d4bb71ba1777236792c19fcfb24132</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="21886">
+		<path>./Dragon Ball Z Budokai 3.iso</path>
+		<name>Dragon Ball Z : Budokai 3</name>
+		<desc>All the power of DBZ is yours. A Hall of Fame cast of the greatest DBZ, DBGT and DBZ movie characters meet for first time for some of the fastest paced, highest intensity battles ever seen. New abilities include, for the first time on PlayStation 2, the ability to fly at will in a DBZ fighting game. Pummel your foes on the ground and in the air.
+
+
+In North America, an exclusive re-release package of the game (for the PlayStation "Greatest Hits" line) was released. It contained extras not included in the original black label release. This special version includes an unlockable bonus feature that lets you listen to the original Japanese voice over cast, as well an additional unlockable costume for Goku, Piccolo, and Trunks. It also uses the original Japanese cover art for the case.</desc>
+		<image>./images/Dragon Ball Z Budokai 3-image.png</image>
+		<thumbnail>./images/Dragon Ball Z Budokai 3-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20041116T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Bandai</publisher>
+		<genre>Fight</genre>
+		<family>Dragon Ball Z</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="21959">
+		<path>./Dragon Ball Z Infinite World.iso</path>
+		<name>Dragon Ball Z : Infinite World</name>
+		<desc>This is a fighting game in the Dragon Ball franchise.
+You can choose over 40 different characters from the Dragon Ball Z (and even GT) series.
+Over 130 missions to choose from in Dragon Missions mode (essentially a story mode)
+100 transformations to unlock and 25 different battle stages.</desc>
+		<image>./images/Dragon Ball Z Infinite World-image.png</image>
+		<thumbnail>./images/Dragon Ball Z Infinite World-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>20081204T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Bandai</publisher>
+		<genre>Fight</genre>
+		<family>Dragon Ball Z</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="21896">
+		<path>./DragonBall Z Budokai Tenkaichi 2.iso</path>
+		<name>Dragon Ball Z : Budokai Tenkaichi 2</name>
+		<desc>Tenkaichi 2 is a fighting game with more than 120 playable characters, the biggest amount ever featured in a Dragon Ball game. The main Dragon Adventure mode follows an epic story mode that covers the first Dragon Ball Z saga (Saiyan Saga) right up to the last Dragon Ball GT saga (Dragon Saga), including all of the major battles, making it one of the most comprehensive Dragon Ball Z games.
+
+The same battle format from the predecessor is taken, but extended with improved mechanics, including the return of the "Planet Freedom" feature (last seen in Dragon Ball Z: Budokai 3). There are more combat combos and in-battle transformations, all topped of with a featured encyclopedia, which covers all the most important aspects of the Dragon Ball universe.
+
+All the characters from the previous version are present, with some new ones (there are more in the Wii version), and up to ten characters can participate in a single battle, with a tag system. The locations include those of the previous game, with some additional ones.</desc>
+		<image>./images/DragonBall Z Budokai Tenkaichi 2-image.jpg</image>
+		<thumbnail>./images/DragonBall Z Budokai Tenkaichi 2-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20061107T000000</releasedate>
+		<developer>Spike Chunsoft</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fight / 3D</genre>
+		<family>Dragon Ball Z</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="21882">
+		<path>./DragonBall Z Budokai Tenkaichi 3.iso</path>
+		<name>Dragon Ball Z : Budokai Tenkaichi 3</name>
+		<desc>Budokai Tenkaichi 3 is a 1vs1 fighting game based on the anime/manga Dragon Ball by Akira Toriyama. It includes the apocalyptic battles and the essence of the Dragon Ball series following the main story of the popular manga. As in the previous games of the series, you'll have to select your character (over 162 characters with their own movements and combos) and fight against a friend or the computer in many different game modes with many different stages and weather/time conditions.
+
+Budokai Tenkaichi 3 is the third game of the Budokai Tenkaichi series and features some new things like new characters, Battle Replay to capture your fights and save them to a SD card, night and day stages for more accurate battles following the history made by Akira Toriyama and a Disc Fusion to unlock new modes with the need of previously released games Budokai Tenkaichi and Budokai Tenkaichi 2. There are also new combos and movements as well as the possibility to take control of the Giant Apes for the Saiyans.</desc>
+		<image>./images/DragonBall Z Budokai Tenkaichi 3-image.png</image>
+		<thumbnail>./images/DragonBall Z Budokai Tenkaichi 3-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20071113T000000</releasedate>
+		<developer>Spike Co</developer>
+		<publisher>Bandai</publisher>
+		<genre>Fight</genre>
+		<family>Dragon Ball Z</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="23429">
+		<path>./DRIVE TO SURVIVE.iso</path>
+		<name>Drive to Survive</name>
+		<desc>Mashed is an action-packed top-down arcade-racer. On 13 tracks (which must be played free in single-player first) you need all your driving skills to survive and make it to the finish as the 1st with one of the four different cars available (from slow ones to really fast ones).
+ The heart of the single-player mode (besides the quick battle against the AI) are the bronze, silver and gold challenges for every track you need to complete to play free the next track. Each challenge is one of the seven (eight in multiplayer) game modes available in Mashed. From normal race-events (just be the 1st) over battles where you need to kill all your enemies before they do to the ultimate survival mode where everyone doesn't really like you.</desc>
+		<image>./images/DRIVE TO SURVIVE-image.jpg</image>
+		<thumbnail>./images/DRIVE TO SURVIVE-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20061213T000000</releasedate>
+		<developer>Supersonic Software</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="22416">
+		<path>./FIFA Soccer 2005.iso</path>
+		<name>FIFA Soccer 2005</name>
+		<desc>FIFA Soccer 2005 gives you more control than ever with improved button and control sensitivity and an intuitive Off the Ball Control. Now you can take command of players not in possession of the ball by calling in tackles, jostling for space, and sending your teammates on runs as you control the pitch. With more than 350 official team and league licenses from around the world, an enhanced Career mode, and an improved broadcast, FIFA Soccer 2005 gives you a complete and authentic soccer experience.</desc>
+		<image>./images/FIFA Soccer 2005-image.jpg</image>
+		<thumbnail>./images/FIFA Soccer 2005-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20041012T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>FIFA</family>
+		<players>2-8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="22250">
+		<path>./FIFA Street 2.iso</path>
+		<name>FIFA Street 2</name>
+		<desc>FIFA Street 2 is second installment in EA's four-on-four soccer game. FIFA Street 2 will feature improved controls, many more tricks, and a new juggle mechanic. Take part in game modes, such as friendly, rule the street, and skills challenge. Choose from 20 national teams and 300-plus real-life soccer stars. There are 10 playable venues ranging from London's Westway Leisure Center to the sandy beaches of Brazil.</desc>
+		<image>./images/FIFA Street 2-image.png</image>
+		<thumbnail>./images/FIFA Street 2-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20060228T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>EA Sports BIG</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>FIFA</family>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="22829">
+		<path>./FIGHT NIGHT 2004.iso</path>
+		<name>Fight Night 2004</name>
+		<image>./images/FIGHT NIGHT 2004-image.png</image>
+		<thumbnail>./images/FIGHT NIGHT 2004-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20040405T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>EA Sports</publisher>
+		<genre>Sports / Boxing</genre>
+		<family>Fight Night</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="22802">
+		<path>./Ben 10 - Alien ForcE.iso</path>
+		<name>Ben 10 : Alien Force</name>
+		<desc>Ben 10: Alien Force is a 3D action-adventure game based on the TV series of the same name. 
+
+The major part of the game sees the player taking control of Ben. He can transform in to a multitude of aliens that vary in size and abilities. But some parts are played with Gwen or Kevin. Gameplay includes defeating enemies, bosses, platforming and solving puzzles. The game can be played solo or in co-op.
+
+Regarding the plot, Ben, Gwen and Kevin are on their way to an amusement pier when the tracking system in the car picks up signals from alien artifacts located at the pier. But it appears the Forever Knights are also after the artifacts. While retrieving the artifact, they encounter the Tetramand Plumber named Gorvan who explains the Highbreed are after several artifacts on earth. Now it?s up to you to stop them.</desc>
+		<image>./images/Ben 10 - Alien ForcE-image.jpg</image>
+		<thumbnail>./images/Ben 10 - Alien ForcE-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20081028T000000</releasedate>
+		<developer>Monkey Bar Games</developer>
+		<publisher>D3 Publisher</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Ben 10</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="22631">
+		<path>./FlatOut.iso</path>
+		<name>FlatOut</name>
+		<desc>Blending high-speed races and dynamic crashes along with a cinematic storyline, FlatOut comes to the PS2 with a number of features designed to set it apart from previous racing titles. Players can leave their car before entering a race to check out the competition at the pit areas, glean some information at the local bar, perform tune-ups, and embark on brief missions to further the story. The heart of the game is the racing competition, where players hit the pedal to the metal on a variety of outdoor venues. The environment is also interactive, to the point where cars can smash through wooden barriers, send piles of stacked tires bouncing along the road, and knock orange cones flying into the distance. A number of jumps are also available, to catch some air.
+ Real-time damage modeling is another highlight in FlatOut, with details such as engines, transmissions, and the driver viewable after smashing, crashing, and bashing into rival vehicles. Each part is designed to dent, crumple, crack, or fly off, and parts hurtling through the air can damage other vehicles as well.</desc>
+		<image>./images/FlatOut-image.png</image>
+		<thumbnail>./images/FlatOut-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20050712T000000</releasedate>
+		<developer>Bugbear Entertainment</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="127420">
+		<path>./Sengoku Basara X (Japan).iso</path>
+		<name>Sengoku Basara X</name>
+		<desc>Sengoku Basara is a series of video games developed and published by Capcom, and a bigger media franchise based on it, including two anime series and an animated film. Its story is very loosely based around the many real characters and events of the titular Sengoku era in the history of feudal Japan.
+ Sengoku Basara has several adaptations of the games to different mediums. Notably, two anime series were planned and written by Yasuyuki Muto. The first series, simply titled Sengoku Basara, started broadcast in April 2009. The series' second season, titled Sengoku Basara II, began broadcast in July 2010. Further, a movie adaptation of the series titled Sengoku Basara: The Last Party was released in 2011. All three anime adaptations were licenced and published in the United States by Funimation. A manga adaptation of the second game was created by Yak Haibara. The four volume series, titled Sengoku Basara 2 was published in Japan in 2007 and was later published in the United States in 2012 by UDON under the title Sengoku Basara: Samurai Legends. The title change was due to Sengoku Basara 2 not being released in the United States. Shimotsuki Kairi also created a more general adaptation in 2005 entitled Sengoku Basara Ranse Ranbu.</desc>
+		<image>./images/Sengoku Basara X (Japan)-image.png</image>
+		<thumbnail>./images/Sengoku Basara X (Japan)-thumb.png</thumbnail>
+		<releasedate>20090917T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<family>Sengoku Basara</family>
+		<players>1-2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="127237">
+		<path>./Teenage Mutant Ninja Turtles.iso</path>
+		<name>Teenage Mutant Ninja Turtles</name>
+		<desc>Based on the newer anime styled FOX cartoon of the same name, Teenage Mutant Ninja Turtles features Leonardo, Raphael, Michelangelo and Donatello as green ninjas. Living in the sewers, they creep out when nobody is looking to fight for truth, justice and another slice of pizza. Fighting against the public face of inventor Baxter Stockman and the more shadowy figure of Shredder and his Foot Clan, these Ninja Turtles will get the chance to make their opponents eat shell!
+
+The game is a 3D beat-em-up with multiple players. The game sprites all resemble the cartoony look of the TV show and each turtle features unique moves, sound bytes and fighting style all his own. Ninja Turtle moves include a weaker/quicker attack, a stronger/slower attack, Ninja Shuriken and a Jump-Kick. There is a story mode for one or two players, and there is also a versus mode where two players can fight head to head. In the versus mode, players can fight as all 4 turtles, Splinter, Casey Jones, Hamato Yoshi, The Turtlebot, Hun, Oroku Saki, and Shredder. A Challenge mode is unlockable by defeating Oroku Saki with any Turtle in the Story Mode, which needs to be complete to unlock Hamato Yoshi and his dojo.</desc>
+		<image>./images/Teenage Mutant Ninja Turtles-image.jpg</image>
+		<thumbnail>./images/Teenage Mutant Ninja Turtles-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>20031021T000000</releasedate>
+		<developer>KCE Studios</developer>
+		<publisher>Konami</publisher>
+		<genre>Fight / 3D</genre>
+		<family>Teenage Mutant Ninja Turtles</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="22175">
+		<path>./50 Cent Bullet Proof [RIP].iso</path>
+		<name>50 Cent : Bulletproof</name>
+		<desc>This game lets you step into the footsteps of 50 Cent himself. As he tries to free the kidnapped K-Dog with his crew in the streets of New York City, 50 gets shot nine times (just like his real-life counterpart) and left for dead. After getting stitched up, he sets out to find those who tried to kill him and uncovers a bigger conspiracy.
+
+The game is a 3rd-person shooter with all the typical features: You have a wide array of weapons (including akimbo shooting), there are over 25 moves to finish people off at close range, you can find money to buy health packs, armor, and other helpful items. You can grab enemies and use them as human shields and use mobile objects (like dumpsters on wheels) as cover. The game uses the havok physics engine for a more dynamic environment.</desc>
+		<image>./images/50 Cent Bullet Proof [RIP]-image.png</image>
+		<thumbnail>./images/50 Cent Bullet Proof [RIP]-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>20051117T000000</releasedate>
+		<developer>Genuine Games</developer>
+		<publisher>Vivendi Universal Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="22198">
+		<path>./Ace Combat 5 The Unsung War.iso</path>
+		<name>Ace Combat 5 : The Unsung War</name>
+		<desc>Ace Combat 5: The Unsung War is a first person air combat and flight simulator. Like other Ace Combat games, each mission is determined by a level briefing and objectives. There are 32 missions in the main campaign mode, while an additional "arcade" mode puts the player in the role of Mobius One (from Ace Combat 04: Shattered Skies) as he faces endless waves of enemy attacks. Regardless of the mode chosen, once in the air the player will have control over speed, direction, altitude, gun cannon, missiles and special weapon of their aircraft. A new feature from previous Ace Combat games, is the concept of Wingmen and being able to issue simple orders to them in the air. This allows the player to better coordinated group attacks as well as giving each wingman a personality of their own. Additionally, the player as squadron leader will be asked to make decisions ("Yes/No") while flying in the air. Between missions, the story is progressed through a series of cutscenes.</desc>
+		<image>./images/Ace Combat 5 The Unsung War-image.png</image>
+		<thumbnail>./images/Ace Combat 5 The Unsung War-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20041025T000000</releasedate>
+		<developer>Project Aces</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Simulation</genre>
+		<family>Ace Combat</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="24141">
+		<path>./Air Raid 3.iso</path>
+		<name>Air Raid 3</name>
+		<desc>Air Raid 3 lets players become a jet fighter pilot with numerous missions all over the world. The gameplay is similar to the Ace Combat games as it is primarily focused around dogfighting versus a range of other aircraft in the sky and achieving mission based objectives such as blowing up a certain building of defeating a number of enemy aircraft.</desc>
+		<image>./images/Air Raid 3-image.png</image>
+		<thumbnail>./images/Air Raid 3-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>20060915T000000</releasedate>
+		<developer>Mere Mortals</developer>
+		<publisher>Phoenix Games</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<md5>acffa72d15729ae5064c460ed95f7819</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="22301">
+		<path>./Avatar The Last Airbender.iso</path>
+		<name>Avatar : The Last Airbender</name>
+		<desc>Based on the animated television program of the same name, Avatar: The Last Airbender follows the adventures of a group of kids living in an Asian-inspired fantasy world where the nations have been divided up according to the four classical elements: Air, Water, Earth, and Fire. Within each nation are people who can control that one element, known as benders. The Avatar is a person who can control all four elements, and is charged with keeping peace between the four nations. However, 100 years previous the Avatar had disappeared, making it possible for the Fire Nation to wage a war of conquest across the world. As the show begins, the new Avatar, Aang (originally an Airbender, hence the title of the series), has been found, and now he must travel the world, learning how to bend all four elements and fighting against the Fire Nation alongside his friends Katara (a Waterbender of the Water Tribe) and Sokka (her older brother).</desc>
+		<image>./images/Avatar The Last Airbender-image.png</image>
+		<thumbnail>./images/Avatar The Last Airbender-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20061010T000000</releasedate>
+		<developer>THQ</developer>
+		<publisher>Studio Oz</publisher>
+		<genre>Adventure</genre>
+		<family>Avatar: The Last Airbender</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game id="23713">
+		<path>./Bass Master Fishing.iso</path>
+		<name>Fisherman's Bass Club</name>
+		<desc>The Bass Master Fish game on Playstation 2 offers you the chance to participate in 10 different types of fishing tournaments. By navigating the different water spots, you can discover the best places to cast your line. Twenty different lures are at your disposal and you can enjoy the fight with the fish thanks to an underwater camera.</desc>
+		<image>./images/Bass Master Fishing-image.png</image>
+		<thumbnail>./images/Bass Master Fishing-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20021130T000000</releasedate>
+		<developer>Vingt-et-un Systems</developer>
+		<publisher>Agetec</publisher>
+		<genre>Hunting and Fishing / Fishing</genre>
+		<family>Simple 2000 Series</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063750" />
+	</game>
+	<game id="22165">
+		<path>./Batman Begins [RIP].iso</path>
+		<name>Batman Begins</name>
+		<desc>Step into the shadows of Gotham City's perilous criminal underworld as DC Comics' legendary Dark Knight in the Batman Begins video game. Slated for release day and date with the Warner Bros. Pictures film, Batman Begins challenges players to use fear as their ultimate weapon.
+ A hero is born, in this interactive adaptation of Christopher Nolan's 2005 comics-inspired cinema. Based directly on the movie, the Batman Begins video games are designed to allow players to discover the Batman as for the first time, by exploring the roles of both young Bruce Wayne and his fledgling alter ego.
+ In addition to the combat one would expect from any adventure featuring the grim hero, gameplay involves exploration and stealth. Batman's famous utility belt comes into play, as different gadgets allow him to reach remote areas, survey situations from a safe location, and unleash surprise attacks. The film spotlights its heavy-duty interpretation of the Batmoblie, as well, and the highly versatile vehicle is featured in the game's combat racing sequences.</desc>
+		<image>./images/Batman Begins [RIP]-image.png</image>
+		<thumbnail>./images/Batman Begins [RIP]-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20050614T000000</releasedate>
+		<developer>Eurocom</developer>
+		<publisher>EA Games</publisher>
+		<genre>Platform</genre>
+		<family>Batman</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063753" />
+	</game>
+	<game id="22555">
+		<path>./Genji Dawn of the Samurai [RIP].iso</path>
+		<name>Genji : Dawn of the Samurai</name>
+		<desc>Based loosely on the influential, 11th century romantic novel The Tale of Genji, Genji: Dawn of the Samurai is a combat-focused adventure set in a feudal Japan rife with magic and mystery. Players alternate between control of two lead characters: the young, lithe Yoshitsune, who wields twin samurai blades, and the grizzled, burly Benkei, who fights with an enormous club. Success in battle allows players to gradually upgrade their characters' skills. The game's story leads them on a journey of discovery and honor, through a foreign land where they are often met with distrust and aggression.
+ Acting as the historic hero Genkuro Yoshitsune or his trusted companion Benkei, the warrior monk, you set out on a mission to release the oppressed from the evil forces of the warlord Kiyomori and restore the Genji dynasty to power.</desc>
+		<image>./images/Genji Dawn of the Samurai [RIP]-image.png</image>
+		<thumbnail>./images/Genji Dawn of the Samurai [RIP]-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20050920T000000</releasedate>
+		<developer>Game Republic</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063757" />
+	</game>
+	<game id="127548">
+		<path>./Global Defence Force.iso</path>
+		<name>Global Defence Force</name>
+		<desc>EARTH IS UNDER ATTACK! THE GLOBAL DEFENCE FORCE IS OUR ONLY HOPE!
+
+Giant Ants have been sighted in London! News channels around the world are reporting an invasion of gigantic insects. We are facing the biggest threat in human history!
+
+The Global Defense Force must stand and fight against the alien invaders.
+
+GDF Commandos are sanctioned to use any necessary force to quash the invaders.
+
+Gigantic insects plague our cities. Mankind's future hangs in the balance.</desc>
+		<image>./images/Global Defence Force-image.png</image>
+		<thumbnail>./images/Global Defence Force-thumb.png</thumbnail>
+		<releasedate>20070629T000000</releasedate>
+		<developer>Sandlot</developer>
+		<publisher>Essential Games</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063802" />
+	</game>
+	<game id="22061">
+		<path>./GOD HAND.iso</path>
+		<name>God Hand</name>
+		<desc>God Hand stars a solemn transient named Gene, an unwitting benefactor of a celestial gift after losing his right arm while trying to save a girl in danger. Upon regaining conscious, Gene realizes his arm has been replaced with the revered God Hand, a limb imbued with untold powers. So begins this unusual Western-themed brawler from the development team behind Okami and the Viewtiful Joe series.
+ Players guide Gene in an epic struggle against demons that covet his arm for their own nefarious purposes. Played from a third-person perspective, God Hand involves punching, kicking, and crushing all manner of demons across a series of environments. Joining Gene in his journeys is the girl he rescued, Olivia, who helps him collect orbs to power-up the mighty God Hand.</desc>
+		<image>./images/GOD HAND-image.png</image>
+		<thumbnail>./images/GOD HAND-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20061010T000000</releasedate>
+		<developer>Clover Studios</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063851" />
+	</game>
+	<game id="22530">
+		<path>./Godzilla Unleashed.iso</path>
+		<name>Godzilla : Unleashed</name>
+		<desc>Godzilla: Unleashed is a fighting game featuring 23 of the classic Toho monsters from the past, including some brand new ones and the games namesake as well, Godzilla.  Players will fight against each other in eight destructible cities, letting the player destroy everything from skyscrapers to small buildings and pick up power-ups from causing the destruction.
+
+The storyline is different from others, a non-linear one which constantly changes depending upon the decisions the player makes before, during and after battles.  The Wii's gameplay uses the Wii Remote and Nunchuk and can support up to four-players, while the PS2 version only features two player simultaneous play.</desc>
+		<image>./images/Godzilla Unleashed-image.jpg</image>
+		<thumbnail>./images/Godzilla Unleashed-thumb.png</thumbnail>
+		<releasedate>20071120T000000</releasedate>
+		<developer>Pipeworks Software</developer>
+		<publisher>Atari SA</publisher>
+		<genre>Fight</genre>
+		<family>Godzilla</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063851" />
+	</game>
+	<game id="128582">
+		<path>./GT-R Touring.iso</path>
+		<name>Gt-r Touring</name>
+		<desc>GT-R TOURING offers all the intensity of high-speed pack racing across a wealth of challenging circuits and scenic environments. With exhilarating car crushing action, deformable vehicles and variable weather conditions you'll need all your skills in aggression and precision to beat off the opposition and become the touring champion!
+36 cars t0 master from Hot- Hatches to GT style saloons.
+Race 28 circuits in both dry and wet weather spanning B environments
+Duel it out in the frantic two player head-to-head multi-player mode
+Win all 6 championships and complete the16 time trials to unlock hidden extras!</desc>
+		<image>./images/GT-R Touring-image.png</image>
+		<thumbnail>./images/GT-R Touring-thumb.png</thumbnail>
+		<releasedate>20061011T000000</releasedate>
+		<developer>Kuju Entertainment</developer>
+		<publisher>Midas Interactive Entertainment</publisher>
+		<genre>Race, Driving</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063851" />
+	</game>
+	<game id="22280">
+		<path>./Harvest Moon A Wonderful Life.iso</path>
+		<name>Harvest Moon : A Wonderful Life, Special Edition</name>
+		<desc>Harvest Moon: A Wonderful Life expands on the farm simulation aspects of its predecessors by having players develop a "life" through marriage and raising a family. Farming in this GameCube version is further enhanced by having more animals to care for, more crops to harvest, and an option for players to create hybrid vegetables by combining the seeds of two different types. As in earlier titles in Natsume's Harvest Moon series, players are not confined to a rigid storyline or plot while advancing through the game. Players are free to do whatever they want in the effort to become successful in both business and in life.
+
+ This PS2 "Special Edition" of A Wonderful Life adds to the GameCube original by allowing players to earn the chance to play as either a boy or a girl, and by providing more potential spouses for courtship. It also allows players to continue to work and develop their farms, even after they've completed the main campaign. New features for the PS2 version include up to four wives to marry, to have a son or a daughter with a mini career path, new farming equipment such as the fertilizer machine, and a free play mode to continue playing when all the chapters have been completed.</desc>
+		<image>./images/Harvest Moon A Wonderful Life-image.png</image>
+		<thumbnail>./images/Harvest Moon A Wonderful Life-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20051028T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>505 Games</publisher>
+		<genre>Role playing games</genre>
+		<family>Harvest Moon</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063851" />
+	</game>
+	<game id="22087">
+		<path>./Haunting Ground.iso</path>
+		<name>Haunting Ground</name>
+		<desc>In this unusual survival horror adventure from Capcom, players take the role of a true damsel in distress -- and can't count on some handsome Prince Charming to come to the rescue.
+ In Haunting Ground you play as Fiona Belli, a young girl who has lost her memory. She awakens in a basement of a strange castle, and soon learns that a car accident has taken away the lives of her parents. She is told that the has inherited the castle she found herself in. However, the castle inhabitants are, for various reasons, not very happy to see Fiona as the new owner. Soon she realizes that she must fight for her life, and the only creature she can trust is a dog called Hewey, who will be her faithful companion on her perilous adventure.</desc>
+		<image>./images/Haunting Ground-image.png</image>
+		<thumbnail>./images/Haunting Ground-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20050510T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063851" />
+	</game>
+	<game id="23603">
+		<path>./Hot Wheels Beat That [RIP].iso</path>
+		<name>Hot Wheels : Beat That!</name>
+		<desc>In Hot Wheels: Beat That!, the player can take the controls of 30 authentic Hot Wheels cars and compete in 12 different racing environments in a variety of single-player games and multiplayer games.
+
+Players race through enlarged environments, similar to Micro Machines, that include bedrooms and backyards, avoiding obstacles, knocking out competitors, picking up power-ups and complete stunts through a variety of tracks such as the loop-de-loop.  There are standard races along with elimination races where players fire rockets at each other in an attempt to knock each other out of the race.</desc>
+		<image>./images/Hot Wheels Beat That [RIP]-image.png</image>
+		<thumbnail>./images/Hot Wheels Beat That [RIP]-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20070925T000000</releasedate>
+		<developer>Eutechnyx</developer>
+		<publisher>Activision</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063851" />
+	</game>
+	<game>
+		<path>./INCREDIBLE HULK.iso</path>
+		<name>INCREDIBLE HULK</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063825" />
+	</game>
+	<game id="22279">
+		<path>./JAWS UNLEASHED.iso</path>
+		<name>Jaws Unleashed</name>
+		<desc>Set to coincide with the 30th anniversary release of Steven Spielberg's blockbuster motion picture, Jaws lets players take on the role of the infamous Great White Shark as he protects his territory from encroaching oil drillers. Developed by Appaloosa Interactive, who were responsible for their Ecco the Dolphin titles, Jaws can attack his prey underwater and on the surface by performing leaping assaults in order to snare any victims standing on boats and dive platforms.
+ Amity Island is growing, making corporate connections with prestigious companies like Environplus to improve the Island's economy. Unfortunately the increased population around the Island and recent industrial activity has also attracted YOU-one of Earth's most fearsome creatures-a Great White Shark. When the Environplus CEO's son falls prey to your deadly attacks, the CEO hires renowned shark hunter Cruz Ruddock to track and kill you. Meanwhile, Marine Biologist Michael Brody tries to capture you for research. Can Ruddock and Brody stop you from causing havoc and killing more people before the 4th of July celebration?</desc>
+		<image>./images/JAWS UNLEASHED-image.png</image>
+		<thumbnail>./images/JAWS UNLEASHED-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20060523T000000</releasedate>
+		<developer>Appaloosa</developer>
+		<publisher>Majesco</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063851" />
+	</game>
+	<game id="22340">
+		<path>./Juiced 2 Hot Import Nights [RIP].iso</path>
+		<name>Juiced 2 : Hot Import Nights</name>
+		<desc>The sequel to Juiced, this version adds more to the original, giving the player an in-depth look at the culture of car tuning and drifting, immersing them in authentic music used at events as well as woman models to showcase next to the cars.
+
+Players can also race in a variety of events, from drifting, where players are given points and nitrous refills the longer they have their car sideways around a corner as well as playing for pinks, where cars are put on the line, the winner keeping the losers car and even the classic simple racing to the finish line.  There is also a career mode, where the player advances through closed in courses, different from the original which had the player avoid against traffic while this version is a more organized feel to it.</desc>
+		<image>./images/Juiced 2 Hot Import Nights [RIP]-image.png</image>
+		<thumbnail>./images/Juiced 2 Hot Import Nights [RIP]-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20070917T000000</releasedate>
+		<developer>Juice Games Limited</developer>
+		<publisher>THQ</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063851" />
+	</game>
+	<game id="134899">
+		<path>./KAMEN RIDER 555.iso</path>
+		<name>Kamen Rider 555</name>
+		<desc>Kamen Rider 555 is a Japanese tokusatsu television series. It is the 13th installment in the Kamen Rider Series. It is a joint collaboration between Ishimori Productions and Toei, and was broadcast on TV Asahi from January 26, 2003 to January 18, 2004. And it was the first series to use TV Asahi's current logo. The catchphrase for the series is "Racing Instinct.".
+ STORY:
+ The Smart Brain corporation, the world's most powerful corporation, is trying to take over the world using Orphnoch, the "next stage in humanity's evolution", to covertly kill off the human population. In pursuit of this, they develop three suits of power armor, called Rider Gears (each for Delta, Faiz, and Kaixa), to find and protect the Orphnoch King, who can fix a defect within Orphnoch DNA which causes their genetic structure to break down, leading to death.
+ The Rider Gears are stolen by Hanagata, the Goat Orphnoch and former chief of Smart Brain. He sends them to his foster children (dubbed the "Ryuseiji", after the school they attended) so they can stop the Orphnoch from achieving their goal. However, Rider Gears were designed to be worn by Orphnoch, and humans are unable to activate the systems without undergoing genetic modification.</desc>
+		<image>./images/KAMEN RIDER 555-image.png</image>
+		<thumbnail>./images/KAMEN RIDER 555-thumb.png</thumbnail>
+		<releasedate>20031228T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fight</genre>
+		<family>Kamen Rider</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063851" />
+	</game>
+	<game id="360478">
+		<path>./Kamen Rider Kabuto.iso</path>
+		<name>Kamen Rider Kabuto</name>
+		<thumbnail>./images/Kamen Rider Kabuto-thumb.png</thumbnail>
+		<releasedate>20061130T000000</releasedate>
+		<developer>Bandai</developer>
+		<publisher>Bandai</publisher>
+		<genre>Adventure</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063851" />
+	</game>
+	<game id="22105">
+		<path>./King Kong.iso</path>
+		<name>Peter Jackson's King Kong : The Official Game of the Movie</name>
+		<desc>Based on award-winning director Peter Jackson's big-budget remake of the landmark 1933 Cooper and Schoedsack film, this video game version of King Kong is designed to convey the action and excitement the massive monster inspires, as well as the poignancy and emotion of the melancholy "beauty and the beast" storyline.
+ Gameplay comes in two styles: In control of the ambitious hero Jack Driscoll, players fight for their own survival from a first-person perspective; while in the empowering role of the mighty Kong himself, players have a third-person perspective that allows them to take in their surroundings, and take better control the massive ape in battle. Developed in conjunction with Jackson and his production company, the game also features scenes and locations not seen in the film.</desc>
+		<image>./images/King Kong-image.png</image>
+		<thumbnail>./images/King Kong-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20051121T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063851" />
+	</game>
+	<game id="23122">
+		<path>./LEGEND OF THE DRAGON.iso</path>
+		<name>Legend of the Dragon</name>
+		<desc>Based on the television series, Legend of the Dragon is the story of two twins, Ling and Ang, who are torn between good and evil by jealousy, anger, and fate. As the best fighter in the Dragon Dojo, Ling prepares herself to become the next Golden Dragon, but is severely disappointed when her brother, Ang is chosen instead. Consumed by raging fury, Ling is easily persuaded to join with the evil Zodiac Master. She changes her name to Shadow Dragon and vows revenge as she tries to collect and control the 12 Zodiac bracelets.
+ To gain possession of the armlets, one must visit each of the guarded temples housing the magic jewelry and defeat the guardian waiting there. Each bracelet features an image also found in the Ancient Chinese Zodiac, and whoever holds the bangles acquires the power to transform into the animal engraved on each manacle. Legend of the Dragon features eight modes of play and three multiplayer options, including "PlayQuest," "Arcade," "Training," "Survival," and more. Each of the 24 playable characters has a unique fighting technique, and they all can find collectibles and power-ups throughout their journeys.</desc>
+		<image>./images/LEGEND OF THE DRAGON-image.png</image>
+		<thumbnail>./images/LEGEND OF THE DRAGON-thumb.png</thumbnail>
+		<releasedate>20070501T000000</releasedate>
+		<developer>Neko Entertainment</developer>
+		<publisher>The Game Factory</publisher>
+		<genre>Fight</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063851" />
+	</game>
+	<game id="22860">
+		<path>./Madagascar.iso</path>
+		<name>DreamWorks Madagascar</name>
+		<desc>This 3D platform puzzle game is based on the DreamWorks film of the same title and release time. Players take control of four unlikely animal companions: Alex, the brave lion; Marty, the idealistic zebra; Melman, the hypochondriac giraffe; and Gloria, the heavyweight hippo. The animals have joined forces to try to escape from their current confinement in the Central Park Zoo. Each creature has a special skill, and finding the best use for these abilities can be key to making it through each zoo-based level. The animals abilities become more powerful as players progress, and between-level mini-games feature supporting characters from the film, such as the penguins and the lemurs.
+ Be a part of Dreamwork's animated adventure by guiding Marty the Zebra, Alex the lion, Melman the giraffe, Gloria the hippo and those stealthy Penguins as they escape the Central Park Zoo into the streets of New York and then into the wild jungle...err San Diego zoo.</desc>
+		<image>./images/Madagascar-image.png</image>
+		<thumbnail>./images/Madagascar-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20050523T000000</releasedate>
+		<developer>Toys For Bob</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063853" />
+	</game>
+	<game id="22053">
+		<path>./Medal of Honor European Assault.iso</path>
+		<name>Medal of Honor : European Assault</name>
+		<desc>EA Games' Medal of Honor series once again deploys first-person shooter fans to some of the most heated battles of World War II, in European Assault. Players take command of a squad of specialist operatives and engage in critical missions in the European Theater. As they move through the storyline, players become acquainted with powerful, recurring characters that represent the most ruthless officers to ever serve in Hitler's armed forces. Actions taken in the field affect future missions, and the success of Allied effort overall.</desc>
+		<image>./images/Medal of Honor European Assault-image.png</image>
+		<thumbnail>./images/Medal of Honor European Assault-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20050607T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Medal Of Honor</family>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063856" />
+	</game>
+	<game id="128220">
+		<path>./Medal of Honor Vanguard.iso</path>
+		<name>Medal of Honor : Vanguard</name>
+		<desc>In Medal of Honor: Vanguard players play as Corporal Frank Keegan from the 82nd Airborn Division during World War II. He has been dropped behind enemy lines and needs to complete several missions in Italy, France, the Netherlands and Germany. He fights alongside AI colleagues in order to free Europe.
+
+During these missions anti-aircraft weapons need to be blown up, fellow soldiers have to be rescued and enemy tanks need to be taking out using bazookas. Players are able to customize their weapons by adding a scope or a larger ammo drum. Similar to Medal of Honor: Airborne, during certain missions players parachute onto the battlefield and can choose from which starting location to complete the mission. There is no vehicle-based gameplay in this version.
+
+Alongside the single-player campaign there is also 5 split-screen multiplayer mode for up to 4 players: Deathmatch, Team Deathmatch, Capture the Flag, King of the Hill and Scavenger Hunt. No online gameplay is supported.</desc>
+		<image>./images/Medal of Honor Vanguard-image.png</image>
+		<thumbnail>./images/Medal of Honor Vanguard-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20070326T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Medal Of Honor</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063859" />
+	</game>
+	<game>
+		<path>./Mega Man Anniversary.iso</path>
+		<name>Mega Man Anniversary</name>
+		<scrap name="ScreenScraper" date="20221207T063900" />
+	</game>
+	<game id="22677">
+		<path>./Mega Man X Collection.iso</path>
+		<name>Mega Man X Collection</name>
+		<desc>Mega Man X Collection contains the first six games in the Mega Man X series. Mega Man X and Mega Man X2 are based on their appearances on the SNES. Mega Man X3, also originally on the SNES, is based on its 32-bit update for the PlayStation, Sega Saturn, and PC. The remaining three games are based on their PlayStation renditions. All the games now use save files, including the first few titles that originally necessitated a password for continuation, though upon loading save data, the player is still greeted with the old, fully-functional password entry screen, complete with the correct password to access the saved game. Mega Man Battle &amp; Chase is a game that is unlocked after completing the first three games. It is a classic series kart-racing game previously unreleased in North America. Mega Man X Collection also contains unlockable artwork and music. Both the PlayStation 2 and GameCube versions are identica</desc>
+		<image>./images/Mega Man X Collection-image.png</image>
+		<thumbnail>./images/Mega Man X Collection-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20060110T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Compilation</genre>
+		<family>Mega Man X</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063904" />
+	</game>
+	<game id="22378">
+		<path>./Mega Man X8.iso</path>
+		<name>Mega Man X8</name>
+		<desc>Like its immediate predecessor, Megaman X8 presents its 2D-style platform-shooter action in a 3D game world. Mega Man X is joined in this adventure by two close associates, Zero and Axle, and each character has different strengths and abilities. Players can switch between two characters in the heat of battle, to solve a platform puzzle or fend of a particular enemy type, and the two characters not controlled by the player will try to help out in combat if the leading character becomes overwhelmed.
+ Characters not controlled by the player recover more quickly when the hero onscreen is performing well. As in most games in the long-running Mega Man series, defeating a boss character earns the ability to use its special weapon. Other defeated enemies may leave behind metal bits, which can be collected and used to create custom power-ups. In addition to the side-scrolling platform levels, some boss fights and other events are played from alternate perspectives.</desc>
+		<image>./images/Mega Man X8-image.png</image>
+		<thumbnail>./images/Mega Man X8-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20041207T000000</releasedate>
+		<developer>Valuewave</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<family>Mega Man</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063907" />
+	</game>
+	<game id="23974">
+		<path>./MONSTER ATTACK.iso</path>
+		<name>Monster Attack</name>
+		<desc>Monster Attack is a third-person action shooter and the first game in the Chikyuu Boueigun / Earth Defense Force series. The player takes the role of an EDF (Earth Defence Force) infantry man to single handily battle hordes of giant bugs, robots and alien ships that have invaded Earth, across 30 missions. The game eludes to other EDF forces, but they are never seen.
+
+You choose two weapons for each mission from dozens of various missile launchers, machine guns, flamethrowers and more unique weapons, some, faster, more powerful or better suited to the mission at hand than others, are given infinite ammo (though the weapons must still be reloaded after each clip is used up) and are set loose in one of several (usually city-based) fully destructible environments. Players can also mount a vehicles such as an air bike, a tank and a helicopter.
+
+The player recovers and increases his maximum health and armour, and unlocks new weapons by picking up power-ups from defeated enemies that spawn in and come at the player by the dozen. The game also features 2-player split-screen cooperative multiplayer.</desc>
+		<image>./images/MONSTER ATTACK-image.png</image>
+		<thumbnail>./images/MONSTER ATTACK-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20040227T000000</releasedate>
+		<developer>Sandlot</developer>
+		<publisher>Agetec</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063914" />
+	</game>
+	<game id="22079">
+		<path>./Monster Hunter.iso</path>
+		<name>Monster Hunter</name>
+		<desc>Monster Hunter is a third-person action RPG, similar in style to EA's The Lord of the Rings games or Sony's Champions of Norrath. Monster Hunter features both online and offline components, allowing players to adventure on their own or form a party, with up to three friends, for a cooperative adventure using the PS2 Network Adaptor.
+
+
+ As in most role-playing games, players begin by creating a character and customizing their hero's appearance, voice and other attributes. Monster Hunter also has players creating and customizing their characters' equipment. While basic weapons and armor may be purchased from NPCs, the most powerful items in the game are made by the players' characters themselves, from the hides, teeth, scales, claws, and other parts of conquered monsters.</desc>
+		<image>./images/Monster Hunter-image.jpg</image>
+		<thumbnail>./images/Monster Hunter-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20040921T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role playing games</genre>
+		<family>Monster Hunter</family>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063918" />
+	</game>
+	<game id="23449">
+		<path>./MONSTER JAM.iso</path>
+		<name>Monster Jam</name>
+		<desc>Monster Jam is a monster truck racing game based on the existing TV-show under the same name, which also incorporates a series of live events hosted by Live Nation. Unlike previous games of Monster Jam franchise, Monster Jam includes 20 pre-existing trucks licensed specifically for the game by USHRA (United States Hot Rod Association). The game includes such well-known monster trucks as Destroyer, Bounty Hunter, Blue Thunder, Captain's Cruise, it's previous identity - Bulldozer and probably two of the most alleged kings of all monster trucks - Maximum Destruction, the winner of seven Monster Jam World Finals and Grave Digger, one of the most influential monster trucks of all time .</desc>
+		<image>./images/MONSTER JAM-image.png</image>
+		<thumbnail>./images/MONSTER JAM-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20071113T000000</releasedate>
+		<developer>Torus Games</developer>
+		<publisher>Activision</publisher>
+		<genre>Race, Driving</genre>
+		<family>Monster Jam</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063922" />
+	</game>
+	<game id="23722">
+		<path>./MOTOR BIKE KING.iso</path>
+		<name>Motorbike King</name>
+		<desc>Motorcycle racing (also called moto racing and bike racing) is the motorcycle sport of racing motorcycles. Major genres include road racing and off road racing, both either on circuits or open courses, and track racing. Other categories include hill climbs, drag racing and land speed record trials.
+
+
+ Motorbike King (called Simple 2000 Ultimate Vol. 13 - Kyousou! Tansha King in Japan) is a racing game in which the player can compete in one on one races using special moves and featuring 11 bikes to choose from, in the game there are 12 different opponents and also a 2 players vs split screen mode.</desc>
+		<image>./images/MOTOR BIKE KING-image.png</image>
+		<thumbnail>./images/MOTOR BIKE KING-thumb.png</thumbnail>
+		<rating>0.25</rating>
+		<releasedate>20040910T000000</releasedate>
+		<developer>Tamsoft</developer>
+		<publisher>505 Games</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064002" />
+	</game>
+	<game id="23100">
+		<path>./Mountain Bike Adrenaline.iso</path>
+		<name>Mountain Bike Adrenaline</name>
+		<desc>Mountain biking fans can get a taste of the great outdoors as they freeride down four expansive slopes in Mountain Bike Adrenaline. Pedal pushers can hop on popular bike brands like Lapierre, Kona, Cannondale, Qbikes, and Specialized, and navigate vast 3D reproductions of the Rocky Mountains, the Alps, the Grand Canyon, and Hawaii. Holding down the accelerate button will eventually tire out racers, so players need to be judicious or they'll get bonked early and won't have enough juice to pull off any sick stunts when they sky over extreme jumps.
+
+ Players can choose from six riders, including American phenom Keith Hamilton, and a host of different bikes. There are four game modes from which to choose: Stopwatch mode, which focuses on speed; Challenge mode, which concentrates on specific feats; Arcade mode, which is all about pulling off tricks, and Freedom mode, which lets players ride each landscape unconstrained by time limits.</desc>
+		<image>./images/Mountain Bike Adrenaline-image.png</image>
+		<thumbnail>./images/Mountain Bike Adrenaline-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>20071016T000000</releasedate>
+		<developer>Fresh3D</developer>
+		<publisher>Nobilis</publisher>
+		<genre>Sports / Cycling</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064002" />
+	</game>
+	<game id="22789">
+		<path>./MTX Mototrax [HDL Mode 3].iso</path>
+		<name>MTX Mototrax</name>
+		<desc>MTX Mototrax is a motocross racing game that features motocross legends such as Travis Pastrana and Carey Hart. As players progress in the game's career mode, they will eventually be afforded the opportunity to challenge the mentioned pros in both Supercross and Motocross events as well as freestyle trick events where the focus is set on performing tricks. Winning these events will allow the player to earn cash and sponsorships that unlock additional gear and upgraded bikes. You can also play in exhibition mode to test your skills on any given track. The game features a total of 127 different tricks to perform.
+
+The game also features a track editor that gives players the option of creating their own custom tracks. Multiplayer is also an available option.</desc>
+		<image>./images/MTX Mototrax [HDL Mode 3]-image.png</image>
+		<thumbnail>./images/MTX Mototrax [HDL Mode 3]-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20040302T000000</releasedate>
+		<developer>Left Field</developer>
+		<publisher>Activision</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064002" />
+	</game>
+	<game>
+		<path>./NARUTO SHIPPUDEN 5.iso</path>
+		<name>NARUTO SHIPPUDEN 5</name>
+		<playcount>1</playcount>
+		<lastplayed>20221207T063851</lastplayed>
+		<gametime>47</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063935" />
+	</game>
+	<game>
+		<path>./Naruto Shippuden Ultimate Ninja.iso</path>
+		<name>Naruto Shippuden Ultimate Ninja</name>
+		<playcount>1</playcount>
+		<lastplayed>20221207T064002</lastplayed>
+		<gametime>37</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063936" />
+	</game>
+	<game id="21922">
+		<path>./Naruto ShippudenUltimateNinja 5.iso</path>
+		<name>Naruto Shippuden - Ultimate Ninja 5</name>
+		<desc>Naruto Shippuden: Ultimate Ninja 5, known in Japan as "Naruto Shippuden: Narutimate Accel 2", features 62 characters and continues the Naruto Shippuden storyline, going up to the end of Sasuke and Sai arc, following the manga (the anime have not done on the arc by then). One of the new gameplay additions is the introduction of assist characters. Assist characters are chosen during character selection, and can be called in during a match to deal extra damage. Certain combinations of characters create unique jutsus in a match; these combinations reflect the associations of those characters in the anime and manga. Many of the character's jutsus from the previous game were updated. There are many updated ultimate jutsus, including the aforementioned assist-specific ones. Summons have been removed from the game. The assist characters cannot be turned off. The game retains the RPG mode from previous game, now allowing the player to control characters other than Naruto (such as Sakura and Kakashi). However, the Hero's History mode that retells the events of the original series have been discarded, though the characters itself remain in the game. It was also the last of the Ultimate Ninja Series for the PlayStation 2. The game was not released in North America.</desc>
+		<image>./images/Naruto ShippudenUltimateNinja 5-image.jpg</image>
+		<thumbnail>./images/Naruto ShippudenUltimateNinja 5-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20071220T000000</releasedate>
+		<developer>CyberConnect2</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fight</genre>
+		<family>Naruto</family>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221207T064040</lastplayed>
+		<gametime>31</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064002" />
+	</game>
+	<game id="22743">
+		<path>./NBA Street V3 [Mode 3] [RIP].iso</path>
+		<name>NBA Street V3</name>
+		<desc>The third installment of NBA Street advances the series by adding more customization, different game modes, and new gameplay features. Now you can build both your reputation and show-stopping Gamebreakers on the streets by performing all-new flashy dunks, dribble tricks, and combos. Step into the shoes of NBA legends, current basketball stars, and original characters from previous games. Play in familiar courts, such as The Cage and Rucker Park, or create your own court from the ground up. NBA Street V3 also features a new dunk contest and online multiplayer modes.</desc>
+		<image>./images/NBA Street V3 [Mode 3] [RIP]-image.jpg</image>
+		<thumbnail>./images/NBA Street V3 [Mode 3] [RIP]-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports / Basketball</genre>
+		<players>2-6</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064002" />
+	</game>
+	<game id="22841">
+		<path>./NBA Street Vol. 2 (USA).iso</path>
+		<name>NBA Street Vol. 2</name>
+		<desc>Basketball returns to the streets in NBA Street Vol. 2, featuring more players, electrifying moves, and online multiplayer battles. Defeat the best players in the game today and even bring legends such as Dr. J, Magic, Bird, Wilt, and Moses out of retirement for some on-court brawling. NBA Street Vol. 2 features all-new spectacular dunks, dribbles, and passes that'll take show-stopping Gamebreakers to the next level. You can take your game against computer opponents or friends, or play with up to three other players online. Are you good enough to rule the streets?</desc>
+		<image>./images/NBA Street Vol. 2 (USA)-image.png</image>
+		<thumbnail>./images/NBA Street Vol. 2 (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports / Basketball</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20221207T064002" />
+	</game>
+	<game id="22188">
+		<path>./NEED FOR SPEED HOT PURSUIT 2.iso</path>
+		<name>Need for Speed : Hot Pursuit 2</name>
+		<desc>The Need for Speed series returns, this time reverting back to the 'chase' arcade experience instead of a racing simulation. Top speed racing is the name of the game, where you must outchase not just the opposing drivers, but the cops.
+
+Choose from a selection of today's (and yesterday's) top sports cars, including the Ferrari F50, Porsche 911 and a range from the likes of Ford, Corvette, BMW, Lotus, Mercedes, Aston Martin, the McLaren F1 and a lot more.
+
+The competitive race mode allows you to take on other drivers and beat them to the line. A selection of tracks allows you to not only dodge incoming traffic, but perform deadly jumps and stunts to receive points. These points, combined with the points recieved from your finishing position, can unlock new cars and tracks.
+
+The Hot Pursuit mode combines all the major elements of the competitive mode with the chance to out run the cops. They will throw everything at you to try and stop you, including running you off the road, setting up road blocks and unleashing an attack helicopter equiped with missiles. Three busts by the cops ends the race.</desc>
+		<image>./images/NEED FOR SPEED HOT PURSUIT 2-image.jpg</image>
+		<thumbnail>./images/NEED FOR SPEED HOT PURSUIT 2-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<developer>Black Box</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Race, Driving</genre>
+		<family>Need for Speed</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064002" />
+	</game>
+	<game id="21969">
+		<path>./ONIMUSHA3.iso</path>
+		<name>Onimusha 3 : Demon Siege</name>
+		<desc>Promoted as the final release in the series, Onimusha 3: Demon Siege looks to surpass its predecessors in areas such as gameplay, art, and technology, to become the premier installment of the Onimusha series on the PS2 console. Reprising his voice-acting role as the lovelorn samurai Samanosuke Akechi is Takeshi Kianeshiro. Joining him is renowned French actor Jean Reno, best known for his roles in The Professional, Big Blue, and La Femme Nikita.
+ The game opens at the Honnoji Temple. Samanosuke continues to battle the demons in his path until the moment finally comes when standing before him, ready for battle, is the undead Warlord Nobunaga Oda. However, before this epic clash can begin, Samanosuke suddenly disappears.</desc>
+		<image>./images/ONIMUSHA3-image.png</image>
+		<thumbnail>./images/ONIMUSHA3-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20040427T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064002" />
+	</game>
+	<game id="22891">
+		<path>./PaRappa the Rapper 2.iso</path>
+		<name>PaRappa the Rapper 2</name>
+		<desc>Parappa the Rapper 2, the direct sequel to Sony Computer Entertainment's 1997 smash-hit, picks up where the original left off with our hero now firmly entrenched in a relationship with his girlfriend Sunny. Gameplay remains largely untouched from the original with Parappa having to make his way through eight levels of rhyming and rapping mayhem, under the watchful eye of a number of rapping masters, including the legendary Chop Chop Master Onion. Newcomers to the fold include Guru Ant, Beard Burger Master, Hairdresser Octopus, and Instructor Moosesha. By matching the sequence and timing of button presses as relayed by the masters, players must achieve a "Good" or "Cool" rating to progress further.</desc>
+		<image>./images/PaRappa the Rapper 2-image.jpg</image>
+		<thumbnail>./images/PaRappa the Rapper 2-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20020123T000000</releasedate>
+		<developer>Nanaon-Sha</developer>
+		<publisher>Sony</publisher>
+		<genre>Music and Dance</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064002" />
+	</game>
+	<game id="22044">
+		<path>./Persona 3 FES.iso</path>
+		<name>Shin Megami Tensei : Persona 3 FES</name>
+		<desc>Lead a group of high school students with a dangerous extracurricular activity: exploring the mysterious tower Tartarus and fighting the sinister Shadows during the Dark Hour, a frozen span of time imperceptible to all but a select few. However, the end of their quest is no longer the end of the story--witness for the first time the aftermath of the final battle and the students' struggle to find meaning in their new lives.</desc>
+		<image>./images/Persona 3 FES-image.png</image>
+		<thumbnail>./images/Persona 3 FES-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20080422T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Koei</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064002" />
+	</game>
+	<game id="21932">
+		<path>./Persona 4.iso</path>
+		<name>Shin Megami Tensei : Persona 4</name>
+		<desc>Shortly after an urban youth begins a year-long stay in the countryside town of Inaba, the rural town's peace is shattered by a horrific murder that leaves no clues or suspects. As the lone incident develops into a series of bizarre crimes, he discovers that only he and his friends have the power to solve the baffling case, bring those responsible to justice, and restore harmony to his new home.</desc>
+		<image>./images/Persona 4-image.jpg</image>
+		<thumbnail>./images/Persona 4-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20081209T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Atlus</publisher>
+		<genre>Role playing games</genre>
+		<family>Persona</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064003" />
+	</game>
+	<game id="24068">
+		<path>./Power Volleyball.iso</path>
+		<name>Power Volleyball</name>
+		<desc>It's summer time - beautiful seashore, hot sand, burning sun, and most importantly big amounts of fun! 
+Beach girls are playing volleyball against eachother, fun is the theme of the day. 
+
+Everything depends on you, as you, and only you can decide who the winner of these intense volleyball matches will be.
+
+And remember the stakes are high as the winners will be crowned Volleyball Queens of the summer.</desc>
+		<image>./images/Power Volleyball-image.png</image>
+		<thumbnail>./images/Power Volleyball-thumb.png</thumbnail>
+		<developer>Phoenix Games</developer>
+		<publisher>Phoenix Games</publisher>
+		<genre>Sports</genre>
+		<md5>098913089c216679f30b66ad76e244f5</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064040" />
+	</game>
+	<game id="23190">
+		<path>./RAIDEN 3.iso</path>
+		<name>Raiden III</name>
+		<desc>Raiden III is the follow-up to the early 90's shoot 'em-ups Raiden and Raiden II. Once again you control the Raiden "Fighting Thunder ME-02" trying to fend off the attack of the alien invaders. There are in total 7 levels, the first three set on Earth and the last three in space. 
+
+This is a vertically scrolling shoot 'em-up which (as many other vertically scrolling shooters do) offers the option to either play the game in "yoko" or "tate" screen flipping modes depending on whether your tv is placed on its side or not.</desc>
+		<image>./images/RAIDEN 3-image.png</image>
+		<thumbnail>./images/RAIDEN 3-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<developer>MOSS</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>Raiden</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064040" />
+	</game>
+	<game id="22933">
+		<path>./Rapala Pro Bass Fishing.iso</path>
+		<name>Rapala Pro Bass Fishing</name>
+		<desc>Rapala Pro Bass Fishing has you testing your fishing skills in a tournament setting against real-life professionals. Structured similarly to a televised event, the presentation includes professional announcing from In-Fisherman TV's Barry Brueland, "live" updates, leaderboards, analysis, and weigh-ins. There are over 20 tournament events in each season as you attempt to win the championship trophy. To ensure your success on some of the leading freshwater lakes in North America, you'll choose from an assortment of licensed boats, lures, rods, and apparel. In addition to the single-player season, a friend can participate in over 50 events geared specifically for multiplayer competition. You'll battle head-to-head in various timed, accuracy, weight, and location-based challenges.</desc>
+		<image>./images/Rapala Pro Bass Fishing-image.png</image>
+		<thumbnail>./images/Rapala Pro Bass Fishing-thumb.png</thumbnail>
+		<releasedate>20100928T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports / Fishing</genre>
+		<family>Rapala</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064040" />
+	</game>
+	<game id="22255">
+		<path>./Ratatouille.iso</path>
+		<name>Disney Pixar Ratatouille</name>
+		<desc>In Disney/Pixar's animated adventure, a rat named Remy dreams of becoming a great French chef despite his family's wishes and the obvious problem of being a rat in a decidedly rodent-phobic profession. When fate places Remy in the sewers of Paris, he finds himself ideally situated beneath a restaurant made famous by his culinary hero, Auguste Gusteau.
+
+In the game, players will assume the role of Remy and relive some of the film's most thrilling moments. Players will instantly recognize the storyline, characters and key locations of Ratatouille, as they engage in a series of unique mini-games, cooking challenges and head-to-head multiplayer. Ratatouille will allow players to create culinary masterpieces, evade detection from dangerous and often hungry enemies, and brave the perils of the dinner-rush in this senses-shattering journey to fulfill Remy's life-long dream of becoming a great chef.</desc>
+		<image>./images/Ratatouille-image.png</image>
+		<thumbnail>./images/Ratatouille-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20070726T000000</releasedate>
+		<developer>Asobo Studio</developer>
+		<publisher>THQ</publisher>
+		<genre>Platform</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064040" />
+	</game>
+	<game id="22333">
+		<path>./Red Faction 2 [RIP].iso</path>
+		<name>Red Faction II</name>
+		<desc>Long since the revolt from the mining of Mars, a new group has taken over Red Faction, and their sights are set on the dictator, Chancellor Sopot. Sopot originally created the Red Faction soldiers using a form of nano technology but, fearing they would fight back, ordered them to be destroyed.
+
+As the leader of the group, your task is to take back freedom that was lost, and save your skin as well as that of those who work with you.
+
+As was originally designed in the first Red Faction, Geo-Mod builds the world around you as a means to destroy it. Using rockets, mines and the many other weapons available, you can take down walls, blast through doors (therefore deleting the need for a security key) and bring down enemies by destroying the floor that they stand on. Vehicles can also be used to help in your tasks.
+
+Multiplayer modes are also included for up to 4 players, as well as a collection of bots. As a note, the PC version does not have multiplayer.</desc>
+		<image>./images/Red Faction 2 [RIP]-image.png</image>
+		<thumbnail>./images/Red Faction 2 [RIP]-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20021015T000000</releasedate>
+		<developer>Volition</developer>
+		<publisher>THQ</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Red Faction</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064040" />
+	</game>
+	<game id="22288">
+		<path>./Second Sight.iso</path>
+		<name>Second Sight</name>
+		<desc>In Second Sight, players are cast as a mysterious man who, at first, cannot even remember his own name. Awakening from a coma in a strange, utilitarian facility, the hero finds that he does not know who he is or why he is there. Soon, he also finds that he has been gifted with strange, potentially deadly psychic abilities. He needs answers and, guided by players from a third-person perspective, must make use of both stealth tactics and his unusual mental powers to seek them out.
+ Second Sight opens with John Vattic, the player-controlled lead character, as he awakens from a coma in a US medical facility where he has been subjected to traumatic surgery and experimentation. He doesn't know his name, he can't remember his past, all he knows is that his only hope for survival is to escape and unravel the mystery that has led to his imprisonment.</desc>
+		<image>./images/Second Sight-image.png</image>
+		<thumbnail>./images/Second Sight-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20040521T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Radical Software</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064040" />
+	</game>
+	<game id="22400">
+		<path>./Shaman King Power of Spirit.iso</path>
+		<name>Shonen Jump's Shaman King : Power of Spirit</name>
+		<desc>Shaman King follows the story of Yoh Asakura, a junior high student who has the rare power to communicate with ghosts and spirits. In the game, you'll assume the role of Yoh as he strives to become the next Shaman King. Guide Yoh across multiple stages filled with dangers, enemies, and traps in an effort to stop an evil shaman from resurrecting the Guardian of Demons. Master various fighting techniques as you encounter characters and locales from the Shaman King TV series and comics.</desc>
+		<image>./images/Shaman King Power of Spirit-image.jpg</image>
+		<thumbnail>./images/Shaman King Power of Spirit-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064040" />
+	</game>
+	<game id="23717">
+		<path>./SILENT SCOPE 3.iso</path>
+		<name>Silent Scope 3</name>
+		<desc>Silent Scope 3 contains an original story mode with numerous new areas created exclusively for the PlayStation2. As an added bonus, all 14 missions from the smash-hit arcade game Silent Scope EX are also included. In a Silent Scope series first, an innovative 3-D sound system can be used to help spot and target enemies. Rounding out the features, hidden options can be unlocked and multiple endings and paths add replay value.</desc>
+		<image>./images/SILENT SCOPE 3-image.png</image>
+		<thumbnail>./images/SILENT SCOPE 3-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20021017T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Silent Scope</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064040" />
+	</game>
+	<game id="22184">
+		<path>./SNIPER ELITE.iso</path>
+		<name>Sniper Elite</name>
+		<desc>Sniper Elite is a third-person action strategy game with a focus on sniping. The player takes on the role of an American agent working for the OSS (the organization that later became the CIA) stationed in Berlin at the end of World War II, tasked with preventing the Russian troops from getting hold of the research Germany had been conducting into nuclear weaponry. As an elite sniper, the style of play is much less run-and-gun and much more about finding good positions, lining up shots and taking out the enemy before he even knows where you are.
+
+The single-player campaign takes place over 28 missions set in and around Berlin. Players use stealth tactics, and things like wind and background noise can be a factor when lining up shots. When a shot is performed particularly well, players are rewarded with a 'bullet cam' which follows the bullet in slow-motion from gun barrel to target. It can be played with a friend in local 2-player co-op. Players can revive each other.</desc>
+		<image>./images/SNIPER ELITE-image.png</image>
+		<thumbnail>./images/SNIPER ELITE-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<developer>Rebellion</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064040" />
+	</game>
+	<game id="22865">
+		<path>./Spawn Armageddon [RIP].iso</path>
+		<name>Spawn : Armageddon</name>
+		<desc>Spawn: Armageddon is a 3D action/adventure game based on the comic by Todd McFarlane, who also contributed the storyline for the game. Spawn struggles between the forces of Heaven and Hell in order to save the world, equipped with his Hell-sent living symbiotic suit and its chains. A multitude of weapons and Hell Powers are also available. Agony, the axe that Spawn uses in SoulCalibur II is also available as a melee attack weapon.</desc>
+		<image>./images/Spawn Armageddon [RIP]-image.jpg</image>
+		<thumbnail>./images/Spawn Armageddon [RIP]-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20031121T000000</releasedate>
+		<developer>Point of View</developer>
+		<publisher>Namco</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064042" />
+	</game>
+	<game id="22411">
+		<path>./SPIDERMAN FRIEND OR FOE(SME).iso</path>
+		<name>Spider-Man : Friend or Foe</name>
+		<desc>Spider-Man finds himself beset by his movie villains. He gains help from New Goblin as he combats the Green Goblin, Doctor Octopus, Sandman, and Venom. All six characters suddenly find themselves targeted by an enemy force and one-by-one, the villains begin disappearing. Meanwhile, Spider-Man is rescued by Nick Fury of S.H.I.E.L.D., who informs him that the meteor which brought the Venom symbiote to Earth had broken up in the Earth's atmosphere and five more pieces had landed in numerous locations across the globe. Fury sends Spider-Man to retrieve the shards of meteors. Spider-Man quickly finds that the villains who attacked him and several more of his foes, including Rhino and Scorpion, have been placed under mind control of a mysterious villain. The villain also creates and controls holographic/symbiote combination foot soldiers called P.H.A.N.T.O.M.s (short for Perpetual Holographic Avatar Nano-Tech Offensive Monsters). As Spider-Man fights his enemies one-by-one and rescues them from the mind control, they promise to aid him in finding the villain responsible. As Spider-Man progresses, he obtains more allies such as Black Cat, Iron Fist, Lizard (not portrayed as a villain), and Blade. He discovers that the evil genius is Mysterio, who intends to use his army to take over the world, using each shard of the meteor to make them stronger. Spider-Man decides to temporarily don the Black Suit for the final battle.</desc>
+		<image>./images/SPIDERMAN FRIEND OR FOE(SME)-image.png</image>
+		<thumbnail>./images/SPIDERMAN FRIEND OR FOE(SME)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<developer>Next Level Games</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<family>Spider-Man</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064045" />
+	</game>
+	<game id="22018">
+		<path>./Suikoden V.iso</path>
+		<name>Suikoden V</name>
+		<desc>Suikoden V, like its predecessors, features unparalleled in-depth gameplay, a riveting storyline as well as the series' trademark 108 Stars of Destiny. Thrust into a time of unbalance and unrest, a dynamic drama unfolds revolving around one of the 27 True Runes, the Sun Rune. Players are tasked to explore the lands of Falena, gather allies and become stronger to ultimately bring back peace and prosperity. While on their quest through rich 3D environments, exciting new secrets of the Suikoden world will be revealed. The game features significant enhancements from all the previous installments of the series, including 6-member battle parties, multiple mini-games and the homebase system, where all of your allies gather together along with new features to create a unique gameplay experience like no other.</desc>
+		<image>./images/Suikoden V-image.jpg</image>
+		<thumbnail>./images/Suikoden V-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Role playing games</genre>
+		<family>Suikoden</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064052" />
+	</game>
+	<game id="23389">
+		<path>./SUPER TRUCKS RACING.iso</path>
+		<name>Super Trucks Racing</name>
+		<desc>Developed by the same team responsible for the MTV Music Generator series, Super Trucks Racing is a truck-based driving title that offers every official Super Trucks driver, sponsor, circuit, logo, and locations from the 2002 season. Its most renowned feature, however, is likely its physics engine; which is definitely among the most realistic of the time.</desc>
+		<image>./images/SUPER TRUCKS RACING-image.png</image>
+		<thumbnail>./images/SUPER TRUCKS RACING-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<developer>Bigben Interactive</developer>
+		<publisher>Jester Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064056" />
+	</game>
+	<game id="127801">
+		<path>./The Godfather.iso</path>
+		<name>The Godfather : The Game</name>
+		<desc>EA Games makes an offer it hopes fans of Mafioso mythology cannot refuse, in this video game translation of the award-winning 1972 Francis Ford Coppola film. Players take the role of a small-time thug, newly inducted into the Corleone family and looking to make it big. By running missions for the family in the game's rendition of 1940s New York City, players can earn the respect of the family and be promoted to positions of power and influence in the organization.
+ Welcome to the Corleone family. After a life of small-time jobs and petty thefts you've been accepted into America's most famous criminal organization. Now it's up to you to carry out orders, earn respect, rise through the ranks, and make New York City your own. Play your cards right and you could even be running everything as the next, and most powerful, Don.</desc>
+		<image>./images/The Godfather-image.png</image>
+		<thumbnail>./images/The Godfather-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20060321T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064104" />
+	</game>
+	<game id="21893">
+		<path>./THE SIMS 2.iso</path>
+		<name>The Sims 2</name>
+		<desc>The Sims 2 is a 2004 strategic life simulation video game developed by Maxis and published by Electronic Arts. It is the sequel to the best-selling computer game The Sims.
+
+The game has the same concept as its predecessor: players control their Sims in various activities and form relationships in a manner similar to real life. The Sims 2, like its predecessor, does not have a defined final goal; gameplay is open-ended. Sims have life goals, wants and fears, the fulfillment of which can produce both positive or negative outcomes. All Sims age, and can live to 90 sim days depending on the degree to which their aspirations are fulfilled. The Sims 2 builds on its predecessor by allowing Sims to age through six stages of life and incorporating a 3D graphics engine. Although gameplay is not linear, storylines exist in the game's pre-built neighborhoods. Pleasantview is based 25 years after the town in the original The Sims. Strangetown's storyline is based on the supernatural, and is loosely connected with Pleasantview. Veronaville's characters are based on Shakespearean characters.
+
+The Sims 2 was first released on September 14, 2004 for Microsoft Windows. A port to Mac OS X was released on June 17, 2005. Eight expansion packs and nine stuff packs were subsequently released. In addition several console versions have been released. The Sims 2 is offered on mobile platforms, with manufacturers such as Nokia offering The Sims 2 from the Ovi Store. A sequel, The Sims 3, was released in June 2009.
+
+The Sims 2 was a commercial success, selling one million copies in its first ten days, a record at the time. During April 2008, The Sims 2 website announced that 100 million copies of The Sims series had been sold. The Sims 2 was well received by critics, gaining a 90% score from aggregators Metacritic and GameRankings. By March 2012, The Sims 2 had sold over six million PC copies, and 13 million over all platforms, making it one of the best-selling PC games of all-time.</desc>
+		<image>./images/THE SIMS 2-image.png</image>
+		<thumbnail>./images/THE SIMS 2-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20051024T000000</releasedate>
+		<developer>Maxis Software</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Simulation / Life</genre>
+		<family>The Sims</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064116" />
+	</game>
+	<game id="22047">
+		<path>./The Warriors.iso</path>
+		<name>The Warriors</name>
+		<desc>The Warriors is an action game for Playstation 2. You play as various members of the Warriors gang wrongly accused of having killed a rival geng member. It's up to you to make your law reign, that of weapons and force.</desc>
+		<image>./images/The Warriors-image.png</image>
+		<thumbnail>./images/The Warriors-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<developer>Rockstar Games</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064116" />
+	</game>
+	<game id="21973">
+		<path>./Tomb Raider Underworld.iso</path>
+		<name>Tomb Raider : Underworld</name>
+		<desc>For generations, stories have been told of the fearsome weapon of the Norse god Thor. Legend holds that he who wields the hammer has the power to smash mountains into valleys and the strength to destroy even the gods. For more than a thousand years it has existed only as a mythâ€¦until now.
+
+In an ancient ruin on the floor of the Mediterranean Sea, Lara Croft uncovers proof of the Norse underworld and the mythical hammer. As she attempts to unravel the secrets behind these myths, Laraâ€™s perilous journey leads her toward a forgotten power that, if unleashed, could lay waste to all civilization.</desc>
+		<image>./images/Tomb Raider Underworld-image.png</image>
+		<thumbnail>./images/Tomb Raider Underworld-thumb.png</thumbnail>
+		<rating>0.45</rating>
+		<developer>Eidos Interactive</developer>
+		<publisher>Buzz Monkey Software</publisher>
+		<genre>Adventure</genre>
+		<family>Tomb Raider</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064116" />
+	</game>
+	<game id="22171">
+		<path>./Tony Hawk's Underground 2.iso</path>
+		<name>Tony Hawk's Underground 2</name>
+		<desc>The gameplay in Tony Hawk's Underground 2 is similar to that of previous Tony Hawk games: the player skates around in a 3D environment modeled after various cities and attempts to complete various goals. Most goals involve skating on or over various objects or performing combos. Scores are calculated by adding the sum of the point value of each trick strung together in a combo and then multiplying by the number of tricks in the combo</desc>
+		<image>./images/Tony Hawk's Underground 2-image.png</image>
+		<thumbnail>./images/Tony Hawk's Underground 2-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<developer>Neversoft</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports / Skateboard</genre>
+		<family>Tony Hawk</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064117" />
+	</game>
+	<game id="22034">
+		<path>./Tourist Trophy.iso</path>
+		<name>Tourist Trophy : The Real Riding Simulator</name>
+		<desc>A motorcycle-racing simulator with an abundance of options, Tourist Trophy lets players choose from over 100 bikes from makers like Buell, Ducati, and Kawasaki, and race them on one of 35 real and fantasy tracks. Custom rider option let you choose how your character looks and handles a bike, while a quick-play "Arcade" mode lets you pick a race and go. Play a one-on-one race, a time trial, or a regular race that allows you to race using modified bikes.
+
+"Tourist Trophy" mode challenges you to a variety of races, but before you hit the pavement, you'll have to earn a license. There are four license levels that you can earn: Novice, Junior, Expert, and Super. New motorcycles and equipment become available with each new level. Once a license has been secured, move onto "Challenge" mode and earn a bike by competing in race events that also open up extra bikes and gear as rewards.</desc>
+		<image>./images/Tourist Trophy-image.png</image>
+		<thumbnail>./images/Tourist Trophy-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<developer>Polyphony Digital</developer>
+		<publisher>Sony</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064121" />
+	</game>
+	<game id="22166">
+		<path>./TOY STORY 3.iso</path>
+		<name>Disney Pixar Toy Story 3</name>
+		<desc>Toy Story 3 is the first game based on a film by Pixar to be published entirely by Disney Interactive Studios. Past Disney/Pixar movie games have been made in conjunction with Activision first, then THQ. It is the sequel to the second game that was based on the second film in the franchise. Most of the voice cast from the film returned to reprise their characters in the game with the exception of Tom Hanks (Woody) and Tim Allen (Buzz Lightyear), respectively. (Jim Hanks returned to voice Woody from the previous game, and Stephen Stanton voiced Buzz). The game also contains content exclusive to the PlayStation 3 version. The game was well received by critics and was a top-seller in the UK. This was the last Disney/Pixar video game to be developed by Asobo Studio and the last Disney/Pixar game to be released on PlayStation 2.
+ Rex looks back at the toy's past encounters with the help of his drawings, and tells the story of the film.</desc>
+		<image>./images/TOY STORY 3-image.png</image>
+		<thumbnail>./images/TOY STORY 3-thumb.png</thumbnail>
+		<releasedate>20101031T000000</releasedate>
+		<developer>Asobo Studio</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064123" />
+	</game>
+	<game id="22274">
+		<path>./TransformersRevengeoftheFallen.iso</path>
+		<name>Transformers : Revenge of the Fallen</name>
+		<desc>Transformers: Revenge of the Fallen is a game based on the movie of the same name. Set a few years after the defeat of Megatron in the first game/movie, Transformers: Revenge of the Fallen reveals that the threat from the Decepticons has in fact, far from ended. Since the end of the first movie Decepticons have began popping up again all over Earth. They are in search of a mysterious object from space that will gift the balance of power.
+
+The game is a linear third-person shooter that puts the player in control of many of the main characters from the movie, shifting between both Autobot and Decepticon factions. The storyline is told via cutscenes that also allow for the player to easily transition from one character to the other. Playable characters on the Autobot side include: Optimus Prime, Iron Hide, Jetfire, Bumblebee. The Decepticon side includes: Starscream, Sideways (a new character), and Megatron.
+
+Though the game doesnâ€™t allow transform wherever the player wants to, transformation has been introduced as special attacks during robot mode, as fixed alternate game modes (driving Shanghai tunnels as Sideways, and fly through the skies of Russia as Starscream) and, in both robot and vehicle modes, as special moves that give the player alternate abilities. For example, transforming as Starscream while flying will enable him to fly backwards as a robot to take out enemies behind the protagonist.
+
+For multiplayer, at any point during a single-player campaign a friend can join in as a "Remote Weapon System", which allows them to shoot enemies, erect a shield to defend and transfer energon between both players.</desc>
+		<image>./images/TransformersRevengeoftheFallen-image.png</image>
+		<thumbnail>./images/TransformersRevengeoftheFallen-thumb.png</thumbnail>
+		<rating>0.35</rating>
+		<developer>Activision</developer>
+		<publisher>Krome Studios</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064126" />
+	</game>
+	<game id="127201">
+		<path>./Ultraman Fighting Evolution 2.iso</path>
+		<name>Ultraman - Fighting Evolution 2</name>
+		<image>./images/Ultraman Fighting Evolution 2-image.png</image>
+		<thumbnail>./images/Ultraman Fighting Evolution 2-thumb.png</thumbnail>
+		<family>Ultraman</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064128" />
+	</game>
+	<game id="127202">
+		<path>./Ultraman Fighting Evolution 3.iso</path>
+		<name>Ultraman - Fighting Evolution 3</name>
+		<desc>Ultraman Fighting Evolution 3 is the third game in the Ultraman Fighting Evolution series released for the PlayStation 2 system.
+Narration is provided by Yuji Machi, who also provided Ultraman Tiga's kiais and narrated Ultraman Dyna.
+This is also the first game of the Ultraman Fighting Evolution series to feature Ultramen and Ultra Monsters from the Heisei era with the addition of Ultraman 80.</desc>
+		<image>./images/Ultraman Fighting Evolution 3-image.png</image>
+		<thumbnail>./images/Ultraman Fighting Evolution 3-thumb.png</thumbnail>
+		<family>Ultraman</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064131" />
+	</game>
+	<game id="199998">
+		<path>./Ultraman Nexus.iso</path>
+		<name>Ultraman Nexus</name>
+		<image>./images/Ultraman Nexus-image.jpg</image>
+		<thumbnail>./images/Ultraman Nexus-thumb.png</thumbnail>
+		<family>Ultraman</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064134" />
+	</game>
+	<game id="22586">
+		<path>./URBAN REIGN(SME).iso</path>
+		<name>Urban Reign</name>
+		<desc>Urban Reign is a Namco-produced 3D brawler, done in the tradition of Double Dragon and Final Fight. The story follows Brad Hawk, a hired thug, as he tries to find a gang member that was captured by a rival group. In each level, you set off against a handful of bruisers from one of Green Harbor's many gangs in search of clues. Make use of different allies, which can be given instructions, with skills in various fighting techniques to accomplish your goals, as you fight your way through 100 levels. There are different combos and special moves, different objects can be picked up and used as a weapon, and incoming attacks can be avoided by dodging.</desc>
+		<image>./images/URBAN REIGN(SME)-image.png</image>
+		<thumbnail>./images/URBAN REIGN(SME)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<developer>Namco</developer>
+		<publisher>Sony</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064138" />
+	</game>
+	<game id="22763">
+		<path>./VAMPIRE NIGHT.iso</path>
+		<name>Vampire Night</name>
+		<desc>Vampire Night is a light gun game produced by Sega's Wow Entertainment, distributed through Namco and released in 2000 for video game arcades. It was later ported to PlayStation 2 in November 2001. Two players can team up to take down on screen enemies.
+
+A struggle between light and dark, from 300 years back, is about to ensue. The parties involved are Michel and Albert, the two vampire hunters representing light, and the vampires representing dark. The story takes place in an alternate version of the year 2006 in France, when progress looks stuck in the late 19th century.
+
+Michel and Albert rescue a 12-year-old girl named Caroline who witnessed a couple of villagers held hostage by the vampire sarcoma. After rescuing the villagers and Caroline, the vampire hunters proceed into the castle to destroy the remaining forces of dark.
+
+Although the forces of evil reveal that they created Michel and Albert to kill themselves, they became afraid of death and tried to stop them. It is important to note the Hunters are in fact Dhampyrs (half-vampires), foreshadowed by their glowing eyes and sunglasses. The outcome is a pyrrhic victory for the forces of good; as the forces of evil are stopped, the Vampire Hunters decide to let the rising sun end their own lives as well.
+
+The game ends with Caroline paying her respects to the Vampire Hunters at their graves.</desc>
+		<image>./images/VAMPIRE NIGHT-image.png</image>
+		<thumbnail>./images/VAMPIRE NIGHT-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<developer>Namco</developer>
+		<publisher>Sony</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064142" />
+	</game>
+	<game id="23595">
+		<path>./ZOMBIE ATTACK.iso</path>
+		<name>Zombie Attack</name>
+		<desc>In a stormy night an army of zombies and demons assault a mall. 
+A beautiful monster hunter starts his crusade to save every human trapped inside. 
+Embrace your magical weapons and banish all the monsters from this reality. 
+Be fast! You have a limited time before demons conquer our world! 
+Slice zombies with sword, repel demons with sacred rice and seal them with your magic cards. 
+Every time you use a weapon you become stronger with that weapon. 
+Explore the mall, a vast complex of room, and find every survivor. 
+Zombie Attack is a brilliant action game full of monsters and exploration.</desc>
+		<image>./images/ZOMBIE ATTACK-image.png</image>
+		<thumbnail>./images/ZOMBIE ATTACK-thumb.png</thumbnail>
+		<rating>0.15</rating>
+		<developer>Sony</developer>
+		<publisher>Sony</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064151" />
+	</game>
+	<game>
+		<path>./Ben 10 Ultimate Alien.iso</path>
+		<name>Ben 10 Ultimate Alien</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063532" />
+	</game>
+	<game>
+		<path>./BEN 10 VILGAX ATTACKS(SME).iso</path>
+		<name>BEN 10 VILGAX ATTACKS(SME)</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063533" />
+	</game>
+	<game>
+		<path>./BOXING CHAMPIONSHIP.iso</path>
+		<name>BOXING CHAMPIONSHIP</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063546" />
+	</game>
+	<game>
+		<path>./Bujinggai [RIP].iso</path>
+		<name>Bujinggai [RIP]</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063547" />
+	</game>
+	<game>
+		<path>./CALL OF DUTY 5(SME).iso</path>
+		<name>CALL OF DUTY 5(SME)</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063551" />
+	</game>
+	<game>
+		<path>./CAPCOM VS SNK 2.iso</path>
+		<name>CAPCOM VS SNK 2</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063555" />
+	</game>
+	<game>
+		<path>./Captain Tsubasa.iso</path>
+		<name>Captain Tsubasa</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063556" />
+	</game>
+	<game>
+		<path>./CARS MATER NATIONAL.iso</path>
+		<name>CARS MATER NATIONAL</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063556" />
+	</game>
+	<game>
+		<path>./CASINO.iso</path>
+		<name>CASINO</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063557" />
+	</game>
+	<game>
+		<path>./CoD World at War Final Fronts.iso</path>
+		<name>CoD World at War Final Fronts</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063609" />
+	</game>
+	<game>
+		<path>./CONFLICT DESERT STORM 2.iso</path>
+		<name>CONFLICT DESERT STORM 2</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063613" />
+	</game>
+	<game>
+		<path>./crash of titan.iso</path>
+		<name>crash of titan</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063622" />
+	</game>
+	<game>
+		<path>./CTR (CrashTag Team Racing).iso</path>
+		<name>CTR (CrashTag Team Racing)</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063623" />
+	</game>
+	<game>
+		<path>./DISNEY UP.iso</path>
+		<name>DISNEY UP</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063635" />
+	</game>
+	<game>
+		<path>./DORA SAVES THE MERMAIDS.iso</path>
+		<name>DORA SAVES THE MERMAIDS</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063636" />
+	</game>
+	<game>
+		<path>./Downhill Domination OPL.iso</path>
+		<name>Downhill Domination OPL</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063637" />
+	</game>
+	<game>
+		<path>./Driver 3.iso</path>
+		<name>Driver 3</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063656" />
+	</game>
+	<game>
+		<path>./Eragon.iso</path>
+		<name>Eragon</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063657" />
+	</game>
+	<game>
+		<path>./FIGHTING VIPERS.iso</path>
+		<name>FIGHTING VIPERS</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063707" />
+	</game>
+	<game>
+		<path>./FINAL FIGHT tinju.iso</path>
+		<name>FINAL FIGHT tinju</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063708" />
+	</game>
+	<game>
+		<path>./Celebrity deathmath.iso</path>
+		<name>Celebrity deathmath</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063712" />
+	</game>
+	<game>
+		<path>./DON.iso</path>
+		<name>DON</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063713" />
+	</game>
+	<game>
+		<path>./Hulk.iso</path>
+		<name>Hulk</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063717" />
+	</game>
+	<game>
+		<path>./LEGO Indiana Jone.iso</path>
+		<name>LEGO Indiana Jone</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063718" />
+	</game>
+	<game>
+		<path>./Moto GP 8 RIP.iso</path>
+		<name>Moto GP 8 RIP</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063719" />
+	</game>
+	<game>
+		<path>./Need for Speed Most Wanted Black.iso</path>
+		<name>Need for Speed Most Wanted Black</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063720" />
+	</game>
+	<game id="23737">
+		<path>./7WONDERS [SME].iso</path>
+		<name>7 Wonders of the Ancient World</name>
+		<desc>7 Wonders of the Ancient World is a Bejeweled-type puzzle game. The game boards are set against the fabled 7 Wonders of the Ancient World. In the main Story mode you need to build wonders over time one after another starting with The Great Pyramid in Giza then moving to the mysterious Hanging Gardens of Babylon and other wonders. To do so, you will need to match runes on materials blocks to destroy them. After the wonder was opened in story mode it would be available to play in all other modes. There are around 56 levels in the game and 3 difficulty modes to play. Board size and configuration depend on the wonder you're currently trying to build.</desc>
+		<image>./images/7WONDERS [SME]-image.png</image>
+		<thumbnail>./images/7WONDERS [SME]-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>20071120T000000</releasedate>
+		<developer>Hot Lava Games</developer>
+		<publisher>MumboJumbo</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064322" />
+	</game>
+	<game id="22363">
+		<path>./ACECOMBAT_ZERO.iso</path>
+		<name>Ace Combat Zero : The Belkan War</name>
+		<desc>This sixth installment in the Ace Combat series is a prequel to Ace Combat 5 that tells about the Belkan War eluded to in Unsung War. The story is told through the eyes of a reporter, 15 years after the altercation, uncovering secrets about the Belkan War of how it led to war, the outcome of the nuclear detonations within their borders and a near disastrous secret that nearly led to the destruction of a nation.
+
+The main game mode is the story mode, in which the player takes control of an Ustio mercenary pilot, call-sign "Demon Lord", taking part of the said war, advancing missions and advancing in the story while doing it. The missions can be anything done airborne, and there'll be escort, assault and defence missions amongst others. Like in the previous games, the game isn't about simulation, but fast paced aerial combat in highly powered aircraft. More like Top Gun, and less like real world.</desc>
+		<image>./images/ACECOMBAT_ZERO-image.png</image>
+		<thumbnail>./images/ACECOMBAT_ZERO-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20060425T000000</releasedate>
+		<developer>Project Aces</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Simulation</genre>
+		<family>Ace Combat</family>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064525" />
+	</game>
+	<game id="21900">
+		<path>./AGE OF EMPIRE 2 (Game Strategi K.iso</path>
+		<name>Age Of Empires 2 - The Age Of Kings</name>
+		<desc>In Age of Empires II : Age of Kings, the player takes control of one of thirteen civilizations, including the Chinese, Goths, Britons, and Vikings, among others. The player starts with a handful of villagers, through expansion and careful handling of the economy, the player can advance up to the point where powerful war machines and well trained masses of troops will be the player's to make and control. 
+
+There are three distinct ways to play, one of which the object is to hunt and kill the other player(s) king, however there are a lot of options for each, anywhere from what type of map to start on (including coastal, gold rush, arabia, and rivers) to what the maximum amount of units are allowed.</desc>
+		<image>./images/AGE OF EMPIRE 2 (Game Strategi K-image.png</image>
+		<thumbnail>./images/AGE OF EMPIRE 2 (Game Strategi K-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>20011102T000000</releasedate>
+		<developer>Ensemble Studios</developer>
+		<publisher>Konami</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20221207T064735</lastplayed>
+		<gametime>32</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064807" />
+	</game>
+	<game>
+		<path>./ARMY MEN.iso</path>
+		<name>ARMY MEN</name>
+		<playcount>1</playcount>
+		<lastplayed>20221207T065044</lastplayed>
+		<gametime>82</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063739" />
+	</game>
+	<game>
+		<path>./AVATAR THE INTO THE INFERNO.iso</path>
+		<name>AVATAR THE INTO THE INFERNO</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063740" />
+	</game>
+	<game>
+		<path>./BAKUGAN.iso</path>
+		<name>BAKUGAN</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063744" />
+	</game>
+	<game>
+		<path>./Barbie HORSE ADVENTURE.iso</path>
+		<name>Barbie HORSE ADVENTURE</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063745" />
+	</game>
+	<game>
+		<path>./BARNYARD.iso</path>
+		<name>BARNYARD</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063746" />
+	</game>
+	<game>
+		<path>./BASARA 2 HEROES.iso</path>
+		<name>BASARA 2 HEROES</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063747" />
+	</game>
+	<game>
+		<path>./FORMULA 1 06.iso</path>
+		<name>FORMULA 1 06</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063754" />
+	</game>
+	<game>
+		<path>./Getting Up.iso</path>
+		<name>Getting Up</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063758" />
+	</game>
+	<game>
+		<path>./GI JOE(SME).iso</path>
+		<name>GI JOE(SME)</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063758" />
+	</game>
+	<game>
+		<path>./GOLDEN AXE.iso</path>
+		<name>GOLDEN AXE</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063808" />
+	</game>
+	<game>
+		<path>./Gundam SEED Destiny Rengou vs ZA.iso</path>
+		<name>Gundam SEED Destiny Rengou vs ZA</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063812" />
+	</game>
+	<game>
+		<path>./Harry Potter and the Chamber of.iso</path>
+		<name>Harry Potter and the Chamber of</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063813" />
+	</game>
+	<game>
+		<path>./HARVEST MOON 3 save the homeland.iso</path>
+		<name>HARVEST MOON 3 save the homeland</name>
+		<md5>63af56ff7386a669c12625114d9bf70b</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063815" />
+	</game>
+	<game>
+		<path>./Hyper Street Fighter 2.iso</path>
+		<name>Hyper Street Fighter 2</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063824" />
+	</game>
+	<game>
+		<path>./Jet Lee Rise to Honor.iso</path>
+		<name>Jet Lee Rise to Honor</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063829" />
+	</game>
+	<game>
+		<path>./King of Fighters 2003.iso</path>
+		<name>King of Fighters 2003</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063840" />
+	</game>
+	<game>
+		<path>./King of Fighters Nests.iso</path>
+		<name>King of Fighters Nests</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063841" />
+	</game>
+	<game>
+		<path>./King of Fighters XI.iso</path>
+		<name>King of Fighters XI</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063842" />
+	</game>
+	<game>
+		<path>./KNIGHT_RIDER_THE_GAME_2.iso</path>
+		<name>KNIGHT_RIDER_THE_GAME_2</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063843" />
+	</game>
+	<game>
+		<path>./Kungfu Panda.iso</path>
+		<name>Kungfu Panda</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063843" />
+	</game>
+	<game>
+		<path>./LEGO BATMAN.iso</path>
+		<name>LEGO BATMAN</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063848" />
+	</game>
+	<game>
+		<path>./LEGO RECER 2.iso</path>
+		<name>LEGO RECER 2</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063849" />
+	</game>
+	<game>
+		<path>./LEGO Star Wars.iso</path>
+		<name>LEGO Star Wars</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063849" />
+	</game>
+	<game>
+		<path>./LUXOR.iso</path>
+		<name>LUXOR</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063850" />
+	</game>
+	<game>
+		<path>./MERCENARIES 2 WIF(SME).iso</path>
+		<name>MERCENARIES 2 WIF(SME)</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063908" />
+	</game>
+	<game>
+		<path>./Midnight Club 3 DUB Remix.iso</path>
+		<name>Midnight Club 3 DUB Remix</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063909" />
+	</game>
+	<game>
+		<path>./MoH European Assault.iso</path>
+		<name>MoH European Assault</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063910" />
+	</game>
+	<game>
+		<path>./Mummy Tomb of the Dragon.iso</path>
+		<name>Mummy Tomb of the Dragon</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063931" />
+	</game>
+	<game>
+		<path>./MX vs ATV.iso</path>
+		<name>MX vs ATV</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063932" />
+	</game>
+	<game>
+		<path>./Narnia Prince Caspian.iso</path>
+		<name>Narnia Prince Caspian</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063933" />
+	</game>
+	<game>
+		<path>./Narnia The Lion.iso</path>
+		<name>Narnia The Lion</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063934" />
+	</game>
+	<game>
+		<path>./NASCAR RUMBLE RACING.iso</path>
+		<name>NASCAR RUMBLE RACING</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063940" />
+	</game>
+	<game>
+		<path>./NFS UNDERGROUND2.iso</path>
+		<name>NFS UNDERGROUND2</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T063950" />
+	</game>
+	<game>
+		<path>./PES 2021 New Transfer.iso</path>
+		<name>PES 2021 New Transfer</name>
+		<playcount>2</playcount>
+		<lastplayed>20221207T065529</lastplayed>
+		<gametime>131</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064004" />
+	</game>
+	<game>
+		<path>./PES 2023.iso</path>
+		<name>PES 2023</name>
+		<playcount>1</playcount>
+		<lastplayed>20221207T065354</lastplayed>
+		<gametime>102</gametime>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064005" />
+	</game>
+	<game>
+		<path>./Power rangers.iso</path>
+		<name>Power rangers</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064006" />
+	</game>
+	<game>
+		<path>./Resident Evil Survivor 2 Code Ve.iso</path>
+		<name>Resident Evil Survivor 2 Code Ve</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064024" />
+	</game>
+	<game>
+		<path>./Sega tennis.iso</path>
+		<name>Sega tennis</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064028" />
+	</game>
+	<game>
+		<path>./SOLDIER OF FORTUNE.iso</path>
+		<name>SOLDIER OF FORTUNE</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064039" />
+	</game>
+	<game>
+		<path>./SPONGE BOB - VOLCANO ISLAND.iso</path>
+		<name>SPONGE BOB - VOLCANO ISLAND</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064046" />
+	</game>
+	<game>
+		<path>./Sponge Bob Square Pants REVENGE.iso</path>
+		<name>Sponge Bob Square Pants REVENGE</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064047" />
+	</game>
+	<game>
+		<path>./STREET FIGHTER 3.iso</path>
+		<name>STREET FIGHTER 3</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064048" />
+	</game>
+	<game>
+		<path>./Striker 1945.iso</path>
+		<name>Striker 1945</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064049" />
+	</game>
+	<game>
+		<path>./Super Mario Collection.iso</path>
+		<name>Super Mario Collection</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064053" />
+	</game>
+	<game>
+		<path>./TANK BATTLES.iso</path>
+		<name>TANK BATTLES</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064057" />
+	</game>
+	<game>
+		<path>./TARZAN.iso</path>
+		<name>TARZAN</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064058" />
+	</game>
+	<game>
+		<path>./TENCHU 4.iso</path>
+		<name>TENCHU 4</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064059" />
+	</game>
+	<game>
+		<path>./Tennis Pro.iso</path>
+		<name>Tennis Pro</name>
+		<md5>e0a110196ff25e53f152f9f3a520c3a8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064101" />
+	</game>
+	<game>
+		<path>./THE INCREDIBLES.iso</path>
+		<name>THE INCREDIBLES</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064105" />
+	</game>
+	<game>
+		<path>./TMNT SMASH UP.iso</path>
+		<name>TMNT SMASH UP</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064112" />
+	</game>
+	<game>
+		<path>./TONY HAWK_DOWNHILL JAM.iso</path>
+		<name>TONY HAWK_DOWNHILL JAM</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064117" />
+	</game>
+	<game>
+		<path>./Ultraman Fighting Evolution Rebi.iso</path>
+		<name>Ultraman Fighting Evolution Rebi</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064131" />
+	</game>
+	<game>
+		<path>./Ultraman Re-Birth.iso</path>
+		<name>Ultraman Re-Birth</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064135" />
+	</game>
+	<game>
+		<path>./WAR OF THE MONSTER.iso</path>
+		<name>WAR OF THE MONSTER</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064142" />
+	</game>
+	<game>
+		<path>./Winning 2022.iso</path>
+		<name>Winning 2022</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064144" />
+	</game>
+	<game>
+		<path>./Yakuza.iso</path>
+		<name>Yakuza</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064145" />
+	</game>
+	<game>
+		<path>./YU GI OH TAG FORCE EVOLUTION.iso</path>
+		<name>YU GI OH TAG FORCE EVOLUTION</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064145" />
+	</game>
+	<game>
+		<path>./Yu-Gi-Oh The Duelists Roses.iso</path>
+		<name>Yu-Gi-Oh The Duelists Roses</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064146" />
+	</game>
+	<game>
+		<path>./Yu-Gi-Oh! Capsule.iso</path>
+		<name>Yu-Gi-Oh! Capsule</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064147" />
+	</game>
+	<game>
+		<path>./Zuma.iso</path>
+		<name>Zuma</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064151" />
+	</game>
 </gameList>
