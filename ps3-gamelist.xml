@@ -136,4 +136,701 @@ Five years ago Carl Johnson escaped from the pressures of life in Los Santos, Sa
 		<scrap name="ScreenScraper" date="20221124T185318" />
 		<scrap name="TheGamesDB" date="20221103T200911" />
 	</game>
+	<game id="25024">
+		<path>./Digimon AllStar Rumble.ps3</path>
+		<name>Digimon : All-Star Rumble</name>
+		<desc>A PS3 fighting game set in the Digimon universe, Digimon All-Star Rumble features 32 characters. Playable in single player and up to four players locally, it lacks an online multiplayer mode.</desc>
+		<rating>0.8</rating>
+		<developer>Bandai Namco</developer>
+		<publisher>Prope</publisher>
+		<genre>Fight</genre>
+		<family>Digimon</family>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064535" />
+	</game>
+	<game>
+		<path>./Madagascar Kart.ps3</path>
+		<name>Madagascar Kart</name>
+		<scrap name="ScreenScraper" date="20221207T064535" />
+	</game>
+	<game id="24724">
+		<path>./Red Dead Redemption.ps3</path>
+		<name>Red Dead Redemption</name>
+		<desc>Red Dead Redemption on PS3 is a GTA-like game that takes place at the beginning of the 20th century, in the middle of the Mexican revolution, in a western atmosphere. We play as John Marston, an outlaw forced to hunt down his former "brothers" who left him for dead. John can hunt any animal species in the American West and must complete a series of missions to regain his independence.</desc>
+		<image>./images/Red Dead Redemption-image.jpg</image>
+		<thumbnail>./images/Red Dead Redemption-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<developer>Take 2 Interactive</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<family>Red Dead</family>
+		<players>16</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064539" />
+	</game>
+	<game id="24620">
+		<path>./Assassins Creed Rogue.ps3</path>
+		<name>Assassin's Creed Rogue</name>
+		<desc>North America, 18th century. Amid the chaos and violence of the French and Indian War, Shay Patrick Cormac, a fearless young member of the Assassin Brotherhood, undergoes a dark transformation that will forever shape the future of the colonies. After a dangerous mission goes tragically wrong, Shay turns his back on the Assassins who, in response, attempt to end his life. Cast aside by those he once called brothers, Shay sets out on a mission to wipe out all who turned against him and to ultimately become the most feared Assassin hunter in history.</desc>
+		<image>./images/Assassins Creed Rogue-image.jpg</image>
+		<thumbnail>./images/Assassins Creed Rogue-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Adventure</genre>
+		<family>Assassin's Creed</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064542" />
+	</game>
+	<game>
+		<path>./BASARA 3.ps3</path>
+		<name>BASARA 3</name>
+		<scrap name="ScreenScraper" date="20221207T064545" />
+	</game>
+	<game id="24735">
+		<path>./Batman Arkham City.ps3</path>
+		<name>Batman Arkham City</name>
+		<desc>From Giant Bomb: "Batman: Arkham City is the sequel to Batman: Arkham Asylum, and was released for the Playstation 3 and Xbox 360 on Oct. 18th, 2011. The PC version was released on November 18, 2011, and a version for the Nintendo Wii U is expected some time in 2012. Square-Enix will be publishing all versions of the game in Japan. Taking place a year after Arkham Asylum, the storyline starts with Quincy Sharp, formerly the warden of Arkham Asylum, now the mayor of Gotham City, turning the Gotham slums into a cordoned off prison colony named Arkham City with psychologist Hugo Strange as its warden. The gameplay has been updated to incorporate more of Batman's gadgets in combat and a new faster traversal system. Players will also be able to play as Catwoman in certain sections of the game. On September 25, 2011, the game developers at Rocksteady officially announced that the game was finished and being shipped out to retailers."</desc>
+		<image>./images/Batman Arkham City-image.jpg</image>
+		<thumbnail>./images/Batman Arkham City-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>Rocksteady Studios</publisher>
+		<genre>Adventure</genre>
+		<family>Batman</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064548" />
+	</game>
+	<game id="24633">
+		<path>./Battlefield 4.ps3</path>
+		<name>Battlefield 4</name>
+		<desc>CAUGHT IN A GLOBAL CONFLICT
+
+Battlefield 4 puts you in the boots of US Marine Sgt. Daniel Recker, member of the Tombstone squad. Against the backdrop of a global conflict between US, Russia and China, you'll engage in combat on foot and by operating land, sea and air units. 
+
+Thankfully, you're not alone in your struggles on the Battlefield. The bonds with your teammates will grow stronger as you face perils of every kind. Don't let your squad down; they're counting on you as much as you need them to survive.
+
+In Battlefield 4 you'll engage in both close quarters squad-based combat and in vast battles commandeering tanks, jeeps, jets, helicopters and naval units. Utilize high-tech gadgets, a wide variety of weapons, and the dynamic environment itself as the climactic story progresses.
+
+Battlefield 4 takes the fight to many urban environments like the outskirts of Baku and the skyscrapers of Shanghai, all of which become explosive, dynamic playgrounds for the Tombstone Squad.
+
+Whether you're riding the waves of the South China Sea or traversing Shanghai's iconic Huangpu River, naval warfare is central in Battlefield 4's single player campaign.
+
+Fight on huge fields, massive industrial areas, or in enemy air space. Nothing compares to the scale and scope of Battlefield 4.</desc>
+		<image>./images/Battlefield 4-image.jpg</image>
+		<thumbnail>./images/Battlefield 4-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<developer>Electronic Arts</developer>
+		<publisher>Dice</publisher>
+		<genre>Action</genre>
+		<family>Battlefield</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064553" />
+	</game>
+	<game id="25020">
+		<path>./BATTLEFIELD bad company 2.ps3</path>
+		<name>Battlefield : Bad Company 2</name>
+		<desc>Battlefield: Bad Company 2 features dynamic online vehicle warfare on huge maps, each with a different tactical focus. The destruction delivered by the powerful Frostbite engine allows players to demolish buildings and blow holes in walls to create new gameplay possibilities. The game also follows the new adventures of the motley crew in B Company.</desc>
+		<rating>0.9</rating>
+		<developer>Dice</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<family>Battlefield</family>
+		<players>2-24</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064553" />
+	</game>
+	<game id="26811">
+		<path>./Blood Drive.ps3</path>
+		<name>Blood Drive</name>
+		<rating>0.65</rating>
+		<developer>Sidhe Interactive</developer>
+		<publisher>Activision</publisher>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064554" />
+	</game>
+	<game>
+		<path>./Brave.ps3</path>
+		<name>Brave</name>
+		<scrap name="ScreenScraper" date="20221207T064555" />
+	</game>
+	<game>
+		<path>./BURNOUT.ps3</path>
+		<name>BURNOUT</name>
+		<scrap name="ScreenScraper" date="20221207T064556" />
+	</game>
+	<game id="24713">
+		<path>./Call of Duty Ghosts.ps3</path>
+		<name>Call of Duty : Ghosts</name>
+		<desc>Outnumbered and outgunned, but not outmatched. Welcome to Call of Duty®: Ghosts, an extraordinary step forward for one of the largest entertainment franchises of all-time. This new chapter in the Call of Duty® franchise features a fresh dynamic where players are on the side of a crippled nation fighting not for freedom, or liberty, but simply to survive.
+
+Fueling this all new Call of Duty universe, the franchise's ambitious new next-gen engine delivers stunning levels of immersion and performance all while maintaining the speed and fluidity of 60 frames-per-second across all platforms.
+
+Ten years after a devastating mass event, the nation's borders and the balance of global power have been redrawn forever. As what's left of the nation's Special Operations forces, a mysterious group known only as "Ghosts" leads the fight back against a newly emerged, technologically-superior global power.</desc>
+		<image>./images/Call of Duty Ghosts-image.jpg</image>
+		<thumbnail>./images/Call of Duty Ghosts-thumb.png</thumbnail>
+		<rating>0.4</rating>
+		<developer>Activision</developer>
+		<publisher>Infinity Ward</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Call Of Duty</family>
+		<players>12</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064600" />
+	</game>
+	<game id="24758">
+		<path>./Call of Duty Modern Warfare 3.ps3</path>
+		<name>Call of Duty : Modern Warfare 3</name>
+		<desc>Call of Duty: Modern Warfare 3 (stylized as Call of Duty: MW3) is a 2011 first-person shooter video game, developed by Infinity Ward and Sledgehammer Games (Treyarch for the Wii version), with development assistance from Raven Software, and published by Activision. It is the third installment in the Modern Warfare saga, a direct sequel to 2009's Call of Duty: Modern Warfare 2, and the eighth Call of Duty installment.
+
+The game was released worldwide in November 2011 on Microsoft Windows, Xbox 360, PlayStation 3,[8] and Wii,[7] with a separate version for Nintendo DS developed by n-Space. In Japan, Square Enix handled the installment with a separate subtitled and dubbed version, as they did for Call of Duty: Black Ops. Within 24 hours of going on sale, the game sold 6.5 million copies in the U.S. and UK alone and grossed $400 million, making it the biggest entertainment launch of all time,[9][10][11] until it was surpassed by Call of Duty: Black Ops II in November 2012.</desc>
+		<thumbnail>./images/Call of Duty Modern Warfare 3-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>20111222T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Sledgehammer Games</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Call Of Duty</family>
+		<players>16</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064602" />
+	</game>
+	<game>
+		<path>./CARS METER NATIONAL.ps3</path>
+		<name>CARS METER NATIONAL</name>
+		<scrap name="ScreenScraper" date="20221207T064603" />
+	</game>
+	<game id="26423">
+		<path>./Crash Time 4 The Syndicate.ps3</path>
+		<name>Crash Time 4 : The Syndicate</name>
+		<desc>Crash Time IV on PS3 is a game of chases between good and evil (the police and the Syndicate) that allows you to drive sports cars, trucks, utility vehicles or tanks, both in single and multiplayer mode. This mode allows up to 8 players to compete simultaneously.</desc>
+		<developer>DTP Entertainment</developer>
+		<publisher>Synetic</publisher>
+		<genre>Race, Driving</genre>
+		<family>Crash Time</family>
+		<players>2-8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064604" />
+	</game>
+	<game id="25515">
+		<path>./DARK SECTOR.ps3</path>
+		<name>Dark Sector</name>
+		<desc>Dark Sector on PS3 is a third-person action game in which you play as Hayden Tenno, a special agent tasked with putting an end to the nefarious activities of a Russian scientist. Contaminated by a strange virus during his encounter with the scientist, Hayden develops sinister powers that he chooses to use to complete his mission.</desc>
+		<image>./images/DARK SECTOR-image.jpg</image>
+		<thumbnail>./images/DARK SECTOR-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20080325T000000</releasedate>
+		<developer>D3 Publisher</developer>
+		<publisher>Digital Extremes</publisher>
+		<players>2-10</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064608" />
+	</game>
+	<game>
+		<path>./DARK SOULS PREPARE TO DIE EDITION.ps3</path>
+		<name>DARK SOULS PREPARE TO DIE EDITION</name>
+		<scrap name="ScreenScraper" date="20221207T064609" />
+	</game>
+	<game id="24939">
+		<path>./DEAD OR ALIVE 5 Ultimate.ps3</path>
+		<name>Dead Or Alive 5 Ultimate</name>
+		<desc>Dead or Alive 5 Ultimate is a fighting game for PS3. It is a re-release of Dead or Alive 5 with some additions. You will find 5 additional characters: Momiji, Rachel, Ein, Leon and Jacky Bryant. The gameplay has also undergone some readjustments for the occasion and new moves have appeared. The title also includes new tutorials.</desc>
+		<rating>0.8</rating>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Fight</genre>
+		<family>Dead or Alive</family>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064610" />
+	</game>
+	<game>
+		<path>./Dinasty Warior 8.ps3</path>
+		<name>Dinasty Warior 8</name>
+		<scrap name="ScreenScraper" date="20221207T064611" />
+	</game>
+	<game>
+		<path>./Dragon Ball Battle of Z.ps3</path>
+		<name>Dragon Ball Battle of Z</name>
+		<scrap name="ScreenScraper" date="20221207T064611" />
+	</game>
+	<game id="25692">
+		<path>./F1 Race Stars.ps3</path>
+		<name>F1 Race Stars</name>
+		<desc>F1 Race Stars™ is a brand new world of FORMULA ONE™ fun as you've never seen it before! Officially licensed to feature all of your favourite FORMULA ONE stars and teams, get ready to sprint for the chequered flag on famous circuits transformed to feature jumps, loop-the-loops and shortcuts and use a cool range of awesome power-ups to overtake your rivals. Travel the world and enter a wide range of different Championships in career mode and set your fastest lap in Time Trials. Then it's time to share the fun with friends and family - accessible controls make F1 RACE STARS™ perfect for split-screen racing with up to four players or dive into 12 player online races and take on the world. F1 RACE STARS - get fast to the fun!</desc>
+		<rating>0.7</rating>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064612" />
+	</game>
+	<game id="24615">
+		<path>./FAR CRY 4.ps3</path>
+		<name>Far Cry 4</name>
+		<desc>Far Cry 4 is the fourth main game in the open world action series. It has no narrative ties to Far Cry 3, but carries over many gameplay elements. The game is set in Kyrat, a fictional region based on the Himalayan regions of Nepal. It is governed by the depostic king Pagan Min. The player controls Ajay Ghale, an American with Kyrati roots who returns to the region to disperse his deceased mother's ashes. As soon as he arrives he is dragged into the conflict and is rescued by the rebel organization The Golden Path started by his parents. During the game the Ajay can eventually choose which force to side with, with different endings. Inside The Golden Path there is a power struggle, and Ajay can choose between missions for Amita or Sabal, with different objectives based on the choices.</desc>
+		<thumbnail>./images/FAR CRY 4-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Far Cry</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064615" />
+	</game>
+	<game>
+		<path>./Fast Furious Showdown.ps3</path>
+		<name>Fast Furious Showdown</name>
+		<scrap name="ScreenScraper" date="20221207T064616" />
+	</game>
+	<game>
+		<path>./FIFA 2020.ps3</path>
+		<name>FIFA 2020</name>
+		<scrap name="ScreenScraper" date="20221207T064616" />
+	</game>
+	<game id="25236">
+		<path>./Fifa Street.ps3</path>
+		<name>Fifa Street</name>
+		<desc>FIFA Street on PS3 pays tribute to street football in cities such as Rio de Janeiro, London, Amsterdam and New York. Thanks to Street Control, players can dribble their opponents to their heart's content in both single and multiplayer modes. The best clubs in the world are licensed in this title where the World Tour mode offers 16 tournaments and 20 different challenges.</desc>
+		<rating>0.8</rating>
+		<publisher>EA Sports</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>FIFA</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064617" />
+	</game>
+	<game id="24833">
+		<path>./God Of War 3.ps3</path>
+		<name>God of War III</name>
+		<desc>The Ghost of Sparta returns in this final chapter of the God of War trilogy. Continuing right after the events of God of War II, Kratos, the fallen god and spartan warrior, finds himself riding on the back of the Titan Gaia toward Mt. Olympus. Betrayed and killed by his father and ruler of Olympus, Zeus, to give up his power, Kratos returns from the Underworld and decides that he will bring about the death of Zeus by any means necessary. Knowing that the battle against the Olympians would not be easy, he enlists the help of the Titans, the former Elder Gods overthrown by Zeus and his brothers, to help exact revenge. With nothing much to live for, Kratos will stop at nothing to bring chaos to all of Olympus.</desc>
+		<image>./images/God Of War 3-image.jpg</image>
+		<thumbnail>./images/God Of War 3-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20100316T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>SCE Santa Monica Studio</publisher>
+		<genre>Beat'em Up</genre>
+		<family>God Of War</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064621" />
+	</game>
+	<game id="200897">
+		<path>./Grand Theft Auto V.ps3</path>
+		<name>Grand Theft Auto V</name>
+		<releasedate>20130917T000000</releasedate>
+		<developer>Rockstar North</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Grand Theft Auto</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064622" />
+	</game>
+	<game>
+		<path>./GTA San Andreas.ps3</path>
+		<name>GTA San Andreas</name>
+		<scrap name="ScreenScraper" date="20221207T064622" />
+	</game>
+	<game>
+		<path>./Hot Wheels Worlds.ps3</path>
+		<name>Hot Wheels Worlds</name>
+		<scrap name="ScreenScraper" date="20221207T064623" />
+	</game>
+	<game>
+		<path>./How to Train Your Dragon 2.ps3</path>
+		<name>How to Train Your Dragon 2</name>
+		<scrap name="ScreenScraper" date="20221207T064624" />
+	</game>
+	<game id="24969">
+		<path>./Infamous 2.ps3</path>
+		<name>Infamous 2</name>
+		<desc>InFamous 2 is an open world action game for PS3. The game invites you to reunite with Cole, the hero of the first installment, and to evolve with him in the city of New Swamp inspired by New Orleans and its surroundings. Hunted like a wild beast, Cole must use his powers to try to escape his pursuers.</desc>
+		<image>./images/Infamous 2-image.jpg</image>
+		<thumbnail>./images/Infamous 2-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20110607T000000</releasedate>
+		<developer>Sucker Punch Productions</developer>
+		<publisher>Sony</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Infamous</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064628" />
+	</game>
+	<game id="24784">
+		<path>./Injustice Gods Among Us.ps3</path>
+		<name>Injustice - Les Dieux Sont Parmi Nous</name>
+		<desc>Injustice: Gods Among Us is a fighting game from the creators of the Mortal Kombat series with characters of the DC universe.
+The gameplay consists in a hand-to-hand fighting in a 2D gameplay with 3D elements and characters with some weapons like the Batmobile; some scenarios are taken from DC comics like the Fortress of Solitude (Superman), the Batcave (Batman) and the Watchtower (Justice League); and 28 characters (12 heroes, 12 villains and 4 downloadable) are available in this game.</desc>
+		<rating>0.8</rating>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>NetherRealm Studios</publisher>
+		<genre>Fight</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064629" />
+	</game>
+	<game id="26231">
+		<path>./Kungfu panda 2.ps3</path>
+		<name>Kung Fu Panda 2</name>
+		<desc>Kung Fu Panda 2 is an action game available on Playstation 3. We direct the panda Po, who has become a master of martial arts, who must this time free a village from the yoke of henchmen who are necessarily ill-intentioned. To do this, he has a few combos at his disposal and can also call on the temporary services of another character.</desc>
+		<rating>0.4</rating>
+		<releasedate>20110524T000000</releasedate>
+		<developer>Griptonite Games</developer>
+		<publisher>THQ</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064630" />
+	</game>
+	<game>
+		<path>./Lego Batman.ps3</path>
+		<name>Lego Batman</name>
+		<scrap name="ScreenScraper" date="20221207T064631" />
+	</game>
+	<game id="25047">
+		<path>./MAFIA 2.ps3</path>
+		<name>Mafia II</name>
+		<desc>nnMafia 2 Directors Cut includes all of the downloadable content available for the standard edition, adding more than double the original gameplay. Featuring new storylines, new playable characters, and new city-based quests with leaderboard challenges, this is an offer you can't refuse.From the developers of the award-winning Mafia comes Mafia II, a beautifully crafted look into the dark and unforgiving world of the Mafia where clothing, cars, music and advertising are meticulously created to replicate an American city in the '40s and '50s. Players will easily become engaged in the game's cinematic, Hollywood-style experience with strong, believable characters in a living, breathing city that transports them to a time when rock-n-roll first strummed its guitar and chrome-plated hot rods roared down boulevards.Powered by 2K Czech's next-generation Illusion Engine built specifically for Mafia II, players will experience the true evolution of the game. Gunfights, hand-to-hand combat and vehicular exploration feature new depth and dimension that allow players to experience the world of Mafia II in a way that will keep them coming back for more</desc>
+		<image>./images/MAFIA 2-image.jpg</image>
+		<thumbnail>./images/MAFIA 2-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20100907T000000</releasedate>
+		<developer>2K Games</developer>
+		<publisher>2K Games</publisher>
+		<family>Mafia</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064635" />
+	</game>
+	<game>
+		<path>./Metal Gear Solid 5 the Phantom Pain.ps3</path>
+		<name>Metal Gear Solid 5 the Phantom Pain</name>
+		<scrap name="ScreenScraper" date="20221207T064635" />
+	</game>
+	<game id="201049">
+		<path>./Minecraft PlayStation3 Edition.ps3</path>
+		<name>Minecraft: PlayStation 3 Edition</name>
+		<thumbnail>./images/Minecraft PlayStation3 Edition-thumb.png</thumbnail>
+		<releasedate>20131217T000000</releasedate>
+		<developer>Mojang</developer>
+		<publisher>Sony Interactive Entertainment</publisher>
+		<genre>Simulation</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064637" />
+	</game>
+	<game>
+		<path>./MOTOGP 2022.ps3</path>
+		<name>MOTOGP 2022</name>
+		<scrap name="ScreenScraper" date="20221207T064638" />
+	</game>
+	<game id="201285">
+		<path>./MX vs ATV Supercross.ps3</path>
+		<name>MX vs. ATV Supercross</name>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064639" />
+	</game>
+	<game id="24765">
+		<path>./NARUTO SHIPPUDEN Ultimate Ninja STORM 3.ps3</path>
+		<name>Naruto Shippuden : Ultimate Ninja Storm 3</name>
+		<desc>Naruto Shippuden: Ultimate Ninja Storm 3 is a fighting game for PS3. Taking up the basics of the series' gameplay, the game adds a few new features, such as hidden actions, horde battles and ultimate decisions that offer various twists and turns. Boss battles make a comeback, and it is possible to play online with the 80 characters of the game, or to launch into the adventure that retraces the 4th great ninja war.</desc>
+		<image>./images/NARUTO SHIPPUDEN Ultimate Ninja STORM 3-image.jpg</image>
+		<rating>0.85</rating>
+		<releasedate>20130305T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>CyberConnect2</publisher>
+		<genre>Adventure</genre>
+		<family>Naruto</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064641" />
+	</game>
+	<game id="195595">
+		<path>./NBA 2K18.ps3</path>
+		<name>Nba 2k18</name>
+		<desc>The highest rated sports license on this generation of consoles returns once again with NBA 2K18. This new version of the "benchmark in basketball simulations" (Sports Gamers Online) features unprecedented realism and true-to-life NBA gameplay.
+
+Create your player and write your story in an all-new open-world neighborhood, build your dream team and take control of the league, or prove you're the best by competing against players from around the world.</desc>
+		<releasedate>20170919T000000</releasedate>
+		<developer>Visual Concepts</developer>
+		<publisher>2K Games</publisher>
+		<genre>Sports / Basketball</genre>
+		<family>NBA 2K</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064642" />
+	</game>
+	<game id="24941">
+		<path>./Need for Speed Most Wanted.ps3</path>
+		<name>Need for Speed : Most Wanted</name>
+		<desc>Do you have what it takes to become Most Wanted? Designed for a new, more connected generation of racing fans, Need for Speed Most Wanted offers players an expansive open world packed with exhilarating action where they can choose their own path to become the Most Wanted. Players will have the freedom to drive anywhere, discover hidden gameplay, takedown rivals, challenge friends or just hang out and toy with the cops. Everything they do counts towards the end goal of becoming #1 on their personal Most Wanted List.
+
+The only rule in Need for Speed Most Wanted is to race without rules. There's a start and a finish to every race -- but how the player races, where and when they choose to compete, and the skills they choose to compete with -- are all up to the player. It isn't enough to be the Most Wanted amongst rivals and cops. Now players will fight for ultimate bragging rights amongst their friends thanks to Autolog. In Need for Speed Most Wanted, everything players do will earn Speed Points that will take them up the Most Wanted list, from competing for best race times and battling cops in pursuits for the highest scores, to catching the most air off a huge ramp and more -- if there?s something to do, there's someone to beat.</desc>
+		<image>./images/Need for Speed Most Wanted-image.jpg</image>
+		<thumbnail>./images/Need for Speed Most Wanted-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20121030T000000</releasedate>
+		<developer>Criterion Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Race, Driving</genre>
+		<family>Need for Speed</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064645" />
+	</game>
+	<game id="25237">
+		<path>./Ninja Gaiden 3 Razors Edge.ps3</path>
+		<name>Ninja Gaiden 3 : Razor's Edge</name>
+		<desc>Ninja Gaiden 3: Razor's Edge on PS3 is a bloody action game that puts the player in the shoes of Ryu Hayabusa, a ninja whose skill is matched only by his mastery of the katana. This time, it's in London that our favourite limb-slicer will play the dragon's sword against bellicose terrorists.</desc>
+		<rating>0.8</rating>
+		<releasedate>20130404T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Ninja Gaiden</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064646" />
+	</game>
+	<game id="201067">
+		<path>./ONE PIECE Unlimited World Red].ps3</path>
+		<name>One Piece - Unlimited World Red</name>
+		<releasedate>20140708T000000</releasedate>
+		<developer>Ganbarion</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Action / Adventure</genre>
+		<family>One Piece</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064647" />
+	</game>
+	<game>
+		<path>./PES 2023 BITBOX.ps3</path>
+		<name>PES 2023 BITBOX</name>
+		<scrap name="ScreenScraper" date="20221207T064648" />
+	</game>
+	<game>
+		<path>./PES 2023 GEMBOX.ps3</path>
+		<name>PES 2023 GEMBOX</name>
+		<scrap name="ScreenScraper" date="20221207T064648" />
+	</game>
+	<game id="201305">
+		<path>./Plants VS Zombies.ps3</path>
+		<name>Plants vs. Zombies</name>
+		<thumbnail>./images/Plants VS Zombies-thumb.png</thumbnail>
+		<releasedate>20110208T000000</releasedate>
+		<developer>PopCap Games</developer>
+		<publisher>PopCap Games</publisher>
+		<genre>Strategy</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064652" />
+	</game>
+	<game id="26114">
+		<path>./RAPALA PRO BASS FISHING.ps3</path>
+		<name>Rapala Pro Bass Fishing</name>
+		<rating>0.65</rating>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports / Fishing</genre>
+		<family>Rapala</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064654" />
+	</game>
+	<game id="24782">
+		<path>./Resident Evil 6.ps3</path>
+		<name>Resident Evil 6</name>
+		<desc>It has been ten years since the Raccoon City incident and the President of the United States has decided to reveal the truth behind what took place in the belief that it will curb the current resurgence in bioterrorist activity. Due to be by the President's side is his personal friend and Raccoon City survivor, Leon S. Kennedy, but when the venue suffers a bioterrorist attack, Leon is forced to face a President transformed beyond recognition and make his hardest ever decision. At the same time, Bioterrorism Security Assessment Alliance member Chris Redfield arrives in China, itself under threat of a bioterrorist attack. With no country safe from these attacks and the ensuing outbreaks, the entire world's population is united by a common fear that there is no hope left. 
+
+ Resident Evil 6 promises yet another dramatic, frightening experience blending action and survival horror. In a first for the franchise, RE 6 sees series favorites Leon and Chris come together to face this unprecedented threat. They are joined by new characters, each with their own unique perspective and involvement, in this relentless outbreak enacted on a global scale.</desc>
+		<image>./images/Resident Evil 6-image.jpg</image>
+		<thumbnail>./images/Resident Evil 6-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20121002T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure / Survival Horror</genre>
+		<family>Resident Evil</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064658" />
+	</game>
+	<game id="24847">
+		<path>./Sleeping Dogs.ps3</path>
+		<name>Sleeping Dogs</name>
+		<desc>Sleeping Dogs is a gritty and visceral open-world cop drama set in the vibrant city of Hong Kong. Sleeping Dogs catapults players into the role of undercover cop Wei Shen, tasked with taking down one of the world's most fearsome criminal organisations from the inside... the Hong Kong Triads. As players explore the bustling and crowded Hong Kong island, through its neon-lit side streets and sprawling street markets, an incredible story unfolds of loyalty and betrayal, where Wei begins to question his own motives as he is sucked in deeper than he could ever imagine. Offering players an island packed with action, every street corner, market stall, harbour dock or city skyscraper can become an opportunity for intense shoot-outs, adrenaline-fuelled street races and intense, brutal martial arts combat. Featuring one of the most intuitive and imaginative combat systems, Sleeping Dogs empowers players to perform an extensive set of martial arts moves, singlehandedly taking on numerous opponents. Players perform bone-crunching kicks and combos, vicious counters and a cinematic set of environmental takedowns making use of countless real-world items from circular saws to phone booths, incinerators to refrigerator doors.</desc>
+		<rating>0.85</rating>
+		<releasedate>20120927T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>United Front Games</publisher>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064658" />
+	</game>
+	<game id="24960">
+		<path>./Sniper Elite 3.ps3</path>
+		<name>Sniper Elite III</name>
+		<desc>Featuring a greater focus on player agency/choice and expansive environments filled with opportunities for distinct play styles, and set in the exotic yet deadly terrain of North Africa during World War II, Sniper Elite 3 sees American OSS agent Karl Fairburne deep behind Nazi lines, providing crucial sharpshooter skills as the Allies battle Germany's fearsome Tiger tanks across the Western Desert. But it's not just the famed Afrika Korps that Karl has to worry about; he soon uncovers German plans to build a 'wunderwaffe' – a 'wonder weapon' – with the power to crush any Allied forces in its path, and turn the tide of the whole war.</desc>
+		<rating>0.6</rating>
+		<developer>Rebellion</developer>
+		<publisher>505 Games</publisher>
+		<genre>Lightgun Shooter</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064659" />
+	</game>
+	<game id="25475">
+		<path>./Sniper Ghost Warrior.ps3</path>
+		<name>Sniper : Ghost Warrior</name>
+		<desc>When the democratic government of Isla Trueno is overthrown, an aggressive and hostile military command rises to power. A highly trained special ops unit is sent in to help the rebels accomplish objectives that only a sniper can handle. In addition to intense sniper missions, players will also take part in a variety of assault scenarios where their prowess with weapons will be a huge help to the under-manned rebels. Sniper: Ghost Warrior for PS3 seeks to challenge players in new ways so that the game is both demanding and entertaining.</desc>
+		<rating>0.65</rating>
+		<developer>CI Games</developer>
+		<publisher>Micro Application</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064700" />
+	</game>
+	<game id="25523">
+		<path>./Spiderman 3.ps3</path>
+		<name>Spider-man 3</name>
+		<desc>Based on Sony Pictures Entertainment's Columbia Pictures' feature film of the same name, Spider-Man 3 allows players to experience the actions of heroic red-suited Spider-Man and, for the first time ever, his darker, more mysterious black-suited persona. Set in a larger, dynamic, free-roaming New York City, the game gives players the freedom to choose their own gameplay experience through multiple movie-based and original storylines, fully integrated city missions and performance rewards including improved speed, combat manoeuvres and agility. In Spider-Man 3, players draw upon Spider-Man's completely revamped combat abilities as they protect the city and defeat nemeses using expanded aerial fighting, finishing moves and dynamic webbing during missions and epic boss battles.</desc>
+		<rating>0.65</rating>
+		<developer>Activision</developer>
+		<publisher>Treyarch Corporation</publisher>
+		<family>Spider-Man</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064701" />
+	</game>
+	<game>
+		<path>./Sponge Bob Robotic.ps3</path>
+		<name>Sponge Bob Robotic</name>
+		<scrap name="ScreenScraper" date="20221207T064701" />
+	</game>
+	<game id="25050">
+		<path>./TEKKEN 6.ps3</path>
+		<name>Tekken 6</name>
+		<desc>The Tekken fighting franchise is back on Playstation 3 with new characters and new game modes. After the last tournament, Jin Kazama has taken over the Mishima Zaibatsu company and is using the special forces for his personal propaganda. His actions lead to riots and wars between nations. The G Corporation group offers a bounty to whoever brings Jin Kazama to them alive. Let the battle begin...</desc>
+		<image>./images/TEKKEN 6-image.jpg</image>
+		<thumbnail>./images/TEKKEN 6-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20091027T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fight</genre>
+		<family>Tekken</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064735" />
+	</game>
+	<game id="25355">
+		<path>./The King of Fighters XIII.ps3</path>
+		<name>The King of Fighters XIII</name>
+		<desc>The King of Fighters XIII is a 2D fighting game on PS3. The title proposes confrontations between teams of 3 fighters. This episode gathers a total of 33 playable characters and offers a fighting system as dynamic as technical.</desc>
+		<image>./images/The King of Fighters XIII-image.jpg</image>
+		<thumbnail>./images/The King of Fighters XIII-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<developer>Rising Star Games</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight</genre>
+		<family>The King of Fighters</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064735" />
+	</game>
+	<game id="24654">
+		<path>./The Last Of Us.ps3</path>
+		<name>The Last of Us</name>
+		<desc>It has been 20 years since a special strain of cordyceps fungus emerged and began infecting humans, systematically taking over their brains and turning them into The Infected. Since then, the United States military, or what's left of it, has placed much of the country under martial law, establishing Quarantine Zones in many major cities. Each zone features numerous checkpoints where civilians are scanned and tested for infection; any survivor found with even the slightest trace of the disease is euthanized on site. Outside the quarantine zones, nature has reclaimed much of the land lost to humans in recent centuries, resulting in startling contrasts of green and gray in America's abandoned cities.
+
+Joel, a smuggler within a quarantine zone in Boston, sells weapons and drugs on the black market, often trading in ration cards for goods, supplies, or favors. An event occurs where Joel promises a lifelong friend that he will take care of a young girl named Ellie as they escape from the quarantine zone and go across the country in search of the Fireflies, an organization aimed at restoring modern society and finding a cure for the disease without the help of the surviving U.S. government.
+
+On the road, there are scavengers, hunters, and other dangerous survivors looking to exploit the weak and naive to better their own situations; many groups see Joel and Ellie as an opportunity. The pair must constantly do battle with these groups, as well as hordes of the Infected, as they make their way across the country to the Fireflies.</desc>
+		<image>./images/The Last Of Us-image.jpg</image>
+		<thumbnail>./images/The Last Of Us-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20130614T000000</releasedate>
+		<developer>Naughty Dog</developer>
+		<publisher>Sony</publisher>
+		<genre>Action</genre>
+		<family>The last of us</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064735" />
+	</game>
+	<game id="24729">
+		<path>./The Sims 3.ps3</path>
+		<name>The Sims 3</name>
+		<desc>The Sims 3 is a game of management and simulation of human life on Playstation 3. The character, immersed in a living neighbourhood, must interact with other Sims via a new and more advanced personality system. Absolutely everything in the environment can be personalised as much as you like. It's up to the player to create the house of their dreams and give their Sims the life they want.</desc>
+		<thumbnail>./images/The Sims 3-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<developer>Maxis Software</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Simulation / Life</genre>
+		<family>The Sims</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064735" />
+	</game>
+	<game>
+		<path>./The Smurfs.ps3</path>
+		<name>The Smurfs</name>
+		<scrap name="ScreenScraper" date="20221207T064716" />
+	</game>
+	<game id="24768">
+		<path>./Tomb Raider.ps3</path>
+		<name>Tomb Raider</name>
+		<desc>The young archaeologist Lara Croft is traveling on the ship Endurance together with a crew to locate the prehistoric Japanese kingdom of Yamatai and the secrets of the Sun Queen Himiko and her mystical powers. Against the group's advice, Lara presses on to go to the Dragon's Triangle, a location plagued by mysterious storms. When the ship is struck by one of the storms, everyone is stranded on a seemingly desolate island. Lara's task is to bring the crew back together and find out more about the island. She has to fight off the Solarii, a cult led by a mysterious person who has taken an interest in Lara's friend Samantha Nishimura.nnnnTomb Raider is the ninth game in the long-running series, serving as a complete reboot of the franchise and a prequel to it. Like the predecessors, it is an action-adventure game starring Lara Croft. Compared to previous entries, the gameplay has a number of differences.</desc>
+		<rating>0.85</rating>
+		<releasedate>20130305T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Crystal Dynamics</publisher>
+		<genre>Action / Adventure</genre>
+		<family>Tomb Raider</family>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064735" />
+	</game>
+	<game>
+		<path>./TRANSFORMERS.ps3</path>
+		<name>TRANSFORMERS</name>
+		<scrap name="ScreenScraper" date="20221207T064718" />
+	</game>
+	<game id="24733">
+		<path>./UNCHARTED 2 AMONG THIEVES.ps3</path>
+		<name>Uncharted 2 : Among Thieves</name>
+		<desc>Uncharted 2: Among Thieves is the story of Nathan Drake, a fortune-hunter with a shady reputation and an even shadier past who is lured back into the treacherous world of thieves and mercenary treasure-seekers. The tenth game by premier PlayStation 3 developer Naughty Dog, Uncharted 2: Among Thieves allows players to take control of Drake and embark on a journey that will push him to his physical, emotional and intellectual limits to discover the real truth behind the lost fleet of Marco Polo and the legendary Himalayan valley of Shambhala</desc>
+		<image>./images/UNCHARTED 2 AMONG THIEVES-image.jpg</image>
+		<thumbnail>./images/UNCHARTED 2 AMONG THIEVES-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20091013T000000</releasedate>
+		<developer>Naughty Dog</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Adventure</genre>
+		<family>Uncharted</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064735" />
+	</game>
+	<game id="24663">
+		<path>./Watch Dogs.ps3</path>
+		<name>Watch Dogs</name>
+		<desc>The storyline of Watch Dogs game is built around the concept of information warfare, data being interconnected, and the world's increasing use of technology?questioning who exactly runs the computers they depend on. The game is set in an alternate reality version of Chicago, Illinois, which is one of many cities to feature a supercomputer known as a "CtOS" (Central Operating System). The system controls almost every piece of technology in the city, and contains information on all of the city's residents and activities which can be used for various purposes. In the game's universe, the Northeast blackout of 2003 was found to be caused by a hacker, prompting the development of CtOS. The game will follow a man named Aiden Pearce, a highly skilled hacker described as a person who uses both "fists and wits." The gameplay demo shown at E3 2012 depicted Aiden's attempt to assassinate a media mogul named Joseph DeMarco, who had been wrongly acquitted on charges of murder. In a demonstration shown at E3 2013, Pearce helps a fellow hacker named T-Bone escape after he is discovered attempting to steal a motherboard.</desc>
+		<image>./images/Watch Dogs-image.png</image>
+		<thumbnail>./images/Watch Dogs-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20140626T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action</genre>
+		<family>Watch Dogs</family>
+		<players>8</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064735" />
+	</game>
+	<game id="200875">
+		<path>./WWE 13.ps3</path>
+		<name>WWE '13</name>
+		<genre>Fight</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221207T064735" />
+	</game>
+	<game>
+		<path>./Yugioh 5DS Decade Of Duels Plus.ps3</path>
+		<name>Yugioh 5DS Decade Of Duels Plus</name>
+		<scrap name="ScreenScraper" date="20221207T064727" />
+	</game>
 </gameList>
