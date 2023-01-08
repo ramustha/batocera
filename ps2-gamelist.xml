@@ -5574,4 +5574,185 @@ There are three distinct ways to play, one of which the object is to hunt and ki
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20221207T064151" />
 	</game>
+	<game id="22159">
+		<path>./Driver - Parallel Lines (USA).iso</path>
+		<name>Driver : Parallel Lines</name>
+		<desc>Driver: Parallel Lines is the fourth game in the Driver series, following the story of TK. In 1978, TK (who was then an 18-year-old driver-for-hire who had just graduated from high school) was sentenced to 28 years in prison for a crime he did not commit, and is released from prison in 2006. Now, with his driving skills, he seeks revenge against the police department for having to serve time for something someone else should've gone to prison for!
+
+Unlike Driv3r, Driver: Parallel Lines mostly takes place behind the wheel, returning back to the formula that made the first game a classic. The game still has a GTA-style open-ended design, though, and you can still exit your vehicle for some on-foot action. However, there's no reason to exit your vehicle unless it's damaged and you can no longer drive it, as almost all of the game's missions involve cop car chases. If that's the case, then you can either go to the repair shop to repair your vehicle, or just steal someone else's vehicle! Until then, you can punch the cops with your fists and steal their weapons when they're dead, so that you can use them for future on-foot combat.</desc>
+		<image>./images/Driver - Parallel Lines (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20060314T000000</releasedate>
+		<developer>Reflections</developer>
+		<publisher>Atari SA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230108T111437" />
+	</game>
+	<game id="22249">
+		<path>./Dynasty Warriors 6.iso</path>
+		<name>Dynasty Warriors 6</name>
+		<desc>Veteran publisher Koei draws more inspiration from Chinese literature's Romance of the Three Kingdoms for its sixth installment of Dynasty Warriors. As with previous titles in the action-oriented series, players choose from a variety of stout heroes and noble warriors before engaging in historically inspired battles featuring hundreds of combatants. While the series has been criticized for its lack of significant changes from release to release, Dynasty Warriors 6 adds a number of enhancements to the well-traveled franchise. Though it lacks the graphical flourishes of the Xbox 360 and PS3 versions, the PS2 edition of Dynasty Warriors 6 offers ten new scenarios, five additional stages, and host of new weapons. The emphasis is still on defeating throngs of enemies with swords, giant hammers, polearms, and other weapons, with lengthy combo chains possible by varying attacks.
+
+As players become more skilled in combat, they can choose from a variety of skills to customize their heroes as they see fit. A new "renbu" system allows characters to earn immediate combat bonuses through dexterous play, but these bonuses are lost once the battle is over. Characters also have the ability to swim across water and scale walls to perform surprise attacks on enemy camps. Another change is the omission of bodyguards, so players must go it alone instead of having a personal entourage. In their place is a faithful steed that can be called upon in a pinch to make hasty retreats or to charge at full gallop into groups. The character's horse will also level up along with characters, improving attributes in speed or power in combat. Featured game types include Musou Mode, a character-specific campaign, Challenge Mode, offering specific goals to complete, and Free, which involves building a character's stats on any unlocked battlefield. Players can also team-up with a friend via split-screen display.</desc>
+		<image>./images/Dynasty Warriors 6-image.png</image>
+		<rating>0.85</rating>
+		<releasedate>20081118T000000</releasedate>
+		<developer>OMEGA Force</developer>
+		<publisher>Koei</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Dynasty Warriors</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230108T111442" />
+	</game>
+	<game id="21915">
+		<path>./Grand Theft Auto - Vice City Stories (USA).iso</path>
+		<name>Grand Theft Auto : Vice City Stories</name>
+		<desc>Vice City Stories is a prequel to Grand Theft Auto: Vice City (2 years earlier) and it is the sequel to Grand Theft Auto: Liberty City Stories. Set in 1984, players take on the role of Vic Vance, an army soldier who loves his country, family, and himself. One bad decision turns everything around and he is kicked onto the streets of a tough city. He has to build an empire to survive, or be left to die. Together with his brother Lance, a drug addict, the siblings try to take over Vice City.
+
+Just like other GTA titles, gameplay consists of third-person shooting and driving sequences in an open environment. You will meet new enemies and gangs, and old foes. The missions require you to kill with a selection of weapons, steal vehicles such as a car, a boat, or a plane, rob to make it big, or just to have fun.</desc>
+		<image>./images/Grand Theft Auto - Vice City Stories (USA)-image.png</image>
+		<rating>0.75</rating>
+		<releasedate>20070305T000000</releasedate>
+		<developer>Take 2 Interactive</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Race, Driving</genre>
+		<family>Grand Theft Auto</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230108T111447" />
+	</game>
+	<game id="23480">
+		<path>./NFL Street .iso</path>
+		<name>NFL Street</name>
+		<desc>NFL STREET is an arcade style football game that is based on pick up football. There are no helmets or stadiums in NFL STREET. NFL STREET is 7 on 7 with players playing both offense and defense. The games are played in parks, on the street and in the dirt lots.
+
+In NFL STREET you should strive not just to win but to look good doing it. You achieve this by performing style moves during a play. These might be a taunting run, a spectacular spin, or a crazy pass.
+
+NFL Street has Quick Game, Pickup Game, NFL Challenge and Online game modes.</desc>
+		<image>./images/NFL Street -image.png</image>
+		<rating>0.9</rating>
+		<releasedate>20040113T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230108T111452" />
+	</game>
+	<game id="23888">
+		<path>./NFL Street 2.iso</path>
+		<name>NFL Street 2</name>
+		<desc>NFL Street 2 is the second game in EA's arcade football series. Players try to become the world's best urban footballer by conquering other teams using several gravity-defying tricks like up-the-wall passes, off-the-wall catches, and highlight-reel wall jukes.
+
+Like the other games in the Street franchise, the game is played with a small amount of players and a focus on arcade gameplay. Unlike the first game, the walls can now be used for run-up passes and receptions, or bonuses by aiming for posters and hotspots.</desc>
+		<image>./images/NFL Street 2-image.png</image>
+		<releasedate>20041222T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>EA Sports</publisher>
+		<genre>Sports</genre>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230108T111457" />
+	</game>
+	<game id="23076">
+		<path>./Rumble Racing.iso</path>
+		<name>Rumble Racing</name>
+		<desc>Described by a number of people as 'Gran Turismo meets SSX', Rumble Racing is an arcade-style racing game that includes features like various stunts, power-ups, speed boosts, and track short cuts. 
+
+There is no story behind it. You're merely racing in one of three dozen cars (many based on real-life designs) in fifteen different tracks, ranging from airports to old mines to specially designed stunt arenas. Taking part in either races, stunt shows, or in one-on-one duels, you'll need to learn not only how to drive, but also when to use power-ups and where the best short cuts are. Power-ups include oil slicks to bombs to a tornado that cleans the course ahead of you. Through the Championship mode, you'll be able to unlock all the vehicles and tracks.</desc>
+		<image>./images/Rumble Racing-image.jpg</image>
+		<rating>0.95</rating>
+		<releasedate>20010423T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230108T111502" />
+	</game>
+	<game id="22456">
+		<path>./Samurai Warriors 2 (USA).iso</path>
+		<name>Samurai Warriors 2</name>
+		<desc>Samurai Warriors 2 is a game made by Omega Force and published by KOEI, the same developer and publisher of the famous Shin Sangoku Musou (Dynasty Warriors) series. As with the original Samurai Warriors, Samurai Warriors 2 is based on the Japanese Sengoku or "Warring States" period, a time of social upheaval, political intrigue, and nearly constant military conflict in Japan that lasted roughly from the middle of the 15th century to the beginning of the 17th century.
+
+The game is a third person hack-and-slash. You have 26 playable characters to choose from. Once you choose your character you are tossed into massive real-time battles, with the object being to help claim victory for your army by defeating key enemy officers, or simply slaying a large amount of enemy troops, which will boost the morale of your army, and turn the tides of the battle.</desc>
+		<image>./images/Samurai Warriors 2 (USA)-image.png</image>
+		<rating>0.9</rating>
+		<developer>Koei</developer>
+		<publisher>Koei</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Samurai Warriors</family>
+		<players>2-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230108T111508" />
+	</game>
+	<game id="23314">
+		<path>./Samurai Warriors 2 - Xtreme Legends (USA).iso</path>
+		<name>Samurai Warriors 2 : Xtreme Legends</name>
+		<desc>Samurai Warriors 2 takes you back in time, to an era where honor and swordplay defined everything. Long before the twilight of the samurai, Japan was ruled by powerful leaders hungry to unite the land under one banner. The samurai and ninja who defended their land and honor became legends. If you prove yourself worthy and honorable, you can join them.</desc>
+		<image>./images/Samurai Warriors 2 - Xtreme Legends (USA)-image.png</image>
+		<releasedate>20080302T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Koei</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Samurai Warriors</family>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230108T111513" />
+	</game>
+	<game id="23328">
+		<path>./Warriors Orochi (USA).iso</path>
+		<name>Warriors Orochi</name>
+		<desc>Warriors Orochi is a crossover of two historical action epics, Dynasty Warriors and Samurai Warriors. In the game, Orochi the king of demons has merged together in time the Sengoku and Sangokushi periods in an attempt at world domination. The heroes of both Dynasty and Samurai Warriors must now fight together to defeat Orochi and his demon followers.
+
+In addition to generals from both franchises, totalling over 70 playable characters in all, Warriors Orochi adds a new feature to gameplay: team battles with up to three team members. You can switch off between the three members as you take on the hundreds of enemies that line the fields and castles of the strange world created by the Orochi.</desc>
+		<image>./images/Warriors Orochi (USA)-image.png</image>
+		<rating>0.85</rating>
+		<releasedate>20070918T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Koei</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Warriors Orochi</family>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20230108T111519" />
+	</game>
+	<game id="22564">
+		<path>./Warriors Orochi 2 (Europe).iso</path>
+		<name>Warriors Orochi 2</name>
+		<desc>Warriors Orochi 2 is a 2008 video game developed by Koei (now Tecmo Koei) and Omega Force for the PlayStation 2. It is the sequel to Warriors Orochi, a crossover video game of the Dynasty Warriors and Samurai Warriors series. The game was released on September 23 in North America and September 19 in Europe. A version for the Xbox 360 was released on September 4, 2008 in Japan, and alongside the PS2 releases in North America and Europe. A PlayStation Portable version has been released in Japan, North America and Europe.</desc>
+		<image>./images/Warriors Orochi 2 (Europe)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>20080902T000000</releasedate>
+		<developer>OMEGA Force</developer>
+		<publisher>Koei</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Warriors Orochi</family>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<scrap name="ScreenScraper" date="20230108T111524" />
+	</game>
+	<game id="128846">
+		<path>./Bully.iso</path>
+		<name>Bully</name>
+		<desc>Bully is a subtle sandbox game set in a school environment. The player takes control of teenage rebel James "Jimmy" Hopkins, who from the opening cutscene is revealed to be a difficult student with a disruptive background. The game concerns the events that follow Jimmy being dropped off at Bullworth Academy, a fictional New England boarding school. The player is free to explore the school campus in the beginning and, later on in the game, the town, or to complete the main missions. The game makes extensive use of minigames. Some are used to earn money, others to improve Jimmy's abilities or get new items.
+
+School classes themselves are done in the form of minigames, broken into five levels of increasing difficulty. Each completed class brings a benefit to gameplay. English, as an example, is a word scramble minigame, and as Jimmy does well in this minigame, he learns various language-skills, such as the ability to apologize to police for small crimes. Chemistry also an example, is a button pushing minigame, and if Jimmy does well, he gains the ability to create firecrackers, stink bombs, and other items at his chemistry set in his room at the dorm.</desc>
+		<image>./images/Bully-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>20061017T000000</releasedate>
+		<developer>Rockstar Games</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230108T111603" />
+	</game>
 </gameList>
